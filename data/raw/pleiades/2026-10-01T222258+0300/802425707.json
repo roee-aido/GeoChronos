@@ -1,0 +1,303 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1709591,
+                    45.053766
+                ]
+            },
+            "type": "Feature",
+            "id": "grotte-de-lascaux",
+            "properties": {
+                "snippet": "Cave; 10000 BC - 3300 BC",
+                "link": "https://pleiades.stoa.org/places/802425707/grotte-de-lascaux",
+                "description": "Point based on an OpenStreetMap node representing Lascaux Cave.",
+                "location_precision": "precise",
+                "title": "OSM location of Lascaux Cave"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "neolithic-eastern-med",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neolithic-eastern-med",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/3182744761",
+                    "citationDetail": "Node 3182744761",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:node=3182744761",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "grotte-de-lascaux",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cave"
+            ],
+            "end": -3300,
+            "title": "OSM location of Lascaux Cave",
+            "provenance": "OpenStreetMap (Node 3182744761, version 12, osm:changeset=153472602, 2024-07-02T19:06:26Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -10000,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cave"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "cave"
+            ],
+            "description": "Point based on an OpenStreetMap node representing Lascaux Cave.",
+            "created": "2022-07-26T17:26:38Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1709591,
+                    45.053766
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/802425707/grotte-de-lascaux",
+            "creators": [
+                {
+                    "username": "zrosalinsky",
+                    "homepage": null,
+                    "name": "Zachary Rosalinsky",
+                    "uri": "https://pleiades.stoa.org/author/zrosalinsky"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modifiedBy": "jbecker",
+                    "modified": "2026-05-25T00:30:08Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2022-07-26T17:42:05Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "zrosalinsky",
+                    "modified": "2022-07-26T17:27:29Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "zrosalinsky",
+                    "modified": "2022-07-26T17:27:20Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "zrosalinsky",
+                    "modified": "2022-07-26T17:26:38Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "zrosalinsky",
+                    "modified": "2022-07-26T17:26:38Z"
+                }
+            ]
+        }
+    ],
+    "connections": [],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/759034186",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Taralon 1962",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SFS5X9C8",
+            "formattedCitation": "<div class=\"csl-entry\">Taralon, Jean. <i>La grotte de Lascaux</i>. Paris: Caisse nationale des monuments historiques, 1962. http://www.worldcat.org/oclc/759034186.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Lascaux",
+            "citationDetail": "Lascaux",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://whc.unesco.org/en/list/",
+            "citationDetail": "85: Prehistoric Sites and Decorated Caves of the Vézère Valley",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. https://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://archeologie.culture.gouv.fr/lascaux/en",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Lascaux (Musée d'archéologie nationale)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MJP7EYUE",
+            "formattedCitation": "<div class=\"csl-entry\">Musée d’archéologie nationale. “Lascaux,” 2022. https://archeologie.culture.gouv.fr/lascaux/en.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Aujoulat 2005",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WUHVCCL9",
+            "formattedCitation": "<div class=\"csl-entry\">Aujoulat, Norbert. <i>Lascaux: movement, space, and time</i>. New York: H.N. Abrams, 2005.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q172125",
+            "citationDetail": "Lascaux (Q172125)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [],
+    "id": "802425707",
+    "subject": [
+        "UWHS"
+    ],
+    "title": "Lascaux Cave",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cave"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "Cave network near Montignac, France with over 600 Upper Paleolithic wall paintings.",
+    "reprPoint": [
+        1.1709591,
+        45.053766
+    ],
+    "placeTypes": [
+        "cave"
+    ],
+    "bbox": [
+        1.1709591,
+        45.053766,
+        1.1709591,
+        45.053766
+    ],
+    "connectsWith": [],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2022-07-26T17:25:23Z",
+    "uri": "https://pleiades.stoa.org/places/802425707",
+    "creators": [
+        {
+            "username": "zrosalinsky",
+            "homepage": null,
+            "name": "Zachary Rosalinsky",
+            "uri": "https://pleiades.stoa.org/author/zrosalinsky"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "wikidata Q172125",
+            "modifiedBy": "jbecker",
+            "modified": "2026-05-25T00:30:52Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2022-07-26T17:42:05Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "thomase",
+            "modified": "2022-07-26T17:41:54Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "thomase",
+            "modified": "2022-07-26T17:37:06Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "thomase",
+            "modified": "2022-07-26T17:36:21Z"
+        },
+        {
+            "comment": "additional references",
+            "modifiedBy": "thomase",
+            "modified": "2022-07-26T17:35:52Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "zrosalinsky",
+            "modified": "2022-07-26T17:27:29Z"
+        },
+        {
+            "comment": "Initial revision",
+            "modifiedBy": "zrosalinsky",
+            "modified": "2022-07-26T17:25:25Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "zrosalinsky",
+            "modified": "2022-07-26T17:25:23Z"
+        }
+    ]
+}

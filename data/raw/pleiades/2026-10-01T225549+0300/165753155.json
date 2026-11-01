@@ -1,0 +1,272 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4161408,
+                    44.3881219
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location",
+            "properties": {
+                "snippet": "Cave, ; AD 1700 - AD 2100",
+                "link": "https://pleiades.stoa.org/places/165753155/osm-location",
+                "description": "Representative location based on OpenStreetMap.",
+                "location_precision": "precise",
+                "title": "OSM location of Chauvet Cave"
+            }
+        }
+    ],
+    "contributors": [],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2199517628",
+                    "citationDetail": "Node 2199517628",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:node=2199517628",
+                    "otherIdentifier": " ",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cave",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "end": 2100,
+            "title": "OSM location of Chauvet Cave",
+            "provenance": "OpenStreetMap (Node 2199517628, version 21, osm:changeset=138540695, 2023-07-15T11:19:20Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cave",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "cave",
+                ""
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "created": "2015-01-22T18:50:33Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4161408,
+                    44.3881219
+                ]
+            },
+            "locationType": [
+                "representative",
+                ""
+            ],
+            "uri": "https://pleiades.stoa.org/places/165753155/osm-location",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-07-14T14:54:58Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-07-26T00:39:03Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "rmhorne",
+                    "modified": "2016-07-26T00:30:28Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-02-06T04:04:55Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-02-06T04:04:33Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-02-06T03:58:22Z"
+                },
+                {
+                    "comment": "added location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-01-22T18:52:35Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-01-22T18:50:37Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-01-22T18:50:35Z"
+                }
+            ]
+        }
+    ],
+    "connections": [],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Chauvet_Cave",
+            "citationDetail": "Chauvet Cave",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Chauvet Cave.",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://whc.unesco.org/en/list/1426",
+            "citationDetail": "1426: Decorated Cave of Pont d’Arc, known as Grotte Chauvet-Pont d’Arc, Ardèche",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q374096",
+            "citationDetail": "Chauvet Cave (Q374096)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [],
+    "id": "165753155",
+    "subject": [
+        "cave, cavern",
+        "UWHS"
+    ],
+    "title": "Chauvet Cave",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cave"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "The Chauvet-Pont-d'Arc Cave in southern France contains the earliest known and best preserved figurative cave paintings in the world, dating from the Upper Paleolithic. The cave was discovered on December 18, 1994, and was added to the UNESCO World Heritage List on June 22, 2014.",
+    "reprPoint": [
+        4.4161408,
+        44.3881219
+    ],
+    "placeTypes": [
+        "cave"
+    ],
+    "bbox": [
+        4.4161408,
+        44.3881219,
+        4.4161408,
+        44.3881219
+    ],
+    "connectsWith": [],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2015-01-22T18:49:17Z",
+    "uri": "https://pleiades.stoa.org/places/165753155",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "wikidata Chauvet Cave (Q374096)",
+            "modifiedBy": "jbecker",
+            "modified": "2024-10-16T14:05:14Z"
+        },
+        {
+            "comment": "uwhs cleanup",
+            "modifiedBy": "jbecker",
+            "modified": "2020-07-10T15:01:52Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2016-07-26T00:38:40Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "jbecker",
+            "modified": "2016-07-26T00:38:24Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "jbecker",
+            "modified": "2016-02-06T03:55:35Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2015-01-22T18:54:55Z"
+        },
+        {
+            "comment": "created place",
+            "modifiedBy": "jbecker",
+            "modified": "2015-01-22T18:49:25Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "jbecker",
+            "modified": "2015-01-22T18:49:18Z"
+        }
+    ]
+}

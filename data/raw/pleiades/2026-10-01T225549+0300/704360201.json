@@ -1,0 +1,542 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        31.135378,
+                        29.9801933
+                    ],
+                    [
+                        31.1353849,
+                        29.9781326
+                    ],
+                    [
+                        31.1330532,
+                        29.9781269
+                    ],
+                    [
+                        31.1330464,
+                        29.9801874
+                    ],
+                    [
+                        31.1342024,
+                        29.9801903
+                    ],
+                    [
+                        31.135378,
+                        29.9801933
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-of-great-pyramid-of-giza",
+            "properties": {
+                "snippet": "Pyramid; 2670 BC - 2168 BC",
+                "link": "https://pleiades.stoa.org/places/704360201/osm-location-of-great-pyramid-of-giza",
+                "description": "Representative location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location of Great Pyramid of Giza"
+            }
+        }
+    ],
+    "contributors": [],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "old-kingdom-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/old-kingdom-egypt",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/4420397",
+                    "citationDetail": "Way 4420397",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:way=4420397",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-of-great-pyramid-of-giza",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/pyramid"
+            ],
+            "end": -2168,
+            "title": "OSM location of Great Pyramid of Giza",
+            "provenance": "OpenStreetMap (Way 4420397, version 81, osm:changeset=142628161, 2023-10-15T17:32:16Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -2670,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/pyramid"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "pyramid"
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "created": "2023-11-20T00:52:30Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        31.135378,
+                        29.9801933
+                    ],
+                    [
+                        31.1353849,
+                        29.9781326
+                    ],
+                    [
+                        31.1330532,
+                        29.9781269
+                    ],
+                    [
+                        31.1330464,
+                        29.9801874
+                    ],
+                    [
+                        31.1342024,
+                        29.9801903
+                    ],
+                    [
+                        31.135378,
+                        29.9801933
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/704360201/osm-location-of-great-pyramid-of-giza",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2023-11-20T12:13:30Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-11-20T00:53:01Z"
+                },
+                {
+                    "comment": "supersedes previously published location.",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-11-20T00:52:56Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-11-20T00:52:30Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-11-20T00:52:30Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": null,
+            "description": "",
+            "contributors": [],
+            "created": "2018-01-11T23:38:32Z",
+            "associationCertainty": "certain",
+            "title": "Giza",
+            "start": null,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/704360201/9127305450",
+            "connectionType": "at",
+            "id": "9127305450",
+            "attestations": [],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-11T23:38:32Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-11T23:38:32Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-11T23:38:32Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/442962448",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Stamp 2002",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DKIBD57U",
+            "formattedCitation": "<div class=\"csl-entry\">Stamp, Jonathan. <i>Pyramid: Beyond Imagination: Inside the Great Pyramid of Giza</i>. London: BBC, 2002.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Siliotti and Hawass 2004",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MH2Q37KD",
+            "formattedCitation": "<div class=\"csl-entry\">Siliotti, Alberto, and Zahi A Hawass. <i>Guide to the pyramids of Egypt</i>. New York: Barnes &amp; Noble Books, 2004.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://dx.doi.org/10.1017/CBO9781107325227",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Flinders Petrie 1883",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/I9USGD7E",
+            "formattedCitation": "<div class=\"csl-entry\">Petrie, W. M. Flinders. <i>The Pyramids and Temples of Gizeh</i>, 2013. http://dx.doi.org/10.1017/CBO9781107325227.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Der Manuelian 2017",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DCD7EL64",
+            "formattedCitation": "<div class=\"csl-entry\">Der Manuelian, Peter. <i>Digital Giza: Visualizing the Pyramids</i>, 2017.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Lehner 2008",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LHZWRVDQ",
+            "formattedCitation": "<div class=\"csl-entry\">Lehner, Mark. <i>The Complete Pyramids</i>. London: Thames Hudson, 2008.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.jstor.org/stable/43076306",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Krauss 1997, 1-14",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IQT59T4B",
+            "formattedCitation": "<div class=\"csl-entry\">Krauss, Rolf. “Chronologie und Pyramidenbau in der 4. Dynastie.” <i>Orientalia</i> 66, no. 1 (1997): 1–14. http://www.jstor.org/stable/43076306.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+            "citationDetail": "Great Pyramid of Giza",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.geonames.org/356475/the-great-pyramid-at-giza.html",
+            "citationDetail": "356475: The Great Pyramid at Giza",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "GeoNames",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q37200",
+            "citationDetail": "Q37200: Great Pyramid of Giza",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Hassan 1960",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/5RXMS3VY",
+            "formattedCitation": "<div class=\"csl-entry\">Hassan, Selim, Ägypten, and Maṣlaḥat al-Āt̲ār. <i>The Great Pyramid of Khufu and Its Mortuary Chapel: With Names and Titles of Vols. I-X of the Excavations at Giza ; Figures 1-18 - Plates I-XVIII</i>. Kairo: General Organisation for Government Printing Offices, 1960.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://vocab.getty.edu/page/tgn/7536588",
+            "citationDetail": "7536588: Great Pyramid",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "TGN",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZLJQ5AZJ",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Getty Thesaurus of Geographic Names® Online</i>, n.d. https://www.getty.edu/research/tools/vocabularies/tgn/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://arachne.dainst.org/entity/6711",
+            "citationDetail": "Cheops-Pyramide Gizeh, (Letopolis), Al-Dschiza (Gouvernement)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Arachne",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "The Great Pyramid at Giza",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.geonames.org/356475/the-great-pyramid-at-giza.html",
+                    "citationDetail": "356475: The Great Pyramid at Giza",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "GeoNames",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "name.2018-01-11.8724181343",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2018-01-12T02:25:01Z",
+            "uri": "https://pleiades.stoa.org/places/704360201/name.2018-01-11.8724181343",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "ref. update",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-08-19T20:50:36Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-18T20:47:23Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-14T14:51:34Z"
+                },
+                {
+                    "comment": "added name resource based on GeoNames 356475",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-12T02:25:02Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-12T02:25:01Z"
+                }
+            ]
+        }
+    ],
+    "id": "704360201",
+    "subject": [
+        "extant remains"
+    ],
+    "title": "The Great Pyramid",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/pyramid"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "The Great Pyramid of Khufu was built ca. 2580–2560 B.C. during the 4th dynasty of ancient Egypt. It initially stood to a height of 146.5 meters (481 feet).",
+    "reprPoint": [
+        31.134215651633887,
+        29.979160035051517
+    ],
+    "placeTypes": [
+        "pyramid"
+    ],
+    "bbox": [
+        31.1330464,
+        29.9781269,
+        31.1353849,
+        29.9801933
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/442962448"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2018-01-11T23:38:31Z",
+    "uri": "https://pleiades.stoa.org/places/704360201",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "add Arachne Cheops-Pyramide Gizeh, (Letopolis), Al-Dschiza (Gouvernement)",
+            "modifiedBy": "jbecker",
+            "modified": "2023-11-20T00:51:54Z"
+        },
+        {
+            "comment": "TGN 7536588: Great Pyramid",
+            "modifiedBy": "jbecker",
+            "modified": "2021-12-18T13:51:13Z"
+        },
+        {
+            "comment": "reference updates",
+            "modifiedBy": "jbecker",
+            "modified": "2020-08-19T20:49:58Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2018-01-18T20:47:22Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-14T14:51:33Z"
+        },
+        {
+            "comment": "summary",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-12T02:27:17Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-12T02:24:23Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-12T02:21:39Z"
+        },
+        {
+            "comment": "added references from Zotero library",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-12T02:17:29Z"
+        },
+        {
+            "comment": "title",
+            "modifiedBy": "thomase",
+            "modified": "2018-01-11T23:38:58Z"
+        },
+        {
+            "comment": "Migrated from location",
+            "modifiedBy": "thomase",
+            "modified": "2018-01-11T23:38:34Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "thomase",
+            "modified": "2018-01-11T23:38:31Z"
+        }
+    ]
+}

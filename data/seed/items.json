@@ -1,0 +1,4014 @@
+{
+ "_comment": "Curated Items. Authoring conventions (converted by scripts/build_db.py): years are HISTORICAL (negative = BCE, no year 0); 'from_unc'/'to_unc' = +/- years for circa values; 'from_ka'/'to_ka' = thousands of years before 1950; 'date'/'date_to' = ISO-like historical dates (e.g. '-0196-03-27'). 'ev' tokens: 'wp:<English Wikipedia title>' (revision id resolved from data/seed/wikipedia_evidence.json), 'wd' (Wikidata item), or a source_id. An item-level 'ev' is the default evidence for its facets. Coordinates, countries, admin areas and Wikidata dates are NOT authored here: they are imported from the raw Wikidata snapshot. 'wd_review' annotates imported Wikidata claims (status/note) without deleting them.",
+ "items": [
+  {
+   "id": "item:great-pyramid-of-giza",
+   "name": "Great Pyramid of Giza",
+   "ev": [
+    "wp:Great Pyramid of Giza"
+   ],
+   "description": "Largest of the Giza pyramids; tomb built for the Fourth Dynasty king Khufu.",
+   "names": [
+    {
+     "name": "Pyramid of Khufu",
+     "lang": "en",
+     "type": "alternative"
+    },
+    {
+     "name": "Pyramid of Cheops",
+     "lang": "en",
+     "type": "historical"
+    },
+    {
+     "name": "הפירמידה הגדולה של גיזה",
+     "lang": "he",
+     "type": "alternative"
+    }
+   ],
+   "pov": {
+    "item_type": [
+     "concept:type:monument",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:smooth-sided-pyramid"
+    ],
+    "function": [
+     "concept:function:tomb"
+    ],
+    "culture": [
+     "culture:ancient-egypt"
+    ],
+    "period": [
+     "period:egypt-old-kingdom"
+    ],
+    "dynasty": [
+     "dynasty:egypt-4"
+    ],
+    "religion": [
+     "religion:ancient-egyptian"
+    ],
+    "theme": [
+     "concept:theme:seven-wonders"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:locality:giza-necropolis"
+    ]
+   },
+   "links": [
+    {
+     "pred": "commissioned_by",
+     "obj": "person:khufu"
+    }
+   ],
+   "time": [
+    {
+     "role": "construction",
+     "from": -2700,
+     "to": -2500,
+     "qualifier": "between",
+     "precision": "century",
+     "label": "between 2700 and 2500 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "group": "great-pyramid:construction",
+     "note": "Range of 'the majority of recent chronological estimates' for Khufu and his pyramid (Wikipedia)."
+    },
+    {
+     "role": "construction",
+     "from": -2871,
+     "to": -2604,
+     "precision": "year",
+     "method": "radiocarbon",
+     "label": "2871–2604 BC (calibrated, mortar charcoal)",
+     "conf": "medium",
+     "status": "alternative",
+     "group": "great-pyramid:construction",
+     "note": "Radiocarbon dates on organic inclusions in mortar; charcoal can carry an old-wood offset."
+    },
+    {
+     "role": "construction",
+     "from": -2620,
+     "to": -2484,
+     "precision": "year",
+     "method": "radiocarbon",
+     "label": "completion 2620–2484 BC (reanalysis)",
+     "conf": "medium",
+     "status": "alternative",
+     "group": "great-pyramid:construction",
+     "note": "Reanalysis based on the younger samples, as reported by Wikipedia. The underlying study (Bonani et al. 2001, Radiocarbon) was located via OpenAlex but its abstract states no values: not verified at source."
+    },
+    {
+     "role": "construction",
+     "from": -2589,
+     "to": -2566,
+     "qualifier": "circa",
+     "precision": "year",
+     "ev": [
+      "lit:egymonuments-great-pyramid"
+     ],
+     "label": "the tomb of King Khufu (c. 2589–2566 BC); an estimated 10 to 20 years to build",
+     "conf": "medium",
+     "status": "alternative",
+     "group": "great-pyramid:construction",
+     "note": "Official page gives Khufu's reign; construction is placed within that reign. Institutional statement following one conventional chronology."
+    }
+   ],
+   "attrs": [
+    {
+     "key": "original_height_m",
+     "value": 146.5,
+     "ev": [
+      "lit:egymonuments-great-pyramid"
+     ],
+     "conf": "medium",
+     "note": "'original height of 146.5 meters' (official page)."
+    },
+    {
+     "key": "construction_duration_estimate",
+     "value": "10–20 years",
+     "ev": [
+      "lit:egymonuments-great-pyramid"
+     ],
+     "conf": "low",
+     "note": "'an estimated 10 to 20 years to build' (official page)."
+    }
+   ]
+  },
+  {
+   "id": "item:pyramid-of-djoser",
+   "name": "Pyramid of Djoser",
+   "ev": [
+    "wp:Pyramid of Djoser"
+   ],
+   "description": "Step pyramid at Saqqara, the first Egyptian pyramid, built for the burial of Djoser.",
+   "names": [
+    {
+     "name": "Step Pyramid",
+     "lang": "en",
+     "type": "alternative"
+    }
+   ],
+   "pov": {
+    "item_type": [
+     "concept:type:monument",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:step-pyramid"
+    ],
+    "function": [
+     "concept:function:tomb"
+    ],
+    "culture": [
+     "culture:ancient-egypt"
+    ],
+    "period": [
+     "period:egypt-old-kingdom"
+    ],
+    "dynasty": [
+     "dynasty:egypt-3"
+    ],
+    "religion": [
+     "religion:ancient-egyptian"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:lower-egypt"
+    ]
+   },
+   "links": [
+    {
+     "pred": "commissioned_by",
+     "obj": "person:djoser"
+    },
+    {
+     "pred": "burial_of",
+     "obj": "person:djoser"
+    }
+   ],
+   "time": [
+    {
+     "role": "construction",
+     "from": -2700,
+     "to": -2601,
+     "precision": "century",
+     "label": "27th century BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Built during the Third Dynasty, in the reign of Djoser (c. 2670–2650 BC per Wikipedia)."
+    }
+   ]
+  },
+  {
+   "id": "item:great-sphinx-of-giza",
+   "name": "Great Sphinx of Giza",
+   "ev": [
+    "wp:Great Sphinx of Giza"
+   ],
+   "description": "Colossal limestone sphinx on the Giza plateau; the king it represents and who commissioned it are disputed.",
+   "pov": {
+    "item_type": [
+     "concept:type:monument"
+    ],
+    "form": [
+     "concept:form:colossal-statue"
+    ],
+    "culture": [
+     "culture:ancient-egypt"
+    ],
+    "period": [
+     "period:egypt-old-kingdom"
+    ],
+    "dynasty": [
+     "dynasty:egypt-4"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:locality:giza-necropolis"
+    ]
+   },
+   "links": [
+    {
+     "pred": "attributed_to",
+     "obj": "person:khafre",
+     "conf": "medium",
+     "status": "disputed",
+     "group": "sphinx:attribution",
+     "ev": [
+      "wp:Great Sphinx of Giza",
+      "lit:lehner-1991#abstract"
+     ],
+     "note": "Archaeological evidence points to Khufu OR Khafre; no scholarly consensus (Wikipedia). Lehner (1991, abstract) attributes the quarrying of the Sphinx site to builders under Khafre (ca. 2,500 B.C.). Extra evidence for one side does not close the dispute."
+    },
+    {
+     "pred": "attributed_to",
+     "obj": "person:khufu",
+     "conf": "medium",
+     "status": "disputed",
+     "group": "sphinx:attribution",
+     "note": "Alternative attribution; Wikipedia gives Khufu (c. 2590–2566 BC) or Khafre (c. 2558–2532 BC)."
+    }
+   ],
+   "time": [
+    {
+     "role": "creation",
+     "from": -2600,
+     "to": -2500,
+     "qualifier": "between",
+     "precision": "century",
+     "label": "between 2600 and 2500 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "creation",
+     "from": -2500,
+     "to": -2500,
+     "qualifier": "circa",
+     "precision": "century",
+     "ev": [
+      "lit:lehner-1991#abstract"
+     ],
+     "label": "under Khafre (ca. 2,500 B.C.)",
+     "conf": "medium",
+     "status": "alternative",
+     "note": "Dating tied to the Khafre attribution."
+    }
+   ],
+   "wd_review": {
+    "P2596:Q634708": {
+     "status": "needs_verification",
+     "priority": "P3",
+     "action": "decide identity of Q634708 vs Q11768",
+     "note": "Wikidata has both 'culture of ancient Egypt' (Q634708) and 'Ancient Egypt' (Q11768); not auto-merged."
+    }
+   }
+  },
+  {
+   "id": "item:tomb-of-tutankhamun-kv62",
+   "name": "Tomb of Tutankhamun (KV62)",
+   "ev": [
+    "wp:KV62"
+   ],
+   "description": "Rock-cut tomb in the Valley of the Kings, found largely intact in 1922.",
+   "names": [
+    {
+     "name": "KV62",
+     "lang": "en",
+     "type": "abbreviation"
+    }
+   ],
+   "pov": {
+    "item_type": [
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:rock-cut-tomb"
+    ],
+    "function": [
+     "concept:function:tomb"
+    ],
+    "culture": [
+     "culture:ancient-egypt"
+    ],
+    "period": [
+     "period:egypt-new-kingdom"
+    ],
+    "dynasty": [
+     "dynasty:egypt-18"
+    ],
+    "religion": [
+     "religion:ancient-egyptian"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:locality:valley-of-the-kings"
+    ]
+   },
+   "links": [
+    {
+     "pred": "burial_of",
+     "obj": "person:tutankhamun"
+    }
+   ],
+   "time": [
+    {
+     "role": "use",
+     "from": -1323,
+     "to": -1323,
+     "qualifier": "circa",
+     "from_unc": 5,
+     "to_unc": 5,
+     "precision": "year",
+     "label": "burial c. 1323 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Derived from the end of Tutankhamun's reign (1332–1323 BC, Wikipedia); the burial date itself is inferred, not directly dated."
+    },
+    {
+     "role": "discovery",
+     "from": 1922,
+     "to": 1922,
+     "precision": "year",
+     "label": "discovered 1922 (Howard Carter)",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:karnak-temple-complex",
+   "name": "Karnak Temple Complex",
+   "ev": [
+    "wp:Karnak"
+   ],
+   "description": "Vast temple complex at Thebes, built and expanded over ~2,000 years.",
+   "pov": {
+    "item_type": [
+     "concept:type:monument",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:temple-complex"
+    ],
+    "function": [
+     "concept:function:temple"
+    ],
+    "culture": [
+     "culture:ancient-egypt"
+    ],
+    "period": [
+     "period:egypt-middle-kingdom",
+     "period:egypt-new-kingdom",
+     "period:ptolemaic-egypt"
+    ],
+    "religion": [
+     "religion:ancient-egyptian"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:locality:thebes"
+    ]
+   },
+   "time": [
+    {
+     "role": "construction",
+     "earliest_start": -1971,
+     "latest_start": -1926,
+     "earliest_end": -305,
+     "latest_end": -30,
+     "precision": "year",
+     "label": "from the reign of Senusret I (1971–1926 BCE) into the Ptolemaic Kingdom (305–30 BCE)",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Four-bound example: start known to within a reign, end known only to within a dynasty."
+    }
+   ]
+  },
+  {
+   "id": "item:abu-simbel-temples",
+   "name": "Abu Simbel temples",
+   "ev": [
+    "wp:Abu Simbel"
+   ],
+   "description": "Twin rock-cut temples of Ramesses II in Nubia, relocated in the 1960s ahead of Lake Nasser.",
+   "pov": {
+    "item_type": [
+     "concept:type:monument"
+    ],
+    "form": [
+     "concept:form:rock-cut"
+    ],
+    "function": [
+     "concept:function:temple"
+    ],
+    "culture": [
+     "culture:ancient-egypt"
+    ],
+    "period": [
+     "period:egypt-new-kingdom"
+    ],
+    "dynasty": [
+     "dynasty:egypt-19"
+    ],
+    "religion": [
+     "religion:ancient-egyptian"
+    ],
+    "theme": [
+     "concept:theme:monument-relocation"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:nubia"
+    ]
+   },
+   "links": [
+    {
+     "pred": "commissioned_by",
+     "obj": "person:ramesses-ii"
+    },
+    {
+     "pred": "depicts",
+     "obj": "event:battle-of-kadesh",
+     "note": "Sculpture in the Great Temple commemorates Ramesses II at Kadesh."
+    }
+   ],
+   "time": [
+    {
+     "role": "construction",
+     "from": -1264,
+     "to": -1244,
+     "qualifier": "circa",
+     "precision": "year",
+     "label": "c. 1264–1244 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "group": "abu-simbel:construction"
+    },
+    {
+     "role": "construction",
+     "from": -1285,
+     "to": -1265,
+     "qualifier": "circa",
+     "from_unc": 10,
+     "precision": "year",
+     "label": "completed around 1265 BC (year 24 of Ramesses II)",
+     "conf": "medium",
+     "status": "alternative",
+     "group": "abu-simbel:construction",
+     "note": "The same Wikipedia revision states both c. 1264–1244 BC and completion c. 1265 BC after ~20 years of work; kept as two claims rather than silently choosing."
+    },
+    {
+     "role": "relocation",
+     "to": 1968,
+     "precision": "year",
+     "label": "relocation completed 1968",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Start of the rescue operation not captured (unknown in this source extract)."
+    }
+   ]
+  },
+  {
+   "id": "item:pyramids-of-meroe",
+   "name": "Pyramids of Meroë",
+   "ev": [
+    "wp:Meroë"
+   ],
+   "description": "Royal Nubian pyramids of the Kingdom of Kush at Meroë (Sudan).",
+   "pov": {
+    "item_type": [
+     "concept:type:monument",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:nubian-pyramid"
+    ],
+    "function": [
+     "concept:function:tomb"
+    ],
+    "culture": [
+     "culture:kush"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:nubia"
+    ]
+   },
+   "time": [
+    {
+     "role": "use",
+     "from": -280,
+     "from_unc": 20,
+     "to": 350,
+     "to_unc": 50,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "c. 280 BC (royal burials move to Meroë) – 4th century AD",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Combines two statements: royal burial ground transferred to Meroë c. 280 BC; the kingdom collapsed in the 4th century AD."
+    }
+   ]
+  },
+  {
+   "id": "item:great-zimbabwe",
+   "name": "Great Zimbabwe",
+   "ev": [
+    "wp:Great Zimbabwe"
+   ],
+   "description": "Medieval stone-walled city, capital of the Kingdom of Zimbabwe.",
+   "pov": {
+    "item_type": [
+     "concept:type:city",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:dry-stone-enclosure"
+    ],
+    "function": [
+     "concept:function:royal-administrative"
+    ],
+    "culture": [
+     "culture:shona-ancestors"
+    ],
+    "polity": [
+     "polity:kingdom-of-zimbabwe"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:southern-africa"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "from": 1000,
+     "from_unc": 50,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "settled from around 1000 AD",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "End of occupation not stated in the retrieved source: open-ended."
+    },
+    {
+     "role": "use",
+     "from": 1201,
+     "to": 1300,
+     "precision": "century",
+     "label": "capital of the Kingdom of Great Zimbabwe from the 13th century",
+     "conf": "medium",
+     "status": "accepted",
+     "note": "Only the start is bounded (13th century)."
+    }
+   ]
+  },
+  {
+   "id": "item:rock-hewn-churches-lalibela",
+   "name": "Rock-hewn Churches of Lalibela",
+   "ev": [
+    "wp:Lalibela"
+   ],
+   "description": "Monolithic churches carved from rock at Lalibela, Ethiopia.",
+   "pov": {
+    "item_type": [
+     "concept:type:monument"
+    ],
+    "form": [
+     "concept:form:rock-cut"
+    ],
+    "function": [
+     "concept:function:church"
+    ],
+    "culture": [
+     "culture:zagwe-ethiopia"
+    ],
+    "dynasty": [
+     "dynasty:zagwe"
+    ],
+    "religion": [
+     "religion:ethiopian-orthodox"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:horn-of-africa"
+    ]
+   },
+   "links": [
+    {
+     "pred": "attributed_to",
+     "obj": "person:gebre-mesqel-lalibela"
+    }
+   ],
+   "wd_review": {
+    "P140:Q3333484": {
+     "status": "disputed",
+     "note": "Wikidata lists 'Eastern Orthodoxy'; the Ethiopian Orthodox Tewahedo Church belongs to Oriental Orthodoxy. Kept as a disputed claim, not deleted."
+    },
+    "P276:Q863404": {
+     "status": "rejected",
+     "note": "'location: subterranea' — a generic concept (underground structures), not a place."
+    }
+   },
+   "time": [
+    {
+     "role": "construction",
+     "from": 1151,
+     "to": 1250,
+     "precision": "century",
+     "label": "late 12th or early 13th century AD (dating given for the Church of Saint George)",
+     "ev": [
+      "wp:Church of Saint George, Lalibela"
+     ],
+     "conf": "low",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Source dates the best-known church (Bete Giyorgis); applying it to the whole group is a curator generalisation. Wikidata inception (13th century) imported separately."
+    }
+   ]
+  },
+  {
+   "id": "item:blombos-cave",
+   "name": "Blombos Cave",
+   "ev": [
+    "wp:Blombos Cave"
+   ],
+   "description": "Middle Stone Age cave site with some of the earliest evidence of symbolic behaviour.",
+   "pov": {
+    "item_type": [
+     "concept:type:cave",
+     "concept:type:archaeological-site"
+    ],
+    "function": [
+     "concept:function:dwelling",
+     "concept:function:symbolic-art"
+    ],
+    "culture": [
+     "culture:still-bay"
+    ],
+    "period": [
+     "period:middle-stone-age"
+    ],
+    "theme": [
+     "concept:theme:early-symbolic-behaviour"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:southern-africa"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "from_ka": 101,
+     "to_ka": 70,
+     "precision": "ka",
+     "method": "luminescence / U-Th / ESR",
+     "label": "c. 101,000–70,000 years ago (MSA levels)",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "occupation",
+     "from_ka": 75.5,
+     "to_ka": 67.8,
+     "precision": "ka",
+     "method": "OSL (Bayesian model)",
+     "label": "Still Bay sequence 75,500–67,800 years ago",
+     "conf": "medium",
+     "status": "accepted",
+     "note": "Sub-phase estimate (2013), 95% confidence."
+    }
+   ]
+  },
+  {
+   "id": "item:stonehenge",
+   "name": "Stonehenge",
+   "ev": [
+    "wp:Stonehenge"
+   ],
+   "description": "Prehistoric monument of a stone circle within a henge, built in phases.",
+   "pov": {
+    "item_type": [
+     "concept:type:monument",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:stone-circle",
+     "concept:form:henge"
+    ],
+    "function": [
+     "concept:function:ceremonial",
+     {
+      "id": "concept:function:funerary",
+      "conf": "medium",
+      "note": "Deposits of human bone from c. 3000 BC onwards."
+     },
+     {
+      "id": "concept:function:astronomical",
+      "conf": "low",
+      "status": "disputed",
+      "note": "Solstitial alignment is accepted; its calendrical purpose is an interpretation."
+     }
+    ],
+    "culture": [
+     "culture:neolithic-british-isles"
+    ],
+    "period": [
+     "period:neolithic",
+     "period:bronze-age"
+    ],
+    "theme": [
+     "concept:theme:archaeoastronomy"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:british-isles"
+    ]
+   },
+   "time": [
+    {
+     "role": "construction",
+     "from": -3100,
+     "to": -1600,
+     "qualifier": "circa",
+     "from_unc": 50,
+     "to_unc": 100,
+     "precision": "century",
+     "label": "phases from about 3100 BC to about 1600 BC",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred",
+     "group": "stonehenge:construction"
+    },
+    {
+     "role": "construction",
+     "from": -2600,
+     "to": -2400,
+     "precision": "century",
+     "label": "sarsen circle placed 2600–2400 BC",
+     "conf": "high",
+     "status": "accepted",
+     "group": "stonehenge:sarsens",
+     "note": "Phase-level extent (sarsen circle).",
+     "qualifiers": {
+      "phase": "sarsen circle"
+     }
+    },
+    {
+     "role": "construction",
+     "from": -2600,
+     "to": -2400,
+     "precision": "century",
+     "method": "radiocarbon (cal BC)",
+     "ev": [
+      "lit:parker-pearson-2007#abstract"
+     ],
+     "label": "trilithons settled at 2600–2400 cal BC",
+     "conf": "high",
+     "status": "accepted",
+     "group": "stonehenge:sarsens",
+     "qualifiers": {
+      "phase": "trilithons"
+     }
+    },
+    {
+     "role": "construction",
+     "from": -2500,
+     "to": -2500,
+     "qualifier": "circa",
+     "precision": "century",
+     "ev": [
+      "lit:english-heritage-stonehenge"
+     ],
+     "label": "in about 2500 BC the stones were set up in the centre of the monument",
+     "conf": "medium",
+     "status": "accepted",
+     "group": "stonehenge:sarsens",
+     "qualifiers": {
+      "phase": "sarsens set up"
+     }
+    },
+    {
+     "role": "construction",
+     "from": -3100,
+     "to": -3100,
+     "qualifier": "circa",
+     "from_unc": 50,
+     "to_unc": 50,
+     "precision": "century",
+     "label": "earliest phase (circular bank and ditch) dated to about 3100 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "group": "stonehenge:earthwork",
+     "qualifiers": {
+      "phase": "bank and ditch"
+     }
+    },
+    {
+     "role": "construction",
+     "from": -3000,
+     "to": -3000,
+     "qualifier": "circa",
+     "from_unc": 50,
+     "to_unc": 50,
+     "precision": "century",
+     "ev": [
+      "lit:english-heritage-stonehenge"
+     ],
+     "label": "earliest earthwork built about 3000 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "group": "stonehenge:earthwork",
+     "qualifiers": {
+      "phase": "bank and ditch"
+     },
+     "note": "Institutional rounded date; differs from the c. 3100 BC given by Wikipedia. Both kept."
+    },
+    {
+     "role": "construction",
+     "from": -2300,
+     "to": -2200,
+     "qualifier": "circa",
+     "precision": "century",
+     "ev": [
+      "lit:english-heritage-stonehenge"
+     ],
+     "label": "central bluestones rearranged '200 or 300 years later' than c. 2500 BC",
+     "conf": "low",
+     "status": "accepted",
+     "qualifiers": {
+      "phase": "bluestone rearrangement"
+     },
+     "note": "Derived arithmetic from the source's wording ('about 2500 BC' + '200 or 300 years later')."
+    },
+    {
+     "role": "construction",
+     "from": -2400,
+     "to": -2200,
+     "precision": "century",
+     "method": "radiocarbon",
+     "label": "bluestones in current positions 2400–2200 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "qualifiers": {
+      "phase": "bluestone rearrangement"
+     }
+    }
+   ],
+   "wd_review": {
+    "P149:Q435405": {
+     "status": "needs_verification",
+     "note": "'architectural style: prehistoric Britain' is a period/region, not a style; not imported."
+    }
+   }
+  },
+  {
+   "id": "item:newgrange",
+   "name": "Newgrange",
+   "ev": [
+    "wp:Newgrange"
+   ],
+   "description": "Large Neolithic passage tomb in the Boyne valley, aligned to the winter-solstice sunrise.",
+   "names": [
+    {
+     "name": "Sí an Bhrú",
+     "lang": "ga",
+     "type": "native"
+    }
+   ],
+   "pov": {
+    "item_type": [
+     "concept:type:monument",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:passage-tomb"
+    ],
+    "function": [
+     "concept:function:tomb",
+     "concept:function:ceremonial"
+    ],
+    "culture": [
+     "culture:neolithic-british-isles"
+    ],
+    "period": [
+     "period:neolithic"
+    ],
+    "theme": [
+     "concept:theme:archaeoastronomy"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:british-isles"
+    ]
+   },
+   "time": [
+    {
+     "role": "construction",
+     "from": -3100,
+     "from_unc": 100,
+     "to": -3100,
+     "to_unc": 100,
+     "qualifier": "circa",
+     "precision": "century",
+     "method": "radiocarbon",
+     "label": "built around 3100 BC",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred",
+     "group": "newgrange:construction"
+    },
+    {
+     "role": "construction",
+     "from": -3000,
+     "to": -2500,
+     "precision": "century",
+     "label": "3000–2500 BC (later estimate)",
+     "conf": "low",
+     "status": "alternative",
+     "group": "newgrange:construction",
+     "note": "'Some put its period of construction somewhat later' (Wikipedia)."
+    }
+   ]
+  },
+  {
+   "id": "item:carnac-stones",
+   "name": "Carnac stones",
+   "ev": [
+    "wp:Carnac stones"
+   ],
+   "description": "Thousands of Neolithic standing stones in rows in Brittany.",
+   "pov": {
+    "item_type": [
+     "concept:type:monument",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:stone-row"
+    ],
+    "culture": [
+     "culture:neolithic-atlantic-europe"
+    ],
+    "period": [
+     "period:neolithic"
+    ]
+   },
+   "time": [
+    {
+     "role": "construction",
+     "earliest_start": -4500,
+     "latest_start": -3300,
+     "earliest_end": -3300,
+     "latest_end": -3300,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "probably around 3300 BC, some perhaps as early as 4500 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Start uncertain between 4500 and 3300 BC; most stones probably c. 3300 BC."
+    }
+   ]
+  },
+  {
+   "id": "item:hagar-qim",
+   "name": "Ħaġar Qim",
+   "ev": [
+    "wp:Ħaġar Qim"
+   ],
+   "description": "Megalithic temple complex on Malta (Ġgantija phase).",
+   "pov": {
+    "item_type": [
+     "concept:type:monument",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:megalithic-temple"
+    ],
+    "function": [
+     "concept:function:temple"
+    ],
+    "culture": [
+     "culture:maltese-temple"
+    ],
+    "period": [
+     "period:neolithic"
+    ]
+   },
+   "time": [
+    {
+     "role": "construction",
+     "from": -3600,
+     "to": -3200,
+     "precision": "century",
+     "label": "main temple built between 3600 and 3200 BC",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Northern ruins are 'considerably older' (undated in source)."
+    }
+   ]
+  },
+  {
+   "id": "item:dolmen-of-menga",
+   "name": "Dolmen of Menga",
+   "ev": [
+    "wp:Dolmen of Menga"
+   ],
+   "description": "Neolithic megalithic burial mound (long-barrow dolmen) at Antequera.",
+   "pov": {
+    "item_type": [
+     "concept:type:monument",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:dolmen"
+    ],
+    "function": [
+     "concept:function:tomb"
+    ],
+    "culture": [
+     "culture:neolithic-atlantic-europe"
+    ],
+    "period": [
+     "period:neolithic"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:iberia"
+    ]
+   },
+   "time": [
+    {
+     "role": "construction",
+     "from": -3750,
+     "to": -3650,
+     "qualifier": "circa",
+     "precision": "decade",
+     "label": "around 3750–3650 BCE",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:skara-brae",
+   "name": "Skara Brae",
+   "ev": [
+    "wp:Skara Brae"
+   ],
+   "description": "Stone-built Neolithic village on Orkney.",
+   "pov": {
+    "item_type": [
+     "concept:type:settlement",
+     "concept:type:archaeological-site"
+    ],
+    "function": [
+     "concept:function:dwelling"
+    ],
+    "culture": [
+     "culture:neolithic-british-isles"
+    ],
+    "period": [
+     "period:neolithic"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:british-isles"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "from": -3180,
+     "to": -2500,
+     "qualifier": "circa",
+     "precision": "decade",
+     "method": "radiocarbon",
+     "label": "roughly 3180 BC to around 2500 BC",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:lascaux-cave",
+   "name": "Lascaux",
+   "ev": [
+    "wp:Lascaux"
+   ],
+   "description": "Cave with Upper Palaeolithic paintings, discovered in 1940.",
+   "pov": {
+    "item_type": [
+     "concept:type:cave",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:decorated-cave"
+    ],
+    "function": [
+     "concept:function:symbolic-art"
+    ],
+    "culture": [
+     {
+      "id": "culture:magdalenian",
+      "conf": "medium",
+      "note": "'early Magdalenian' per Wikipedia; attribution has been debated."
+     }
+    ],
+    "period": [
+     "period:upper-paleolithic"
+    ],
+    "theme": [
+     "concept:theme:early-symbolic-behaviour"
+    ]
+   },
+   "time": [
+    {
+     "role": "creation",
+     "from_ka": 22,
+     "to_ka": 17,
+     "precision": "ka",
+     "label": "paintings usually estimated at 17,000–22,000 years old",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "'17,000 to 22,000 years' old, stored as ka before 1950; the ~75-year difference between 'before 1950' and 'before today' is far below the precision."
+    },
+    {
+     "role": "discovery",
+     "date": "1940-09-12",
+     "calendar": "gregorian",
+     "precision": "day",
+     "label": "entrance discovered 12 September 1940",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:knossos",
+   "name": "Knossos",
+   "ev": [
+    "wp:Knossos"
+   ],
+   "description": "Neolithic-to-Roman settlement on Crete; site of the largest Minoan palace.",
+   "pov": {
+    "item_type": [
+     "concept:type:city",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:palace"
+    ],
+    "function": [
+     "concept:function:royal-administrative"
+    ],
+    "culture": [
+     "culture:minoan"
+    ],
+    "period": [
+     "period:neolithic",
+     "period:minoan-palatial",
+     "period:bronze-age"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:crete"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "from": -7000,
+     "from_unc": 100,
+     "qualifier": "circa",
+     "precision": "millennium",
+     "label": "settlement from around 7000 BC into the modern period",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Open-ended occupation."
+    },
+    {
+     "role": "occupation",
+     "from": -3000,
+     "to": -1900,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "Prepalatial period, about 3000 to 1900 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "qualifiers": {
+      "phase": "Prepalatial"
+     }
+    },
+    {
+     "role": "use",
+     "from": -1900,
+     "to": -1350,
+     "qualifier": "circa",
+     "from_unc": 50,
+     "to_unc": 50,
+     "precision": "century",
+     "label": "palace: first built c. 1900 BC; major destruction conventionally c. 1350 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "qualifiers": {
+      "phase": "palace"
+     },
+     "note": "Final-destruction chronology 'remains debated' (Wikipedia)."
+    }
+   ]
+  },
+  {
+   "id": "item:treasury-of-atreus",
+   "name": "Treasury of Atreus",
+   "ev": [
+    "wp:Treasury of Atreus"
+   ],
+   "description": "Monumental tholos (beehive) tomb at Mycenae.",
+   "names": [
+    {
+     "name": "Tomb of Agamemnon",
+     "lang": "en",
+     "type": "alternative"
+    }
+   ],
+   "pov": {
+    "item_type": [
+     "concept:type:monument",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:tholos"
+    ],
+    "function": [
+     "concept:function:tomb"
+    ],
+    "culture": [
+     "culture:mycenaean"
+    ],
+    "period": [
+     "period:late-bronze-age-aegean"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:aegean"
+    ]
+   },
+   "time": [
+    {
+     "role": "construction",
+     "from": -1300,
+     "to": -1250,
+     "precision": "decade",
+     "label": "constructed between 1300 and 1250 BCE",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:akrotiri",
+   "name": "Akrotiri (Bronze Age settlement)",
+   "ev": [
+    "wp:Akrotiri (prehistoric city)"
+   ],
+   "description": "Bronze Age town on Santorini buried by the Minoan (Theran) eruption.",
+   "pov": {
+    "item_type": [
+     "concept:type:city",
+     "concept:type:archaeological-site"
+    ],
+    "function": [
+     "concept:function:dwelling"
+    ],
+    "period": [
+     "period:late-bronze-age-aegean"
+    ],
+    "theme": [
+     "concept:theme:natural-disaster"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:santorini"
+    ]
+   },
+   "links": [
+    {
+     "pred": "destroyed_by",
+     "obj": "event:minoan-eruption"
+    }
+   ],
+   "time": [
+    {
+     "role": "destruction",
+     "from": -1620,
+     "to": -1530,
+     "precision": "decade",
+     "method": "radiocarbon",
+     "label": "most probably 1620–1530 BC (radiocarbon)",
+     "conf": "medium",
+     "status": "disputed",
+     "rank": "normal",
+     "group": "thera:date"
+    },
+    {
+     "role": "destruction",
+     "from": -1570,
+     "to": -1500,
+     "precision": "decade",
+     "method": "archaeological synchronism",
+     "label": "1570–1500 BC (material-culture comparison)",
+     "conf": "medium",
+     "status": "disputed",
+     "group": "thera:date"
+    }
+   ]
+  },
+  {
+   "id": "item:parthenon",
+   "name": "Parthenon",
+   "ev": [
+    "wp:Parthenon"
+   ],
+   "description": "Doric temple of Athena on the Athenian Acropolis.",
+   "names": [
+    {
+     "name": "Παρθενών",
+     "lang": "el",
+     "type": "native"
+    }
+   ],
+   "pov": {
+    "item_type": [
+     "concept:type:monument"
+    ],
+    "form": [
+     "concept:form:classical-temple"
+    ],
+    "function": [
+     "concept:function:temple"
+    ],
+    "culture": [
+     "culture:ancient-greece"
+    ],
+    "period": [
+     "period:classical-greece"
+    ],
+    "religion": [
+     "religion:ancient-greek"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:city:athens"
+    ]
+   },
+   "time": [
+    {
+     "role": "construction",
+     "from": -447,
+     "to": -432,
+     "precision": "year",
+     "method": "historical",
+     "label": "begun 447 BC, completed 438 BC, decoration until 432 BC",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "reuse",
+     "from": 591,
+     "to": 600,
+     "precision": "decade",
+     "label": "converted into a church in the final decade of the 6th century AD",
+     "conf": "medium",
+     "status": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "item:colosseum",
+   "name": "Colosseum",
+   "ev": [
+    "wp:Colosseum"
+   ],
+   "description": "Flavian amphitheatre in Rome.",
+   "names": [
+    {
+     "name": "Flavian Amphitheatre",
+     "lang": "en",
+     "type": "historical"
+    },
+    {
+     "name": "Amphitheatrum Flavium",
+     "lang": "la",
+     "type": "historical"
+    }
+   ],
+   "pov": {
+    "item_type": [
+     "concept:type:monument"
+    ],
+    "form": [
+     "concept:form:amphitheatre"
+    ],
+    "function": [
+     "concept:function:public-spectacle"
+    ],
+    "culture": [
+     "culture:ancient-rome"
+    ],
+    "period": [
+     "period:early-roman-empire"
+    ],
+    "dynasty": [
+     "dynasty:flavian"
+    ],
+    "polity": [
+     "polity:roman-empire"
+    ]
+   },
+   "links": [
+    {
+     "pred": "commissioned_by",
+     "obj": "person:vespasian"
+    }
+   ],
+   "time": [
+    {
+     "role": "construction",
+     "earliest_start": 70,
+     "latest_start": 72,
+     "earliest_end": 80,
+     "latest_end": 80,
+     "precision": "year",
+     "label": "begun c. 70–72 AD under Vespasian, completed AD 80 under Titus",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred",
+     "group": "colosseum:start"
+    },
+    {
+     "role": "construction",
+     "earliest_start": 73,
+     "latest_start": 75,
+     "earliest_end": 80,
+     "latest_end": 80,
+     "precision": "year",
+     "label": "begun 73–75 AD (according to some sources)",
+     "conf": "low",
+     "status": "alternative",
+     "group": "colosseum:start"
+    }
+   ]
+  },
+  {
+   "id": "item:pompeii",
+   "name": "Pompeii",
+   "ev": [
+    "wp:Pompeii"
+   ],
+   "description": "Roman town buried by the eruption of Vesuvius in 79 CE.",
+   "pov": {
+    "item_type": [
+     "concept:type:city",
+     "concept:type:archaeological-site"
+    ],
+    "function": [
+     "concept:function:dwelling"
+    ],
+    "culture": [
+     "culture:ancient-rome"
+    ],
+    "period": [
+     "period:early-roman-empire"
+    ],
+    "theme": [
+     "concept:theme:natural-disaster"
+    ]
+   },
+   "links": [
+    {
+     "pred": "destroyed_by",
+     "obj": "event:vesuvius-79"
+    }
+   ],
+   "time": [
+    {
+     "role": "destruction",
+     "from": 79,
+     "to": 79,
+     "precision": "year",
+     "label": "buried in 79 AD",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "The day is disputed; see event:vesuvius-79."
+    },
+    {
+     "role": "occupation",
+     "from": -600,
+     "from_unc": 100,
+     "to": 79,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "6th-century BC necropolis and Etruscan inscriptions – 79 AD",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Start inferred from excavated 6th-century BC necropolis."
+    }
+   ]
+  },
+  {
+   "id": "item:sutton-hoo",
+   "name": "Sutton Hoo",
+   "ev": [
+    "wp:Sutton Hoo"
+   ],
+   "description": "Anglo-Saxon burial ground with the Mound 1 ship burial.",
+   "pov": {
+    "item_type": [
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:ship-burial"
+    ],
+    "function": [
+     "concept:function:tomb"
+    ],
+    "culture": [
+     "culture:anglo-saxon"
+    ],
+    "period": [
+     "period:early-medieval-england"
+    ],
+    "polity": [
+     "polity:east-anglia"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:british-isles"
+    ]
+   },
+   "links": [
+    {
+     "pred": "burial_of",
+     "obj": "person:raedwald",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "normal",
+     "note": "'Most likely' candidate according to scholars; not proven."
+    }
+   ],
+   "time": [
+    {
+     "role": "deposition",
+     "from": 610,
+     "to": 635,
+     "precision": "year",
+     "method": "numismatic",
+     "label": "ship burial dated 610–635 by its Merovingian coins",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "discovery",
+     "from": 1939,
+     "to": 1939,
+     "precision": "year",
+     "label": "Mound 1 ship burial excavated 1939",
+     "conf": "high",
+     "status": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "item:gobekli-tepe",
+   "name": "Göbekli Tepe",
+   "ev": [
+    "wp:Göbekli Tepe"
+   ],
+   "description": "Pre-Pottery Neolithic site with monumental T-pillar enclosures in Upper Mesopotamia.",
+   "pov": {
+    "item_type": [
+     "concept:type:archaeological-site",
+     "concept:type:settlement"
+    ],
+    "form": [
+     "concept:form:t-pillar-enclosure",
+     "concept:form:tell"
+    ],
+    "function": [
+     {
+      "id": "concept:function:ceremonial",
+      "conf": "low",
+      "status": "disputed",
+      "note": "'No definitive purpose has been determined'; popularly called 'the world's first temple'."
+     },
+     {
+      "id": "concept:function:dwelling",
+      "conf": "medium",
+      "note": "Newer interpretation: inhabited settlement, replacing the 'nomad sanctuary' model."
+     }
+    ],
+    "culture": [
+     "culture:ppn-levant-anatolia"
+    ],
+    "period": [
+     "period:ppna",
+     "period:ppnb"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:anatolia"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "earliest_start": -9500,
+     "latest_start": -9500,
+     "earliest_end": -8000,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "inhabited from around 9500 BCE to at least 8000 BCE",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Latest end left open: 'or perhaps slightly later'."
+    },
+    {
+     "role": "construction",
+     "from": -9500,
+     "to": -9000,
+     "precision": "century",
+     "method": "radiocarbon",
+     "label": "earliest exposed structures built 9500–9000 BCE",
+     "conf": "high",
+     "status": "accepted"
+    },
+    {
+     "role": "use",
+     "from": -9745,
+     "to": -9314,
+     "precision": "decade",
+     "method": "radiocarbon (wall plaster), 95.4%",
+     "ev": [
+      "lit:dai-tepe-telegrams-2016"
+     ],
+     "label": "Enclosure D: 9984 ± 42 14C-BP = 9745–9314 calBC (95.4%)",
+     "conf": "medium",
+     "status": "accepted",
+     "qualifiers": {
+      "phase": "Enclosure D (Layer III)"
+     }
+    },
+    {
+     "role": "use",
+     "from": -9261,
+     "to": -9139,
+     "precision": "decade",
+     "method": "radiocarbon, 91.6%",
+     "ev": [
+      "lit:dai-tepe-telegrams-2016"
+     ],
+     "label": "Enclosure C: 9700 ± 30 14C-BP = 9261–9139 calBC (91.6%)",
+     "conf": "medium",
+     "status": "accepted",
+     "qualifiers": {
+      "phase": "Enclosure C (Layer III)"
+     }
+    },
+    {
+     "role": "use",
+     "from": -8300,
+     "to": -7700,
+     "qualifier": "circa",
+     "precision": "millennium",
+     "ev": [
+      "lit:dai-tepe-telegrams-2016"
+     ],
+     "label": "Layer II: late 9th / early 8th millennium calBC",
+     "conf": "low",
+     "status": "accepted",
+     "qualifiers": {
+      "phase": "Layer II"
+     },
+     "note": "Numeric bounds are a POC reading of 'late 9th / early 8th millennium' (reversible); the source wording is kept in the label."
+    }
+   ]
+  },
+  {
+   "id": "item:catalhoyuk",
+   "name": "Çatalhöyük",
+   "ev": [
+    "wp:Çatalhöyük"
+   ],
+   "description": "Large Neolithic and Chalcolithic proto-city in southern Anatolia.",
+   "pov": {
+    "item_type": [
+     "concept:type:city",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:tell"
+    ],
+    "function": [
+     "concept:function:dwelling"
+    ],
+    "culture": [
+     "culture:neolithic-anatolia"
+    ],
+    "period": [
+     "period:neolithic",
+     "period:chalcolithic"
+    ],
+    "theme": [
+     "concept:theme:early-urbanism"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:anatolia"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "from": -7500,
+     "to": -5600,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "from around 7500 BC to 5600 BC",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:tell-es-sultan",
+   "name": "Tell es-Sultan (Ancient Jericho)",
+   "ev": [
+    "wp:Tell es-Sultan"
+   ],
+   "description": "Settlement mound of ancient Jericho with one of the earliest permanent settlements.",
+   "names": [
+    {
+     "name": "Ancient Jericho",
+     "lang": "en",
+     "type": "alternative"
+    },
+    {
+     "name": "יריחו הקדומה",
+     "lang": "he",
+     "type": "alternative"
+    },
+    {
+     "name": "تل السلطان",
+     "lang": "ar",
+     "type": "native"
+    }
+   ],
+   "pov": {
+    "item_type": [
+     "concept:type:settlement",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:tell"
+    ],
+    "function": [
+     "concept:function:dwelling"
+    ],
+    "culture": [
+     "culture:ppn-levant-anatolia"
+    ],
+    "period": [
+     "period:ppna",
+     "period:ppnb",
+     "period:bronze-age"
+    ],
+    "theme": [
+     "concept:theme:early-urbanism"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:levant"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "earliest_start": -10000,
+     "latest_start": -9000,
+     "precision": "millennium",
+     "label": "first permanent settlement between 10,000 and 9000 BCE (Natufian)",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Open-ended occupation; later phases not modelled in the POC."
+    }
+   ]
+  },
+  {
+   "id": "item:tower-of-jericho",
+   "name": "Tower of Jericho",
+   "ev": [
+    "wp:Tell es-Sultan"
+   ],
+   "description": "Pre-Pottery Neolithic stone tower at Tell es-Sultan. Sub-structure example: has no own coordinates, inherits location via part_of.",
+   "pov": {
+    "item_type": [
+     "concept:type:structure"
+    ],
+    "culture": [
+     "culture:ppn-levant-anatolia"
+    ],
+    "period": [
+     "period:ppna"
+    ],
+    "function": [
+     {
+      "id": "concept:function:defensive",
+      "ev": [
+       "lit:barkai-liran-2008#abstract"
+      ],
+      "conf": "low",
+      "status": "disputed",
+      "group": "jericho-tower:function",
+      "note": "Fortification theory (one of three main theories; the authors argue it is flawed)."
+     },
+     {
+      "id": "concept:function:water-management",
+      "ev": [
+       "lit:barkai-liran-2008#abstract"
+      ],
+      "conf": "low",
+      "status": "disputed",
+      "group": "jericho-tower:function",
+      "note": "Flood-deflection theory."
+     },
+     {
+      "id": "concept:function:ceremonial",
+      "ev": [
+       "lit:barkai-liran-2008#abstract"
+      ],
+      "conf": "low",
+      "status": "disputed",
+      "group": "jericho-tower:function",
+      "note": "Symbolic monument theory."
+     },
+     {
+      "id": "concept:function:astronomical",
+      "ev": [
+       "lit:barkai-liran-2008#abstract"
+      ],
+      "conf": "low",
+      "status": "disputed",
+      "group": "jericho-tower:function",
+      "note": "Barkai & Liran's proposal: aligned to the midsummer sunset."
+     }
+    ]
+   },
+   "links": [
+    {
+     "pred": "part_of",
+     "obj": "item:tell-es-sultan"
+    }
+   ],
+   "time": [
+    {
+     "role": "use",
+     "from": -8300,
+     "to": -7800,
+     "qualifier": "circa",
+     "precision": "century",
+     "method": "radiocarbon",
+     "label": "built around 8300 BCE, in use until c. 7800 BCE",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "group": "jericho-tower:date"
+    },
+    {
+     "role": "construction",
+     "from": -8000,
+     "to": -8000,
+     "qualifier": "circa",
+     "from_unc": 100,
+     "to_unc": 100,
+     "precision": "century",
+     "label": "wall and tower built around 8000 BCE",
+     "conf": "medium",
+     "status": "alternative",
+     "group": "jericho-tower:date",
+     "note": "Two statements in the same source; the radiocarbon one is ranked preferred."
+    },
+    {
+     "role": "construction",
+     "from": -8300,
+     "to": -8300,
+     "qualifier": "circa",
+     "from_unc": 100,
+     "to_unc": 100,
+     "precision": "century",
+     "ev": [
+      "lit:barkai-liran-2008#abstract"
+     ],
+     "label": "dating roughly to 8300 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "group": "jericho-tower:date"
+    }
+   ]
+  },
+  {
+   "id": "item:ziggurat-of-ur",
+   "name": "Ziggurat of Ur",
+   "ev": [
+    "wp:Ziggurat of Ur"
+   ],
+   "description": "Early Bronze Age ziggurat of the Third Dynasty of Ur, dedicated to Nanna.",
+   "pov": {
+    "item_type": [
+     "concept:type:monument"
+    ],
+    "form": [
+     "concept:form:ziggurat"
+    ],
+    "function": [
+     "concept:function:temple"
+    ],
+    "culture": [
+     "culture:sumer"
+    ],
+    "period": [
+     "period:bronze-age"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:mesopotamia"
+    ]
+   },
+   "links": [
+    {
+     "pred": "commissioned_by",
+     "obj": "person:ur-nammu"
+    }
+   ],
+   "time": [
+    {
+     "role": "construction",
+     "from": -2100,
+     "to": -2001,
+     "precision": "century",
+     "label": "21st century BC (short chronology)",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Depends on Mesopotamian chronology choice (short chronology)."
+    },
+    {
+     "role": "restoration",
+     "from": -600,
+     "to": -501,
+     "precision": "century",
+     "label": "restored by Nabonidus, 6th century BC",
+     "conf": "medium",
+     "status": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "item:mohenjo-daro",
+   "name": "Mohenjo-daro",
+   "ev": [
+    "wp:Mohenjo-daro"
+   ],
+   "description": "Major city of the Indus Valley Civilisation.",
+   "pov": {
+    "item_type": [
+     "concept:type:city",
+     "concept:type:archaeological-site"
+    ],
+    "function": [
+     "concept:function:dwelling"
+    ],
+    "culture": [
+     "culture:indus-valley"
+    ],
+    "period": [
+     "period:bronze-age"
+    ],
+    "theme": [
+     "concept:theme:early-urbanism"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:indus-valley"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "from": -2500,
+     "to": -1700,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "built around 2500 BC; abandoned c. 1700 BCE",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:persepolis",
+   "name": "Persepolis",
+   "ev": [
+    "wp:Persepolis"
+   ],
+   "description": "Ceremonial capital of the Achaemenid Empire.",
+   "names": [
+    {
+     "name": "Takht-e Jamshid",
+     "lang": "fa-Latn",
+     "type": "native"
+    }
+   ],
+   "pov": {
+    "item_type": [
+     "concept:type:city",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:palace"
+    ],
+    "function": [
+     "concept:function:royal-administrative"
+    ],
+    "culture": [
+     "culture:achaemenid-persia"
+    ],
+    "period": [
+     "period:achaemenid"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:iranian-plateau"
+    ]
+   },
+   "links": [
+    {
+     "pred": "commissioned_by",
+     "obj": "person:darius-i",
+     "note": "Inscriptions support that the terrace and first palaces were built by Darius."
+    }
+   ],
+   "time": [
+    {
+     "role": "construction",
+     "from": -515,
+     "earliest_end": -400,
+     "latest_end": -330,
+     "precision": "year",
+     "label": "earliest remains date to 515 BC; extended under Xerxes I, Artaxerxes I and in the 4th century BC, until 330 BC",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "destruction",
+     "from": -330,
+     "to": -330,
+     "precision": "year",
+     "label": "taken by Alexander the Great in 330 BC; palaces destroyed by fire",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:mausoleum-of-qin-shi-huang",
+   "name": "Mausoleum of the First Qin Emperor",
+   "ev": [
+    "wp:Mausoleum of Qin Shi Huang"
+   ],
+   "description": "Tomb complex of Qin Shi Huang, including the Terracotta Army pits.",
+   "names": [
+    {
+     "name": "秦始皇陵",
+     "lang": "zh",
+     "type": "native"
+    }
+   ],
+   "pov": {
+    "item_type": [
+     "concept:type:monument",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:mausoleum"
+    ],
+    "function": [
+     "concept:function:tomb"
+    ],
+    "culture": [
+     "culture:qin-china"
+    ],
+    "dynasty": [
+     "dynasty:qin"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:east-asia"
+    ]
+   },
+   "links": [
+    {
+     "pred": "burial_of",
+     "obj": "person:qin-shi-huang"
+    }
+   ],
+   "time": [
+    {
+     "role": "construction",
+     "from": -246,
+     "to": -208,
+     "precision": "year",
+     "label": "constructed 246–208 BC",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred",
+     "group": "qin-mausoleum:construction"
+    },
+    {
+     "role": "construction",
+     "from": -219,
+     "to": -213,
+     "precision": "year",
+     "label": "main project 219–213 BCE (alternative scholarly view)",
+     "conf": "low",
+     "status": "alternative",
+     "group": "qin-mausoleum:construction"
+    }
+   ],
+   "wd_review": {
+    "P361:Q17163347": {
+     "status": "rejected",
+     "note": "'part of: lists of World Heritage Sites in Asia' — a Wikipedia list article, not a whole the mausoleum is part of."
+    }
+   }
+  },
+  {
+   "id": "item:angkor-wat",
+   "name": "Angkor Wat",
+   "ev": [
+    "wp:Angkor Wat"
+   ],
+   "description": "Temple complex built by Suryavarman II, originally dedicated to Vishnu.",
+   "pov": {
+    "item_type": [
+     "concept:type:monument"
+    ],
+    "form": [
+     "concept:form:temple-complex"
+    ],
+    "function": [
+     "concept:function:temple"
+    ],
+    "culture": [
+     "culture:khmer"
+    ],
+    "period": [
+     "period:angkorian"
+    ],
+    "polity": [
+     "polity:khmer-empire"
+    ],
+    "religion": [
+     "religion:hinduism",
+     {
+      "id": "religion:buddhism",
+      "note": "Later Buddhist use."
+     }
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:southeast-asia"
+    ]
+   },
+   "links": [
+    {
+     "pred": "commissioned_by",
+     "obj": "person:suryavarman-ii"
+    }
+   ],
+   "wd_review": {
+    "P571:802": {
+     "status": "disputed",
+     "note": "Wikidata inception 802 CE conflicts with the documented construction under Suryavarman II (1113–1150 CE); 802 is plausibly the traditional founding year of the Khmer Empire misapplied (curator hypothesis)."
+    }
+   },
+   "time": [
+    {
+     "role": "construction",
+     "from": 1113,
+     "to": 1150,
+     "precision": "year",
+     "label": "constructed between 1113 and 1150 CE (reign of Suryavarman II)",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred",
+     "group": "angkor-wat:construction"
+    },
+    {
+     "role": "construction",
+     "from": 1122,
+     "to": 1150,
+     "precision": "year",
+     "label": "commenced 1122 CE, completed 1150 CE",
+     "conf": "medium",
+     "status": "alternative",
+     "group": "angkor-wat:construction"
+    }
+   ]
+  },
+  {
+   "id": "item:borobudur",
+   "name": "Borobudur",
+   "ev": [
+    "wp:Borobudur"
+   ],
+   "description": "Mahayana Buddhist monument in Central Java built under the Sailendra dynasty.",
+   "pov": {
+    "item_type": [
+     "concept:type:monument"
+    ],
+    "form": [
+     "concept:form:stupa-temple"
+    ],
+    "function": [
+     "concept:function:temple"
+    ],
+    "culture": [
+     "culture:javanese-sailendra"
+    ],
+    "dynasty": [
+     "dynasty:sailendra"
+    ],
+    "religion": [
+     "religion:buddhism"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:southeast-asia"
+    ]
+   },
+   "time": [
+    {
+     "role": "construction",
+     "from": 701,
+     "to": 800,
+     "precision": "century",
+     "label": "constructed in the 8th century",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "restoration",
+     "to": 1983,
+     "precision": "year",
+     "label": "largest restoration completed 1983",
+     "conf": "high",
+     "status": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "item:petra",
+   "name": "Petra",
+   "ev": [
+    "wp:Petra"
+   ],
+   "description": "Rock-cut Nabataean capital in southern Jordan.",
+   "pov": {
+    "item_type": [
+     "concept:type:city",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:rock-cut"
+    ],
+    "function": [
+     "concept:function:royal-administrative",
+     "concept:function:tomb"
+    ],
+    "culture": [
+     "culture:nabataean"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:levant"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "from": -400,
+     "to": 106,
+     "from_unc": 50,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "Nabataean settlement from the 4th century BC to Roman annexation in 106 AD",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Only the Nabataean phase; earlier Edomite (7th c. BC+) and later Roman phases exist but are not modelled."
+    }
+   ]
+  },
+  {
+   "id": "item:masada",
+   "name": "Masada",
+   "ev": [
+    "wp:Masada"
+   ],
+   "description": "Herodian fortress on a plateau above the Dead Sea; last holdout of the First Jewish–Roman War.",
+   "names": [
+    {
+     "name": "מצדה",
+     "lang": "he",
+     "type": "native"
+    }
+   ],
+   "pov": {
+    "item_type": [
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:hilltop-fortress",
+     "concept:form:palace"
+    ],
+    "function": [
+     "concept:function:defensive"
+    ],
+    "culture": [
+     "culture:second-temple-judaism"
+    ],
+    "period": [
+     "period:second-temple"
+    ],
+    "dynasty": [
+     "dynasty:herodian"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:judaean-desert"
+    ]
+   },
+   "links": [
+    {
+     "pred": "commissioned_by",
+     "obj": "person:herod-the-great"
+    }
+   ],
+   "attrs": [
+    {
+     "key": "siege_season_estimate",
+     "value": "4–7 weeks; beginning around 1 March and ending in mid-April (year not stated in the abstract)",
+     "ev": [
+      "lit:roth-2020#abstract"
+     ],
+     "conf": "low",
+     "status": "accepted",
+     "note": "Logistic estimate from construction rates of the siege ramp; does not resolve the 73/74 CE question."
+    }
+   ],
+   "time": [
+    {
+     "role": "construction",
+     "from": -37,
+     "to": -31,
+     "precision": "year",
+     "method": "historical (Josephus)",
+     "label": "fortress built between 37 and 31 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "destruction",
+     "from": 73,
+     "to": 73,
+     "precision": "year",
+     "method": "historical",
+     "label": "fall to Rome in 73 AD",
+     "conf": "medium",
+     "status": "disputed",
+     "rank": "normal",
+     "group": "masada:fall"
+    },
+    {
+     "role": "destruction",
+     "from": 74,
+     "to": 74,
+     "precision": "year",
+     "method": "historical",
+     "label": "fall to Rome in 74 AD",
+     "conf": "medium",
+     "status": "disputed",
+     "group": "masada:fall",
+     "note": "Sources give '73 or 74 CE'; no rank preferred."
+    }
+   ],
+   "wd_review": {
+    "P2596:Q9268": {
+     "status": "needs_verification",
+     "priority": "P3",
+     "action": "decide whether a religion may be stated as a 'culture' facet",
+     "note": "Wikidata gives 'Judaism' (a religion) as P2596 culture. Category mismatch; GeoChronos keeps culture and religion separate."
+    }
+   }
+  },
+  {
+   "id": "item:qumran-caves",
+   "name": "Qumran Caves",
+   "ev": [
+    "wp:Dead Sea Scrolls"
+   ],
+   "description": "Caves near Khirbet Qumran where the Dead Sea Scrolls were found.",
+   "pov": {
+    "item_type": [
+     "concept:type:cave",
+     "concept:type:archaeological-site"
+    ],
+    "culture": [
+     "culture:second-temple-judaism"
+    ],
+    "period": [
+     "period:second-temple",
+     {
+      "id": "period:chalcolithic",
+      "ev": [
+       "wp:Qumran Caves"
+      ],
+      "conf": "medium",
+      "note": "'the first traces of occupation are from the Chalcolithic period then onward to the Arab period' — period only, no numeric date in the source."
+     }
+    ],
+    "function": [
+     {
+      "id": "concept:function:storage",
+      "ev": [
+       "wp:Qumran Caves"
+      ],
+      "conf": "medium",
+      "status": "disputed",
+      "group": "qumran-caves:function",
+      "note": "Patrich: the caves 'did not serve as habitations ... but rather as stores and hiding places' (as summarised by Wikipedia)."
+     },
+     {
+      "id": "concept:function:dwelling",
+      "ev": [
+       "wp:Qumran Caves"
+      ],
+      "conf": "medium",
+      "status": "disputed",
+      "group": "qumran-caves:function",
+      "note": "Broshi & Eshel believed some caves served as dwellings (Dead Sea Discoveries 6, 1999, as cited by Wikipedia)."
+     }
+    ],
+    "theme": [
+     "concept:theme:writing-decipherment"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:judaean-desert"
+    ]
+   },
+   "time": [
+    {
+     "role": "discovery",
+     "from": 1946,
+     "to": 1956,
+     "precision": "year",
+     "label": "manuscripts found 1946/1947–1956 (11 caves)",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:gochang-hwasun-ganghwa-dolmens",
+   "name": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+   "ev": [
+    "wp:Gochang, Hwasun and Ganghwa Dolmen Sites"
+   ],
+   "description": "Dense concentrations of prehistoric dolmens in South Korea.",
+   "pov": {
+    "item_type": [
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:dolmen"
+    ],
+    "function": [
+     "concept:function:tomb"
+    ],
+    "culture": [
+     "culture:korean-bronze-age"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:east-asia"
+    ]
+   },
+   "time": [
+    {
+     "role": "construction",
+     "earliest_start": -700,
+     "latest_start": -601,
+     "earliest_end": -300,
+     "latest_end": -201,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "dated to the 7th century BCE; practice ended around the 3rd century BCE",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:teotihuacan",
+   "name": "Teotihuacan",
+   "ev": [
+    "wp:Teotihuacan"
+   ],
+   "description": "Ancient Mesoamerican city, once the largest in the Americas.",
+   "pov": {
+    "item_type": [
+     "concept:type:city",
+     "concept:type:archaeological-site"
+    ],
+    "culture": [
+     "culture:teotihuacan"
+    ],
+    "period": [
+     "period:mesoamerican-classic"
+    ],
+    "theme": [
+     "concept:theme:early-urbanism"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:mesoamerica"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "earliest_start": -100,
+     "latest_start": -100,
+     "earliest_end": 550,
+     "latest_end": 800,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "established around 100 BCE; monuments burned c. 550 CE; city may have lasted into the 7th–8th centuries",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "End bounded between the burning of the monuments (c. 550) and the 8th century."
+    }
+   ]
+  },
+  {
+   "id": "item:pyramid-of-the-sun",
+   "name": "Pyramid of the Sun",
+   "ev": [
+    "wp:Pyramid of the Sun"
+   ],
+   "description": "Largest building of Teotihuacan.",
+   "pov": {
+    "item_type": [
+     "concept:type:monument"
+    ],
+    "form": [
+     "concept:form:mesoamerican-pyramid"
+    ],
+    "function": [
+     "concept:function:temple"
+    ],
+    "culture": [
+     "culture:teotihuacan"
+    ],
+    "period": [
+     "period:mesoamerican-classic"
+    ]
+   },
+   "links": [
+    {
+     "pred": "part_of",
+     "obj": "item:teotihuacan"
+    }
+   ],
+   "time": [
+    {
+     "role": "construction",
+     "from": 200,
+     "to": 200,
+     "from_unc": 50,
+     "to_unc": 50,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "constructed about 200 AD (first stage)",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:chichen-itza",
+   "name": "Chichen Itza",
+   "ev": [
+    "wp:Chichen Itza"
+   ],
+   "description": "Maya city in Yucatán, a regional capital in the Terminal Classic and Early Postclassic.",
+   "pov": {
+    "item_type": [
+     "concept:type:city",
+     "concept:type:archaeological-site"
+    ],
+    "culture": [
+     "culture:maya"
+    ],
+    "period": [
+     "period:mesoamerican-classic",
+     "period:mesoamerican-postclassic"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:mesoamerica"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "from": 600,
+     "to": 1200,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "Late Classic (c. 600–900) into the early Postclassic (c. 900–1200)",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:temple-of-kukulcan",
+   "name": "El Castillo (Temple of Kukulcán)",
+   "ev": [
+    "wp:El Castillo, Chichen Itza"
+   ],
+   "description": "Step-pyramid temple to Kukulcán at Chichen Itza.",
+   "names": [
+    {
+     "name": "El Castillo",
+     "lang": "es",
+     "type": "alternative"
+    }
+   ],
+   "pov": {
+    "item_type": [
+     "concept:type:monument"
+    ],
+    "form": [
+     "concept:form:mesoamerican-pyramid"
+    ],
+    "function": [
+     "concept:function:temple"
+    ],
+    "culture": [
+     "culture:maya"
+    ],
+    "religion": [
+     "religion:maya-religion"
+    ],
+    "theme": [
+     "concept:theme:archaeoastronomy"
+    ]
+   },
+   "links": [
+    {
+     "pred": "part_of",
+     "obj": "item:chichen-itza"
+    }
+   ],
+   "time": [
+    {
+     "role": "construction",
+     "from": 701,
+     "to": 1200,
+     "precision": "century",
+     "label": "built sometime between the 8th and 12th centuries CE",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "construction",
+     "from": 900,
+     "to": 1000,
+     "precision": "century",
+     "label": "last construction probably 900–1000 CE (substructure 600–800 CE)",
+     "conf": "medium",
+     "status": "accepted",
+     "qualifiers": {
+      "phase": "final construction"
+     }
+    }
+   ]
+  },
+  {
+   "id": "item:tikal",
+   "name": "Tikal",
+   "ev": [
+    "wp:Tikal"
+   ],
+   "description": "Major Classic Maya city in the Petén basin.",
+   "pov": {
+    "item_type": [
+     "concept:type:city",
+     "concept:type:archaeological-site"
+    ],
+    "culture": [
+     "culture:maya"
+    ],
+    "period": [
+     "period:mesoamerican-classic"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:mesoamerica"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "earliest_start": -400,
+     "latest_start": -301,
+     "earliest_end": 830,
+     "precision": "century",
+     "label": "monumental architecture from the 4th century BC; sharp decline after AD 830",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Final abandonment date not in retrieved source: latest end open."
+    }
+   ]
+  },
+  {
+   "id": "item:caral",
+   "name": "Caral",
+   "ev": [
+    "wp:Caral"
+   ],
+   "description": "Sacred City of Caral-Supe, early urban centre of the Norte Chico civilization.",
+   "names": [
+    {
+     "name": "Sacred City of Caral-Supe",
+     "lang": "en",
+     "type": "alternative"
+    }
+   ],
+   "wd_review": {
+    "label@he:שלום": {
+     "status": "rejected",
+     "note": "Wikidata's Hebrew label for Q219279 on 2026-10-01 was 'שלום' ('peace/hello'), which does not denote Caral; the Hebrew Wikipedia article linked from the same item is titled 'קאראל'. Kept for audit, excluded from normal use. Identity of Q219279 confirmed via enwiki pageprops (Caral -> Q219279) and UNESCO id 1269."
+    }
+   },
+   "pov": {
+    "item_type": [
+     "concept:type:city",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:pyramid"
+    ],
+    "function": [
+     "concept:function:ceremonial",
+     "concept:function:dwelling"
+    ],
+    "culture": [
+     "culture:caral-supe"
+    ],
+    "period": [
+     "period:late-archaic-andes"
+    ],
+    "theme": [
+     "concept:theme:early-urbanism"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:andes"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "from": -2600,
+     "to": -2000,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "inhabited from around 2600 BC to 2000 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "occupation",
+     "from": -2627,
+     "to": -2627,
+     "precision": "year",
+     "method": "radiocarbon",
+     "label": "2627 BC (radiocarbon on reeds and carrying bags)",
+     "conf": "medium",
+     "status": "accepted",
+     "note": "Single-point radiocarbon date cited for the site."
+    }
+   ]
+  },
+  {
+   "id": "item:machu-picchu",
+   "name": "Machu Picchu",
+   "ev": [
+    "wp:Machu Picchu"
+   ],
+   "description": "15th-century Inca citadel in the Peruvian Andes.",
+   "pov": {
+    "item_type": [
+     "concept:type:settlement",
+     "concept:type:archaeological-site"
+    ],
+    "function": [
+     "concept:function:royal-administrative"
+    ],
+    "culture": [
+     "culture:inca"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:andes"
+    ]
+   },
+   "wd_review": {
+    "P571:1450": {
+     "status": "alternative",
+     "note": "Traditional c. 1450 construction date; AMS radiocarbon (Burger et al.) indicates occupation from c. 1420."
+    }
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "from": 1420,
+     "to": 1530,
+     "qualifier": "circa",
+     "precision": "decade",
+     "method": "AMS radiocarbon (26 measurements on human remains)",
+     "label": "occupied from around 1420 to 1530",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred",
+     "group": "machu-picchu:start"
+    }
+   ]
+  },
+  {
+   "id": "item:cahokia",
+   "name": "Cahokia",
+   "ev": [
+    "wp:Cahokia"
+   ],
+   "description": "Largest urban settlement of the Mississippian culture.",
+   "pov": {
+    "item_type": [
+     "concept:type:city",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:platform-mound"
+    ],
+    "culture": [
+     "culture:mississippian"
+    ],
+    "polity": [
+     "polity:ramey-state"
+    ],
+    "theme": [
+     "concept:theme:early-urbanism"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:eastern-woodlands"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "from": 1050,
+     "to": 1350,
+     "qualifier": "circa",
+     "precision": "decade",
+     "label": "c. 1050–1350 AD (apex c. 1100)",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "occupation",
+     "from": 600,
+     "from_unc": 50,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "settled around 600 CE (Late Woodland)",
+     "conf": "medium",
+     "status": "accepted",
+     "qualifiers": {
+      "phase": "Late Woodland settlement"
+     },
+     "note": "Open end."
+    }
+   ]
+  },
+  {
+   "id": "item:monks-mound",
+   "name": "Monks Mound",
+   "ev": [
+    "wp:Monks Mound"
+   ],
+   "description": "Largest earthwork at Cahokia; a platform mound often called a pyramid.",
+   "pov": {
+    "item_type": [
+     "concept:type:monument"
+    ],
+    "form": [
+     "concept:form:platform-mound"
+    ],
+    "function": [
+     "concept:function:ceremonial",
+     "concept:function:royal-administrative"
+    ],
+    "culture": [
+     "culture:mississippian"
+    ]
+   },
+   "links": [
+    {
+     "pred": "part_of",
+     "obj": "item:cahokia"
+    }
+   ],
+   "wd_review": {
+    "P138:Q99521081": {
+     "status": "needs_verification",
+     "note": "Named after the Trappist monks who lived nearby — Wikidata links a generic 'Trappist Cistercian monk' item; not imported as a relation."
+    }
+   },
+   "time": [
+    {
+     "role": "construction",
+     "earliest_start": 900,
+     "latest_start": 955,
+     "earliest_end": 1100,
+     "latest_end": 1200,
+     "precision": "decade",
+     "label": "begun 900–955 CE; summit completed c. 1100; last terrace before 1200",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:cliff-palace",
+   "name": "Cliff Palace",
+   "ev": [
+    "wp:Cliff Palace"
+   ],
+   "description": "Largest cliff dwelling of Mesa Verde.",
+   "pov": {
+    "item_type": [
+     "concept:type:settlement",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:cliff-dwelling"
+    ],
+    "function": [
+     "concept:function:dwelling"
+    ],
+    "culture": [
+     "culture:ancestral-puebloan"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:american-southwest"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "from": 1200,
+     "to": 1300,
+     "qualifier": "circa",
+     "precision": "decade",
+     "label": "constructed and lived in from about 1200 to 1300 AD",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:lanse-aux-meadows",
+   "name": "L'Anse aux Meadows",
+   "ev": [
+    "wp:L'Anse aux Meadows"
+   ],
+   "description": "Norse settlement in Newfoundland; the only undisputed pre-Columbian Norse site in North America outside Greenland.",
+   "pov": {
+    "item_type": [
+     "concept:type:settlement",
+     "concept:type:archaeological-site"
+    ],
+    "function": [
+     "concept:function:dwelling"
+    ],
+    "culture": [
+     "culture:norse"
+    ],
+    "period": [
+     "period:viking-age"
+    ],
+    "theme": [
+     "concept:theme:transoceanic-contact"
+    ]
+   },
+   "time": [
+    {
+     "role": "use",
+     "from": 1021,
+     "to": 1021,
+     "precision": "year",
+     "method": "dendrochronology + 993 CE cosmic-ray 14C anomaly",
+     "label": "Norse wood-cutting activity in 1021",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred",
+     "group": "lam:date"
+    },
+    {
+     "role": "use",
+     "from": 990,
+     "to": 1050,
+     "precision": "decade",
+     "method": "radiocarbon",
+     "label": "carbon dating estimates 990–1050 CE (mean 1014)",
+     "conf": "medium",
+     "status": "accepted",
+     "group": "lam:date"
+    }
+   ]
+  },
+  {
+   "id": "item:nan-madol",
+   "name": "Nan Madol",
+   "ev": [
+    "wp:Nan Madol"
+   ],
+   "description": "Ruined megalithic city of artificial islets off Pohnpei.",
+   "pov": {
+    "item_type": [
+     "concept:type:city",
+     "concept:type:archaeological-site"
+    ],
+    "form": [
+     "concept:form:artificial-islets",
+     "concept:form:megalith"
+    ],
+    "function": [
+     "concept:function:royal-administrative",
+     "concept:function:ceremonial"
+    ],
+    "culture": [
+     "culture:saudeleur"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:micronesia"
+    ]
+   },
+   "time": [
+    {
+     "role": "occupation",
+     "from": 1,
+     "to": 200,
+     "precision": "century",
+     "label": "human activity as early as the 1st or 2nd century AD",
+     "conf": "medium",
+     "status": "accepted",
+     "note": "Earliest activity only."
+    },
+    {
+     "role": "construction",
+     "from": 1180,
+     "to": 1200,
+     "precision": "decade",
+     "label": "megalithic construction beginning 1180–1200 AD",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Start of the megalithic phase only; end open."
+    }
+   ]
+  },
+  {
+   "id": "item:ahu-tongariki",
+   "name": "Ahu Tongariki",
+   "ev": [
+    "wp:Ahu Tongariki"
+   ],
+   "description": "Largest ahu on Rapa Nui, with fifteen restored moai. Construction date NOT known in the POC (deliberately left unknown).",
+   "pov": {
+    "item_type": [
+     "concept:type:monument"
+    ],
+    "form": [
+     "concept:form:ahu",
+     "concept:form:colossal-statue"
+    ],
+    "function": [
+     "concept:function:ceremonial"
+    ],
+    "culture": [
+     "culture:rapa-nui"
+    ],
+    "theme": [
+     "concept:theme:natural-disaster"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:polynesia"
+    ]
+   },
+   "time": [
+    {
+     "role": "damage",
+     "from": 1960,
+     "to": 1960,
+     "precision": "year",
+     "label": "swept inland by the 1960 tsunami",
+     "conf": "high",
+     "status": "accepted"
+    },
+    {
+     "role": "restoration",
+     "from": 1990,
+     "to": 1999,
+     "precision": "decade",
+     "label": "substantially restored in the 1990s",
+     "conf": "high",
+     "status": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "item:budj-bim",
+   "name": "Budj Bim Cultural Landscape",
+   "ev": [
+    "wp:Budj Bim"
+   ],
+   "description": "Gunditjmara eel-trap and aquaculture system in western Victoria.",
+   "pov": {
+    "item_type": [
+     "concept:type:cultural-landscape"
+    ],
+    "form": [
+     "concept:form:aquaculture-system"
+    ],
+    "function": [
+     "concept:function:food-production"
+    ],
+    "culture": [
+     "culture:gunditjmara"
+    ]
+   },
+   "time": [
+    {
+     "role": "use",
+     "from_ka": 6.6,
+     "precision": "century",
+     "qualifier": "circa",
+     "label": "one eel-trap system carbon-dated to 6,600 years old",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Open-ended: continued use into the colonial era is not dated in the source."
+    }
+   ]
+  },
+  {
+   "id": "item:rosetta-stone",
+   "name": "Rosetta Stone",
+   "ev": [
+    "wp:Rosetta Stone"
+   ],
+   "description": "Granodiorite stele bearing a decree of 196 BC in hieroglyphic, Demotic and Greek; key to deciphering hieroglyphs.",
+   "names": [
+    {
+     "name": "אבן רוזטה",
+     "lang": "he",
+     "type": "alternative"
+    }
+   ],
+   "pov": {
+    "item_type": [
+     "concept:type:text",
+     "concept:type:artefact"
+    ],
+    "form": [
+     "concept:form:stele"
+    ],
+    "function": [
+     "concept:function:proclamation"
+    ],
+    "culture": [
+     "culture:ancient-egypt"
+    ],
+    "period": [
+     "period:ptolemaic-egypt",
+     "period:hellenistic"
+    ],
+    "dynasty": [
+     "dynasty:ptolemaic"
+    ],
+    "theme": [
+     "concept:theme:writing-decipherment"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:locality:rashid"
+    ]
+   },
+   "links": [
+    {
+     "pred": "found_at",
+     "obj": "place:locality:rashid"
+    },
+    {
+     "pred": "commissioned_by",
+     "obj": "person:ptolemy-v",
+     "note": "Decree issued on behalf of Ptolemy V."
+    }
+   ],
+   "attrs": [
+    {
+     "key": "museum_number",
+     "value": "EA24",
+     "ev": [
+      "lit:dalby-2019#abstract"
+     ],
+     "conf": "high",
+     "note": "British Museum EA24."
+    },
+    {
+     "key": "original_display_hypothesis",
+     "value": "originally displayed within a temple, possibly at nearby Sais",
+     "ev": [
+      "lit:dalby-2019#abstract"
+     ],
+     "conf": "low",
+     "status": "alternative",
+     "note": "Stated as 'believed' / 'possibly' in the source."
+    },
+    {
+     "key": "reuse_context",
+     "value": "used as building material in Fort Julien near Rashid (Rosetta)",
+     "ev": [
+      "lit:dalby-2019#abstract"
+     ],
+     "conf": "medium"
+    }
+   ],
+   "time": [
+    {
+     "role": "creation",
+     "from": -196,
+     "to": -196,
+     "precision": "year",
+     "label": "decree issued at Memphis in 196 BC",
+     "ev": [
+      "lit:dalby-2019#abstract"
+     ],
+     "conf": "high",
+     "status": "accepted"
+    },
+    {
+     "role": "creation",
+     "date": "-0196-03-27",
+     "calendar": "julian",
+     "precision": "day",
+     "label": "decree dated 4 Xandikos / 18 Mekhir = 27 March 196 BC",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Date given in the Macedonian and Egyptian calendars; the Julian-calendar equivalent is as reported by Wikipedia (proleptic Julian assumed)."
+    },
+    {
+     "role": "discovery",
+     "date": "1799-07",
+     "calendar": "gregorian",
+     "precision": "month",
+     "label": "found July 1799 by Pierre-François Bouchard",
+     "ev": [
+      "wp:Rosetta Stone",
+      "lit:dalby-2019#abstract"
+     ],
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred",
+     "group": "rosetta:discovery"
+    },
+    {
+     "role": "discovery",
+     "date": "1799-08-04",
+     "calendar": "gregorian",
+     "precision": "day",
+     "label": "discovered by chance on August 4, 1799",
+     "ev": [
+      "lit:schoville-2001#excerpt"
+     ],
+     "conf": "low",
+     "status": "alternative",
+     "group": "rosetta:discovery",
+     "note": "Conflicts with 'July 1799' (Wikipedia; Dalby 2019). Kept as an alternative; not resolved here."
+    }
+   ]
+  },
+  {
+   "id": "item:venus-of-willendorf",
+   "name": "Venus of Willendorf",
+   "ev": [
+    "wp:Venus of Willendorf"
+   ],
+   "description": "Upper Palaeolithic limestone figurine found near Willendorf, Austria.",
+   "pov": {
+    "item_type": [
+     "concept:type:sculpture"
+    ],
+    "form": [
+     "concept:form:figurine"
+    ],
+    "function": [
+     "concept:function:symbolic-art"
+    ],
+    "culture": [
+     "culture:gravettian"
+    ],
+    "period": [
+     "period:upper-paleolithic"
+    ],
+    "theme": [
+     "concept:theme:early-symbolic-behaviour"
+    ]
+   },
+   "time": [
+    {
+     "role": "deposition",
+     "from_ka": 30,
+     "to_ka": 30,
+     "qualifier": "circa",
+     "precision": "ka",
+     "method": "radiocarbon (surrounding layers)",
+     "label": "left in the ground around 30,000 years ago",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "discovery",
+     "date": "1908-08-07",
+     "calendar": "gregorian",
+     "precision": "day",
+     "label": "recovered 7 August 1908",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "item:antikythera-mechanism",
+   "name": "Antikythera mechanism",
+   "ev": [
+    "wp:Antikythera mechanism"
+   ],
+   "description": "Hellenistic geared astronomical calculator recovered from a shipwreck.",
+   "pov": {
+    "item_type": [
+     "concept:type:scientific-instrument"
+    ],
+    "form": [
+     "concept:form:geared-mechanism"
+    ],
+    "function": [
+     "concept:function:astronomical"
+    ],
+    "culture": [
+     "culture:ancient-greece"
+    ],
+    "period": [
+     "period:hellenistic"
+    ],
+    "theme": [
+     "concept:theme:archaeoastronomy"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     {
+      "id": "place:region:aegean",
+      "conf": "high",
+      "note": "Find context: shipwreck off the Greek island of Antikythera."
+     }
+    ]
+   },
+   "time": [
+    {
+     "role": "creation",
+     "from": -87,
+     "to": -87,
+     "qualifier": "circa",
+     "precision": "year",
+     "label": "about 87 BC",
+     "conf": "low",
+     "status": "alternative",
+     "group": "antikythera:creation"
+    },
+    {
+     "role": "creation",
+     "from": -150,
+     "to": -100,
+     "precision": "decade",
+     "label": "between 150 and 100 BC",
+     "conf": "medium",
+     "status": "alternative",
+     "rank": "preferred",
+     "group": "antikythera:creation"
+    },
+    {
+     "role": "creation",
+     "from": -205,
+     "to": -205,
+     "qualifier": "circa",
+     "precision": "year",
+     "label": "205 BC",
+     "conf": "low",
+     "status": "alternative",
+     "group": "antikythera:creation"
+    },
+    {
+     "role": "deposition",
+     "from": -70,
+     "to": -60,
+     "qualifier": "circa",
+     "precision": "decade",
+     "label": "shipwreck c. 70–60 BC (terminus ante quem for construction)",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "discovery",
+     "from": 1901,
+     "to": 1901,
+     "precision": "year",
+     "label": "retrieved from the wreck in 1901",
+     "conf": "high",
+     "status": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "item:dead-sea-scrolls",
+   "name": "Dead Sea Scrolls",
+   "ev": [
+    "wp:Dead Sea Scrolls"
+   ],
+   "description": "Ancient Jewish manuscripts from caves near Qumran (and other Judaean Desert sites).",
+   "names": [
+    {
+     "name": "המגילות הגנוזות",
+     "lang": "he",
+     "type": "alternative"
+    },
+    {
+     "name": "מגילות ים המלח",
+     "lang": "he",
+     "type": "alternative"
+    }
+   ],
+   "pov": {
+    "item_type": [
+     "concept:type:text",
+     "concept:type:artefact"
+    ],
+    "form": [
+     "concept:form:scroll"
+    ],
+    "function": [
+     "concept:function:scripture"
+    ],
+    "culture": [
+     "culture:second-temple-judaism"
+    ],
+    "period": [
+     "period:second-temple",
+     "period:hellenistic"
+    ],
+    "religion": [
+     "religion:judaism"
+    ],
+    "theme": [
+     "concept:theme:writing-decipherment"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:judaean-desert"
+    ]
+   },
+   "links": [
+    {
+     "pred": "held_by",
+     "obj": "org:israel-museum",
+     "conf": "high",
+     "note": "'Almost all' held in the Shrine of the Book; some fragments are elsewhere (e.g. Amman)."
+    }
+   ],
+   "time": [
+    {
+     "role": "creation",
+     "from": -300,
+     "to": 100,
+     "precision": "century",
+     "method": "palaeography + radiocarbon + numismatics",
+     "label": "3rd century BCE to 1st century CE",
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "discovery",
+     "from": 1946,
+     "to": 1956,
+     "precision": "year",
+     "label": "discovered 1946/1947 and until 1956",
+     "conf": "high",
+     "status": "accepted"
+    }
+   ],
+   "wd_review": {
+    "P361:Q9268": {
+     "status": "needs_verification",
+     "priority": "P4",
+     "note": "'part of: Judaism' — category mismatch; the curated religion link already covers this."
+    }
+   }
+  },
+  {
+   "id": "item:mask-of-tutankhamun",
+   "name": "Mask of Tutankhamun",
+   "ev": [
+    "wp:Mask of Tutankhamun"
+   ],
+   "description": "Gold funerary mask of Tutankhamun.",
+   "pov": {
+    "item_type": [
+     "concept:type:artefact"
+    ],
+    "form": [
+     "concept:form:funerary-mask"
+    ],
+    "function": [
+     "concept:function:funerary"
+    ],
+    "culture": [
+     "culture:ancient-egypt"
+    ],
+    "period": [
+     "period:egypt-new-kingdom"
+    ],
+    "dynasty": [
+     "dynasty:egypt-18"
+    ],
+    "religion": [
+     "religion:ancient-egyptian"
+    ]
+   },
+   "links": [
+    {
+     "pred": "found_at",
+     "obj": "item:tomb-of-tutankhamun-kv62"
+    }
+   ],
+   "time": [
+    {
+     "role": "creation",
+     "from": -1332,
+     "to": -1323,
+     "precision": "year",
+     "label": "during Tutankhamun's reign (1332–1323 BC)",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Bounded by the reign; not independently dated."
+    },
+    {
+     "role": "discovery",
+     "from": 1925,
+     "to": 1925,
+     "precision": "year",
+     "label": "found when the coffins and mummy were opened in 1925",
+     "ev": [
+      "wp:KV62"
+     ],
+     "conf": "medium",
+     "status": "accepted",
+     "note": "The 'Mask of Tutankhamun' article revision states the mask was 'found in 1922 following the discovery of the tomb three years earlier', which is internally inconsistent; KV62 article gives 1925 for opening the coffins."
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "id": "event:battle-of-kadesh",
+   "name": "Battle of Kadesh",
+   "ev": [
+    "wp:Battle of Kadesh"
+   ],
+   "description": "Battle between Egypt under Ramesses II and the Hittite Empire on the Orontes.",
+   "geo": {
+    "located_in": [
+     "place:locality:kadesh"
+    ]
+   },
+   "links": [
+    {
+     "pred": "occurred_at",
+     "obj": "place:locality:kadesh"
+    },
+    {
+     "pred": "participant",
+     "obj": "polity:egypt-new-kingdom"
+    },
+    {
+     "pred": "participant",
+     "obj": "polity:hittite-empire"
+    },
+    {
+     "pred": "participant",
+     "obj": "person:ramesses-ii"
+    }
+   ],
+   "time": []
+  },
+  {
+   "id": "event:minoan-eruption",
+   "name": "Minoan eruption of Thera",
+   "ev": [
+    "wp:Minoan eruption"
+   ],
+   "description": "Catastrophic Late Bronze Age eruption of Santorini; its date is a long-running dispute between radiocarbon and archaeological chronologies.",
+   "pov": {
+    "theme": [
+     "concept:theme:natural-disaster"
+    ]
+   },
+   "geo": {
+    "located_in": [
+     "place:region:santorini"
+    ]
+   },
+   "links": [
+    {
+     "pred": "occurred_at",
+     "obj": "place:region:santorini"
+    }
+   ],
+   "time": [
+    {
+     "role": "event",
+     "from": -1600,
+     "to": -1600,
+     "qualifier": "circa",
+     "from_unc": 50,
+     "to_unc": 50,
+     "precision": "century",
+     "method": "radiocarbon",
+     "label": "circa 1600 BC (radiocarbon-based)",
+     "conf": "medium",
+     "status": "disputed",
+     "group": "thera:date"
+    },
+    {
+     "role": "event",
+     "from": -1550,
+     "to": -1480,
+     "qualifier": "circa",
+     "precision": "decade",
+     "method": "archaeological (typology + Egyptian chronology)",
+     "label": "c. 1550–1480 BC (archaeological evidence)",
+     "conf": "medium",
+     "status": "disputed",
+     "group": "thera:date",
+     "note": "Archaeological dating is 'roughly a century' younger than the radiocarbon age (Wikipedia)."
+    }
+   ]
+  }
+ ],
+ "persons": [
+  {
+   "id": "person:khufu",
+   "name": "Khufu",
+   "names": [
+    {
+     "name": "Cheops",
+     "lang": "en",
+     "type": "historical"
+    }
+   ]
+  },
+  {
+   "id": "person:khafre",
+   "name": "Khafre",
+   "names": [
+    {
+     "name": "Khafra",
+     "lang": "en",
+     "type": "alternative"
+    },
+    {
+     "name": "Chephren",
+     "lang": "en",
+     "type": "historical"
+    }
+   ]
+  },
+  {
+   "id": "person:djoser",
+   "name": "Djoser"
+  },
+  {
+   "id": "person:tutankhamun",
+   "name": "Tutankhamun",
+   "ev": [
+    "wp:Mask of Tutankhamun"
+   ],
+   "links": [
+    {
+     "pred": "member_of",
+     "obj": "dynasty:egypt-18"
+    }
+   ],
+   "time": [
+    {
+     "role": "reign",
+     "from": -1332,
+     "to": -1323,
+     "precision": "year",
+     "label": "reigned 1332–1323 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Conventional Egyptian chronology."
+    }
+   ]
+  },
+  {
+   "id": "person:ramesses-ii",
+   "name": "Ramesses II",
+   "ev": [
+    "wp:Great Sphinx of Giza"
+   ],
+   "links": [
+    {
+     "pred": "member_of",
+     "obj": "dynasty:egypt-19"
+    }
+   ],
+   "time": [
+    {
+     "role": "reign",
+     "from": -1279,
+     "to": -1213,
+     "precision": "year",
+     "label": "1279–1213 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Conventional chronology as cited in the Great Sphinx article."
+    }
+   ]
+  },
+  {
+   "id": "person:qin-shi-huang",
+   "name": "Qin Shi Huang",
+   "links": [
+    {
+     "pred": "member_of",
+     "obj": "dynasty:qin"
+    }
+   ]
+  },
+  {
+   "id": "person:ptolemy-v",
+   "name": "Ptolemy V Epiphanes",
+   "links": [
+    {
+     "pred": "member_of",
+     "obj": "dynasty:ptolemaic"
+    }
+   ]
+  },
+  {
+   "id": "person:suryavarman-ii",
+   "name": "Suryavarman II"
+  },
+  {
+   "id": "person:darius-i",
+   "name": "Darius I",
+   "names": [
+    {
+     "name": "Darius the Great",
+     "lang": "en",
+     "type": "alternative"
+    }
+   ]
+  },
+  {
+   "id": "person:herod-the-great",
+   "name": "Herod the Great",
+   "names": [
+    {
+     "name": "הורדוס",
+     "lang": "he",
+     "type": "alternative"
+    }
+   ],
+   "links": [
+    {
+     "pred": "member_of",
+     "obj": "dynasty:herodian"
+    }
+   ]
+  },
+  {
+   "id": "person:gebre-mesqel-lalibela",
+   "name": "Gebre Mesqel Lalibela",
+   "links": [
+    {
+     "pred": "member_of",
+     "obj": "dynasty:zagwe"
+    }
+   ]
+  },
+  {
+   "id": "person:vespasian",
+   "name": "Vespasian",
+   "links": [
+    {
+     "pred": "member_of",
+     "obj": "dynasty:flavian"
+    }
+   ]
+  },
+  {
+   "id": "person:titus",
+   "name": "Titus",
+   "links": [
+    {
+     "pred": "member_of",
+     "obj": "dynasty:flavian"
+    }
+   ]
+  },
+  {
+   "id": "person:ur-nammu",
+   "name": "Ur-Nammu",
+   "ev": [
+    "wp:Ziggurat of Ur"
+   ],
+   "description": "King of the Third Dynasty of Ur (no Wikidata crosswalk in POC)."
+  },
+  {
+   "id": "person:raedwald",
+   "name": "Rædwald",
+   "ev": [
+    "wp:Sutton Hoo"
+   ],
+   "description": "King of the East Angles (no Wikidata crosswalk in POC)."
+  }
+ ]
+}

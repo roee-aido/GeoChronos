@@ -1,0 +1,6 @@
+# Immediate administrative territorial entity (P131).
+SELECT ?item ?admin ?adminLabel WHERE {
+  VALUES ?item { {{VALUES}} }
+  ?item wdt:P131 ?admin .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

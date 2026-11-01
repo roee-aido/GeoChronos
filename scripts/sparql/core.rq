@@ -1,0 +1,9 @@
+# Labels, descriptions, English aliases and coordinates (P625).
+SELECT ?item ?label ?description (GROUP_CONCAT(DISTINCT ?alias; separator="|") AS ?aliases)
+       (GROUP_CONCAT(DISTINCT STR(?coord); separator="|") AS ?coords) WHERE {
+  VALUES ?item { {{VALUES}} }
+  OPTIONAL { ?item rdfs:label ?label FILTER(LANG(?label) = "en") }
+  OPTIONAL { ?item schema:description ?description FILTER(LANG(?description) = "en") }
+  OPTIONAL { ?item skos:altLabel ?alias FILTER(LANG(?alias) = "en") }
+  OPTIONAL { ?item wdt:P625 ?coord }
+} GROUP BY ?item ?label ?description

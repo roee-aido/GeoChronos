@@ -1,0 +1,7 @@
+# Hebrew labels, aliases and descriptions (for a Hebrew UI; names are claims sourced to Wikidata).
+SELECT ?item ?labelHe ?descriptionHe (GROUP_CONCAT(DISTINCT ?aliasHe; separator="|") AS ?aliasesHe) WHERE {
+  VALUES ?item { {{VALUES}} }
+  OPTIONAL { ?item rdfs:label ?labelHe FILTER(LANG(?labelHe) = "he") }
+  OPTIONAL { ?item schema:description ?descriptionHe FILTER(LANG(?descriptionHe) = "he") }
+  OPTIONAL { ?item skos:altLabel ?aliasHe FILTER(LANG(?aliasHe) = "he") }
+} GROUP BY ?item ?labelHe ?descriptionHe

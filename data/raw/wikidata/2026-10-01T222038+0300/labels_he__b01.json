@@ -1,0 +1,486 @@
+{
+  "head" : {
+    "vars" : [ "item", "labelHe", "descriptionHe", "aliasesHe" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q495286"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אתרי הדולמן בגוצ'אנג, בהוואסון ובגאנגהווה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "אתרי הדולמן בגוצ'אנג, הוואסון וגאנגהווה|אתרי הדולמן בקוצ'האנג, בפוואסאן ובקאנגפווה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q835309"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קבר תות ענח' אמון"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "KV62"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קברו של תות ענח' אמון"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q471332"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "לליבלה, קיסר אתיופיה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "גברה מסקל לליבלה, קיסר אתיופיה"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "ትግርኛ"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2402267"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "תל יריחו"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "תל א-סולטאן"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אתר ארכיאולוגי המזוהה עם העיר יריחו הקדומה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q280444"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q313298"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q333661"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קהוקיה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q339503"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q343053"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q421232"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q456939"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q503256"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "סאטון הו"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אתר ארכאולוגי באנגליה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q522862"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "כרנך"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אתר סגידה לשלישייה מתבאי, במצרים העתיקה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q637187"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "המוזיאון הלאומי לארכאולוגיה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מוזיאון לארכאולוגיה השוכן באתונה, ובו מוצגים חפצים מאתרים ארכאולוגיים ברחבי יוון והמזרח התיכון, אשר מתוארכים מהפרהיסטוריה ועד שלהי העת העתיקה."
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q642979"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q676203"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מאצ'ו פיצ'ו"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "עיר עתיקה בפרו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q688704"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מוזיאון ההיסטוריה של הטבע"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מוזיאון באוסטריה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q690035"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קדש"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "עיר חורית חרבה על גדות נהר הארנת שבסוריה של ימינו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q816437"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "סקארה ברי"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אתר ארכאולוגי בסקוטלנד"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833850"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q846967"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "נן מדול"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אתר במיקרונזיה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q884971"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מערת בלומבוס"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q910180"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "המאוזוליאום של קיסר צ'ין הראשון"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128327"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פירמידת אל קסטיליו"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פירמידה במקסיקו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1143218"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "דולמן מנגה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "רוגם בקהילת מלגה בדרום ספרד שהוא אתר מורשת עולמית"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1144693"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "ההתפרצות המינואית"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "הר ביוון"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1262524"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "בית האוצר של אטראוס"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2979068"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "ארמון הצוק"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3448354"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7272782"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מערות קומראן"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מערות בקומראן, בצפון מדבר יהודה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9048095"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מסכת תות ענח' אמון"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מסכת קבורה מזהב, של המלך בעל הקבר העשיר ביותר בממצאי מצרים העתיקה, הנחשבת בין פריטיו הנכספים לתערוכות בשלל מדינות ובראש תערוכת הדגל של המוזיאון המצרי הגדול כמוסד התצוגה החד-תרבותי הגדול בעולם וכאחת היצירות הנודעות בהיסטוריה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85749368"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    } ]
+  }
+}

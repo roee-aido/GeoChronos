@@ -1,0 +1,1347 @@
+{
+  "head" : {
+    "vars" : [ "item", "prop", "value" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1524"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P402"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "1370736"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6373"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P402"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "177044"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6373"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1216"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "1130404"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10285"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P402"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "1834818"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39671"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1216"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "1010140"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57357"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P402"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "933533"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57357"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1216"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "1000098"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129296"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P402"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "453964"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181007"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P402"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "1598209"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1524"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "264371"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1524"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1667"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "7001393"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5684"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "98228"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5684"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1667"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "7002626"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5725"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "1170156"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5725"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1667"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "6003937"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5747"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "163808"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5788"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "250745"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5859"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "11071657"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5859"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1667"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "7023949"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6373"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "6697862"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6373"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1667"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "1100764"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10285"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "6269248"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10288"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "8354432"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12506"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "6947665"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12508"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "355017"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22647"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "298885"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29238"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "9960118"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29317"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "1302638"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37200"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "356475"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37200"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1667"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "7536588"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39671"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "2636812"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39671"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1667"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "7011211"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42798"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "1648141"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43332"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "3170336"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43332"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1667"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "7004658"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43473"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "1831948"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57357"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "8739739"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57357"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1667"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "1100573"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61750"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "3903046"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q101583"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "347342"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129072"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "110836"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129296"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "252919"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130958"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "362903"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130958"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1667"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "7001337"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133575"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "3130237"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134140"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "362040"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134140"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1667"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "7001444"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172125"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "3006471"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172613"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "3515936"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172613"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1667"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "7007218"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q173527"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "259627"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q173527"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1667"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "7010870"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181007"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "9609567"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181123"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "9855411"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181172"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1566"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "3588370"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5684"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "893951"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5725"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "138"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5725"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "902113570"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5747"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "23"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5747"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "23bis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5747"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "668331"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5788"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "326"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5788"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "697725"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5859"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "483"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10285"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "285857974"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10288"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "404"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10288"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "168254096"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12506"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "356"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12506"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "307220778"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12508"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "442962448"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22647"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "849"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22647"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "550595"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29317"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "1588"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37200"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "704360201"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39671"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "373"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39671"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "509089189"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42798"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "592-001"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43332"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "433032"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43473"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "668-001"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43473"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "835369289"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57357"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "430-001"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57357"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "91358"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57357"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "579047271"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61750"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "567"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61750"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "567rev"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q101583"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "786017"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129072"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "114"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129072"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "922695"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129296"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "599973"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130958"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "536839380"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133423"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "384697574"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133575"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "310"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133575"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "310-001"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134140"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "88-001"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134140"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "721417202"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172125"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "85bis-011"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172125"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "802425707"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172613"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "414"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q173527"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "1733-001"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q173527"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "589872"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181007"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "377-001"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181007"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P1584"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "283602441"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181123"
+      },
+      "prop" : {
+        "type" : "literal",
+        "value" : "P757"
+      },
+      "value" : {
+        "type" : "literal",
+        "value" : "524"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "head" : {
+    "vars" : [ "item", "admin", "adminLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q280444"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486448"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Madison County"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q333661"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q577845"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Collinsville"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q339503"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183544"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "County Meath"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q343053"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q282203"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Qrendi"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q421232"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3949542"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thira Municipality"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q495286"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20934"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Incheon"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q495286"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41157"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Jeolla"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q495286"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41161"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Jeolla"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q503256"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3388575"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sutton"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q522862"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30797"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luxor Governorate"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q522862"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189392"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnak"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q637187"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1224979"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Athens Municipality"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q642979"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6494931"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lasta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q676203"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q205057"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cusco Department"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q676203"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1771879"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Urubamba Province"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q676203"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2702856"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Machupicchu District"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q688704"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1741"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vienna"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q688704"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q267329"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Innere Stadt"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q690035"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q858"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Syria"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q816437"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q100166"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Orkney Islands"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833850"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q70925"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carnac"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833850"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127747"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "La Trinité-sur-Mer"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q835309"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130514"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luxor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q835309"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133423"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Valley of the Kings"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q846967"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q687165"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Madolenihmw"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q910180"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q194635"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lintong District"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128327"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5859"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chichen Itza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1143218"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q572041"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antequera"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1262524"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q649278"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Argos-Mykines Municipality"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2402267"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5687"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jericho"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2979068"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q312497"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montezuma County"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3448354"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009773"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla de Pascua"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7272782"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q513200"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Judea and Samaria Area"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85749368"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36687"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Victoria"
+      }
+    } ]
+  }
+}

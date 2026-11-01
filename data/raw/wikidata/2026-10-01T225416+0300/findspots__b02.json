@@ -1,0 +1,26 @@
+{
+  "head" : {
+    "vars" : [ "item", "spot", "spotLabel", "spotCoord" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9048095"
+      },
+      "spot" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q835309"
+      },
+      "spotLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tomb of Tutankhamun"
+      },
+      "spotCoord" : {
+        "type" : "literal",
+        "value" : "Point(32.601444444 25.740361111)"
+      }
+    } ]
+  }
+}

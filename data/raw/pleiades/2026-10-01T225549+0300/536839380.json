@@ -1,0 +1,807 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        31.1374906,
+                        29.9753347
+                    ],
+                    [
+                        31.1376217,
+                        29.9753335
+                    ],
+                    [
+                        31.1376742,
+                        29.975333
+                    ],
+                    [
+                        31.1376868,
+                        29.975336
+                    ],
+                    [
+                        31.1377002,
+                        29.9753456
+                    ],
+                    [
+                        31.1377079,
+                        29.9753609
+                    ],
+                    [
+                        31.1377933,
+                        29.9753494
+                    ],
+                    [
+                        31.1379702,
+                        29.9753424
+                    ],
+                    [
+                        31.1379819,
+                        29.9753349
+                    ],
+                    [
+                        31.1379843,
+                        29.9753231
+                    ],
+                    [
+                        31.1379817,
+                        29.9753126
+                    ],
+                    [
+                        31.1379675,
+                        29.9753038
+                    ],
+                    [
+                        31.1378274,
+                        29.9753041
+                    ],
+                    [
+                        31.1378189,
+                        29.9752949
+                    ],
+                    [
+                        31.1378193,
+                        29.9752819
+                    ],
+                    [
+                        31.1378193,
+                        29.9752683
+                    ],
+                    [
+                        31.1378269,
+                        29.9752566
+                    ],
+                    [
+                        31.1379694,
+                        29.9752541
+                    ],
+                    [
+                        31.137979,
+                        29.975246
+                    ],
+                    [
+                        31.1379841,
+                        29.9752295
+                    ],
+                    [
+                        31.1379803,
+                        29.9752168
+                    ],
+                    [
+                        31.137968,
+                        29.9752091
+                    ],
+                    [
+                        31.1377889,
+                        29.9752065
+                    ],
+                    [
+                        31.1377133,
+                        29.9752003
+                    ],
+                    [
+                        31.1377103,
+                        29.9752126
+                    ],
+                    [
+                        31.1377012,
+                        29.9752263
+                    ],
+                    [
+                        31.1376855,
+                        29.9752324
+                    ],
+                    [
+                        31.1374878,
+                        29.9752349
+                    ],
+                    [
+                        31.1374808,
+                        29.9751955
+                    ],
+                    [
+                        31.1372889,
+                        29.9751963
+                    ],
+                    [
+                        31.1372469,
+                        29.9752085
+                    ],
+                    [
+                        31.1372234,
+                        29.975232
+                    ],
+                    [
+                        31.1372068,
+                        29.9752575
+                    ],
+                    [
+                        31.1372052,
+                        29.9752802
+                    ],
+                    [
+                        31.1372115,
+                        29.9753033
+                    ],
+                    [
+                        31.1372258,
+                        29.9753235
+                    ],
+                    [
+                        31.1372524,
+                        29.975347
+                    ],
+                    [
+                        31.1372935,
+                        29.9753671
+                    ],
+                    [
+                        31.1374793,
+                        29.9753659
+                    ],
+                    [
+                        31.1374906,
+                        29.9753347
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-of-great-sphinx-of-giza",
+            "properties": {
+                "snippet": "Monument; 2670 BC - 2168 BC",
+                "link": "https://pleiades.stoa.org/places/536839380/osm-location-of-great-sphinx-of-giza",
+                "description": "Representative location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location of Great Sphinx of Giza"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "rssmith",
+            "homepage": null,
+            "name": "R. Scott Smith",
+            "uri": "https://pleiades.stoa.org/author/rssmith"
+        },
+        {
+            "username": "ghawes",
+            "homepage": null,
+            "name": "Greta Hawes",
+            "uri": "https://pleiades.stoa.org/author/ghawes"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "old-kingdom-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/old-kingdom-egypt",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/540058405",
+                    "citationDetail": "Way 540058405",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:way=540058405",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-of-great-sphinx-of-giza",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/monument"
+            ],
+            "end": -2168,
+            "title": "OSM location of Great Sphinx of Giza",
+            "provenance": "OpenStreetMap (Way 540058405, version 25, osm:changeset=173269113, 2025-10-14T11:09:33Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -2670,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/monument"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "monument"
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "created": "2023-11-20T00:57:00Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        31.1374906,
+                        29.9753347
+                    ],
+                    [
+                        31.1376217,
+                        29.9753335
+                    ],
+                    [
+                        31.1376742,
+                        29.975333
+                    ],
+                    [
+                        31.1376868,
+                        29.975336
+                    ],
+                    [
+                        31.1377002,
+                        29.9753456
+                    ],
+                    [
+                        31.1377079,
+                        29.9753609
+                    ],
+                    [
+                        31.1377933,
+                        29.9753494
+                    ],
+                    [
+                        31.1379702,
+                        29.9753424
+                    ],
+                    [
+                        31.1379819,
+                        29.9753349
+                    ],
+                    [
+                        31.1379843,
+                        29.9753231
+                    ],
+                    [
+                        31.1379817,
+                        29.9753126
+                    ],
+                    [
+                        31.1379675,
+                        29.9753038
+                    ],
+                    [
+                        31.1378274,
+                        29.9753041
+                    ],
+                    [
+                        31.1378189,
+                        29.9752949
+                    ],
+                    [
+                        31.1378193,
+                        29.9752819
+                    ],
+                    [
+                        31.1378193,
+                        29.9752683
+                    ],
+                    [
+                        31.1378269,
+                        29.9752566
+                    ],
+                    [
+                        31.1379694,
+                        29.9752541
+                    ],
+                    [
+                        31.137979,
+                        29.975246
+                    ],
+                    [
+                        31.1379841,
+                        29.9752295
+                    ],
+                    [
+                        31.1379803,
+                        29.9752168
+                    ],
+                    [
+                        31.137968,
+                        29.9752091
+                    ],
+                    [
+                        31.1377889,
+                        29.9752065
+                    ],
+                    [
+                        31.1377133,
+                        29.9752003
+                    ],
+                    [
+                        31.1377103,
+                        29.9752126
+                    ],
+                    [
+                        31.1377012,
+                        29.9752263
+                    ],
+                    [
+                        31.1376855,
+                        29.9752324
+                    ],
+                    [
+                        31.1374878,
+                        29.9752349
+                    ],
+                    [
+                        31.1374808,
+                        29.9751955
+                    ],
+                    [
+                        31.1372889,
+                        29.9751963
+                    ],
+                    [
+                        31.1372469,
+                        29.9752085
+                    ],
+                    [
+                        31.1372234,
+                        29.975232
+                    ],
+                    [
+                        31.1372068,
+                        29.9752575
+                    ],
+                    [
+                        31.1372052,
+                        29.9752802
+                    ],
+                    [
+                        31.1372115,
+                        29.9753033
+                    ],
+                    [
+                        31.1372258,
+                        29.9753235
+                    ],
+                    [
+                        31.1372524,
+                        29.975347
+                    ],
+                    [
+                        31.1372935,
+                        29.9753671
+                    ],
+                    [
+                        31.1374793,
+                        29.9753659
+                    ],
+                    [
+                        31.1374906,
+                        29.9753347
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/536839380/osm-location-of-great-sphinx-of-giza",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modifiedBy": "jbecker",
+                    "modified": "2026-04-13T18:45:28Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2023-11-20T12:14:17Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-11-20T00:57:37Z"
+                },
+                {
+                    "comment": "supersedes previously published location.",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-11-20T00:57:29Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-11-20T00:57:00Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-11-20T00:57:00Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": null,
+            "description": "",
+            "contributors": [],
+            "created": "2018-01-11T23:39:18Z",
+            "associationCertainty": "certain",
+            "title": "Giza",
+            "start": null,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/536839380/9587129134",
+            "connectionType": "at",
+            "id": "9587129134",
+            "attestations": [],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-11T23:39:18Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-11T23:39:18Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-11T23:39:18Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/442962448",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q130958",
+            "citationDetail": "The Great Sphinx (Q130958)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza",
+            "citationDetail": "Great Sphinx of Giza",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://vocab.getty.edu/page/tgn/7001337",
+            "citationDetail": "7001337: Abū al Hawl",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "TGN",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZLJQ5AZJ",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Getty Thesaurus of Geographic Names® Online</i>, n.d. https://www.getty.edu/research/tools/vocabularies/tgn/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://arachne.dainst.org/entity/1131823",
+            "citationDetail": "Der große Sphinx Gizeh, (Letopolis), Al-Dschiza (Gouvernement)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Arachne",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: iDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute, 2025. https://arachne.dainst.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://resource.manto.unh.edu/11329620",
+            "citationDetail": "11329620: the Great Sphinx of Giza (Egypt)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "MANTO",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
+            "formattedCitation": "<div class=\"csl-entry\">Hawes, Greta, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Great Sphinx",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.geonames.org/362903/sphinx.html",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "GeoNames 362903",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "name.2018-01-13.9967053944",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2018-01-14T05:02:26Z",
+            "uri": "https://pleiades.stoa.org/places/536839380/name.2018-01-13.9967053944",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-18T20:49:10Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-14T14:48:30Z"
+                },
+                {
+                    "comment": "name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-14T05:02:26Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-14T05:02:26Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Abū al-Haul",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.geonames.org/362903/sphinx.html",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "GeoNames 362903",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "aba-al-haul",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "arz",
+            "created": "2018-01-14T05:10:15Z",
+            "uri": "https://pleiades.stoa.org/places/536839380/aba-al-haul",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "أبو الهول‎",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-18T20:49:11Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-14T14:48:30Z"
+                },
+                {
+                    "comment": "name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-14T05:10:17Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-14T05:10:15Z"
+                }
+            ]
+        }
+    ],
+    "id": "536839380",
+    "subject": [
+        "extant remains"
+    ],
+    "title": "The Great Sphinx",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/monument"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "A monumental limestone sphinx situated on the Giza plateau, likely connected with the reign of Pharaoh Khafre.",
+    "reprPoint": [
+        31.13763814777219,
+        29.975279630324483
+    ],
+    "placeTypes": [
+        "monument"
+    ],
+    "bbox": [
+        31.1372052,
+        29.9751955,
+        31.1379843,
+        29.9753671
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/442962448"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2018-01-11T23:39:17Z",
+    "uri": "https://pleiades.stoa.org/places/536839380",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "manto 11329620: the Great Sphinx of Giza (Egypt)",
+            "modifiedBy": "jbecker",
+            "modified": "2026-04-13T18:46:32Z"
+        },
+        {
+            "comment": "add arachne",
+            "modifiedBy": "jbecker",
+            "modified": "2023-11-20T00:54:56Z"
+        },
+        {
+            "comment": "TGN 7001337: Abū al Hawl",
+            "modifiedBy": "jbecker",
+            "modified": "2021-12-18T13:52:57Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2020-08-19T20:54:05Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2018-01-18T20:49:10Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-14T14:48:30Z"
+        },
+        {
+            "comment": "summary, references",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-14T05:06:04Z"
+        },
+        {
+            "comment": "Migrated from location",
+            "modifiedBy": "thomase",
+            "modified": "2018-01-11T23:39:20Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "thomase",
+            "modified": "2018-01-11T23:39:17Z"
+        }
+    ]
+}

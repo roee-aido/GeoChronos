@@ -1,0 +1,1377 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.163106,
+                    35.297847
+                ]
+            },
+            "type": "Feature",
+            "id": "dare-location",
+            "properties": {
+                "snippet": "Settlement; 750 BC - AD 640",
+                "link": "https://pleiades.stoa.org/places/589872/dare-location",
+                "description": "Representative point location, site precision",
+                "location_precision": "precise",
+                "title": "DARE Location"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": null,
+            "name": "DARMC"
+        },
+        {
+            "username": "bkiesling",
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling"
+        },
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "jahlfeldt",
+            "homepage": null,
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt"
+        },
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": null,
+            "name": "Austin Banda"
+        },
+        {
+            "username": "pdevarney",
+            "homepage": null,
+            "name": "Patrick DeVarney",
+            "uri": "https://pleiades.stoa.org/author/pdevarney"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        },
+        {
+            "username": "arabinowitz",
+            "homepage": null,
+            "name": "Adam Rabinowitz",
+            "uri": "https://pleiades.stoa.org/author/arabinowitz"
+        },
+        {
+            "username": "cbouras",
+            "homepage": null,
+            "name": "Catherine Bouras",
+            "uri": "https://pleiades.stoa.org/author/cbouras"
+        },
+        {
+            "username": "ashapland",
+            "homepage": null,
+            "name": "Andrew Shapland",
+            "uri": "https://pleiades.stoa.org/author/ashapland"
+        },
+        {
+            "username": null,
+            "name": "R. Talbert"
+        },
+        {
+            "username": "mgierhart",
+            "homepage": null,
+            "name": "Maija Gierhart",
+            "uri": "https://pleiades.stoa.org/author/mgierhart"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://francia.ahlfeldt.se/imperium.php",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
+                    "otherIdentifier": " ",
+                    "type": "cites"
+                }
+            ],
+            "id": "dare-location",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "end": 640,
+            "title": "DARE Location",
+            "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -750,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
+            "featureType": [
+                "settlement"
+            ],
+            "description": "Representative point location, site precision",
+            "created": "2012-10-20T20:31:58Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.163106,
+                    35.297847
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/589872/dare-location",
+            "creators": [
+                {
+                    "username": "jahlfeldt",
+                    "homepage": null,
+                    "name": "Johan Åhlfeldt",
+                    "uri": "https://pleiades.stoa.org/author/jahlfeldt"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "sgillies",
+                    "modified": "2012-10-20T20:32:00Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "sgillies",
+                    "modified": "2012-10-20T20:32:00Z"
+                },
+                {
+                    "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+                    "modifiedBy": "sgillies",
+                    "modified": "2012-10-20T20:32:00Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "sgillies",
+                    "modified": "2012-10-20T20:31:59Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": null,
+            "description": "",
+            "contributors": [],
+            "created": "2020-05-13T21:55:18Z",
+            "associationCertainty": "certain",
+            "title": "Bronze Age Settlement at Knossos",
+            "start": null,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/589872/bronze-age-settlement-at-knossos",
+            "connectionType": "succeeds",
+            "id": "bronze-age-settlement-at-knossos",
+            "attestations": [],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2022-07-12T01:39:02Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2021-10-23T02:30:39Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "thomase",
+                    "modified": "2020-05-13T21:55:18Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "thomase",
+                    "modified": "2020-05-13T21:55:18Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/781961476",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/succeeds"
+        },
+        {
+            "end": null,
+            "description": "",
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "created": "2016-07-13T13:40:12Z",
+            "associationCertainty": "certain",
+            "title": "Creta (island)",
+            "start": null,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/589872/589748",
+            "connectionType": "on",
+            "id": "589748",
+            "attestations": [],
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "thomase",
+                    "modified": "2024-04-09T16:00:20Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:40:12Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:40:12Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:40:12Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/589748",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
+            "citationDetail": "60 D2 Knosos/Col. Iulia Nobilis Cnosos",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "BAtlas",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "shortTitle": "Hood 1981",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZTFAQUJH",
+            "formattedCitation": "<div class=\"csl-entry\">Hood, Sinclair, and David Smyth. <i>Archaeological Survey of the Knossos Area</i>. 2  rev. and Expand. Supplementary Volume (British School at Athens) 14. London: Thames and Hudson, 1981.</div>",
+            "otherIdentifier": "",
+            "type": "seeAlso"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.trismegistos.org/place/1122",
+            "citationDetail": "Geo 1122: Knosos",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "TM",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q173527",
+            "citationDetail": "Knossos (Q173527)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e617550",
+            "citationDetail": "Knossos (H. Sonnabend)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "New Pauly",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brill.com/display/db/npoe.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.geonames.org/259627/knosos.html",
+            "citationDetail": "259627: Knosós",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "GeoNames",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DK%3Aentry+group%3D4%3Aentry%3Dknossos",
+            "citationDetail": "KNOSSOS Temenos, Crete",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "PECS (Perseus)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Cavanagh 1998",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/D8T8BK23",
+            "formattedCitation": "<div class=\"csl-entry\">Cavanagh, William G, and M Curtis. <i>Post-Minoan Crete: Proceedings of the First Colloquium on Post-Minoan Crete Held by the British School at Athens and the Institute of Archaeology, University College London, 10-11 November 1995</i>. British School at Athens Studies 2. London: British School at Athens; University College, London: Institute of Archaeology, 1998.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2071.html",
+            "citationDetail": "8B1 Cnoso (Talbert 2071)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "TP (Talbert: CUP)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://darmc.harvard.edu/home",
+            "citationDetail": "4145",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "DARMC",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://darmc.harvard.edu/home",
+            "citationDetail": "24062",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "DARMC",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://topostext.org/place/353252PKno",
+            "citationDetail": "Knossos (Irakleio)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "shortTitle": "ToposText",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "type": "seeAlso"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://digital.bsa.ac.uk/hood.php",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "shortTitle": "Hood 2020",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8CMKCFQ5",
+            "formattedCitation": "<div class=\"csl-entry\">Hood, Sinclair, and David Smyth. “Archaeological Survey of the Knossos Area 2.0.” Archaeological Survey of the Knossos Area, 2020. https://digital.bsa.ac.uk/hood.php.</div>",
+            "otherIdentifier": "",
+            "type": "seeAlso"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www2.le.ac.uk/departments/archaeology/research/projects/roman-knossos",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Stewart 2017",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/X4PKSJG2",
+            "formattedCitation": "<div class=\"csl-entry\">Stewart, Daniel, and Jennifer Baird. <i>Geophysical Survey of Roman Knossos</i>. Leicester: University of Leicester, 2017. https://www2.le.ac.uk/departments/archaeology/research/projects/roman-knossos.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://vocab.getty.edu/page/tgn/7228703",
+            "citationDetail": "7228703: Knosós (ancient site)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "TGN",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZLJQ5AZJ",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Getty Thesaurus of Geographic Names® Online</i>, n.d. https://www.getty.edu/research/tools/vocabularies/tgn/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://vocab.getty.edu/page/tgn/7010870",
+            "citationDetail": "7010870: Knossós (deserted settlement)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "TGN",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZLJQ5AZJ",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Getty Thesaurus of Geographic Names® Online</i>, n.d. https://www.getty.edu/research/tools/vocabularies/tgn/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://arachne.dainst.org/entity/1921",
+            "citationDetail": "Knossos Iraklio (Regionalbezirk)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Arachne",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://resource.manto.unh.edu/9592442",
+            "citationDetail": "9592442: Knossos (Crete)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "MANTO",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
+            "formattedCitation": "<div class=\"csl-entry\">Greta Hawes, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://chronique.efa.gr/?kroute=topo_public&id=38280",
+            "citationDetail": "Toponyme 38280: Knossos, Knosos, Cnossus, Cnossos",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "CFL/AGO",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://latin.packhum.org/loc/978/1/291/999-1005",
+            "citationDetail": "4.59.6",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://nomisma.org/id/cnossus",
+            "citationDetail": "Cnossus",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "nomisma.org",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/N5BAUNTN",
+            "formattedCitation": "<div class=\"csl-entry\">Meadows, Andrew, Sebastian Heath, and Ethan Gruber. <i>Nomisma.Org</i>. New York: American Numismatic Society, 2010. http://nomisma.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/6684340",
+            "citationDetail": "610",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "ItMiller",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q8X83VMV",
+            "formattedCitation": "<div class=\"csl-entry\">Miller, Konrad. <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://tp-online.ku.de/trefferanzeige_en.php?id=1166",
+            "citationDetail": "1166: Cnoso",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "KU TP Database (Rathmann)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KDZ6Q72N",
+            "formattedCitation": "<div class=\"csl-entry\">Ingolstadt, Katholische Universität Eichstätt-. “Tabula Peutingeriana.” Datenbank tp-online. Accessed June 4, 2025. https://www.ku.de/ggf/geschichte/alte-geschichte/forschung/datenbank-tp-online.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://whgazetteer.org/places/7551942/detail",
+            "citationDetail": "7551942",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "WHG",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RHX229R6",
+            "formattedCitation": "<div class=\"csl-entry\">Mostern, Ruth, Alexandra Straub, Stephen Gadd, Karl Grossner, and David Ruvolo, eds. <i>World Historical Gazetteer: Linking Knowledge about the Past via Place</i>. Pittsburgh, PA: The World History Center at University of Pittsburgh, 2017. http://whgazetteer.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "ko-no-so",
+            "attestations": [
+                {
+                    "timePeriod": "late-minoan",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-minoan",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.academia.edu/963845/The_Geography_of_the_Mycenaean_Kingdoms",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Bennet 2011",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/7773UUPG",
+                    "formattedCitation": "<div class=\"csl-entry\">Bennet, John. “The Geography of the Mycenaean Kingdoms.” In <i>A Companion to Linear B: Mycenaean Greek Texts and Their World</i>, edited by Yves Duhoux and Anna Morpurgo Davies, 137–68. Louvain: Peeters, 2011.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "p. 378-9",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Aura Jorro 1985",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/H7LUBF9T",
+                    "formattedCitation": "<div class=\"csl-entry\">Aura Jorro, Francisco. <i>Diccionario Micénico</i>. Vol. 1. Diccionario Griego-Español 1. Madrid: Consejo Superior de Investigaciones Cientifícas, Instituto de Filología, 1985.</div>",
+                    "otherIdentifier": "ISBN: 84-00-06128-4",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Wilson 1977",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NIXSP4NP",
+                    "formattedCitation": "<div class=\"csl-entry\">Wilson, Anthony L. “The Place-Names in the Linear B Tablets from Knossos: Some Preliminary Considerations.” <i>Minos</i> 16, no. 1 &amp; 2 (1977): 67–125.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "KN Ak(1) 626.1",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Melena 2019",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K48PCFR5",
+                    "formattedCitation": "<div class=\"csl-entry\">Melena, José Luis, and Richard Firth, eds. <i>The Knossos Tablets</i>. Sixth edition. Philadelphia: INSTAP Academic Press, 2019.</div>",
+                    "otherIdentifier": "ISBN: 978-1-931534-96-3",
+                    "type": "citesAsEvidence"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "KN Ak(1) 643.a",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Melena 2019",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K48PCFR5",
+                    "formattedCitation": "<div class=\"csl-entry\">Melena, José Luis, and Richard Firth, eds. <i>The Knossos Tablets</i>. Sixth edition. Philadelphia: INSTAP Academic Press, 2019.</div>",
+                    "otherIdentifier": "ISBN: 978-1-931534-96-3",
+                    "type": "citesAsEvidence"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "KN As 40.1",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Melena 2019",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K48PCFR5",
+                    "formattedCitation": "<div class=\"csl-entry\">Melena, José Luis, and Richard Firth, eds. <i>The Knossos Tablets</i>. Sixth edition. Philadelphia: INSTAP Academic Press, 2019.</div>",
+                    "otherIdentifier": "ISBN: 978-1-931534-96-3",
+                    "type": "citesAsEvidence"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "KN C(1) 5753",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Melena 2019",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K48PCFR5",
+                    "formattedCitation": "<div class=\"csl-entry\">Melena, José Luis, and Richard Firth, eds. <i>The Knossos Tablets</i>. Sixth edition. Philadelphia: INSTAP Academic Press, 2019.</div>",
+                    "otherIdentifier": "ISBN: 978-1-931534-96-3",
+                    "type": "citesAsEvidence"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "KN Lc(1) 548",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Melena 2019",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K48PCFR5",
+                    "formattedCitation": "<div class=\"csl-entry\">Melena, José Luis, and Richard Firth, eds. <i>The Knossos Tablets</i>. Sixth edition. Philadelphia: INSTAP Academic Press, 2019.</div>",
+                    "otherIdentifier": "ISBN: 978-1-931534-96-3",
+                    "type": "citesAsEvidence"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "KN Lc(1) 549",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Melena 2019",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K48PCFR5",
+                    "formattedCitation": "<div class=\"csl-entry\">Melena, José Luis, and Richard Firth, eds. <i>The Knossos Tablets</i>. Sixth edition. Philadelphia: INSTAP Academic Press, 2019.</div>",
+                    "otherIdentifier": "ISBN: 978-1-931534-96-3",
+                    "type": "citesAsEvidence"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "KN Le 641.4",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Melena 2019",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K48PCFR5",
+                    "formattedCitation": "<div class=\"csl-entry\">Melena, José Luis, and Richard Firth, eds. <i>The Knossos Tablets</i>. Sixth edition. Philadelphia: INSTAP Academic Press, 2019.</div>",
+                    "otherIdentifier": "ISBN: 978-1-931534-96-3",
+                    "type": "citesAsEvidence"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "KN X 7564",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Melena 2019",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K48PCFR5",
+                    "formattedCitation": "<div class=\"csl-entry\">Melena, José Luis, and Richard Firth, eds. <i>The Knossos Tablets</i>. Sixth edition. Philadelphia: INSTAP Academic Press, 2019.</div>",
+                    "otherIdentifier": "ISBN: 978-1-931534-96-3",
+                    "type": "citesAsEvidence"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://liber.cnr.it/tablet/list",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+                    "shortTitle": "LiBER",
+                    "bibliographicURI": "",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "type": "seeAlso"
+                }
+            ],
+            "id": "ko-no-so",
+            "end": -1080,
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                },
+                {
+                    "username": "mgierhart",
+                    "homepage": null,
+                    "name": "Maija Gierhart",
+                    "uri": "https://pleiades.stoa.org/author/mgierhart"
+                }
+            ],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -1600,
+            "details": "",
+            "review_state": "published",
+            "description": "Toponym for Knossos attested in Linear B tablets from the site",
+            "transcriptionCompleteness": "complete",
+            "language": "grc-Linb",
+            "created": "2022-05-04T04:50:42Z",
+            "uri": "https://pleiades.stoa.org/places/589872/ko-no-so",
+            "creators": [
+                {
+                    "username": "ashapland",
+                    "homepage": null,
+                    "name": "Andrew Shapland",
+                    "uri": "https://pleiades.stoa.org/author/ashapland"
+                }
+            ],
+            "attested": "𐀒𐀜𐀰",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "reconnected Melena 2019 references to Zotero library entry",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-05-06T22:14:26Z"
+                },
+                {
+                    "comment": "reconnected Melena 2019 reference to Zotero library entry",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-05-06T22:02:37Z"
+                },
+                {
+                    "comment": "reconnected Bennet 2011 reference to Zotero",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-05-05T18:52:49Z"
+                },
+                {
+                    "comment": "Linear B script, references, and evidence added.",
+                    "modifiedBy": "thomase",
+                    "modified": "2022-05-09T17:25:37Z"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modifiedBy": "mgierhart",
+                    "modified": "2022-05-04T04:50:41Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2021-10-23T02:31:21Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2021-10-23T02:30:39Z"
+                },
+                {
+                    "comment": "Linear B toponym added",
+                    "modifiedBy": "ashapland",
+                    "modified": "2020-06-03T11:02:19Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "ashapland",
+                    "modified": "2020-06-03T11:02:18Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Knosos",
+            "attestations": [
+                {
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.geonames.org/259627/knosos.html",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "GeoNames 259627",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "knosos",
+            "end": 640,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                },
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                },
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 60 D2 Knosos/Col. Iulia Nobilis Cnosos",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -750,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2010-09-22T19:21:32Z",
+            "uri": "https://pleiades.stoa.org/places/589872/knosos",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "J. Bennet"
+                },
+                {
+                    "username": null,
+                    "name": "G. Reger"
+                }
+            ],
+            "attested": "Knosós",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-11-19T19:29:58Z"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T06:49:11Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2010-09-22T20:04:14Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-09-22T19:58:29Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-09-22T19:21:32Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Col. Iulia Nobilis Cnosos",
+            "attestations": [
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [],
+            "id": "col-iulia-nobilis-cnosos",
+            "end": 300,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 60 D2 Knosos/Col. Iulia Nobilis Cnosos",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -30,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "",
+            "created": "2010-09-22T19:21:32Z",
+            "uri": "https://pleiades.stoa.org/places/589872/col-iulia-nobilis-cnosos",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "J. Bennet"
+                },
+                {
+                    "username": null,
+                    "name": "G. Reger"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T06:49:11Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2010-09-22T20:04:14Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-09-22T19:58:29Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-09-22T19:21:32Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Knossos",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.wikidata.org/wiki/Q173527",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "Wikidata Q173527",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "name.2017-11-19.7009237496",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2017-11-19T19:28:56Z",
+            "uri": "https://pleiades.stoa.org/places/589872/name.2017-11-19.7009237496",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2020-05-13T22:50:58Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-11-19T19:29:07Z"
+                },
+                {
+                    "comment": "name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-11-19T19:28:57Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-11-19T19:28:56Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Cnoso",
+            "attestations": [],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2071.html",
+                    "citationDetail": "8B1 (Talbert 2071)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "id": "cnoso",
+            "end": null,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": null,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "akk",
+            "created": "2025-12-14T02:54:13Z",
+            "uri": "https://pleiades.stoa.org/places/589872/cnoso",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2026-02-06T17:53:24Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-12-14T02:54:20Z"
+                },
+                {
+                    "comment": "TP name TP reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-12-14T02:54:15Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-12-14T02:54:13Z"
+                }
+            ]
+        }
+    ],
+    "id": "589872",
+    "subject": [
+        "KMPP",
+        "dare:ancient=1",
+        "dare:feature=major settlement",
+        "dare:major=1"
+    ],
+    "title": "Knosos/Col. Iulia Nobilis Cnosos",
+    "provenance": "Barrington Atlas: BAtlas 60 D2 Knosos/Col. Iulia Nobilis Cnosos",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
+    "details": "<p>The Barrington Atlas Directory notes: settlement and quarry at Knossos/Makryteikhos</p>",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "A major ancient settlement of Crete, located some 5 km southeast of Heraklion, Knossos was occupied from the Neolithic period to the time of the Roman Empire.",
+    "reprPoint": [
+        25.163106,
+        35.297847
+    ],
+    "placeTypes": [
+        "settlement"
+    ],
+    "bbox": [
+        25.163106,
+        35.297847,
+        25.163106,
+        35.297847
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/781961476",
+        "https://pleiades.stoa.org/places/589748",
+        "https://pleiades.stoa.org/places/330539498",
+        "https://pleiades.stoa.org/places/559217802",
+        "https://pleiades.stoa.org/places/330539497",
+        "https://pleiades.stoa.org/places/238779098",
+        "https://pleiades.stoa.org/places/925012715",
+        "https://pleiades.stoa.org/places/590414",
+        "https://pleiades.stoa.org/places/359462132",
+        "https://pleiades.stoa.org/places/524143100",
+        "https://pleiades.stoa.org/places/539074573"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2020-05-13T21:49:47Z",
+    "uri": "https://pleiades.stoa.org/places/589872",
+    "creators": [
+        {
+            "username": null,
+            "name": "J. Bennet"
+        },
+        {
+            "username": null,
+            "name": "G. Reger"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "KU TP Database (Rathmann)",
+            "modifiedBy": "jbecker",
+            "modified": "2025-12-14T02:52:58Z"
+        },
+        {
+            "comment": "update references",
+            "modifiedBy": "jbecker",
+            "modified": "2025-05-02T16:44:55Z"
+        },
+        {
+            "comment": "update references",
+            "modifiedBy": "jbecker",
+            "modified": "2025-05-02T16:44:48Z"
+        },
+        {
+            "comment": "update references",
+            "modifiedBy": "jbecker",
+            "modified": "2025-03-12T14:26:23Z"
+        },
+        {
+            "comment": "update references",
+            "modifiedBy": "jbecker",
+            "modified": "2025-03-12T14:25:24Z"
+        },
+        {
+            "comment": "add Pliny reference",
+            "modifiedBy": "jbecker",
+            "modified": "2024-02-09T03:18:59Z"
+        },
+        {
+            "comment": "added Chronique reference provided by cbouras",
+            "modifiedBy": "thomase",
+            "modified": "2023-09-18T21:35:23Z"
+        },
+        {
+            "comment": "added MANTO reference",
+            "modifiedBy": "thomase",
+            "modified": "2023-05-18T22:11:49Z"
+        },
+        {
+            "comment": "Arachne Topography 8003292: Knossos Iraklio (Regionalbezirk)",
+            "modifiedBy": "jbecker",
+            "modified": "2022-05-26T16:42:00Z"
+        },
+        {
+            "comment": "added TGN 7228703: Knosós (ancient site) and TGN 7010870: Knossós (deserted settlement)",
+            "modifiedBy": "jbecker",
+            "modified": "2022-05-26T16:39:56Z"
+        },
+        {
+            "comment": "summary; removed Driessen 2002; removed Hood 2011; removed Myers 1992; ToposText -> see also; removed Smith 1854; wikidata -> related; removed Hatzaki 2005; added Hood 2020; removed Hägg 1997; Hood 1981 and Hood 2020 -> see also; removed Popham 1984; removed evans archive; added Stewart 2017; removed wikipedia; cleaned up legacy references; added Knossos Minoan Palace Project (KMPP) tag; revert to original; updated Connections, Names, Locations",
+            "modifiedBy": "jbecker",
+            "modified": "2021-10-23T02:30:49Z"
+        },
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modifiedBy": "admin",
+            "modified": "2018-06-08T00:08:21Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "admin",
+            "modified": "2018-06-08T00:08:13Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2017-11-19T19:27:05Z"
+        },
+        {
+            "comment": "added darmc references",
+            "modifiedBy": "jbecker",
+            "modified": "2017-11-19T19:22:50Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2017-11-19T19:16:12Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2017-11-19T18:06:25Z"
+        },
+        {
+            "comment": "TM GEO ID 1122",
+            "modifiedBy": "jbecker",
+            "modified": "2017-11-19T18:03:01Z"
+        },
+        {
+            "comment": "added connection",
+            "modifiedBy": "jbecker",
+            "modified": "2013-01-25T01:35:33Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2012-12-29T20:22:17Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2012-12-29T20:22:12Z"
+        },
+        {
+            "comment": "DARE feature tag fix.",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-23T19:34:11Z"
+        },
+        {
+            "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-20T20:32:01Z"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modifiedBy": "admin",
+            "modified": "2012-02-15T06:49:10Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-10T01:55:00Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-09T19:04:45Z"
+        },
+        {
+            "comment": "Detail text updated from former modernLocation. See http://atlantides.org/trac/pleiades/wiki/PlaceDetailsUpgrade",
+            "modifiedBy": "sgillies",
+            "modified": "2011-01-14T20:34:26Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2010-09-22T20:04:14Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "sgillies",
+            "modified": "2010-09-22T19:58:29Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "sgillies",
+            "modified": "2010-09-22T19:21:32Z"
+        }
+    ]
+}

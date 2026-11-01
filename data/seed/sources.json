@@ -1,0 +1,52 @@
+[
+  {
+    "source_id": "src:wikidata",
+    "title": "Wikidata",
+    "source_type": "database",
+    "publisher": "Wikimedia Foundation / Wikidata community",
+    "url": "https://www.wikidata.org/",
+    "license": "CC0 1.0",
+    "citation": "Wikidata, retrieved via Wikidata Query Service (SPARQL); raw snapshot in data/raw/.",
+    "reliability_note": "Community-edited; broad coverage and stable identifiers, but uneven quality: some P17 'country' values are historical polities, some links are wrong (e.g. Lalibela churches tagged 'Eastern Orthodoxy'), dates often lack references. Treated as a secondary aggregator, not an authority."
+  },
+  {
+    "source_id": "src:wikipedia-en",
+    "title": "English Wikipedia",
+    "source_type": "web_page",
+    "publisher": "Wikimedia Foundation / Wikipedia community",
+    "url": "https://en.wikipedia.org/",
+    "license": "CC BY-SA 4.0 (text); facts are not copyrightable, text is not copied into GeoChronos",
+    "citation": "English Wikipedia article, cited by title and revision id in each claim's evidence.",
+    "reliability_note": "Tertiary source. Used in the POC to verify dates and to locate the underlying scholarly literature it cites; claims resting only on Wikipedia are marked confidence 'medium' and should be upgraded to primary/secondary literature."
+  },
+  {
+    "source_id": "src:unesco-whc",
+    "title": "UNESCO World Heritage List",
+    "source_type": "heritage_register",
+    "publisher": "UNESCO World Heritage Centre",
+    "url": "https://whc.unesco.org/en/list/",
+    "license": "needs_verification (UNESCO website terms; see DATA_SOURCES.md)",
+    "citation": "UNESCO World Heritage Centre, World Heritage List, property page by reference number.",
+    "reliability_note": "Authoritative for inscription status, property boundaries and official descriptions. In the POC the property IDs come via Wikidata P757; property pages returned HTTP 403 to automated fetching on 2026-10-01, so UNESCO text was not machine-verified."
+  },
+  {
+    "source_id": "src:pleiades",
+    "title": "Pleiades: A Gazetteer of Past Places",
+    "source_type": "database",
+    "publisher": "Institute for the Study of the Ancient World (NYU) and Ancient World Mapping Center (UNC)",
+    "url": "https://pleiades.stoa.org/",
+    "license": "CC BY 3.0 (verified 2026-10-01 on https://pleiades.stoa.org/downloads and /credits; credit AWMC and ISAW)",
+    "citation": "Pleiades place resource, by Pleiades ID (obtained via Wikidata P1584).",
+    "reliability_note": "Scholarly gazetteer focused on the ancient Mediterranean and Near East. Night run 2026-10-01: historical names (with language codes) and representative points imported, mapped only via Wikidata P1584; points used for QA only."
+  },
+  {
+    "source_id": "src:gc-editorial",
+    "title": "GeoChronos POC editorial curation",
+    "source_type": "editorial",
+    "publisher": "GeoChronos project",
+    "url": null,
+    "license": "project-internal",
+    "citation": "Classification or structuring decision made by the GeoChronos curator while building the POC seed.",
+    "reliability_note": "Used ONLY for modelling decisions (facet assignments such as form/function, historical-region membership, hierarchy links) and never as the sole support for a date or coordinate. Claims resting only on this source carry status 'needs_verification' unless they are definitional."
+  }
+]

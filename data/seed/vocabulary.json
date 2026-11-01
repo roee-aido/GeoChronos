@@ -1,0 +1,2360 @@
+{
+ "_comment": "Curated non-item entities and the predicate vocabulary. Entities here are modelling scaffolding (concepts, regions, cultures, periods, organisations). Statements default to evidence src:gc-editorial / status needs_verification unless 'ev' is given. Dates for periods are only given where verified; otherwise omitted (unknown). Countries, continents and admin localities are NOT curated here: they are imported from the Wikidata snapshot.",
+ "predicates": [
+  {
+   "id": "located_in",
+   "label": "located in",
+   "inverse": "location of",
+   "category": "geo",
+   "wd": "P131/P17",
+   "crm": "P53_has_former_or_current_location",
+   "desc": "Item/place is geographically within a place (modern or historical region). For movable objects: place of origin/find."
+  },
+  {
+   "id": "part_of",
+   "label": "part of",
+   "inverse": "has part",
+   "category": "structural",
+   "wd": "P361",
+   "crm": "P46i_forms_part_of",
+   "desc": "Mereology: a place within a larger place, or a structure within a larger site. Transitive; used by the hierarchy view."
+  },
+  {
+   "id": "overlaps",
+   "label": "overlaps",
+   "inverse": "overlaps",
+   "category": "geo",
+   "wd": null,
+   "crm": "P121_overlaps_with",
+   "desc": "Place partially inside another (e.g. a transcontinental country and a continent). NOT transitive, NOT used for containment."
+  },
+  {
+   "id": "broader",
+   "label": "broader concept",
+   "inverse": "narrower concept",
+   "category": "structural",
+   "wd": "P279",
+   "crm": "P127_has_broader_term",
+   "desc": "Vocabulary hierarchy for concepts, periods, cultures, religions."
+  },
+  {
+   "id": "instance_of",
+   "label": "is a",
+   "inverse": "has instance",
+   "category": "classification",
+   "wd": "P31",
+   "crm": "P2_has_type",
+   "desc": "Top-level item type (site, settlement, monument, artefact, text...)."
+  },
+  {
+   "id": "has_form",
+   "label": "has form",
+   "inverse": "form of",
+   "category": "classification",
+   "wd": "P31/P149",
+   "crm": "P2_has_type",
+   "desc": "Physical / architectural form (pyramid, dolmen, tholos...). Independent of function."
+  },
+  {
+   "id": "has_function",
+   "label": "has function",
+   "inverse": "function of",
+   "category": "classification",
+   "wd": "P366",
+   "crm": "P103_was_intended_for",
+   "desc": "Purpose / use (tomb, temple, dwelling...). Independent of form."
+  },
+  {
+   "id": "made_of",
+   "label": "made of",
+   "inverse": "material of",
+   "category": "classification",
+   "wd": "P186",
+   "crm": "P45_consists_of",
+   "desc": "Material."
+  },
+  {
+   "id": "culture",
+   "label": "associated culture",
+   "inverse": "culture of",
+   "category": "classification",
+   "wd": "P2596",
+   "crm": "P107i_is_current_or_former_member_of",
+   "desc": "Archaeological culture / civilisation / people associated with the item."
+  },
+  {
+   "id": "period",
+   "label": "in period",
+   "inverse": "period of",
+   "category": "time",
+   "wd": "P2348",
+   "crm": "P10_falls_within",
+   "desc": "Named chronological period (PeriodO-style). Period membership is a classification, not a date."
+  },
+  {
+   "id": "polity",
+   "label": "associated polity",
+   "inverse": "polity of",
+   "category": "classification",
+   "wd": "P17 (historical)",
+   "crm": null,
+   "desc": "State, kingdom or empire under which the item was made or used."
+  },
+  {
+   "id": "dynasty",
+   "label": "associated dynasty",
+   "inverse": "dynasty of",
+   "category": "classification",
+   "wd": null,
+   "crm": null,
+   "desc": "Ruling dynasty associated with the item's creation."
+  },
+  {
+   "id": "religion",
+   "label": "religion / tradition",
+   "inverse": "tradition of",
+   "category": "classification",
+   "wd": "P140",
+   "crm": null,
+   "desc": "Religious tradition associated with the item."
+  },
+  {
+   "id": "theme",
+   "label": "theme",
+   "inverse": "theme of",
+   "category": "classification",
+   "wd": "P921",
+   "crm": "P129_is_about",
+   "desc": "Topical theme / point of view (writing, astronomy, Seven Wonders...)."
+  },
+  {
+   "id": "commissioned_by",
+   "label": "commissioned by",
+   "inverse": "commissioned",
+   "category": "association",
+   "wd": "P88",
+   "crm": "P14_carried_out_by",
+   "desc": "Person who ordered the creation."
+  },
+  {
+   "id": "attributed_to",
+   "label": "attributed to",
+   "inverse": "attributed with",
+   "category": "association",
+   "wd": "P1778",
+   "crm": null,
+   "desc": "Scholarly attribution (may be disputed)."
+  },
+  {
+   "id": "burial_of",
+   "label": "burial place of",
+   "inverse": "buried in",
+   "category": "association",
+   "wd": "P119 (inverse)",
+   "crm": null,
+   "desc": "Tomb holds or held the burial of a person."
+  },
+  {
+   "id": "depicts",
+   "label": "depicts",
+   "inverse": "depicted in",
+   "category": "association",
+   "wd": "P180",
+   "crm": "P62_depicts",
+   "desc": "Item depicts an event/person."
+  },
+  {
+   "id": "destroyed_by",
+   "label": "destroyed / buried by",
+   "inverse": "destroyed",
+   "category": "association",
+   "wd": null,
+   "crm": "P13i_was_destroyed_by",
+   "desc": "Item was destroyed or buried by an event."
+  },
+  {
+   "id": "found_at",
+   "label": "found at",
+   "inverse": "find spot of",
+   "category": "geo",
+   "wd": "P189",
+   "crm": "P24i? / find context",
+   "desc": "Movable object's find spot (item or place)."
+  },
+  {
+   "id": "held_by",
+   "label": "held by",
+   "inverse": "holds",
+   "category": "geo",
+   "wd": "P195",
+   "crm": "P50_has_current_keeper",
+   "desc": "Current keeper/collection of a movable object."
+  },
+  {
+   "id": "occurred_at",
+   "label": "occurred at",
+   "inverse": "location of event",
+   "category": "geo",
+   "wd": "P276",
+   "crm": "P7_took_place_at",
+   "desc": "Event location."
+  },
+  {
+   "id": "participant",
+   "label": "participant",
+   "inverse": "participated in",
+   "category": "association",
+   "wd": "P710",
+   "crm": "P11_had_participant",
+   "desc": "Polity/person taking part in an event."
+  },
+  {
+   "id": "ruled",
+   "label": "ruled",
+   "inverse": "ruled by",
+   "category": "association",
+   "wd": "P39",
+   "crm": null,
+   "desc": "Person ruled a polity."
+  },
+  {
+   "id": "member_of",
+   "label": "member of",
+   "inverse": "has member",
+   "category": "association",
+   "wd": "P53",
+   "crm": null,
+   "desc": "Person belongs to a dynasty/family."
+  },
+  {
+   "id": "applies_to",
+   "label": "applies to region",
+   "inverse": "has period",
+   "category": "geo",
+   "wd": "P1001",
+   "crm": "P7_took_place_at",
+   "desc": "Spatial coverage of a period/culture (periods are region-specific)."
+  },
+  {
+   "id": "has_style",
+   "label": "architectural / artistic style",
+   "inverse": "style of",
+   "category": "classification",
+   "wd": "P149",
+   "crm": "P2_has_type",
+   "desc": "Architectural or artistic style (e.g. Doric order, Khmer architecture)."
+  },
+  {
+   "id": "named_after",
+   "label": "named after",
+   "inverse": "eponym of",
+   "category": "association",
+   "wd": "P138",
+   "crm": null,
+   "desc": "Entity the name derives from."
+  }
+ ],
+ "entities": [
+  {
+   "id": "concept:type:archaeological-site",
+   "kind": "concept",
+   "scheme": "item_type",
+   "name": "archaeological site",
+   "wikidata": "Q839954"
+  },
+  {
+   "id": "concept:type:settlement",
+   "kind": "concept",
+   "scheme": "item_type",
+   "name": "settlement",
+   "broader": [
+    "concept:type:archaeological-site"
+   ]
+  },
+  {
+   "id": "concept:type:city",
+   "kind": "concept",
+   "scheme": "item_type",
+   "name": "city / proto-city",
+   "broader": [
+    "concept:type:settlement"
+   ]
+  },
+  {
+   "id": "concept:type:structure",
+   "kind": "concept",
+   "scheme": "item_type",
+   "name": "structure / building"
+  },
+  {
+   "id": "concept:type:monument",
+   "kind": "concept",
+   "scheme": "item_type",
+   "name": "monument",
+   "broader": [
+    "concept:type:structure"
+   ]
+  },
+  {
+   "id": "concept:type:cave",
+   "kind": "concept",
+   "scheme": "item_type",
+   "name": "cave"
+  },
+  {
+   "id": "concept:type:cultural-landscape",
+   "kind": "concept",
+   "scheme": "item_type",
+   "name": "cultural landscape"
+  },
+  {
+   "id": "concept:type:artefact",
+   "kind": "concept",
+   "scheme": "item_type",
+   "name": "artefact / movable object"
+  },
+  {
+   "id": "concept:type:text",
+   "kind": "concept",
+   "scheme": "item_type",
+   "name": "text / manuscript / inscription",
+   "broader": [
+    "concept:type:artefact"
+   ]
+  },
+  {
+   "id": "concept:type:sculpture",
+   "kind": "concept",
+   "scheme": "item_type",
+   "name": "sculpture",
+   "broader": [
+    "concept:type:artefact"
+   ]
+  },
+  {
+   "id": "concept:type:scientific-instrument",
+   "kind": "concept",
+   "scheme": "item_type",
+   "name": "scientific instrument",
+   "broader": [
+    "concept:type:artefact"
+   ]
+  },
+  {
+   "id": "concept:form:pyramidal-structure",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "pyramidal structure",
+   "description": "Umbrella for pyramid-like forms that are NOT all 'pyramids' in the strict sense (ziggurats, platform mounds)."
+  },
+  {
+   "id": "concept:form:pyramid",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "pyramid",
+   "broader": [
+    "concept:form:pyramidal-structure"
+   ],
+   "wikidata": "Q12516"
+  },
+  {
+   "id": "concept:form:step-pyramid",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "step pyramid",
+   "broader": [
+    "concept:form:pyramid"
+   ]
+  },
+  {
+   "id": "concept:form:smooth-sided-pyramid",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "smooth-sided (true) pyramid",
+   "broader": [
+    "concept:form:pyramid"
+   ]
+  },
+  {
+   "id": "concept:form:nubian-pyramid",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "Nubian pyramid",
+   "broader": [
+    "concept:form:pyramid"
+   ],
+   "wikidata": "Q511686"
+  },
+  {
+   "id": "concept:form:mesoamerican-pyramid",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "Mesoamerican stepped pyramid (temple platform)",
+   "broader": [
+    "concept:form:pyramid"
+   ]
+  },
+  {
+   "id": "concept:form:ziggurat",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "ziggurat",
+   "broader": [
+    "concept:form:pyramidal-structure"
+   ],
+   "wikidata": "Q12518"
+  },
+  {
+   "id": "concept:form:platform-mound",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "platform mound",
+   "broader": [
+    "concept:form:pyramidal-structure"
+   ]
+  },
+  {
+   "id": "concept:form:megalith",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "megalithic monument",
+   "description": "Umbrella for structures built of large stones; 'megalithic' is a construction category, not a culture.",
+   "wikidata": "Q193475"
+  },
+  {
+   "id": "concept:form:dolmen",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "dolmen",
+   "broader": [
+    "concept:form:megalith"
+   ],
+   "wikidata": "Q101659"
+  },
+  {
+   "id": "concept:form:passage-tomb",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "passage tomb",
+   "broader": [
+    "concept:form:megalith"
+   ]
+  },
+  {
+   "id": "concept:form:stone-circle",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "stone circle",
+   "broader": [
+    "concept:form:megalith"
+   ]
+  },
+  {
+   "id": "concept:form:henge",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "henge (earthwork enclosure)"
+  },
+  {
+   "id": "concept:form:stone-row",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "stone row / alignment",
+   "broader": [
+    "concept:form:megalith"
+   ]
+  },
+  {
+   "id": "concept:form:megalithic-temple",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "megalithic temple",
+   "broader": [
+    "concept:form:megalith"
+   ]
+  },
+  {
+   "id": "concept:form:t-pillar-enclosure",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "enclosure with T-shaped pillars",
+   "broader": [
+    "concept:form:megalith"
+   ]
+  },
+  {
+   "id": "concept:form:tholos",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "tholos (beehive tomb)"
+  },
+  {
+   "id": "concept:form:rock-cut",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "rock-cut architecture"
+  },
+  {
+   "id": "concept:form:colossal-statue",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "colossal statue"
+  },
+  {
+   "id": "concept:form:temple-complex",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "temple complex"
+  },
+  {
+   "id": "concept:form:classical-temple",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "Greek peripteral temple"
+  },
+  {
+   "id": "concept:form:amphitheatre",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "amphitheatre"
+  },
+  {
+   "id": "concept:form:tell",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "tell (settlement mound)"
+  },
+  {
+   "id": "concept:form:stele",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "stele"
+  },
+  {
+   "id": "concept:form:figurine",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "figurine"
+  },
+  {
+   "id": "concept:form:funerary-mask",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "funerary mask"
+  },
+  {
+   "id": "concept:form:scroll",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "scroll"
+  },
+  {
+   "id": "concept:form:geared-mechanism",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "geared mechanism"
+  },
+  {
+   "id": "concept:form:ship-burial",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "ship burial under mound"
+  },
+  {
+   "id": "concept:form:rock-cut-tomb",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "rock-cut tomb",
+   "broader": [
+    "concept:form:rock-cut"
+   ]
+  },
+  {
+   "id": "concept:form:cliff-dwelling",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "cliff dwelling"
+  },
+  {
+   "id": "concept:form:artificial-islets",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "complex of artificial islets"
+  },
+  {
+   "id": "concept:form:ahu",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "ahu (ceremonial platform with moai)"
+  },
+  {
+   "id": "concept:form:dry-stone-enclosure",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "dry-stone walled enclosure"
+  },
+  {
+   "id": "concept:form:hilltop-fortress",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "hilltop / plateau fortress"
+  },
+  {
+   "id": "concept:form:palace",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "palace complex"
+  },
+  {
+   "id": "concept:form:mausoleum",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "mausoleum / burial mound complex"
+  },
+  {
+   "id": "concept:form:aquaculture-system",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "aquaculture channel and weir system"
+  },
+  {
+   "id": "concept:form:decorated-cave",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "decorated cave (parietal art)"
+  },
+  {
+   "id": "concept:form:stupa-temple",
+   "kind": "concept",
+   "scheme": "form",
+   "name": "stupa / terraced Buddhist monument"
+  },
+  {
+   "id": "concept:function:funerary",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "funerary"
+  },
+  {
+   "id": "concept:function:tomb",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "tomb / burial place",
+   "broader": [
+    "concept:function:funerary"
+   ]
+  },
+  {
+   "id": "concept:function:religious",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "religious / ritual"
+  },
+  {
+   "id": "concept:function:temple",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "temple / place of worship",
+   "broader": [
+    "concept:function:religious"
+   ]
+  },
+  {
+   "id": "concept:function:church",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "church",
+   "broader": [
+    "concept:function:temple"
+   ]
+  },
+  {
+   "id": "concept:function:ceremonial",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "ceremonial / gathering",
+   "broader": [
+    "concept:function:religious"
+   ]
+  },
+  {
+   "id": "concept:function:dwelling",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "dwelling / habitation"
+  },
+  {
+   "id": "concept:function:defensive",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "defensive / fortification"
+  },
+  {
+   "id": "concept:function:royal-administrative",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "royal / administrative centre"
+  },
+  {
+   "id": "concept:function:public-spectacle",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "public spectacle / entertainment"
+  },
+  {
+   "id": "concept:function:proclamation",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "public proclamation / decree"
+  },
+  {
+   "id": "concept:function:astronomical",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "astronomical / calendrical"
+  },
+  {
+   "id": "concept:function:food-production",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "food production"
+  },
+  {
+   "id": "concept:function:storage",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "storage / hiding place"
+  },
+  {
+   "id": "concept:function:water-management",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "water management / flood control"
+  },
+  {
+   "id": "concept:function:symbolic-art",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "symbolic / artistic expression"
+  },
+  {
+   "id": "concept:function:scripture",
+   "kind": "concept",
+   "scheme": "function",
+   "name": "religious literature / scripture",
+   "broader": [
+    "concept:function:religious"
+   ]
+  },
+  {
+   "id": "concept:material:limestone",
+   "kind": "concept",
+   "scheme": "material",
+   "name": "limestone",
+   "wikidata": "Q23757"
+  },
+  {
+   "id": "concept:material:granite",
+   "kind": "concept",
+   "scheme": "material",
+   "name": "granite",
+   "wikidata": "Q41177"
+  },
+  {
+   "id": "concept:material:sandstone",
+   "kind": "concept",
+   "scheme": "material",
+   "name": "sandstone",
+   "wikidata": "Q13085"
+  },
+  {
+   "id": "concept:material:granodiorite",
+   "kind": "concept",
+   "scheme": "material",
+   "name": "granodiorite",
+   "wikidata": "Q215690"
+  },
+  {
+   "id": "concept:material:bronze",
+   "kind": "concept",
+   "scheme": "material",
+   "name": "bronze",
+   "wikidata": "Q34095"
+  },
+  {
+   "id": "concept:material:gold",
+   "kind": "concept",
+   "scheme": "material",
+   "name": "gold",
+   "wikidata": "Q897"
+  },
+  {
+   "id": "concept:material:sarsen",
+   "kind": "concept",
+   "scheme": "material",
+   "name": "sarsen",
+   "wikidata": "Q2920343"
+  },
+  {
+   "id": "concept:theme:seven-wonders",
+   "kind": "concept",
+   "scheme": "theme",
+   "name": "Seven Wonders of the Ancient World",
+   "wikidata": "Q489772"
+  },
+  {
+   "id": "concept:theme:writing-decipherment",
+   "kind": "concept",
+   "scheme": "theme",
+   "name": "writing and decipherment"
+  },
+  {
+   "id": "concept:theme:archaeoastronomy",
+   "kind": "concept",
+   "scheme": "theme",
+   "name": "archaeoastronomy / ancient science"
+  },
+  {
+   "id": "concept:theme:early-symbolic-behaviour",
+   "kind": "concept",
+   "scheme": "theme",
+   "name": "origins of symbolic behaviour and art"
+  },
+  {
+   "id": "concept:theme:early-urbanism",
+   "kind": "concept",
+   "scheme": "theme",
+   "name": "early urbanism"
+  },
+  {
+   "id": "concept:theme:natural-disaster",
+   "kind": "concept",
+   "scheme": "theme",
+   "name": "natural disasters in history"
+  },
+  {
+   "id": "concept:theme:transoceanic-contact",
+   "kind": "concept",
+   "scheme": "theme",
+   "name": "pre-Columbian transoceanic contact"
+  },
+  {
+   "id": "concept:theme:monument-relocation",
+   "kind": "concept",
+   "scheme": "theme",
+   "name": "heritage rescue and relocation"
+  },
+  {
+   "id": "place:region:lower-egypt",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Lower Egypt",
+   "part_of": [
+    "place:continent:africa"
+   ]
+  },
+  {
+   "id": "place:region:upper-egypt",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Upper Egypt",
+   "part_of": [
+    "place:continent:africa"
+   ]
+  },
+  {
+   "id": "place:region:nubia",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Nubia",
+   "part_of": [
+    "place:continent:africa"
+   ]
+  },
+  {
+   "id": "place:region:mesopotamia",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Mesopotamia",
+   "part_of": [
+    "place:continent:asia"
+   ]
+  },
+  {
+   "id": "place:region:anatolia",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Anatolia",
+   "part_of": [
+    "place:continent:asia"
+   ],
+   "description": "Used to place sites in transcontinental Turkey on the correct continent."
+  },
+  {
+   "id": "place:region:levant",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Southern Levant",
+   "part_of": [
+    "place:continent:asia"
+   ]
+  },
+  {
+   "id": "place:region:judaean-desert",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Judaean Desert",
+   "wikidata": "Q2046004",
+   "part_of": [
+    "place:region:levant"
+   ]
+  },
+  {
+   "id": "place:region:aegean",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Aegean",
+   "part_of": [
+    "place:continent:europe"
+   ]
+  },
+  {
+   "id": "place:region:british-isles",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Britain and Ireland (archipelago)",
+   "description": "Neutral name chosen instead of \"British Isles\", a term contested in Ireland.",
+   "part_of": [
+    "place:continent:europe"
+   ]
+  },
+  {
+   "id": "place:region:iberia",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Iberian Peninsula",
+   "part_of": [
+    "place:continent:europe"
+   ]
+  },
+  {
+   "id": "place:region:indus-valley",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Indus Valley",
+   "part_of": [
+    "place:continent:asia"
+   ]
+  },
+  {
+   "id": "place:region:iranian-plateau",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Iranian Plateau",
+   "part_of": [
+    "place:continent:asia"
+   ]
+  },
+  {
+   "id": "place:region:mesoamerica",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Mesoamerica",
+   "part_of": [
+    "place:continent:north-america"
+   ],
+   "wikidata": "Q13703"
+  },
+  {
+   "id": "place:region:andes",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Central Andes",
+   "part_of": [
+    "place:continent:south-america"
+   ]
+  },
+  {
+   "id": "place:region:eastern-woodlands",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Eastern Woodlands (North America)",
+   "part_of": [
+    "place:continent:north-america"
+   ]
+  },
+  {
+   "id": "place:region:american-southwest",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "American Southwest",
+   "part_of": [
+    "place:continent:north-america"
+   ]
+  },
+  {
+   "id": "place:region:polynesia",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Polynesia",
+   "part_of": [
+    "place:continent:oceania"
+   ]
+  },
+  {
+   "id": "place:region:micronesia",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Micronesia (region)",
+   "part_of": [
+    "place:continent:oceania"
+   ]
+  },
+  {
+   "id": "place:region:southern-africa",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Southern Africa",
+   "part_of": [
+    "place:continent:africa"
+   ]
+  },
+  {
+   "id": "place:region:horn-of-africa",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Horn of Africa / Ethiopian Highlands",
+   "part_of": [
+    "place:continent:africa"
+   ]
+  },
+  {
+   "id": "place:region:southeast-asia",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "Southeast Asia",
+   "part_of": [
+    "place:continent:asia"
+   ]
+  },
+  {
+   "id": "place:region:east-asia",
+   "kind": "place",
+   "place_type": "historical_region",
+   "name": "East Asia",
+   "part_of": [
+    "place:continent:asia"
+   ]
+  },
+  {
+   "id": "place:region:crete",
+   "kind": "place",
+   "place_type": "island",
+   "name": "Crete",
+   "part_of": [
+    "place:region:aegean"
+   ]
+  },
+  {
+   "id": "place:region:santorini",
+   "kind": "place",
+   "place_type": "island",
+   "name": "Santorini (Thera)",
+   "part_of": [
+    "place:region:aegean"
+   ],
+   "wikidata": "Q129296"
+  },
+  {
+   "id": "place:locality:rashid",
+   "kind": "place",
+   "place_type": "locality",
+   "name": "Rashid (Rosetta)",
+   "part_of": [
+    "place:region:lower-egypt"
+   ],
+   "wikidata": "Q243699",
+   "wd_review": {
+    "alias@he:קטגוריה:רשיד": {
+     "status": "rejected",
+     "note": "A Wikipedia category-page title ('Category:Rashid'), not a name of the place."
+    }
+   }
+  },
+  {
+   "id": "place:locality:giza-necropolis",
+   "kind": "place",
+   "place_type": "locality",
+   "name": "Giza pyramid complex",
+   "part_of": [
+    "place:region:lower-egypt"
+   ],
+   "wikidata": "Q12508"
+  },
+  {
+   "id": "place:locality:thebes",
+   "kind": "place",
+   "place_type": "locality",
+   "name": "Thebes (Luxor)",
+   "part_of": [
+    "place:region:upper-egypt"
+   ],
+   "wikidata": "Q101583"
+  },
+  {
+   "id": "place:locality:valley-of-the-kings",
+   "kind": "place",
+   "place_type": "locality",
+   "name": "Valley of the Kings",
+   "part_of": [
+    "place:locality:thebes"
+   ],
+   "wikidata": "Q133423"
+  },
+  {
+   "id": "place:locality:kadesh",
+   "kind": "place",
+   "place_type": "locality",
+   "name": "Kadesh (on the Orontes)",
+   "part_of": [
+    "place:region:levant"
+   ],
+   "wikidata": "Q690035"
+  },
+  {
+   "id": "place:locality:vesuvius",
+   "kind": "place",
+   "place_type": "natural_feature",
+   "name": "Mount Vesuvius",
+   "part_of": [
+    "place:continent:europe"
+   ]
+  },
+  {
+   "id": "place:city:london",
+   "kind": "place",
+   "place_type": "city",
+   "name": "London",
+   "part_of": [
+    "place:region:british-isles"
+   ]
+  },
+  {
+   "id": "place:city:cairo",
+   "kind": "place",
+   "place_type": "city",
+   "name": "Cairo",
+   "part_of": [
+    "place:region:lower-egypt"
+   ]
+  },
+  {
+   "id": "place:city:athens",
+   "kind": "place",
+   "place_type": "city",
+   "name": "Athens",
+   "part_of": [
+    "place:continent:europe"
+   ],
+   "wikidata": "Q1524"
+  },
+  {
+   "id": "place:city:vienna",
+   "kind": "place",
+   "place_type": "city",
+   "name": "Vienna",
+   "part_of": [
+    "place:continent:europe"
+   ]
+  },
+  {
+   "id": "place:city:jerusalem",
+   "kind": "place",
+   "place_type": "city",
+   "name": "Jerusalem",
+   "part_of": [
+    "place:region:levant"
+   ]
+  },
+  {
+   "id": "org:british-museum",
+   "kind": "organization",
+   "name": "British Museum",
+   "wikidata": "Q6373",
+   "located_in": [
+    "place:city:london"
+   ]
+  },
+  {
+   "id": "org:egyptian-museum-cairo",
+   "kind": "organization",
+   "name": "Egyptian Museum (Cairo)",
+   "wikidata": "Q201219",
+   "located_in": [
+    "place:city:cairo"
+   ]
+  },
+  {
+   "id": "org:nam-athens",
+   "kind": "organization",
+   "name": "National Archaeological Museum, Athens",
+   "wikidata": "Q637187",
+   "located_in": [
+    "place:city:athens"
+   ]
+  },
+  {
+   "id": "org:nhm-vienna",
+   "kind": "organization",
+   "name": "Natural History Museum, Vienna",
+   "wikidata": "Q688704",
+   "located_in": [
+    "place:city:vienna"
+   ]
+  },
+  {
+   "id": "org:israel-museum",
+   "kind": "organization",
+   "name": "Israel Museum (Shrine of the Book)",
+   "located_in": [
+    "place:city:jerusalem"
+   ]
+  },
+  {
+   "id": "culture:ancient-egypt",
+   "kind": "culture",
+   "name": "Ancient Egyptian civilization",
+   "wikidata": "Q11768",
+   "applies_to": [
+    "place:region:lower-egypt",
+    "place:region:upper-egypt"
+   ]
+  },
+  {
+   "id": "culture:kush",
+   "kind": "culture",
+   "name": "Kushite (Kingdom of Kush / Meroitic)",
+   "applies_to": [
+    "place:region:nubia"
+   ]
+  },
+  {
+   "id": "culture:minoan",
+   "kind": "culture",
+   "name": "Minoan civilization",
+   "wikidata": "Q134178",
+   "applies_to": [
+    "place:region:crete",
+    "place:region:aegean"
+   ]
+  },
+  {
+   "id": "culture:mycenaean",
+   "kind": "culture",
+   "name": "Mycenaean Greece",
+   "wikidata": "Q181264",
+   "applies_to": [
+    "place:region:aegean"
+   ]
+  },
+  {
+   "id": "culture:ancient-greece",
+   "kind": "culture",
+   "name": "Ancient Greek culture",
+   "wikidata": "Q4246634"
+  },
+  {
+   "id": "culture:ancient-rome",
+   "kind": "culture",
+   "name": "Ancient Rome",
+   "wikidata": "Q1747689"
+  },
+  {
+   "id": "culture:anglo-saxon",
+   "kind": "culture",
+   "name": "Anglo-Saxon (East Angles)"
+  },
+  {
+   "id": "culture:sumer",
+   "kind": "culture",
+   "name": "Sumer",
+   "wikidata": "Q35355",
+   "applies_to": [
+    "place:region:mesopotamia"
+   ]
+  },
+  {
+   "id": "culture:indus-valley",
+   "kind": "culture",
+   "name": "Indus Valley Civilisation",
+   "wikidata": "Q42534",
+   "applies_to": [
+    "place:region:indus-valley"
+   ]
+  },
+  {
+   "id": "culture:achaemenid-persia",
+   "kind": "culture",
+   "name": "Achaemenid Persian",
+   "applies_to": [
+    "place:region:iranian-plateau"
+   ]
+  },
+  {
+   "id": "culture:qin-china",
+   "kind": "culture",
+   "name": "Qin-dynasty China"
+  },
+  {
+   "id": "culture:khmer",
+   "kind": "culture",
+   "name": "Khmer (Angkorian)"
+  },
+  {
+   "id": "culture:javanese-sailendra",
+   "kind": "culture",
+   "name": "Javanese Buddhist (Sailendra)"
+  },
+  {
+   "id": "culture:nabataean",
+   "kind": "culture",
+   "name": "Nabataean",
+   "wikidata": "Q11029653"
+  },
+  {
+   "id": "culture:second-temple-judaism",
+   "kind": "culture",
+   "name": "Second Temple Judaism / Judaea",
+   "applies_to": [
+    "place:region:levant"
+   ]
+  },
+  {
+   "id": "culture:ppn-levant-anatolia",
+   "kind": "culture",
+   "name": "Pre-Pottery Neolithic (Levant & Upper Mesopotamia)"
+  },
+  {
+   "id": "culture:neolithic-anatolia",
+   "kind": "culture",
+   "name": "Neolithic / Chalcolithic Anatolia"
+  },
+  {
+   "id": "culture:neolithic-british-isles",
+   "kind": "culture",
+   "name": "Neolithic Britain and Ireland"
+  },
+  {
+   "id": "culture:neolithic-atlantic-europe",
+   "kind": "culture",
+   "name": "Neolithic Atlantic / western Europe"
+  },
+  {
+   "id": "culture:maltese-temple",
+   "kind": "culture",
+   "name": "Maltese Temple Period (Ġgantija phase)"
+  },
+  {
+   "id": "culture:gravettian",
+   "kind": "culture",
+   "name": "Gravettian",
+   "wikidata": "Q756905"
+  },
+  {
+   "id": "culture:magdalenian",
+   "kind": "culture",
+   "name": "Magdalenian"
+  },
+  {
+   "id": "culture:still-bay",
+   "kind": "culture",
+   "name": "Still Bay industry (Middle Stone Age)"
+  },
+  {
+   "id": "culture:shona-ancestors",
+   "kind": "culture",
+   "name": "Ancestors of the Shona people (Kingdom of Zimbabwe)"
+  },
+  {
+   "id": "culture:zagwe-ethiopia",
+   "kind": "culture",
+   "name": "Zagwe-period Ethiopian Christian"
+  },
+  {
+   "id": "culture:teotihuacan",
+   "kind": "culture",
+   "name": "Teotihuacan civilization",
+   "wikidata": "Q116795888",
+   "applies_to": [
+    "place:region:mesoamerica"
+   ]
+  },
+  {
+   "id": "culture:maya",
+   "kind": "culture",
+   "name": "Maya civilization",
+   "wikidata": "Q28567",
+   "applies_to": [
+    "place:region:mesoamerica"
+   ]
+  },
+  {
+   "id": "culture:caral-supe",
+   "kind": "culture",
+   "name": "Caral–Supe (Norte Chico) civilization",
+   "applies_to": [
+    "place:region:andes"
+   ]
+  },
+  {
+   "id": "culture:inca",
+   "kind": "culture",
+   "name": "Inca",
+   "wikidata": "Q12547349",
+   "applies_to": [
+    "place:region:andes"
+   ]
+  },
+  {
+   "id": "culture:mississippian",
+   "kind": "culture",
+   "name": "Mississippian culture",
+   "wikidata": "Q1052095",
+   "applies_to": [
+    "place:region:eastern-woodlands"
+   ]
+  },
+  {
+   "id": "culture:ancestral-puebloan",
+   "kind": "culture",
+   "name": "Ancestral Puebloans",
+   "wikidata": "Q478805",
+   "applies_to": [
+    "place:region:american-southwest"
+   ]
+  },
+  {
+   "id": "culture:norse",
+   "kind": "culture",
+   "name": "Norse (Viking Age)"
+  },
+  {
+   "id": "culture:saudeleur",
+   "kind": "culture",
+   "name": "Pohnpeian (Saudeleur dynasty)",
+   "applies_to": [
+    "place:region:micronesia"
+   ]
+  },
+  {
+   "id": "culture:rapa-nui",
+   "kind": "culture",
+   "name": "Rapa Nui",
+   "applies_to": [
+    "place:region:polynesia"
+   ]
+  },
+  {
+   "id": "culture:gunditjmara",
+   "kind": "culture",
+   "name": "Gunditjmara people",
+   "description": "Living Aboriginal Australian people; cultural authority rests with the Gunditjmara Traditional Owners."
+  },
+  {
+   "id": "culture:korean-bronze-age",
+   "kind": "culture",
+   "name": "Korean prehistoric dolmen builders"
+  },
+  {
+   "id": "dynasty:egypt-3",
+   "kind": "dynasty",
+   "name": "Third Dynasty of Egypt",
+   "ev": [
+    "wp:Third Dynasty of Egypt"
+   ],
+   "time": [
+    {
+     "role": "existence",
+     "from": -2686,
+     "to": -2613,
+     "qualifier": "circa",
+     "precision": "year",
+     "label": "c. 2686–2613 BC (Shaw)",
+     "conf": "medium",
+     "status": "alternative",
+     "rank": "preferred",
+     "group": "egypt-3:chronology",
+     "note": "Chronology of Ian Shaw (Oxford History of Ancient Egypt), consistent with the Old Kingdom dates used here."
+    },
+    {
+     "role": "existence",
+     "from": -2650,
+     "to": -2575,
+     "precision": "year",
+     "label": "2650–2575 BC (Baines & Malek)",
+     "conf": "medium",
+     "status": "alternative",
+     "group": "egypt-3:chronology"
+    },
+    {
+     "role": "existence",
+     "from": -2584,
+     "to": -2520,
+     "precision": "year",
+     "label": "2584–2520 BC (Dodson & Hilton)",
+     "conf": "medium",
+     "status": "alternative",
+     "group": "egypt-3:chronology"
+    }
+   ]
+  },
+  {
+   "id": "dynasty:egypt-4",
+   "kind": "dynasty",
+   "name": "Fourth Dynasty of Egypt",
+   "ev": [
+    "wp:Fourth Dynasty of Egypt"
+   ],
+   "time": [
+    {
+     "role": "existence",
+     "from": -2613,
+     "to": -2498,
+     "qualifier": "circa",
+     "precision": "year",
+     "label": "c. 2613 to c. 2498 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "dynasty:egypt-18",
+   "kind": "dynasty",
+   "name": "Eighteenth Dynasty of Egypt",
+   "ev": [
+    "wp:Eighteenth Dynasty of Egypt"
+   ],
+   "time": [
+    {
+     "role": "existence",
+     "earliest_start": -1550,
+     "latest_start": -1549,
+     "earliest_end": -1292,
+     "latest_end": -1292,
+     "precision": "year",
+     "label": "1550/1549 to 1292 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "dynasty:egypt-19",
+   "kind": "dynasty",
+   "name": "Nineteenth Dynasty of Egypt",
+   "ev": [
+    "wp:Nineteenth Dynasty of Egypt"
+   ],
+   "time": [
+    {
+     "role": "existence",
+     "from": -1292,
+     "to": -1189,
+     "precision": "year",
+     "label": "1292 BC to 1189 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "group": "egypt-19:chronology"
+    },
+    {
+     "role": "existence",
+     "from": -1295,
+     "to": -1189,
+     "precision": "year",
+     "label": "1295–1189 BC (as given in the New Kingdom article)",
+     "ev": [
+      "wp:New Kingdom of Egypt"
+     ],
+     "conf": "medium",
+     "status": "alternative",
+     "group": "egypt-19:chronology",
+     "note": "Two Wikipedia articles give different start years for the same dynasty."
+    }
+   ]
+  },
+  {
+   "id": "dynasty:ptolemaic",
+   "kind": "dynasty",
+   "name": "Ptolemaic dynasty"
+  },
+  {
+   "id": "dynasty:qin",
+   "kind": "dynasty",
+   "name": "Qin dynasty"
+  },
+  {
+   "id": "dynasty:flavian",
+   "kind": "dynasty",
+   "name": "Flavian dynasty"
+  },
+  {
+   "id": "dynasty:herodian",
+   "kind": "dynasty",
+   "name": "Herodian dynasty"
+  },
+  {
+   "id": "dynasty:sailendra",
+   "kind": "dynasty",
+   "name": "Sailendra dynasty"
+  },
+  {
+   "id": "dynasty:zagwe",
+   "kind": "dynasty",
+   "name": "Zagwe dynasty"
+  },
+  {
+   "id": "polity:achaemenid-empire",
+   "kind": "polity",
+   "name": "Achaemenid Empire",
+   "wikidata": "Q389688"
+  },
+  {
+   "id": "polity:macedonian-empire",
+   "kind": "polity",
+   "name": "Macedonian Empire",
+   "wikidata": "Q13405524"
+  },
+  {
+   "id": "polity:khmer-empire",
+   "kind": "polity",
+   "name": "Khmer Empire",
+   "wikidata": "Q201705"
+  },
+  {
+   "id": "polity:judaea",
+   "kind": "polity",
+   "name": "Judaea (Roman province)",
+   "wikidata": "Q1003997"
+  },
+  {
+   "id": "polity:ramey-state",
+   "kind": "polity",
+   "name": "Ramey state",
+   "wikidata": "Q96401196",
+   "description": "Name used on Wikidata for the Cahokia-centred Mississippian polity."
+  },
+  {
+   "id": "polity:kingdom-of-zimbabwe",
+   "kind": "polity",
+   "name": "Kingdom of Zimbabwe",
+   "wikidata": "Q596092"
+  },
+  {
+   "id": "polity:hittite-empire",
+   "kind": "polity",
+   "name": "Hittite Empire"
+  },
+  {
+   "id": "polity:egypt-new-kingdom",
+   "kind": "polity",
+   "name": "Egypt (New Kingdom state)"
+  },
+  {
+   "id": "polity:roman-empire",
+   "kind": "polity",
+   "name": "Roman Empire"
+  },
+  {
+   "id": "polity:east-anglia",
+   "kind": "polity",
+   "name": "Kingdom of the East Angles"
+  },
+  {
+   "id": "religion:christianity",
+   "kind": "religion",
+   "name": "Christianity"
+  },
+  {
+   "id": "religion:oriental-orthodoxy",
+   "kind": "religion",
+   "name": "Oriental Orthodoxy",
+   "broader": [
+    "religion:christianity"
+   ]
+  },
+  {
+   "id": "religion:ethiopian-orthodox",
+   "kind": "religion",
+   "name": "Ethiopian Orthodox Tewahedo Church",
+   "broader": [
+    "religion:oriental-orthodoxy"
+   ]
+  },
+  {
+   "id": "religion:eastern-orthodoxy",
+   "kind": "religion",
+   "name": "Eastern Orthodoxy",
+   "broader": [
+    "religion:christianity"
+   ],
+   "wikidata": "Q3333484"
+  },
+  {
+   "id": "religion:buddhism",
+   "kind": "religion",
+   "name": "Buddhism",
+   "wikidata": "Q748"
+  },
+  {
+   "id": "religion:hinduism",
+   "kind": "religion",
+   "name": "Hinduism",
+   "wikidata": "Q9089"
+  },
+  {
+   "id": "religion:judaism",
+   "kind": "religion",
+   "name": "Judaism",
+   "wikidata": "Q9268"
+  },
+  {
+   "id": "religion:ancient-egyptian",
+   "kind": "religion",
+   "name": "Ancient Egyptian religion"
+  },
+  {
+   "id": "religion:ancient-greek",
+   "kind": "religion",
+   "name": "Ancient Greek religion"
+  },
+  {
+   "id": "religion:ancient-roman",
+   "kind": "religion",
+   "name": "Ancient Roman religion",
+   "wikidata": "Q337547"
+  },
+  {
+   "id": "religion:zoroastrianism",
+   "kind": "religion",
+   "name": "Zoroastrianism",
+   "wikidata": "Q9601"
+  },
+  {
+   "id": "religion:maya-religion",
+   "kind": "religion",
+   "name": "Maya religion"
+  },
+  {
+   "id": "period:middle-stone-age",
+   "kind": "period",
+   "name": "Middle Stone Age (Africa)",
+   "applies_to": [
+    "place:continent:africa"
+   ],
+   "time": [
+    {
+     "role": "existence",
+     "from_ka": 280,
+     "earliest_end_ka": 50,
+     "latest_end_ka": 25,
+     "precision": "ka",
+     "qualifier": "circa",
+     "label": "began around 280,000 years ago, ended around 50,000–25,000 years ago",
+     "ev": [
+      "wp:Middle Stone Age"
+     ],
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "existence",
+     "earliest_start_ka": 550,
+     "latest_start_ka": 500,
+     "earliest_end_ka": 50,
+     "latest_end_ka": 25,
+     "precision": "ka",
+     "qualifier": "circa",
+     "label": "some researchers place the beginning at 550,000–500,000 years ago",
+     "ev": [
+      "wp:Middle Stone Age"
+     ],
+     "conf": "low",
+     "status": "alternative"
+    }
+   ]
+  },
+  {
+   "id": "period:upper-paleolithic",
+   "kind": "period",
+   "name": "Upper Paleolithic",
+   "applies_to": [
+    "place:continent:europe"
+   ],
+   "time": [
+    {
+     "role": "existence",
+     "from_ka": 50,
+     "to_ka": 12,
+     "precision": "ka",
+     "qualifier": "circa",
+     "label": "very broadly between 50,000 and 12,000 years ago",
+     "ev": [
+      "wp:Upper Paleolithic"
+     ],
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "period:ppna",
+   "kind": "period",
+   "name": "Pre-Pottery Neolithic A",
+   "applies_to": [
+    "place:region:levant",
+    "place:region:anatolia"
+   ],
+   "time": [
+    {
+     "role": "existence",
+     "from": -9600,
+     "to": -8800,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "c. 9600–8800 BCE",
+     "ev": [
+      "wp:Göbekli Tepe"
+     ],
+     "conf": "medium",
+     "status": "accepted",
+     "note": "Levantine/Upper Mesopotamian chronology as summarised in the Göbekli Tepe article."
+    }
+   ]
+  },
+  {
+   "id": "period:ppnb",
+   "kind": "period",
+   "name": "Pre-Pottery Neolithic B",
+   "applies_to": [
+    "place:region:levant",
+    "place:region:anatolia"
+   ],
+   "time": [
+    {
+     "role": "existence",
+     "from": -8800,
+     "to": -7000,
+     "qualifier": "circa",
+     "precision": "century",
+     "label": "c. 8800–7000 BCE",
+     "ev": [
+      "wp:Göbekli Tepe"
+     ],
+     "conf": "medium",
+     "status": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "period:neolithic",
+   "kind": "period",
+   "name": "Neolithic",
+   "description": "Region-dependent; no single global date range is stored on purpose (see OPEN QUESTIONS).",
+   "wikidata": "Q36422",
+   "crosswalk_note": "Curator crosswalk 2026-10-01: Wikidata Q36422 ('Neolithic', label as returned in the 2026-09-30/10-01 snapshots). Generic, region-independent concept."
+  },
+  {
+   "id": "period:chalcolithic",
+   "kind": "period",
+   "name": "Chalcolithic"
+  },
+  {
+   "id": "period:bronze-age",
+   "kind": "period",
+   "name": "Bronze Age",
+   "description": "Region-dependent; no single global range stored."
+  },
+  {
+   "id": "period:egypt-old-kingdom",
+   "kind": "period",
+   "name": "Old Kingdom of Egypt",
+   "applies_to": [
+    "place:region:lower-egypt",
+    "place:region:upper-egypt"
+   ],
+   "time": [
+    {
+     "role": "existence",
+     "from": -2686,
+     "to": -2181,
+     "precision": "year",
+     "qualifier": "circa",
+     "label": "Third to Sixth Dynasty, 2686–2181 BC (most common definition)",
+     "ev": [
+      "wp:Old Kingdom of Egypt"
+     ],
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "note": "Absolute Egyptian dates depend on the chronology used (Shaw-type dates)."
+    }
+   ]
+  },
+  {
+   "id": "period:egypt-middle-kingdom",
+   "kind": "period",
+   "name": "Middle Kingdom of Egypt",
+   "applies_to": [
+    "place:region:lower-egypt",
+    "place:region:upper-egypt"
+   ],
+   "time": [
+    {
+     "role": "existence",
+     "from": -2040,
+     "earliest_end": -1782,
+     "latest_end": -1700,
+     "precision": "decade",
+     "qualifier": "circa",
+     "label": "approximately 2040 to 1782 or 1700 BC (definition-dependent)",
+     "ev": [
+      "wp:Middle Kingdom of Egypt"
+     ],
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "existence",
+     "from": -2055,
+     "to": -1650,
+     "precision": "decade",
+     "qualifier": "circa",
+     "label": "from Mentuhotep II's accession (2055 BC) to c. 1650 BC if the whole 13th Dynasty is included",
+     "ev": [
+      "wp:Middle Kingdom of Egypt"
+     ],
+     "conf": "medium",
+     "status": "alternative"
+    }
+   ]
+  },
+  {
+   "id": "period:egypt-new-kingdom",
+   "kind": "period",
+   "name": "New Kingdom of Egypt",
+   "applies_to": [
+    "place:region:lower-egypt",
+    "place:region:upper-egypt",
+    "place:region:nubia"
+   ],
+   "time": [
+    {
+     "role": "existence",
+     "earliest_start": -1600,
+     "latest_start": -1501,
+     "earliest_end": -1100,
+     "latest_end": -1001,
+     "precision": "century",
+     "label": "between the 16th century BC and the 11th century BC",
+     "ev": [
+      "wp:New Kingdom of Egypt"
+     ],
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "existence",
+     "from": -1570,
+     "to": -1544,
+     "precision": "decade",
+     "method": "radiocarbon",
+     "label": "establishment placed between 1570 and 1544 BC by radiocarbon dating",
+     "ev": [
+      "wp:New Kingdom of Egypt"
+     ],
+     "conf": "medium",
+     "status": "accepted",
+     "qualifiers": {
+      "phase": "establishment only"
+     }
+    }
+   ]
+  },
+  {
+   "id": "period:ptolemaic-egypt",
+   "kind": "period",
+   "name": "Ptolemaic Kingdom (Egypt)",
+   "time": [
+    {
+     "role": "existence",
+     "from": -305,
+     "to": -30,
+     "precision": "year",
+     "label": "305–30 BCE",
+     "ev": [
+      "wp:Karnak"
+     ],
+     "conf": "high",
+     "status": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "period:minoan-palatial",
+   "kind": "period",
+   "name": "Minoan palatial period (Crete)",
+   "applies_to": [
+    "place:region:crete"
+   ]
+  },
+  {
+   "id": "period:late-bronze-age-aegean",
+   "kind": "period",
+   "name": "Late Bronze Age (Aegean)",
+   "broader": [
+    "period:bronze-age"
+   ],
+   "applies_to": [
+    "place:region:aegean"
+   ]
+  },
+  {
+   "id": "period:classical-greece",
+   "kind": "period",
+   "name": "Classical Greece"
+  },
+  {
+   "id": "period:hellenistic",
+   "kind": "period",
+   "name": "Hellenistic period",
+   "time": [
+    {
+     "role": "existence",
+     "from": -323,
+     "to": -30,
+     "precision": "year",
+     "label": "death of Alexander (323 BC) to death of Cleopatra VII (30 BC)",
+     "ev": [
+      "wp:Hellenistic period"
+     ],
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "period:second-temple",
+   "kind": "period",
+   "name": "Second Temple period",
+   "applies_to": [
+    "place:region:levant"
+   ],
+   "names": [
+    {
+     "name": "תקופת בית שני",
+     "lang": "he",
+     "type": "alternative"
+    }
+   ],
+   "time": [
+    {
+     "role": "existence",
+     "from": -516,
+     "to": 70,
+     "precision": "year",
+     "label": "516 BCE – 70 CE",
+     "ev": [
+      "wp:Second Temple period"
+     ],
+     "conf": "high",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "period:early-roman-empire",
+   "kind": "period",
+   "name": "Early Roman Empire (Principate)"
+  },
+  {
+   "id": "period:early-medieval-england",
+   "kind": "period",
+   "name": "Early medieval (Anglo-Saxon) England",
+   "applies_to": [
+    "place:region:british-isles"
+   ]
+  },
+  {
+   "id": "period:viking-age",
+   "kind": "period",
+   "name": "Viking Age",
+   "time": [
+    {
+     "role": "existence",
+     "from": 800,
+     "to": 1050,
+     "qualifier": "circa",
+     "precision": "decade",
+     "label": "about 800–1050 CE",
+     "ev": [
+      "wp:Viking Age"
+     ],
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "period:late-archaic-andes",
+   "kind": "period",
+   "name": "Late Archaic (Central Andes)",
+   "applies_to": [
+    "place:region:andes"
+   ]
+  },
+  {
+   "id": "period:mesoamerican-classic",
+   "kind": "period",
+   "name": "Mesoamerican Classic period",
+   "applies_to": [
+    "place:region:mesoamerica"
+   ]
+  },
+  {
+   "id": "period:mesoamerican-postclassic",
+   "kind": "period",
+   "name": "Mesoamerican Postclassic period",
+   "applies_to": [
+    "place:region:mesoamerica"
+   ]
+  },
+  {
+   "id": "period:angkorian",
+   "kind": "period",
+   "name": "Angkorian period",
+   "applies_to": [
+    "place:region:southeast-asia"
+   ]
+  },
+  {
+   "id": "period:achaemenid",
+   "kind": "period",
+   "name": "Achaemenid period",
+   "time": [
+    {
+     "role": "existence",
+     "from": -550,
+     "to": -330,
+     "qualifier": "circa",
+     "precision": "year",
+     "label": "c. 550–330 BC",
+     "ev": [
+      "wp:Persepolis"
+     ],
+     "conf": "medium",
+     "status": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "event:vesuvius-79",
+   "kind": "event",
+   "name": "Eruption of Mount Vesuvius (79 CE)",
+   "description": "Eruption that buried Pompeii, Herculaneum and Stabiae. Its day is disputed (see claims).",
+   "located_in": [
+    "place:locality:vesuvius"
+   ],
+   "pov": {
+    "theme": [
+     "concept:theme:natural-disaster"
+    ]
+   },
+   "time": [
+    {
+     "role": "event",
+     "date": "0079-08-24",
+     "calendar": "julian",
+     "precision": "day",
+     "label": "24 August 79 (traditional, from a manuscript of Pliny the Younger)",
+     "ev": [
+      "wp:Eruption of Mount Vesuvius in 79 AD",
+      "wp:Pompeii"
+     ],
+     "conf": "low",
+     "status": "disputed",
+     "rank": "normal",
+     "group": "vesuvius-79:date",
+     "note": "Manuscript experts believe Pliny's original date was one of 24 August, 30 October, 1 November or 23 November; August was long the accepted reading."
+    },
+    {
+     "role": "event",
+     "date": "0079-10-17",
+     "calendar": "julian",
+     "precision": "day",
+     "qualifier": "after",
+     "label": "after 17 October 79 (charcoal inscription found 2018)",
+     "ev": [
+      "wp:Eruption of Mount Vesuvius in 79 AD"
+     ],
+     "conf": "medium",
+     "status": "disputed",
+     "group": "vesuvius-79:date",
+     "note": "Terminus post quem; debated because the graffito could be more than a year old."
+    },
+    {
+     "role": "event",
+     "date": "0079-10-24",
+     "date_to": "0079-11-01",
+     "calendar": "julian",
+     "precision": "day",
+     "label": "between 24 October and 1 November 79 (2022 study)",
+     "ev": [
+      "wp:Eruption of Mount Vesuvius in 79 AD"
+     ],
+     "conf": "medium",
+     "status": "disputed",
+     "rank": "preferred",
+     "group": "vesuvius-79:date",
+     "note": "Preferred for default display only; the dispute is not resolved."
+    },
+    {
+     "role": "event",
+     "date": "0079-10-24",
+     "date_to": "0079-10-25",
+     "calendar": "julian",
+     "precision": "day",
+     "label": "24–25 October 79 (2022 study as summarised in the Pompeii article)",
+     "ev": [
+      "wp:Pompeii"
+     ],
+     "conf": "medium",
+     "status": "disputed",
+     "group": "vesuvius-79:date",
+     "note": "Two Wikipedia articles summarise the same 2022 study differently (24–25 Oct vs 24 Oct–1 Nov)."
+    }
+   ]
+  },
+  {
+   "id": "event:battle-of-kadesh",
+   "kind": "event",
+   "name": "Battle of Kadesh",
+   "ev": [
+    "wp:Battle of Kadesh"
+   ],
+   "time": [
+    {
+     "role": "event",
+     "date": "-1274-05",
+     "calendar": "unspecified",
+     "precision": "month",
+     "method": "historical (Egyptian regnal date)",
+     "label": "Year 5 III Shemu day 9 of Ramesses II — generally May 1274 BCE (low chronology)",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred",
+     "group": "kadesh:date"
+    },
+    {
+     "role": "event",
+     "from": -1294,
+     "to": -1294,
+     "qualifier": "circa",
+     "from_unc": 5,
+     "to_unc": 5,
+     "precision": "decade",
+     "label": "about 20 years earlier under the high chronology",
+     "conf": "low",
+     "status": "alternative",
+     "group": "kadesh:date",
+     "note": "Illustrates that one regnal date maps to different absolute years under different Egyptian chronologies; the underlying claim is the regnal date."
+    }
+   ]
+  },
+  {
+   "id": "person:khufu",
+   "kind": "person",
+   "name": "Khufu",
+   "ev": [
+    "wp:Khufu"
+   ],
+   "time": [
+    {
+     "role": "reign",
+     "from": -2600,
+     "to": -2501,
+     "precision": "century",
+     "label": "reigned during the 26th century BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    },
+    {
+     "role": "reign",
+     "from": -2590,
+     "to": -2566,
+     "qualifier": "circa",
+     "precision": "year",
+     "label": "c. 2590–2566 BC",
+     "ev": [
+      "wp:Great Sphinx of Giza"
+     ],
+     "conf": "medium",
+     "status": "alternative"
+    }
+   ]
+  },
+  {
+   "id": "person:khafre",
+   "kind": "person",
+   "name": "Khafre",
+   "ev": [
+    "wp:Great Sphinx of Giza"
+   ],
+   "time": [
+    {
+     "role": "reign",
+     "from": -2558,
+     "to": -2532,
+     "qualifier": "circa",
+     "precision": "year",
+     "label": "c. 2558–2532 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  },
+  {
+   "id": "person:djoser",
+   "kind": "person",
+   "name": "Djoser",
+   "ev": [
+    "wp:Pyramid of Djoser"
+   ],
+   "time": [
+    {
+     "role": "reign",
+     "from": -2670,
+     "to": -2650,
+     "qualifier": "circa",
+     "precision": "year",
+     "label": "c. 2670–2650 BC",
+     "conf": "medium",
+     "status": "accepted",
+     "rank": "preferred"
+    }
+   ]
+  }
+ ]
+}

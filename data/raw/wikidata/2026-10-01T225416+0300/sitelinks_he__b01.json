@@ -1,0 +1,408 @@
+{
+  "head" : {
+    "vars" : [ "item", "hewikiTitle" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q185562"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "האראפה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q186312"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מצדה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189113"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "ל'אנס או מדוז"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191504"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "לפטיס מגנה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q192418"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "הפירמידה של ג'וסר"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q182324"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מנגנון אנטיקיתרה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q184427"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מערות אג'אנטה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q333661"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קהוקיה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q245388"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "לוסי (שלד)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q277540"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "צ'אן צ'אן"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q269163"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מורוג'וגה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q374096"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מערת שובה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q676203"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מאצ'ו פיצ'ו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q683632"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "המסגד הגדול של ג'נה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q690035"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קדש (ארנת)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q724954"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מצבת מישע"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q744869"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "כתובת השילוח"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q816437"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "סקארה ברי"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q835309"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קבר תות ענח' אמון"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q844886"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "המצור על ירושלים (70)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q192522"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "צ'טלהויוק"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q201219"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "המוזיאון המצרי"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q202927"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "הזיקורת הגדול של אור"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q203729"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קרב קדש"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q208379"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "תל מגידו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q209217"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "זימבבואה הגדולה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q214944"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "גבקליטפה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q219279"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קאראל"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q243699"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "רשיד"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q199861"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "ח'עפרע"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q464904"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "יין שו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q464899"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מונטה אלבאן"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q471332"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "לליבלה, קיסר אתיופיה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q484458"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פסלי בודהה בבאמיאן"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q495286"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אתרי הדולמן בגוצ'אנג, בהוואסון ובגאנגהווה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q503256"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "סאטון הו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q516354"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "כתובת תל דן"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q522862"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "כרנכ"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q637187"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "המוזיאון הארכאולוגי הלאומי באתונה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q637584"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "כתר ארם צובא"
+      }
+    } ]
+  }
+}

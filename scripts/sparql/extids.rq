@@ -1,0 +1,8 @@
+# External identifiers useful for crosswalks: UNESCO WHS (P757), Pleiades (P1584),
+# Getty TGN (P1667), GeoNames (P1566), OSM relation (P402), Europeana (P7704), Historic England (P1216).
+SELECT ?item ?prop ?value WHERE {
+  VALUES ?item { {{VALUES}} }
+  VALUES ?prop { "P757" "P1584" "P1667" "P1566" "P402" "P1216" }
+  BIND(IRI(CONCAT("http://www.wikidata.org/prop/direct/", ?prop)) AS ?wdt)
+  ?item ?wdt ?value .
+}

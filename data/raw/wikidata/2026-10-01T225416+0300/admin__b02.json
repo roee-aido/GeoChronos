@@ -1,0 +1,274 @@
+{
+  "head" : {
+    "vars" : [ "item", "admin", "adminLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q846967"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q687165"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Madolenihmw"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q910180"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q194635"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lintong District"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q968802"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q109969"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Adams County"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q975775"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36214"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Puerto Montt"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1060888"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156265"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San Juan County"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128327"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5859"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chichen Itza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1143218"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q572041"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antequera"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165562"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q849807"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Western Highlands Province"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1262524"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q649278"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Argos-Mykines Municipality"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1741475"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2221197"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kilwa District"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2308606"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5832"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Axum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2402267"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5687"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jericho"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2620036"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q208186"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ica Department"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2620036"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q938322"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nasca Province"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2979068"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q312497"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montezuma County"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3287362"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1649742"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taputapuatea"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3448354"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009773"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla de Pascua"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7272782"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q513200"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Judea and Samaria Area"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85749368"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36687"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Victoria"
+      }
+    } ]
+  }
+}

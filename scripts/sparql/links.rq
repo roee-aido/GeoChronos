@@ -1,0 +1,10 @@
+# Item-to-item links: part of (P361), location (P276), collection (P195),
+# location of discovery (P189), commissioned by (P88), named after (P138), architectural style (P149),
+# culture (P2596), religion (P140), made from material (P186).
+SELECT ?item ?prop ?value ?valueLabel WHERE {
+  VALUES ?item { {{VALUES}} }
+  VALUES ?prop { "P361" "P276" "P195" "P189" "P88" "P138" "P149" "P2596" "P140" "P186" }
+  BIND(IRI(CONCAT("http://www.wikidata.org/prop/direct/", ?prop)) AS ?wdt)
+  ?item ?wdt ?value .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

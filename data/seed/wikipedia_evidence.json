@@ -1,0 +1,779 @@
+{
+  "_comment": "Index of English Wikipedia revisions consulted to verify seed claims. Keys are the article titles sanitised with regex [^\\w]+ -> '_' (as used by 'wp:<title>' evidence tokens). Article text is NOT stored in the repository (CC BY-SA); only citations.",
+  "articles": {
+    "Abu_Simbel": {
+      "url": "https://en.wikipedia.org/wiki/Abu_Simbel",
+      "revid": 1377198891,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377198891",
+      "retrieved_at": "2026-09-30"
+    },
+    "Ahu_Tongariki": {
+      "url": "https://en.wikipedia.org/wiki/Ahu_Tongariki",
+      "revid": 1319099657,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1319099657",
+      "retrieved_at": "2026-09-30"
+    },
+    "Akrotiri_prehistoric_city_": {
+      "url": "https://en.wikipedia.org/wiki/Akrotiri_(prehistoric_city)",
+      "revid": 1374996992,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374996992",
+      "retrieved_at": "2026-09-30"
+    },
+    "Angkor_Wat": {
+      "url": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "revid": 1376592328,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376592328",
+      "retrieved_at": "2026-09-30"
+    },
+    "Antikythera_mechanism": {
+      "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+      "revid": 1377274051,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377274051",
+      "retrieved_at": "2026-09-30"
+    },
+    "Battle_of_Kadesh": {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kadesh",
+      "revid": 1376704482,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376704482",
+      "retrieved_at": "2026-09-30"
+    },
+    "Blombos_Cave": {
+      "url": "https://en.wikipedia.org/wiki/Blombos_Cave",
+      "revid": 1374861035,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374861035",
+      "retrieved_at": "2026-09-30"
+    },
+    "Borobudur": {
+      "url": "https://en.wikipedia.org/wiki/Borobudur",
+      "revid": 1377415824,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377415824",
+      "retrieved_at": "2026-09-30"
+    },
+    "Budj_Bim": {
+      "url": "https://en.wikipedia.org/wiki/Budj_Bim",
+      "revid": 1368621277,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368621277",
+      "retrieved_at": "2026-09-30"
+    },
+    "Cahokia": {
+      "url": "https://en.wikipedia.org/wiki/Cahokia",
+      "revid": 1377038212,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377038212",
+      "retrieved_at": "2026-09-30"
+    },
+    "Caral": {
+      "url": "https://en.wikipedia.org/wiki/Caral",
+      "revid": 1370379037,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370379037",
+      "retrieved_at": "2026-09-30"
+    },
+    "Carnac_stones": {
+      "url": "https://en.wikipedia.org/wiki/Carnac_stones",
+      "revid": 1370125411,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370125411",
+      "retrieved_at": "2026-09-30"
+    },
+    "Çatalhöyük": {
+      "url": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk",
+      "revid": 1376870662,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376870662",
+      "retrieved_at": "2026-09-30"
+    },
+    "Chichen_Itza": {
+      "url": "https://en.wikipedia.org/wiki/Chichen_Itza",
+      "revid": 1377422303,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377422303",
+      "retrieved_at": "2026-09-30"
+    },
+    "Church_of_Saint_George_Lalibela": {
+      "url": "https://en.wikipedia.org/wiki/Church_of_Saint_George,_Lalibela",
+      "revid": 1363749576,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363749576",
+      "retrieved_at": "2026-09-30"
+    },
+    "Classical_Greece": {
+      "url": "https://en.wikipedia.org/wiki/Classical_Greece",
+      "revid": 1377311657,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377311657",
+      "retrieved_at": "2026-09-30"
+    },
+    "Cliff_Palace": {
+      "url": "https://en.wikipedia.org/wiki/Cliff_Palace",
+      "revid": 1330462134,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1330462134",
+      "retrieved_at": "2026-09-30"
+    },
+    "Colosseum": {
+      "url": "https://en.wikipedia.org/wiki/Colosseum",
+      "revid": 1377010566,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377010566",
+      "retrieved_at": "2026-09-30"
+    },
+    "Darius_the_Great": {
+      "url": "https://en.wikipedia.org/wiki/Darius_the_Great",
+      "revid": 1377709056,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377709056",
+      "retrieved_at": "2026-09-30"
+    },
+    "Dead_Sea_Scrolls": {
+      "url": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
+      "revid": 1373755579,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373755579",
+      "retrieved_at": "2026-09-30"
+    },
+    "Djoser": {
+      "url": "https://en.wikipedia.org/wiki/Djoser",
+      "revid": 1376355892,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376355892",
+      "retrieved_at": "2026-09-30"
+    },
+    "Dolmen_of_Menga": {
+      "url": "https://en.wikipedia.org/wiki/Dolmen_of_Menga",
+      "revid": 1333079178,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1333079178",
+      "retrieved_at": "2026-09-30"
+    },
+    "Eighteenth_Dynasty_of_Egypt": {
+      "url": "https://en.wikipedia.org/wiki/Eighteenth_Dynasty_of_Egypt",
+      "revid": 1376340164,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376340164",
+      "retrieved_at": "2026-09-30"
+    },
+    "El_Castillo_Chichen_Itza": {
+      "url": "https://en.wikipedia.org/wiki/El_Castillo,_Chichen_Itza",
+      "revid": 1376250484,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376250484",
+      "retrieved_at": "2026-09-30"
+    },
+    "Eruption_of_Mount_Vesuvius_in_79_AD": {
+      "url": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+      "revid": 1376334127,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376334127",
+      "retrieved_at": "2026-09-30"
+    },
+    "Fourth_Dynasty_of_Egypt": {
+      "url": "https://en.wikipedia.org/wiki/Fourth_Dynasty_of_Egypt",
+      "revid": 1376337093,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376337093",
+      "retrieved_at": "2026-09-30"
+    },
+    "Gebre_Mesqel_Lalibela": {
+      "url": "https://en.wikipedia.org/wiki/Gebre_Meskel_Lalibela",
+      "revid": 1364920438,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1364920438",
+      "retrieved_at": "2026-09-30"
+    },
+    "Göbekli_Tepe": {
+      "url": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+      "revid": 1374064541,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374064541",
+      "retrieved_at": "2026-09-30"
+    },
+    "Gochang_Hwasun_and_Ganghwa_Dolmen_Sites": {
+      "url": "https://en.wikipedia.org/wiki/Gochang,_Hwasun_and_Ganghwa_Dolmen_Sites",
+      "revid": 1366153884,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1366153884",
+      "retrieved_at": "2026-09-30"
+    },
+    "Great_Pyramid_of_Giza": {
+      "url": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+      "revid": 1376020884,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376020884",
+      "retrieved_at": "2026-09-30"
+    },
+    "Great_Sphinx_of_Giza": {
+      "url": "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza",
+      "revid": 1377623009,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377623009",
+      "retrieved_at": "2026-09-30"
+    },
+    "Great_Zimbabwe": {
+      "url": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+      "revid": 1377049742,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377049742",
+      "retrieved_at": "2026-09-30"
+    },
+    "Ħaġar_Qim": {
+      "url": "https://en.wikipedia.org/wiki/%C4%A6a%C4%A1ar_Qim",
+      "revid": 1364834253,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1364834253",
+      "retrieved_at": "2026-09-30"
+    },
+    "Hellenistic_period": {
+      "url": "https://en.wikipedia.org/wiki/Hellenistic_period",
+      "revid": 1377717659,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377717659",
+      "retrieved_at": "2026-09-30"
+    },
+    "Herod_the_Great": {
+      "url": "https://en.wikipedia.org/wiki/Herod_the_Great",
+      "revid": 1377564084,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377564084",
+      "retrieved_at": "2026-09-30"
+    },
+    "Karnak": {
+      "url": "https://en.wikipedia.org/wiki/Karnak",
+      "revid": 1377418456,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377418456",
+      "retrieved_at": "2026-09-30"
+    },
+    "Khafre": {
+      "url": "https://en.wikipedia.org/wiki/Khafre",
+      "revid": 1376845270,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376845270",
+      "retrieved_at": "2026-09-30"
+    },
+    "Khufu": {
+      "url": "https://en.wikipedia.org/wiki/Khufu",
+      "revid": 1377491206,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377491206",
+      "retrieved_at": "2026-09-30"
+    },
+    "Knossos": {
+      "url": "https://en.wikipedia.org/wiki/Knossos",
+      "revid": 1374770779,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374770779",
+      "retrieved_at": "2026-09-30"
+    },
+    "KV62": {
+      "url": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun",
+      "revid": 1376049208,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376049208",
+      "retrieved_at": "2026-09-30"
+    },
+    "L_Anse_aux_Meadows": {
+      "url": "https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows",
+      "revid": 1372914857,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1372914857",
+      "retrieved_at": "2026-09-30"
+    },
+    "Lalibela": {
+      "url": "https://en.wikipedia.org/wiki/Lalibela",
+      "revid": 1376595937,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376595937",
+      "retrieved_at": "2026-09-30"
+    },
+    "Lascaux": {
+      "url": "https://en.wikipedia.org/wiki/Lascaux",
+      "revid": 1377161794,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377161794",
+      "retrieved_at": "2026-09-30"
+    },
+    "Machu_Picchu": {
+      "url": "https://en.wikipedia.org/wiki/Machu_Picchu",
+      "revid": 1376861597,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376861597",
+      "retrieved_at": "2026-09-30"
+    },
+    "Masada": {
+      "url": "https://en.wikipedia.org/wiki/Masada",
+      "revid": 1371936588,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371936588",
+      "retrieved_at": "2026-09-30"
+    },
+    "Mask_of_Tutankhamun": {
+      "url": "https://en.wikipedia.org/wiki/Mask_of_Tutankhamun",
+      "revid": 1377451859,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377451859",
+      "retrieved_at": "2026-09-30"
+    },
+    "Mausoleum_of_Qin_Shi_Huang": {
+      "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Qin_Shi_Huang",
+      "revid": 1368884501,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368884501",
+      "retrieved_at": "2026-09-30"
+    },
+    "Megalithic_Temples_of_Malta": {
+      "url": "https://en.wikipedia.org/wiki/Megalithic_Temples_of_Malta",
+      "revid": 1374148370,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374148370",
+      "retrieved_at": "2026-09-30"
+    },
+    "Meroë": {
+      "url": "https://en.wikipedia.org/wiki/Mero%C3%AB",
+      "revid": 1371392021,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371392021",
+      "retrieved_at": "2026-09-30"
+    },
+    "Mesoamerican_chronology": {
+      "url": "https://en.wikipedia.org/wiki/Mesoamerican_chronology",
+      "revid": 1376988322,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376988322",
+      "retrieved_at": "2026-09-30"
+    },
+    "Middle_Kingdom_of_Egypt": {
+      "url": "https://en.wikipedia.org/wiki/Middle_Kingdom_of_Egypt",
+      "revid": 1354356644,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1354356644",
+      "retrieved_at": "2026-09-30"
+    },
+    "Middle_Stone_Age": {
+      "url": "https://en.wikipedia.org/wiki/Middle_Stone_Age",
+      "revid": 1369618183,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1369618183",
+      "retrieved_at": "2026-09-30"
+    },
+    "Minoan_eruption": {
+      "url": "https://en.wikipedia.org/wiki/Minoan_eruption",
+      "revid": 1371472615,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371472615",
+      "retrieved_at": "2026-09-30"
+    },
+    "Mohenjo_daro": {
+      "url": "https://en.wikipedia.org/wiki/Mohenjo-daro",
+      "revid": 1376909925,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376909925",
+      "retrieved_at": "2026-09-30"
+    },
+    "Monks_Mound": {
+      "url": "https://en.wikipedia.org/wiki/Monks_Mound",
+      "revid": 1372016873,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1372016873",
+      "retrieved_at": "2026-09-30"
+    },
+    "Nan_Madol": {
+      "url": "https://en.wikipedia.org/wiki/Nan_Madol",
+      "revid": 1376731145,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376731145",
+      "retrieved_at": "2026-09-30"
+    },
+    "New_Kingdom_of_Egypt": {
+      "url": "https://en.wikipedia.org/wiki/New_Kingdom_of_Egypt",
+      "revid": 1377208719,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377208719",
+      "retrieved_at": "2026-09-30"
+    },
+    "Newgrange": {
+      "url": "https://en.wikipedia.org/wiki/Newgrange",
+      "revid": 1377724464,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377724464",
+      "retrieved_at": "2026-09-30"
+    },
+    "Nineteenth_Dynasty_of_Egypt": {
+      "url": "https://en.wikipedia.org/wiki/Nineteenth_Dynasty_of_Egypt",
+      "revid": 1377500778,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377500778",
+      "retrieved_at": "2026-09-30"
+    },
+    "Nubian_pyramids": {
+      "url": "https://en.wikipedia.org/wiki/Nubian_pyramids",
+      "revid": 1368395251,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368395251",
+      "retrieved_at": "2026-09-30"
+    },
+    "Old_Kingdom_of_Egypt": {
+      "url": "https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt",
+      "revid": 1377446505,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377446505",
+      "retrieved_at": "2026-09-30"
+    },
+    "Parthenon": {
+      "url": "https://en.wikipedia.org/wiki/Parthenon",
+      "revid": 1375607468,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375607468",
+      "retrieved_at": "2026-09-30"
+    },
+    "Persepolis": {
+      "url": "https://en.wikipedia.org/wiki/Persepolis",
+      "revid": 1376731595,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376731595",
+      "retrieved_at": "2026-09-30"
+    },
+    "Petra": {
+      "url": "https://en.wikipedia.org/wiki/Petra",
+      "revid": 1377698234,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377698234",
+      "retrieved_at": "2026-09-30"
+    },
+    "Pompeii": {
+      "url": "https://en.wikipedia.org/wiki/Pompeii",
+      "revid": 1377727528,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377727528",
+      "retrieved_at": "2026-09-30"
+    },
+    "Ptolemy_V_Epiphanes": {
+      "url": "https://en.wikipedia.org/wiki/Ptolemy_V_Epiphanes",
+      "revid": 1363642619,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1363642619",
+      "retrieved_at": "2026-09-30"
+    },
+    "Pyramid_of_Djoser": {
+      "url": "https://en.wikipedia.org/wiki/Pyramid_of_Djoser",
+      "revid": 1377051855,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377051855",
+      "retrieved_at": "2026-09-30"
+    },
+    "Pyramid_of_the_Sun": {
+      "url": "https://en.wikipedia.org/wiki/Pyramid_of_the_Sun",
+      "revid": 1376494143,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376494143",
+      "retrieved_at": "2026-09-30"
+    },
+    "Qin_Shi_Huang": {
+      "url": "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
+      "revid": 1377260963,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377260963",
+      "retrieved_at": "2026-09-30"
+    },
+    "Qumran_Caves": {
+      "url": "https://en.wikipedia.org/wiki/Qumran_Caves",
+      "revid": 1371889991,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1371889991",
+      "retrieved_at": "2026-09-30"
+    },
+    "Ramesses_II": {
+      "url": "https://en.wikipedia.org/wiki/Ramesses_II",
+      "revid": 1377252359,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377252359",
+      "retrieved_at": "2026-09-30"
+    },
+    "Rosetta_Stone": {
+      "url": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+      "revid": 1370483867,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370483867",
+      "retrieved_at": "2026-09-30"
+    },
+    "Second_Temple_period": {
+      "url": "https://en.wikipedia.org/wiki/Second_Temple_period",
+      "revid": 1376863813,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376863813",
+      "retrieved_at": "2026-09-30"
+    },
+    "Skara_Brae": {
+      "url": "https://en.wikipedia.org/wiki/Skara_Brae",
+      "revid": 1376979948,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376979948",
+      "retrieved_at": "2026-09-30"
+    },
+    "Stonehenge": {
+      "url": "https://en.wikipedia.org/wiki/Stonehenge",
+      "revid": 1377469124,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377469124",
+      "retrieved_at": "2026-09-30"
+    },
+    "Suryavarman_II": {
+      "url": "https://en.wikipedia.org/wiki/Suryavarman_II",
+      "revid": 1373100132,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373100132",
+      "retrieved_at": "2026-09-30"
+    },
+    "Sutton_Hoo": {
+      "url": "https://en.wikipedia.org/wiki/Sutton_Hoo",
+      "revid": 1376360629,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376360629",
+      "retrieved_at": "2026-09-30"
+    },
+    "Tell_es_Sultan": {
+      "url": "https://en.wikipedia.org/wiki/Tell_es-Sultan",
+      "revid": 1373710443,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1373710443",
+      "retrieved_at": "2026-09-30"
+    },
+    "Teotihuacan": {
+      "url": "https://en.wikipedia.org/wiki/Teotihuacan",
+      "revid": 1376732157,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376732157",
+      "retrieved_at": "2026-09-30"
+    },
+    "Third_Dynasty_of_Egypt": {
+      "url": "https://en.wikipedia.org/wiki/Third_Dynasty_of_Egypt",
+      "revid": 1377187091,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377187091",
+      "retrieved_at": "2026-09-30"
+    },
+    "Tikal": {
+      "url": "https://en.wikipedia.org/wiki/Tikal",
+      "revid": 1376905178,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376905178",
+      "retrieved_at": "2026-09-30"
+    },
+    "Titus": {
+      "url": "https://en.wikipedia.org/wiki/Titus",
+      "revid": 1377498647,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377498647",
+      "retrieved_at": "2026-09-30"
+    },
+    "Treasury_of_Atreus": {
+      "url": "https://en.wikipedia.org/wiki/Treasury_of_Atreus",
+      "revid": 1364997617,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1364997617",
+      "retrieved_at": "2026-09-30"
+    },
+    "Upper_Paleolithic": {
+      "url": "https://en.wikipedia.org/wiki/Upper_Paleolithic",
+      "revid": 1377643736,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377643736",
+      "retrieved_at": "2026-09-30"
+    },
+    "Venus_of_Willendorf": {
+      "url": "https://en.wikipedia.org/wiki/Venus_of_Willendorf",
+      "revid": 1375264225,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375264225",
+      "retrieved_at": "2026-09-30"
+    },
+    "Vespasian": {
+      "url": "https://en.wikipedia.org/wiki/Vespasian",
+      "revid": 1370188966,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370188966",
+      "retrieved_at": "2026-09-30"
+    },
+    "Viking_Age": {
+      "url": "https://en.wikipedia.org/wiki/Viking_Age",
+      "revid": 1374040588,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374040588",
+      "retrieved_at": "2026-09-30"
+    },
+    "Ziggurat_of_Ur": {
+      "url": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur",
+      "revid": 1364258738,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1364258738",
+      "retrieved_at": "2026-09-30"
+    },
+    "Ajanta_Caves": {
+      "url": "https://en.wikipedia.org/wiki/Ajanta_Caves",
+      "revid": 1376220633,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376220633",
+      "retrieved_at": "2026-10-01"
+    },
+    "Aleppo_Codex": {
+      "url": "https://en.wikipedia.org/wiki/Aleppo_Codex",
+      "revid": 1366218497,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1366218497",
+      "retrieved_at": "2026-10-01"
+    },
+    "Babylon": {
+      "url": "https://en.wikipedia.org/wiki/Babylon",
+      "revid": 1377707791,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377707791",
+      "retrieved_at": "2026-10-01"
+    },
+    "Bagan": {
+      "url": "https://en.wikipedia.org/wiki/Bagan",
+      "revid": 1376599167,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376599167",
+      "retrieved_at": "2026-10-01"
+    },
+    "Buddhas_of_Bamiyan": {
+      "url": "https://en.wikipedia.org/wiki/Buddhas_of_Bamiyan",
+      "revid": 1376678488,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376678488",
+      "retrieved_at": "2026-10-01"
+    },
+    "Burrup_Peninsula": {
+      "url": "https://en.wikipedia.org/wiki/Burrup_Peninsula",
+      "revid": 1366152692,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1366152692",
+      "retrieved_at": "2026-10-01"
+    },
+    "Cave_of_Altamira": {
+      "url": "https://en.wikipedia.org/wiki/Cave_of_Altamira",
+      "revid": 1376869007,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376869007",
+      "retrieved_at": "2026-10-01"
+    },
+    "Chan_Chan": {
+      "url": "https://en.wikipedia.org/wiki/Chan_Chan",
+      "revid": 1377711116,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377711116",
+      "retrieved_at": "2026-10-01"
+    },
+    "Chauvet_Cave": {
+      "url": "https://en.wikipedia.org/wiki/Chauvet_Cave",
+      "revid": 1374683923,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374683923",
+      "retrieved_at": "2026-10-01"
+    },
+    "Chicxulub_crater": {
+      "url": "https://en.wikipedia.org/wiki/Chicxulub_crater",
+      "revid": 1377656863,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377656863",
+      "retrieved_at": "2026-10-01"
+    },
+    "Great_Mosque_of_Djenné": {
+      "url": "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenn%C3%A9",
+      "revid": 1367241290,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1367241290",
+      "retrieved_at": "2026-10-01"
+    },
+    "Hadrian_s_Wall": {
+      "url": "https://en.wikipedia.org/wiki/Hadrian%27s_Wall",
+      "revid": 1377043931,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377043931",
+      "retrieved_at": "2026-10-01"
+    },
+    "Hagia_Sophia": {
+      "url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+      "revid": 1377416690,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377416690",
+      "retrieved_at": "2026-10-01"
+    },
+    "Harappa": {
+      "url": "https://en.wikipedia.org/wiki/Harappa",
+      "revid": 1376729132,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376729132",
+      "retrieved_at": "2026-10-01"
+    },
+    "Hattusa": {
+      "url": "https://en.wikipedia.org/wiki/Hattusa",
+      "revid": 1370082956,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1370082956",
+      "retrieved_at": "2026-10-01"
+    },
+    "Hebrew_calendar": {
+      "url": "https://en.wikipedia.org/wiki/Hebrew_calendar",
+      "revid": 1376602290,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376602290",
+      "retrieved_at": "2026-10-01"
+    },
+    "Kilwa_Kisiwani": {
+      "url": "https://en.wikipedia.org/wiki/Kilwa_Kisiwani",
+      "revid": 1372017470,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1372017470",
+      "retrieved_at": "2026-10-01"
+    },
+    "Kuk_Swamp": {
+      "url": "https://en.wikipedia.org/wiki/Kuk_Swamp",
+      "revid": 1366154781,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1366154781",
+      "retrieved_at": "2026-10-01"
+    },
+    "Laetoli": {
+      "url": "https://en.wikipedia.org/wiki/Laetoli",
+      "revid": 1364840389,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1364840389",
+      "retrieved_at": "2026-10-01"
+    },
+    "Leptis_Magna": {
+      "url": "https://en.wikipedia.org/wiki/Leptis_Magna",
+      "revid": 1364716108,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1364716108",
+      "retrieved_at": "2026-10-01"
+    },
+    "Lucy_hominid_": {
+      "url": "https://en.wikipedia.org/wiki/Lucy_(hominid)",
+      "revid": 1376639904,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376639904",
+      "retrieved_at": "2026-10-01"
+    },
+    "Mesha_Stele": {
+      "url": "https://en.wikipedia.org/wiki/Mesha_Stele",
+      "revid": 1374971455,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374971455",
+      "retrieved_at": "2026-10-01"
+    },
+    "Monte_Albán": {
+      "url": "https://en.wikipedia.org/wiki/Monte_Alb%C3%A1n",
+      "revid": 1366767720,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1366767720",
+      "retrieved_at": "2026-10-01"
+    },
+    "Monte_Verde": {
+      "url": "https://en.wikipedia.org/wiki/Monte_Verde",
+      "revid": 1374809185,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374809185",
+      "retrieved_at": "2026-10-01"
+    },
+    "Nazca_lines": {
+      "url": "https://en.wikipedia.org/wiki/Nazca_lines",
+      "revid": 1377321986,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377321986",
+      "retrieved_at": "2026-10-01"
+    },
+    "Nebra_sky_disc": {
+      "url": "https://en.wikipedia.org/wiki/Nebra_sky_disc",
+      "revid": 1376251935,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376251935",
+      "retrieved_at": "2026-10-01"
+    },
+    "Obelisk_of_Aksum": {
+      "url": "https://en.wikipedia.org/wiki/Obelisk_of_Axum",
+      "revid": 1365738238,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1365738238",
+      "retrieved_at": "2026-10-01"
+    },
+    "Palmyra": {
+      "url": "https://en.wikipedia.org/wiki/Palmyra",
+      "revid": 1376729202,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376729202",
+      "retrieved_at": "2026-10-01"
+    },
+    "Pueblo_Bonito": {
+      "url": "https://en.wikipedia.org/wiki/Pueblo_Bonito",
+      "revid": 1369620136,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1369620136",
+      "retrieved_at": "2026-10-01"
+    },
+    "Sanchi_Stupa": {
+      "url": "https://en.wikipedia.org/wiki/Sanchi_Stupa",
+      "revid": 1374912182,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374912182",
+      "retrieved_at": "2026-10-01"
+    },
+    "Serpent_Mound": {
+      "url": "https://en.wikipedia.org/wiki/Serpent_Mound",
+      "revid": 1375671138,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375671138",
+      "retrieved_at": "2026-10-01"
+    },
+    "Siege_of_Jerusalem_70_CE_": {
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_CE)",
+      "revid": 1376652301,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376652301",
+      "retrieved_at": "2026-10-01"
+    },
+    "Siloam_inscription": {
+      "url": "https://en.wikipedia.org/wiki/Siloam_inscription",
+      "revid": 1368366323,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368366323",
+      "retrieved_at": "2026-10-01"
+    },
+    "Taputapuatea_marae": {
+      "url": "https://en.wikipedia.org/wiki/Taputapuatea_marae",
+      "revid": 1366156945,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1366156945",
+      "retrieved_at": "2026-10-01"
+    },
+    "Tel_Dan_stele": {
+      "url": "https://en.wikipedia.org/wiki/Tel_Dan_stele",
+      "revid": 1374410866,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1374410866",
+      "retrieved_at": "2026-10-01"
+    },
+    "Tel_Megiddo": {
+      "url": "https://en.wikipedia.org/wiki/Tel_Megiddo",
+      "revid": 1368868775,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368868775",
+      "retrieved_at": "2026-10-01"
+    },
+    "Tiwanaku": {
+      "url": "https://en.wikipedia.org/wiki/Tiwanaku",
+      "revid": 1375794501,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375794501",
+      "retrieved_at": "2026-10-01"
+    },
+    "Troy": {
+      "url": "https://en.wikipedia.org/wiki/Troy",
+      "revid": 1377455772,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377455772",
+      "retrieved_at": "2026-10-01"
+    },
+    "Yinxu": {
+      "url": "https://en.wikipedia.org/wiki/Yinxu",
+      "revid": 1365742155,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1365742155",
+      "retrieved_at": "2026-10-01"
+    },
+    "Youngest_Toba_eruption": {
+      "url": "https://en.wikipedia.org/wiki/Youngest_Toba_eruption",
+      "revid": 1376557536,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376557536",
+      "retrieved_at": "2026-10-01"
+    },
+    "Ötzi": {
+      "url": "https://en.wikipedia.org/wiki/%C3%96tzi",
+      "revid": 1377171338,
+      "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377171338",
+      "retrieved_at": "2026-10-01"
+    }
+  }
+}

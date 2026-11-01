@@ -1,0 +1,604 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.1365933,
+                    27.321657
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-of-mohenjo-daro",
+            "properties": {
+                "snippet": "Archaeological-site, Settlement; 3000 BC - 2000 BC",
+                "link": "https://pleiades.stoa.org/places/902113570/osm-location-of-mohenjo-daro",
+                "description": "Representative location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location of Mohenjo-daro"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.138889,
+                    27.329167
+                ]
+            },
+            "type": "Feature",
+            "id": "imagery-location-approximate-centerpoint-of-archaeological-site",
+            "properties": {
+                "snippet": "Unknown; 3000 BC - 2000 BC",
+                "link": "https://pleiades.stoa.org/places/902113570/imagery-location-approximate-centerpoint-of-archaeological-site",
+                "description": "verified in Google Earth 2012",
+                "location_precision": "precise",
+                "title": "Imagery Location: Approximate centerpoint of archaeological site"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "3rd-millennium-bc",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/3rd-millennium-bc",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/253161850",
+                    "citationDetail": "Node 253161850",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-of-mohenjo-daro",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "end": -2000,
+            "title": "OSM location of Mohenjo-daro",
+            "provenance": "OpenStreetMap (Node 253161850, version 13, osm:changeset=143081908, 2023-10-24T20:05:24Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -3000,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "archaeological-site",
+                "settlement"
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "created": "2026-01-25T14:16:52Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.1365933,
+                    27.321657
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/902113570/osm-location-of-mohenjo-daro",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "cleaned up references and connected them to Zotero library by @thomase",
+                    "modifiedBy": "admin",
+                    "modified": "2026-01-25T14:16:52Z"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modifiedBy": "admin",
+                    "modified": "2026-01-25T14:16:51Z"
+                },
+                {
+                    "comment": "cleaned up references and connected them to Zotero library by @thomase",
+                    "modifiedBy": "admin",
+                    "modified": "2025-12-03T18:59:27Z"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modifiedBy": "admin",
+                    "modified": "2025-12-03T18:59:27Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2024-07-15T19:55:51Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-07-14T14:33:15Z"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-07-14T14:33:09Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-07-14T14:32:23Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-07-14T14:32:23Z"
+                }
+            ]
+        },
+        {
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "3rd-millennium-bc",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/3rd-millennium-bc",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [],
+            "id": "imagery-location-approximate-centerpoint-of-archaeological-site",
+            "featureTypeURI": [],
+            "end": -2000,
+            "title": "Imagery Location: Approximate centerpoint of archaeological site",
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -3000,
+            "locationTypeURI": [],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 5.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
+            "featureType": [],
+            "description": "verified in Google Earth 2012",
+            "created": "2012-11-30T16:28:59Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.138889,
+                    27.329167
+                ]
+            },
+            "locationType": [
+                "central_point"
+            ],
+            "uri": "https://pleiades.stoa.org/places/902113570/imagery-location-approximate-centerpoint-of-archaeological-site",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "central point",
+                    "modifiedBy": "thomase",
+                    "modified": "2024-07-15T19:56:48Z"
+                },
+                {
+                    "comment": "adjusted chronology",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-05-19T20:56:02Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-12-05T02:18:50Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:32:01Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:30:00Z"
+                },
+                {
+                    "comment": "added location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:29:01Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:28:59Z"
+                }
+            ]
+        }
+    ],
+    "connections": [],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "http://whc.unesco.org/en/list/138",
+            "citationDetail": "138: Archaeological Ruins at Moenjodaro",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Mohenjo-daro",
+            "citationDetail": "Mohenjo-daro",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Harappa",
+            "citationDetail": "Harappa",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": " ",
+            "type": "seeAlso"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q5725",
+            "citationDetail": "Mohenjo-daro (Q5725)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Mohenjo-daro",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [],
+            "id": "mohenjo-daro",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2012-11-30T16:31:03Z",
+            "uri": "https://pleiades.stoa.org/places/902113570/mohenjo-daro",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Mohenjo-daro",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-12-05T02:18:50Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:32:02Z"
+                },
+                {
+                    "comment": "added name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:31:05Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:31:04Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Moen jo Daro",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.geonames.org/1170156/moen-jo-daro.html",
+                    "citationDetail": "1170156",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "GeoNames",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "id": "moen-jo-daro",
+            "end": 2100,
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "sd",
+            "created": "2026-01-25T14:22:02Z",
+            "uri": "https://pleiades.stoa.org/places/902113570/moen-jo-daro",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "cleaned up references and connected them to Zotero library by @thomase",
+                    "modifiedBy": "admin",
+                    "modified": "2026-01-25T14:22:02Z"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modifiedBy": "admin",
+                    "modified": "2026-01-25T14:22:01Z"
+                },
+                {
+                    "comment": "cleaned up references and connected them to Zotero library by @thomase",
+                    "modifiedBy": "admin",
+                    "modified": "2025-12-03T19:03:20Z"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modifiedBy": "admin",
+                    "modified": "2025-12-03T19:03:20Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2021-12-06T23:44:28Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "thomase",
+                    "modified": "2021-12-06T23:44:24Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-10-10T13:40:36Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-10-10T13:40:31Z"
+                },
+                {
+                    "comment": "added name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-10-10T04:32:28Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-10-10T04:32:14Z"
+                }
+            ]
+        }
+    ],
+    "id": "902113570",
+    "subject": [
+        "UWHS"
+    ],
+    "title": "Moenjodaro",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "An ancient (third millennium BC) city of the Indian sub-continent connected with the Harappan Civilization. It was designated a UNESCO World Heritage Site in 1980.",
+    "reprPoint": [
+        68.13774115000001,
+        27.325412
+    ],
+    "placeTypes": [
+        "settlement",
+        "archaeological-site"
+    ],
+    "bbox": [
+        68.1365933,
+        27.321657,
+        68.138889,
+        27.329167
+    ],
+    "connectsWith": [],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2026-01-25T14:19:24Z",
+    "uri": "https://pleiades.stoa.org/places/902113570",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "cleaned up references and connected them to Zotero library by @thomase",
+            "modifiedBy": "admin",
+            "modified": "2026-01-25T14:19:25Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "admin",
+            "modified": "2026-01-25T14:19:23Z"
+        },
+        {
+            "comment": "cleaned up references and connected them to Zotero library by @thomase",
+            "modifiedBy": "admin",
+            "modified": "2025-12-03T19:01:16Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "admin",
+            "modified": "2025-12-03T19:01:14Z"
+        },
+        {
+            "comment": "wikidata Q5725",
+            "modifiedBy": "jbecker",
+            "modified": "2025-01-15T04:13:40Z"
+        },
+        {
+            "comment": "uwhs cleanup",
+            "modifiedBy": "jbecker",
+            "modified": "2020-07-10T14:41:57Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2012-12-05T02:18:49Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "thomase",
+            "modified": "2012-12-05T02:17:53Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "jbecker",
+            "modified": "2012-11-30T16:31:46Z"
+        },
+        {
+            "comment": "edited description",
+            "modifiedBy": "jbecker",
+            "modified": "2012-11-30T16:31:32Z"
+        },
+        {
+            "comment": "created place",
+            "modifiedBy": "jbecker",
+            "modified": "2012-11-30T16:22:33Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "jbecker",
+            "modified": "2012-11-30T16:22:32Z"
+        }
+    ]
+}

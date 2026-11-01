@@ -1,0 +1,609 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.979938,
+                    41.008548
+                ]
+            },
+            "type": "Feature",
+            "id": "imagery-location",
+            "properties": {
+                "snippet": "; 30 BC - AD 2100",
+                "link": "https://pleiades.stoa.org/places/307220778/imagery-location",
+                "description": "Representative point location, derived from analysis of imagery in Google Earth.",
+                "location_precision": "precise",
+                "title": "Imagery Location of Hagia Sophia"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "bkiesling",
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling"
+        },
+        {
+            "username": "nshafir",
+            "homepage": null,
+            "name": "Nir Shafir",
+            "uri": "https://pleiades.stoa.org/author/nshafir"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        },
+        {
+            "username": "enesy",
+            "homepage": null,
+            "name": "Enes Yılandiloğlu",
+            "uri": "https://pleiades.stoa.org/author/enesy"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://en.wikipedia.org/wiki/Hagia_sophia",
+                    "citationDetail": "Hagia Sophia",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Wikipedia (English)",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Hagia Sophia.",
+                    "otherIdentifier": " ",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://tools.wmflabs.org/geohack/geohack.php?pagename=Hagia_Sophia&params=41.008548_N_28.979938_E_",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "GeoHack - Hagia Sophia",
+                    "otherIdentifier": " ",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "imagery-location",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "end": 2100,
+            "title": "Imagery Location of Hagia Sophia",
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -30,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 5.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
+            "featureType": [
+                ""
+            ],
+            "description": "Representative point location, derived from analysis of imagery in Google Earth.",
+            "created": "2012-11-30T19:36:29Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.979938,
+                    41.008548
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/307220778/imagery-location",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "refactored description to follow new editorial guidelines",
+                    "modifiedBy": "thomase",
+                    "modified": "2016-06-21T18:32:41Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-08-09T15:35:09Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-08-05T20:40:27Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-08-05T20:39:48Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-08-05T20:39:08Z"
+                },
+                {
+                    "comment": "added location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T19:36:33Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T19:36:30Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": null,
+            "description": "",
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "created": "2016-07-13T13:39:25Z",
+            "associationCertainty": "certain",
+            "title": "Constantinopolis",
+            "start": null,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/307220778/520998",
+            "connectionType": "at",
+            "id": "520998",
+            "attestations": [],
+            "history": [
+                {
+                    "comment": "ctype: \"at\"",
+                    "modifiedBy": "thomase",
+                    "modified": "2021-11-27T23:15:28Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:39:25Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:39:25Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:39:25Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/520998",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Hagia_sophia",
+            "citationDetail": "Hagia Sophia",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Hagia Sophia.",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://topostext.org/place/410290EASo",
+            "citationDetail": "Hagia Sophia church (Constantinople)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "ToposText",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "http://atlantides.org/bibliography/",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q12506",
+            "citationDetail": "Hagia Sophia (Q12506)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "St. Sophia",
+            "attestations": [
+                {
+                    "timePeriod": "eighteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/eighteenth-ce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "Vol. 2, p. 24",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Bowen 1747",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZJCBEC5U",
+                    "formattedCitation": "<div class=\"csl-entry\">Bowen, Emanuel, and Herman Moll. <i>A Complete System of Geography: Being a Description of All the Countries, Islands, Cities, Chief Towns, Harbours, Lakes, and Rivers, Mountains, Mines, &amp;c. of the Known World : Shewing the Situation, Extent, and Boundaries of the Several Empires, Kingdoms, Republics, Principalities, Provinces, &amp;c. ...</i> 2 vols. London: Printed for William Innys [and 15 others], 1747.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "id": "st-sophia",
+            "end": 1799,
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "provenance": "A Complete system of geography by Emanuel Bowen",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2025-11-01T23:53:41Z",
+            "uri": "https://pleiades.stoa.org/places/307220778/st-sophia",
+            "creators": [
+                {
+                    "username": "enesy",
+                    "homepage": null,
+                    "name": "Enes Yılandiloğlu",
+                    "uri": "https://pleiades.stoa.org/author/enesy"
+                }
+            ],
+            "attested": "St. Sophia",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "added 18th century English name attested in Bowen 1747",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-11-02T15:15:28Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-11-02T14:41:38Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-11-02T14:41:28Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-01T23:55:00Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-01T23:54:48Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-01T23:54:22Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-01T23:53:42Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-01T23:53:41Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Ayaṣofya",
+            "attestations": [
+                {
+                    "timePeriod": "ottoman-empire-2",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/ottoman-empire-2",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://ekitap.yek.gov.tr/urun/kunhu’l-ahbar--takim-5-cilt-_821.aspx",
+                    "citationDetail": "4th Volume, 628-636",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Künhü'l-ahbâr",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/WKDD5W8W",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "id": "ayasofya",
+            "end": 1923,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1300,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "ota",
+            "created": "2025-11-02T16:06:36Z",
+            "uri": "https://pleiades.stoa.org/places/307220778/ayasofya",
+            "creators": [
+                {
+                    "username": "enesy",
+                    "homepage": null,
+                    "name": "Enes Yılandiloğlu",
+                    "uri": "https://pleiades.stoa.org/author/enesy"
+                }
+            ],
+            "attested": "آیاصوفیا",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-11-03T01:56:53Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-02T16:23:01Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-02T16:22:56Z"
+                },
+                {
+                    "action": "Retract",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-02T16:22:41Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-02T16:18:40Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-02T16:18:27Z"
+                },
+                {
+                    "action": "Retract",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-02T16:18:09Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-02T16:15:15Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-02T16:15:10Z"
+                },
+                {
+                    "action": "Retract",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-02T16:14:57Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-02T16:06:49Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-02T16:06:36Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-02T16:06:36Z"
+                }
+            ]
+        }
+    ],
+    "id": "307220778",
+    "subject": [
+        "paleochristian"
+    ],
+    "title": "Hagia Sophia",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/church-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/mosque"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "A major paleochristian, then Byzantine, church in Istanbul; subsequently an Islamic mosque, and today a museum.",
+    "reprPoint": [
+        28.979938,
+        41.008548
+    ],
+    "placeTypes": [
+        "church-2",
+        "mosque"
+    ],
+    "bbox": [
+        28.979938,
+        41.008548,
+        28.979938,
+        41.008548
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/520998",
+        "https://pleiades.stoa.org/places/177059114"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2018-06-08T11:42:20Z",
+    "uri": "https://pleiades.stoa.org/places/307220778",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "wikidata Q12506",
+            "modifiedBy": "jbecker",
+            "modified": "2025-02-02T04:10:42Z"
+        },
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modifiedBy": "admin",
+            "modified": "2018-06-08T11:42:23Z"
+        },
+        {
+            "comment": "added nshafir as contributor since he drew our attention to an error in the description",
+            "modifiedBy": "thomase",
+            "modified": "2016-06-24T11:12:25Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2016-06-21T18:35:07Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "thomase",
+            "modified": "2016-06-21T18:35:03Z"
+        },
+        {
+            "comment": "updated types",
+            "modifiedBy": "thomase",
+            "modified": "2016-06-21T18:33:58Z"
+        },
+        {
+            "comment": "title, description, type",
+            "modifiedBy": "thomase",
+            "modified": "2016-06-21T18:28:45Z"
+        },
+        {
+            "comment": "Migrated from location",
+            "modifiedBy": "thomase",
+            "modified": "2016-06-21T18:25:57Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "thomase",
+            "modified": "2016-06-21T18:25:49Z"
+        }
+    ]
+}

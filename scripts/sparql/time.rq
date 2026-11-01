@@ -1,0 +1,12 @@
+# Time statements with precision and calendar model.
+# NOTE: WDQS serialises timeValue in astronomical year numbering (1 BCE = 0):
+# verified 2026-10-01 on Q203729 (Battle of Kadesh, "1274 BCE") -> "-1273-05-01".
+SELECT ?item ?prop ?time ?precision ?calendar ?rank WHERE {
+  VALUES ?item { {{VALUES}} }
+  VALUES ?prop { "P571" "P580" "P582" "P585" "P1319" "P1326" "P569" "P570" "P1249" }
+  BIND(IRI(CONCAT("http://www.wikidata.org/prop/", ?prop)) AS ?p)
+  BIND(IRI(CONCAT("http://www.wikidata.org/prop/statement/value/", ?prop)) AS ?psv)
+  ?item ?p ?st . ?st ?psv ?tv ; wikibase:rank ?rank .
+  ?tv wikibase:timeValue ?time ; wikibase:timePrecision ?precision ; wikibase:timeCalendarModel ?calendar .
+  FILTER(?rank != wikibase:DeprecatedRank)
+}

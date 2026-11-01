@@ -1,0 +1,11 @@
+# Country (P17, non-deprecated) with rank, the country's continent(s) (P30),
+# and whether the "country" is a dissolved/historical state (P576 dissolved date),
+# because Wikidata P17 sometimes lists historical polities (e.g. Achaemenid Empire).
+SELECT ?item ?country ?countryLabel ?rank ?continent ?continentLabel ?dissolved WHERE {
+  VALUES ?item { {{VALUES}} }
+  ?item p:P17 ?st . ?st ps:P17 ?country ; wikibase:rank ?rank .
+  FILTER(?rank != wikibase:DeprecatedRank)
+  OPTIONAL { ?country wdt:P30 ?continent }
+  OPTIONAL { ?country wdt:P576 ?dissolved }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

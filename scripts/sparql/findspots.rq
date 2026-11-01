@@ -1,0 +1,8 @@
+# Location of discovery (P189) of each target and that place's coordinates (P625).
+# Used to check whether a movable object's own P625 is really its find spot.
+SELECT ?item ?spot ?spotLabel (SAMPLE(STR(?coord)) AS ?spotCoord) WHERE {
+  VALUES ?item { {{VALUES}} }
+  ?item wdt:P189 ?spot .
+  OPTIONAL { ?spot wdt:P625 ?coord }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+} GROUP BY ?item ?spot ?spotLabel

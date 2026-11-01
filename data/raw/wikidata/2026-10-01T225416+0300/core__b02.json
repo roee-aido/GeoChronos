@@ -1,0 +1,510 @@
+{
+  "head" : {
+    "vars" : [ "item", "label", "description", "aliases", "coords" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2620036"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nazca Lines"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "large geoglyphs made in the soil of the Nazca Desert in Peru"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Nasca lines|ray roads (Nazca)"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-75.135 -14.6975)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2979068"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cliff Palace"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "human settlement in Mesa Verde National Park, Colorado, United States of America"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Cliff Palace, CO"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-108.472777777 37.166666666)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7272782"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Qumran Caves"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cave in West Bank"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "caves of the Judean Desert"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(35.458611111 31.741944444)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9048095"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mask of Tutankhamun"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "gold mask of the Egyptian pharaoh Tutankhamun"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "death mask of Tutankhamun|funerary mask of Tutankhamun|gold mask of Tutankhamun|Tutankhamun's mask"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q910180"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mausoleum of the First Qin Emperor"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mausoleum"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Mausoleum of Qin Chi Huang|Qinshihuang Ling"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(109.25388889 34.38166667)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q968802"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Serpent Mound"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prehistoric effigy mound in Ohio, United States"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Great Serpent Mound"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-83.4305 39.0253)|Point(-83.430444 39.025858)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128327"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Temple of Kukulcan"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pyramid in Chichén Itzá"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Temple of Kukulcán|La Pirámide|Pyramid of Kukulcan|Structure 5B18"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-88.568611111 20.682888888)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1144693"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Minoan eruption"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "major volcanic eruption around 1600 BCE"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Thera eruption"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(25.4 36.41)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q846967"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nan Madol"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ruined city of Federated States of Micronesesia"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(158.332222 6.841944)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q884971"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Blombos Cave"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site in Western Cape, South Africa"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(21.2225 -34.414444444)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q975775"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monte Verde"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site in Llanquihue Province, Chile"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-73.204444444 -41.504722222)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1060888"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pueblo Bonito"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient Puebloan ruin in New Mexico"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-107.962 36.0606)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1143218"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dolmen of Menga"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "dolmen located in Málaga, Spain"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-4.54845738 37.02401572)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165562"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuk Swamp"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(144.33 -5.7825)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3287362"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taputapuatea marae"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "large marae complex at Opoa in Taputapuatea, on the south eastern coast of Raiatea"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-151.359166666 -16.836111111)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3448354"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ahu Tongariki"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ahu on Easter Island"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-109.276944444 -27.125833333)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q65159662"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "youngest Toba eruption"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "volcanic supereruption 74,000 years ago in Indonesia"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(98.883333333 2.566666666)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85749368"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Budj Bim heritage areas"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "areas of historical and cultural significance near Budj Bim volcano in western Victoria, Australia"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(141.9 -38.083333333)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1262524"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Treasury of Atreus"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "\"tholos\" tomb located on the Panagitsa Hill at Mycenae, Greece, that dates ca.1250 BC"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Tomb of Agamemnon"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(22.753602777 37.726805555)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1741475"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kilwa Kisiwani"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "island in Tanzania"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Quiloa"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(39.51722 -8.98173)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2308606"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Obelisk of Axum"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th-century phonolite stele in Axum, Tigray Region, Ethiopia"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Axum Stele|Obelisk of Axum (Axum Stele)|Stele of Axum"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(38.719666666 14.132166666)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2402267"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tell es-Sultan"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site in the West Bank"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Jericho|Tel Jericho"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(35.44456389 31.87171944)"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.826667,
+                    34.831944
+                ]
+            },
+            "type": "Feature",
+            "id": "imagery-location-of-buddhas-of-bamyan",
+            "properties": {
+                "snippet": "Unknown; 330 BC - 100 BC",
+                "link": "https://pleiades.stoa.org/places/122728089/imagery-location-of-buddhas-of-bamyan",
+                "description": "Coordinates following GeoHack.",
+                "location_precision": "precise",
+                "title": "Imagery location of Buddhas of Bamyan"
+            }
+        }
+    ],
+    "contributors": [],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "hellenistic-central-asia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-central-asia",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [],
+            "id": "imagery-location-of-buddhas-of-bamyan",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
+            "end": -100,
+            "title": "Imagery location of Buddhas of Bamyan",
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -330,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
+            "archaeologicalRemains": "traces",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 2000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "featureType": [
+                "unknown"
+            ],
+            "description": "Coordinates following GeoHack.",
+            "created": "2019-06-17T14:21:47Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.826667,
+                    34.831944
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/122728089/imagery-location-of-buddhas-of-bamyan",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2020-10-14T19:29:22Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-09-28T15:03:15Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-06-17T14:21:50Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-06-17T14:21:47Z"
+                }
+            ]
+        }
+    ],
+    "connections": [],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Buddhas_of_Bamyan",
+            "citationDetail": "Buddhas of Bamyan",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://whc.unesco.org/en/list/208/",
+            "citationDetail": "208: Cultural Landscape and Archaeological Remains of the Bamiyan Valley",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Buddhas of Bamiyan",
+            "attestations": [
+                {
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.wikidata.org/wiki/Q484458",
+                    "citationDetail": "Q484458: Buddhas of Bamiyan",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "Wikidata",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "buddhas-of-bamiyan",
+            "end": 2099,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 2000,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2020-09-28T15:02:45Z",
+            "uri": "https://pleiades.stoa.org/places/122728089/buddhas-of-bamiyan",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Buddhas of Bamiyan",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2020-10-14T19:29:22Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-09-28T15:03:15Z"
+                },
+                {
+                    "comment": "name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-09-28T15:02:46Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-09-28T15:02:45Z"
+                }
+            ]
+        }
+    ],
+    "id": "122728089",
+    "subject": [
+        "UWHS"
+    ],
+    "title": "Buddhas of Bamyan",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/monument"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "Monumental statues of Gautam Buddha were carved into the cliff-face at Bamyan, located in the Bamyan valley in the Hazarajat region of central Afghanistan, The statues were, respectively, 35 and 53 m tall. They were intentionally destroyed by the Taliban in 2001.",
+    "reprPoint": [
+        67.826667,
+        34.831944
+    ],
+    "placeTypes": [
+        "monument"
+    ],
+    "bbox": [
+        67.826667,
+        34.831944,
+        67.826667,
+        34.831944
+    ],
+    "connectsWith": [],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2019-06-17T14:19:25Z",
+    "uri": "https://pleiades.stoa.org/places/122728089",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2020-10-14T19:29:22Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "jbecker",
+            "modified": "2020-09-28T15:03:15Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2020-09-28T15:01:51Z"
+        },
+        {
+            "comment": "created",
+            "modifiedBy": "jbecker",
+            "modified": "2019-06-17T14:19:29Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "jbecker",
+            "modified": "2019-06-17T14:19:25Z"
+        }
+    ]
+}

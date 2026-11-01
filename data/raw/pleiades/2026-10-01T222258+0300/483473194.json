@@ -1,0 +1,770 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.828333,
+                    37.6675
+                ]
+            },
+            "type": "Feature",
+            "id": "catalhoeyuk-approximate-centerpoint",
+            "properties": {
+                "snippet": "Settlement, ; 10000 BC - 3300 BC",
+                "link": "https://pleiades.stoa.org/places/483473194/catalhoeyuk-approximate-centerpoint",
+                "description": "",
+                "location_precision": "precise",
+                "title": "Çatalhöyük approximate centerpoint"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        32.8292208,
+                        37.6645654
+                    ],
+                    [
+                        32.8286981,
+                        37.6643224
+                    ],
+                    [
+                        32.8282915,
+                        37.6642633
+                    ],
+                    [
+                        32.8270469,
+                        37.6639332
+                    ],
+                    [
+                        32.8251202,
+                        37.6633856
+                    ],
+                    [
+                        32.8230591,
+                        37.6650424
+                    ],
+                    [
+                        32.8208849,
+                        37.6654649
+                    ],
+                    [
+                        32.8203938,
+                        37.6670056
+                    ],
+                    [
+                        32.8222172,
+                        37.6683221
+                    ],
+                    [
+                        32.8250988,
+                        37.6701458
+                    ],
+                    [
+                        32.8286566,
+                        37.6687953
+                    ],
+                    [
+                        32.8295527,
+                        37.668434
+                    ],
+                    [
+                        32.8300091,
+                        37.667416
+                    ],
+                    [
+                        32.8300671,
+                        37.6665819
+                    ],
+                    [
+                        32.8292872,
+                        37.6654324
+                    ],
+                    [
+                        32.8292208,
+                        37.6645654
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-of-aatalhapya1-4k",
+            "properties": {
+                "snippet": "Settlement; 10000 BC - 3300 BC",
+                "link": "https://pleiades.stoa.org/places/483473194/osm-location-of-aatalhapya1-4k",
+                "description": "Representative location based on OpenStreetMap.",
+                "location_precision": "precise",
+                "title": "OSM location of Çatalhöyük"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "neolithic-eastern-med",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neolithic-eastern-med",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [],
+            "id": "catalhoeyuk-approximate-centerpoint",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "end": -3300,
+            "title": "Çatalhöyük approximate centerpoint",
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -10000,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 5.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
+            "featureType": [
+                "settlement",
+                ""
+            ],
+            "description": "",
+            "created": "2012-11-30T16:01:26Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.828333,
+                    37.6675
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/483473194/catalhoeyuk-approximate-centerpoint",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-07-02T15:46:19Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-12-14T06:30:13Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:03:44Z"
+                },
+                {
+                    "comment": "added location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:01:28Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:01:26Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "neolithic-eastern-med",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neolithic-eastern-med",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/192245191",
+                    "citationDetail": "Way 192245191",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:way=192245191",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-of-aatalhapya1-4k",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "end": -3300,
+            "title": "OSM location of Çatalhöyük",
+            "provenance": "OpenStreetMap (Way 192245191, version 10, osm:changeset=150231888, 2024-04-19T16:17:40Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -10000,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "settlement"
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "created": "2019-06-12T14:17:24Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        32.8292208,
+                        37.6645654
+                    ],
+                    [
+                        32.8286981,
+                        37.6643224
+                    ],
+                    [
+                        32.8282915,
+                        37.6642633
+                    ],
+                    [
+                        32.8270469,
+                        37.6639332
+                    ],
+                    [
+                        32.8251202,
+                        37.6633856
+                    ],
+                    [
+                        32.8230591,
+                        37.6650424
+                    ],
+                    [
+                        32.8208849,
+                        37.6654649
+                    ],
+                    [
+                        32.8203938,
+                        37.6670056
+                    ],
+                    [
+                        32.8222172,
+                        37.6683221
+                    ],
+                    [
+                        32.8250988,
+                        37.6701458
+                    ],
+                    [
+                        32.8286566,
+                        37.6687953
+                    ],
+                    [
+                        32.8295527,
+                        37.668434
+                    ],
+                    [
+                        32.8300091,
+                        37.667416
+                    ],
+                    [
+                        32.8300671,
+                        37.6665819
+                    ],
+                    [
+                        32.8292872,
+                        37.6654324
+                    ],
+                    [
+                        32.8292208,
+                        37.6645654
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/483473194/osm-location-of-aatalhapya1-4k",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-07-18T13:32:32Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "nkaye",
+                    "modified": "2020-06-18T18:20:46Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-06-12T14:20:03Z"
+                },
+                {
+                    "comment": "added OSM location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-06-12T14:17:55Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-06-12T14:17:26Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-06-12T14:17:24Z"
+                }
+            ]
+        }
+    ],
+    "connections": [],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "http://whc.unesco.org/en/list/1405",
+            "citationDetail": "1405: Neolithic Site of Çatalhöyük",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk",
+            "citationDetail": "Çatalhöyük",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Çatalhöyük.",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.catalhoyuk.com/",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Çatalhöyük Research Project",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Hodder 2006",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SN37TFQH",
+            "formattedCitation": "<div class=\"csl-entry\">Hodder, Ian. <i>Çatalhöyük: The Leopard’s Tale ; Revealing the Mysteries of Turkey’s Ancient “Town.”</i> London: Thames &amp; Hudson, 2006.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.geonames.org/6940561/catalhoeyuek.html",
+            "citationDetail": "6940561: Çatalhöyük",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "GeoNames",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+            "otherIdentifier": " ",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Mellaart 1967",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XPCM2RAT",
+            "formattedCitation": "<div class=\"csl-entry\">Mellaart, James. <i>Çatal Hüyük: A Neolithic Town in Anatolia</i>. New Aspects of Antiquity. London: Thames and Hudson, 1967.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/material-geographies-of-house-societies-reconsidering-neolithic-catalhoyuk-turkey/37275CACFF91D1D6FC6041A96EC452B8",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Kuijt 2018",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RK2NGNSC",
+            "formattedCitation": "<div class=\"csl-entry\">Kuijt, Ian. “Material Geographies of House Societies: Reconsidering Neolithic Çatalhöyük, Turkey.” <i>Cambridge Archaeological Journal</i> 28, no. 4 (November 2018): 565–90. https://doi.org/10.1017/S0959774318000240.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q192522",
+            "citationDetail": "Q192522: Çatalhöyük",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Hodder 1996",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4AWMXCPA",
+            "formattedCitation": "<div class=\"csl-entry\">Hodder, Ian, ed. <i>On the Surface: Çatalhöyük 1993-95</i>. McDonald Institute Monographs, v. 1. Cambridge :  London: McDonald Institute for Archaeological Research ;  The British Institute of Archaeology at Ankara, 1996.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.cambridge.org/core/journals/antiquity/article/parasite-infection-at-the-early-farming-community-of-catalhoyuk/71D77AF9D6895DE334D76721AFED65BF",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Ledger 2019",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BQLT23XJ",
+            "formattedCitation": "<div class=\"csl-entry\">Ledger, Marissa L., Evilena Anastasiou, Lisa-Marie Shillito, Helen Mackay, Ian D. Bull, Scott D. Haddow, Christopher J. Knüsel, and Piers D. Mitchell. “Parasite Infection at the Early Farming Community of Çatalhöyük.” <i>Antiquity</i> 93, no. 369 (June 2019): 573–87. https://doi.org/10.15184/aqy.2019.61.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.journals.uchicago.edu/doi/abs/10.1086/709177",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Strutt 2020",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9DRQHBQE",
+            "formattedCitation": "<div class=\"csl-entry\">Strutt, Kristian, Stefano Campana, Jessica Ogden, Gianluca Catanzariti, and Gianfranco Morelli. “Integrating Magnetic and GPR Survey at Çatalhöyük.” <i>Near Eastern Archaeology</i> 83, no. 2 (June 1, 2020): 80–87. https://doi.org/10.1086/709177.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/dynamic-houses-and-communities-at-catalhoyuk-a-building-biography-approach-to-prehistoric-social-structure/F9CA5CAEED7336DF57CF2E976D90B6ED",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Kay 2020",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8T6TZFNK",
+            "formattedCitation": "<div class=\"csl-entry\">Kay, Kevin. “Dynamic Houses and Communities at Çatalhöyük: A Building Biography Approach to Prehistoric Social Structure.” <i>Cambridge Archaeological Journal</i> 30, no. 3 (August 2020): 451–68. https://doi.org/10.1017/S0959774320000037.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252312",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Santiago-Marrero 2021",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/YSBNMJ78",
+            "formattedCitation": "<div class=\"csl-entry\">Santiago-Marrero, Carlos G., Christina Tsoraki, Carla Lancelotti, and Marco Madella. “A Microbotanical and Microwear Perspective to Plant Processing Activities and Foodways at Neolithic Çatalhöyük.” <i>PLOS ONE</i> 16, no. 6 (June 10, 2021): e0252312. https://doi.org/10.1371/journal.pone.0252312.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.science.org/doi/10.1126/science.ady6939",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Arbuckle 2025",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PAPDETDH",
+            "formattedCitation": "<div class=\"csl-entry\">Arbuckle, Benjamin S. “Genomic Insights into Social Life in Neolithic Anatolia.” <i>Science</i> 388, no. 6754 (June 26, 2025): 1372–73. https://doi.org/10.1126/science.ady6939.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Çatal Höyük",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [],
+            "id": "catal-hoeyuk",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "tr",
+            "created": "2012-11-30T16:02:35Z",
+            "uri": "https://pleiades.stoa.org/places/483473194/catal-hoeyuk",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Çatal Höyük",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-12-14T06:30:14Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:03:45Z"
+                },
+                {
+                    "comment": "added name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:02:36Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:02:35Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Çatal Hüyük",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [],
+            "id": "catal-huyuk",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "tr",
+            "created": "2012-11-30T16:03:03Z",
+            "uri": "https://pleiades.stoa.org/places/483473194/catal-huyuk",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Çatal Hüyük",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-12-14T06:30:15Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:03:46Z"
+                },
+                {
+                    "comment": "added name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:03:07Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-11-30T16:03:05Z"
+                }
+            ]
+        }
+    ],
+    "id": "483473194",
+    "subject": [
+        "UWHS"
+    ],
+    "title": "Çatalhöyük",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "A Neolithic and Chalcolithic settlement of southern Anatolia, inhabited ca. 7500 B.C. to 5700 B.C. In July 2012, it was inscribed as a UNESCO World Heritage Site.",
+    "reprPoint": [
+        32.82688559869333,
+        37.66710232617157
+    ],
+    "placeTypes": [
+        "settlement"
+    ],
+    "bbox": [
+        32.8203938,
+        37.6633856,
+        32.8300671,
+        37.6701458
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/528863404"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2012-11-30T15:59:10Z",
+    "uri": "https://pleiades.stoa.org/places/483473194",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "add Arbuckle 2025",
+            "modifiedBy": "jbecker",
+            "modified": "2025-06-27T21:51:39Z"
+        },
+        {
+            "comment": "added Santiago-Marrero 2021",
+            "modifiedBy": "jbecker",
+            "modified": "2021-07-20T19:55:02Z"
+        },
+        {
+            "comment": "reference cleanup",
+            "modifiedBy": "jbecker",
+            "modified": "2020-09-03T13:44:23Z"
+        },
+        {
+            "comment": "ref. Kay 2020 added",
+            "modifiedBy": "jbecker",
+            "modified": "2020-07-16T19:34:30Z"
+        },
+        {
+            "comment": "uwhs cleanup",
+            "modifiedBy": "jbecker",
+            "modified": "2020-07-09T21:22:45Z"
+        },
+        {
+            "comment": "reference",
+            "modifiedBy": "jbecker",
+            "modified": "2020-06-04T03:35:08Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2019-06-12T14:14:03Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2018-10-12T15:05:21Z"
+        },
+        {
+            "comment": "change ref type",
+            "modifiedBy": "jbecker",
+            "modified": "2018-07-05T14:51:44Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2016-07-02T15:48:12Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "thomase",
+            "modified": "2012-12-14T06:30:22Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2012-12-14T06:30:13Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "jbecker",
+            "modified": "2012-11-30T16:04:02Z"
+        },
+        {
+            "comment": "added UWHS",
+            "modifiedBy": "jbecker",
+            "modified": "2012-11-30T15:59:36Z"
+        },
+        {
+            "comment": "created place",
+            "modifiedBy": "jbecker",
+            "modified": "2012-11-30T15:59:12Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "jbecker",
+            "modified": "2012-11-30T15:59:10Z"
+        }
+    ]
+}

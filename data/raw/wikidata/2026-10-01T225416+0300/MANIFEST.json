@@ -1,0 +1,387 @@
+{
+  "snapshot_id": "2026-10-01T225416+0300",
+  "source": "wikidata",
+  "status": "complete",
+  "completed_at": "2026-10-01T22:55:41+03:00",
+  "files": {
+    "admin__b00.json": {
+      "sha256": "bd9aed2e7de973c794a40a91d53732191f1ff6e090da199a7c60037152916aeb",
+      "bytes": 14743
+    },
+    "admin__b00.request.json": {
+      "sha256": "580f63a32fe20e459536aa95cee3ea2af1345a7d479ae5ea6839c365e8f39057",
+      "bytes": 943
+    },
+    "admin__b01.json": {
+      "sha256": "1ddaf3413b767513fb6ef04939fb14877f8122b7a36a7c8c34cfda0987fc4051",
+      "bytes": 18253
+    },
+    "admin__b01.request.json": {
+      "sha256": "d516b1900a2e6e80fca595790be4d43a80ce1d8a09cfa804ad0922e044bc47ba",
+      "bytes": 985
+    },
+    "admin__b02.json": {
+      "sha256": "74e6ed7f31deed0fc4c2d9dbaf8be753bc03efefcd5d718c8bfd3c155ddbeea6",
+      "bytes": 6748
+    },
+    "admin__b02.request.json": {
+      "sha256": "4cab48610ff785c67a3b3a6bd2db4bf4e60a2ea16adae7445eb3fe348bdc13e9",
+      "bytes": 612
+    },
+    "core__b00.json": {
+      "sha256": "7e2c6bdf4a46ee1a5043a8d86fad056167c91efd9b4bc65f343871f8124674d4",
+      "bytes": 30475
+    },
+    "core__b00.request.json": {
+      "sha256": "7733b1f630dd360bacf208605f37a93a8cc837d6ed665f14e6374ea85b2ff1b1",
+      "bytes": 942
+    },
+    "core__b01.json": {
+      "sha256": "8f8f973553a062caa50ff811fb70dc36a061200aa871ace48fd457e337f975ec",
+      "bytes": 29296
+    },
+    "core__b01.request.json": {
+      "sha256": "29c0dbbfb1e7bda6aa1203ca3699b41c0c70d8c95c7ee5177bb22f7975b70c1e",
+      "bytes": 984
+    },
+    "core__b02.json": {
+      "sha256": "e5f1983ffa1a18e47318ad13bcef9ba02e48bc83689ab74de76b9ccf0beca71d",
+      "bytes": 13101
+    },
+    "core__b02.request.json": {
+      "sha256": "f55591ba6873abaa1f533a7f7f22604607cd07c17cc0d1ea9a2120f70803f407",
+      "bytes": 611
+    },
+    "country__b00.json": {
+      "sha256": "c2bd74eada2c5288cb35e4cba9b86ced5e29387e5543d2531bd394be7a4b7bbe",
+      "bytes": 59442
+    },
+    "country__b00.request.json": {
+      "sha256": "ede1a6956e626a814da43c63d969d1579807120131d99334a9db80d7f88e6f03",
+      "bytes": 945
+    },
+    "country__b01.json": {
+      "sha256": "b1f243b61adf99e46727a1432ef7b58a79de32fff39edc5ccaf32acb19a44129",
+      "bytes": 33899
+    },
+    "country__b01.request.json": {
+      "sha256": "249b0e60efe14dbf6b37e980382b94331f1bf3f01934e0c124ff49258a1823ce",
+      "bytes": 987
+    },
+    "country__b02.json": {
+      "sha256": "cf6787cd86c3c0a00b121699feb2d73a9a38406eab16bc79efb8c10798ce3aab",
+      "bytes": 14542
+    },
+    "country__b02.request.json": {
+      "sha256": "a9161570c915e0e83c83edfa19249b4227a73c9581d4d0d1d20cad4aeb14bf7b",
+      "bytes": 614
+    },
+    "extids__b00.json": {
+      "sha256": "534d0be581b47eb04c42dd6c133860652363c5270861f5ba5b1975d769a6b8f0",
+      "bytes": 28765
+    },
+    "extids__b00.request.json": {
+      "sha256": "e6de8bfb348f42c5f5c0b680d7b06a049f6b83f5d8e4c8d314f9e6ae6cf51de9",
+      "bytes": 944
+    },
+    "extids__b01.json": {
+      "sha256": "34316f2d5a7327c3365b1f35ff82b73bae299287635a6286d96243dd6b5d0466",
+      "bytes": 25236
+    },
+    "extids__b01.request.json": {
+      "sha256": "d00a78eae03e5ac1d837e11590af264f0c36fd50acec694cd2257e1457841a98",
+      "bytes": 986
+    },
+    "extids__b02.json": {
+      "sha256": "2e0ba7ff1853347a05018a462c43ca3c3524dad18c7ba5a44210b5fc677840b6",
+      "bytes": 7372
+    },
+    "extids__b02.request.json": {
+      "sha256": "6e7365a884957341831f7916bacada97b651ddbf8401597282fe518549b6d7d5",
+      "bytes": 613
+    },
+    "findspots__b00.json": {
+      "sha256": "2e31fbcedab83f7b93a08e310d0571c4d674fa20a7fd5675ce42c7db6d879d74",
+      "bytes": 2378
+    },
+    "findspots__b00.request.json": {
+      "sha256": "cc255747607a21da01b08ce77d07a75b6a793f0edea04a169d49e3b7da96547e",
+      "bytes": 947
+    },
+    "findspots__b01.json": {
+      "sha256": "a83b873e4b464d6ea1242f466f65b10a37bb6c00a9e3299734868c57fe7bfb88",
+      "bytes": 1924
+    },
+    "findspots__b01.request.json": {
+      "sha256": "30583e13973d0cf085c5253b63344f14810c749bb7b19d539c5502a8e0a7c4da",
+      "bytes": 989
+    },
+    "findspots__b02.json": {
+      "sha256": "b8382a87012d2eb81c09aa52ea50b25be0ec8e5a48b95d9c5b1301f493763795",
+      "bytes": 584
+    },
+    "findspots__b02.request.json": {
+      "sha256": "3a3441f51bc37817bde3642800a9765c49d06a59909ec6440ccf043c40f2924a",
+      "bytes": 616
+    },
+    "labels_he__b00.json": {
+      "sha256": "1624b82d5739b1ee0bc9073c742180dfdef72cc1c74732c0e657aef267927060",
+      "bytes": 24934
+    },
+    "labels_he__b00.request.json": {
+      "sha256": "5866edb8cf0f810b129b85334034c6b78ef556e33d50a82aaaf6c6bccb4f9d1a",
+      "bytes": 947
+    },
+    "labels_he__b01.json": {
+      "sha256": "fe1686c7ae16279d23085afe1581ca9a002421a83695d788f676ba9d96fe391f",
+      "bytes": 22637
+    },
+    "labels_he__b01.request.json": {
+      "sha256": "08ecb42058ee5f2b046cb45a01b71460cf516cbd9b989da9546e7869f3a00acb",
+      "bytes": 989
+    },
+    "labels_he__b02.json": {
+      "sha256": "afd276a65236e762ecb0654633ef887317333e3bc8e747922ee31f9aaaf9b4db",
+      "bytes": 9457
+    },
+    "labels_he__b02.request.json": {
+      "sha256": "d1700572337182290a0ca646f7c172f9e8a007384399e9689d13fb11aa320c7b",
+      "bytes": 616
+    },
+    "links__b00.json": {
+      "sha256": "a63ea9507daaa8adb4353edf9380e40fe495d368b1102a6fc74661780b34c2eb",
+      "bytes": 52943
+    },
+    "links__b00.request.json": {
+      "sha256": "d1787dae32c8a1fdb9b1f5102d52746bc2d3beca655c953f07608ceeb54c9905",
+      "bytes": 943
+    },
+    "links__b01.json": {
+      "sha256": "89d0683e7cc5c4de124d41a2fe110ba4a51080613811be8cd795152a54494e0c",
+      "bytes": 39275
+    },
+    "links__b01.request.json": {
+      "sha256": "a90e4c2bbe8da4fe991793bdbd318b55b90b4588a5a482e678b6c48dd5b775de",
+      "bytes": 985
+    },
+    "links__b02.json": {
+      "sha256": "fad0e594e4bdf31f5e7660b6f67b57a666c8b27e82e9783322d6fae60c42ac16",
+      "bytes": 14735
+    },
+    "links__b02.request.json": {
+      "sha256": "c7d6f95fbe9f00b3ce9ac6f437c7a1813e3adcdd988177330bbf6b37353a411a",
+      "bytes": 612
+    },
+    "sitelinks_he__b00.json": {
+      "sha256": "31880bdea2130dc73aff6ae5f9381873c59a743c9d9ad8a8236f9748465c70d4",
+      "bytes": 12118
+    },
+    "sitelinks_he__b00.request.json": {
+      "sha256": "7d046f9a9620951ac890b2474e28b36b67a86ec649bf77e56c2d961b647dd865",
+      "bytes": 950
+    },
+    "sitelinks_he__b01.json": {
+      "sha256": "3ba31653bf24084038d91e078f2bd16d7e9e3fa5d936fe1f503ae5a539b2f3a1",
+      "bytes": 10048
+    },
+    "sitelinks_he__b01.request.json": {
+      "sha256": "f26e3b4c2ddb10e852bf46c153cb16b26d55d1e5c66df251cc7f92325aa365a6",
+      "bytes": 992
+    },
+    "sitelinks_he__b02.json": {
+      "sha256": "5155e484366b79f61385f63fcfa29756b4b69d9683999c83251e8558b2ac44ef",
+      "bytes": 3363
+    },
+    "sitelinks_he__b02.request.json": {
+      "sha256": "67b662e5a3d42437211742953218478f8ee1c9126ddf4cf58761be4f64945364",
+      "bytes": 619
+    },
+    "time__b00.json": {
+      "sha256": "e8a78ede9231ef0d9c1eac02e9a6ef98be599a46724225315befb27116631445",
+      "bytes": 45758
+    },
+    "time__b00.request.json": {
+      "sha256": "5f4bc8ccdf563e262544209986ff52da312d3343d9ecc2bc753ce78f35659956",
+      "bytes": 942
+    },
+    "time__b01.json": {
+      "sha256": "d289b6ec7bd66aa4238d1e28cebe7b8917c6fe2b3a25625d8e5c7b87d65dcbb7",
+      "bytes": 23327
+    },
+    "time__b01.request.json": {
+      "sha256": "69949e8c2a175b064c5c09ee169d9a47ec7d27eba0032730b3c87d673e253aad",
+      "bytes": 984
+    },
+    "time__b02.json": {
+      "sha256": "2205d0755be7217548958776eebfaf44c1c0a479f17ec1181a79789a9edbfccf",
+      "bytes": 5942
+    },
+    "time__b02.request.json": {
+      "sha256": "32501f722c0809b31e68f1e570f67f99e3009f245bec65dd8be26117f78e31ef",
+      "bytes": 611
+    },
+    "types__b00.json": {
+      "sha256": "083fd7634721fd30b07aa117228782541569306de9fca94439f86783c1ce926a",
+      "bytes": 75968
+    },
+    "types__b00.request.json": {
+      "sha256": "2d311f187acd6d5b66164bc09d0b739d7f390c00ea4311a6abd7ecd385dae8bd",
+      "bytes": 943
+    },
+    "types__b01.json": {
+      "sha256": "b2ba86d0f04c92ae1120885f4e857a447d2505a22d3f60e3b6e028fee76d158f",
+      "bytes": 68362
+    },
+    "types__b01.request.json": {
+      "sha256": "1c308bd2a0c83c1cc6763d944b92f909b2cd71fb91ef65eead54596c7af017c1",
+      "bytes": 985
+    },
+    "types__b02.json": {
+      "sha256": "07d6760d2eddd5dc979c0cacd6deabf1cf93bb96730a7975e548580b14eab847",
+      "bytes": 26644
+    },
+    "types__b02.request.json": {
+      "sha256": "835d7c635fa14c6ede6eca6e237d1fb2ce763e4ff1d19b5e1ddf6344b8098d28",
+      "bytes": 612
+    }
+  },
+  "license": "CC0 1.0 (structured data)",
+  "terms_url": "https://www.wikidata.org/wiki/Wikidata:Licensing",
+  "terms_checked_at": "2026-10-01",
+  "terms_status": "verified (official licensing page read 2026-10-01)",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "started_at": "2026-10-01T22:54:16+03:00",
+  "targets": {
+    "item:great-pyramid-of-giza": "Q37200",
+    "item:pyramid-of-djoser": "Q192418",
+    "item:great-sphinx-of-giza": "Q130958",
+    "item:tomb-of-tutankhamun-kv62": "Q835309",
+    "item:karnak-temple-complex": "Q522862",
+    "item:abu-simbel-temples": "Q134140",
+    "item:pyramids-of-meroe": "Q456939",
+    "item:great-zimbabwe": "Q209217",
+    "item:rock-hewn-churches-lalibela": "Q642979",
+    "item:blombos-cave": "Q884971",
+    "item:stonehenge": "Q39671",
+    "item:newgrange": "Q339503",
+    "item:carnac-stones": "Q833850",
+    "item:hagar-qim": "Q343053",
+    "item:dolmen-of-menga": "Q1143218",
+    "item:skara-brae": "Q816437",
+    "item:lascaux-cave": "Q172125",
+    "item:knossos": "Q173527",
+    "item:treasury-of-atreus": "Q1262524",
+    "item:akrotiri": "Q421232",
+    "item:parthenon": "Q10288",
+    "item:colosseum": "Q10285",
+    "item:pompeii": "Q43332",
+    "item:sutton-hoo": "Q503256",
+    "item:gobekli-tepe": "Q214944",
+    "item:catalhoyuk": "Q192522",
+    "item:tell-es-sultan": "Q2402267",
+    "item:ziggurat-of-ur": "Q202927",
+    "item:mohenjo-daro": "Q5725",
+    "item:persepolis": "Q129072",
+    "item:mausoleum-of-qin-shi-huang": "Q910180",
+    "item:angkor-wat": "Q43473",
+    "item:borobudur": "Q42798",
+    "item:petra": "Q5788",
+    "item:masada": "Q186312",
+    "item:qumran-caves": "Q7272782",
+    "item:gochang-hwasun-ganghwa-dolmens": "Q495286",
+    "item:teotihuacan": "Q172613",
+    "item:pyramid-of-the-sun": "Q29238",
+    "item:chichen-itza": "Q5859",
+    "item:temple-of-kukulcan": "Q1128327",
+    "item:tikal": "Q181172",
+    "item:caral": "Q219279",
+    "item:machu-picchu": "Q676203",
+    "item:cahokia": "Q333661",
+    "item:monks-mound": "Q280444",
+    "item:cliff-palace": "Q2979068",
+    "item:lanse-aux-meadows": "Q189113",
+    "item:nan-madol": "Q846967",
+    "item:ahu-tongariki": "Q3448354",
+    "item:budj-bim": "Q85749368",
+    "item:rosetta-stone": "Q48584",
+    "item:venus-of-willendorf": "Q131397",
+    "item:antikythera-mechanism": "Q182324",
+    "item:dead-sea-scrolls": "Q145780",
+    "item:mask-of-tutankhamun": "Q9048095",
+    "event:minoan-eruption": "Q1144693",
+    "event:battle-of-kadesh": "Q203729",
+    "person:khufu": "Q161904",
+    "person:khafre": "Q199861",
+    "person:djoser": "Q174367",
+    "person:tutankhamun": "Q12154",
+    "person:ramesses-ii": "Q1523",
+    "person:qin-shi-huang": "Q7192",
+    "person:ptolemy-v": "Q39957",
+    "person:suryavarman-ii": "Q313298",
+    "person:darius-i": "Q44387",
+    "person:herod-the-great": "Q51672",
+    "person:gebre-mesqel-lalibela": "Q471332",
+    "person:vespasian": "Q1419",
+    "person:titus": "Q1421",
+    "place:locality:rashid": "Q243699",
+    "place:locality:giza-necropolis": "Q12508",
+    "place:locality:thebes": "Q101583",
+    "place:locality:valley-of-the-kings": "Q133423",
+    "place:locality:kadesh": "Q690035",
+    "place:region:santorini": "Q129296",
+    "place:city:athens": "Q1524",
+    "org:british-museum": "Q6373",
+    "org:egyptian-museum-cairo": "Q201219",
+    "org:nam-athens": "Q637187",
+    "org:nhm-vienna": "Q688704",
+    "item:obelisk-of-aksum": "Q2308606",
+    "item:lucy-al-288-1": "Q245388",
+    "item:nebra-sky-disc": "Q157094",
+    "item:taputapuatea-marae": "Q3287362",
+    "item:laetoli": "Q672146",
+    "item:murujuga": "Q269163",
+    "item:great-mosque-of-djenne": "Q683632",
+    "item:cave-of-altamira": "Q133575",
+    "item:monte-verde": "Q975775",
+    "item:kuk-swamp": "Q1165562",
+    "item:pueblo-bonito": "Q1060888",
+    "item:serpent-mound": "Q968802",
+    "item:siloam-inscription": "Q744869",
+    "item:mesha-stele": "Q724954",
+    "item:tel-dan-stele": "Q516354",
+    "item:aleppo-codex": "Q637584",
+    "item:tel-megiddo": "Q208379",
+    "item:chicxulub-crater": "Q55816",
+    "item:buddhas-of-bamiyan": "Q484458",
+    "item:kilwa-kisiwani": "Q1741475",
+    "item:sanchi-stupa": "Q181123",
+    "item:yinxu": "Q464904",
+    "item:hattusa": "Q181007",
+    "item:troy": "Q22647",
+    "item:babylon": "Q5684",
+    "item:palmyra": "Q5747",
+    "item:harappa": "Q185562",
+    "item:ajanta-caves": "Q184427",
+    "item:bagan": "Q29317",
+    "item:chauvet-cave": "Q374096",
+    "item:otzi": "Q171291",
+    "item:hadrians-wall": "Q57357",
+    "item:hagia-sophia": "Q12506",
+    "item:monte-alban": "Q464899",
+    "item:chan-chan": "Q277540",
+    "item:nazca-lines": "Q2620036",
+    "item:tiwanaku": "Q61750",
+    "item:leptis-magna": "Q191504",
+    "event:youngest-toba-eruption": "Q65159662",
+    "event:siege-of-jerusalem-70": "Q844886"
+  },
+  "batch_size": 50,
+  "retry_log": [
+    {
+      "url": "https://query.wikidata.org/sparql",
+      "attempt": 0,
+      "error": "HTTP 502",
+      "retry": true
+    }
+  ]
+}

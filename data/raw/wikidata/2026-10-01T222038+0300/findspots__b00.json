@@ -1,0 +1,98 @@
+{
+  "head" : {
+    "vars" : [ "item", "spot", "spotLabel", "spotCoord" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145780"
+      },
+      "spot" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2046004"
+      },
+      "spotLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Judaean Desert"
+      },
+      "spotCoord" : {
+        "type" : "literal",
+        "value" : "Point(35.3 31.7)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q182324"
+      },
+      "spot" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2616711"
+      },
+      "spotLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antikythera wreck"
+      },
+      "spotCoord" : {
+        "type" : "literal",
+        "value" : "Point(23.3078 35.8897)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48584"
+      },
+      "spot" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3077898"
+      },
+      "spotLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fort Julien"
+      },
+      "spotCoord" : {
+        "type" : "literal",
+        "value" : "Point(30.389444444 31.439722222)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145780"
+      },
+      "spot" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7272782"
+      },
+      "spotLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Qumran Caves"
+      },
+      "spotCoord" : {
+        "type" : "literal",
+        "value" : "Point(35.458611111 31.741944444)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131397"
+      },
+      "spot" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9374772"
+      },
+      "spotLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Willendorf II"
+      },
+      "spotCoord" : {
+        "type" : "literal",
+        "value" : "Point(15.40412 48.32327)"
+      }
+    } ]
+  }
+}

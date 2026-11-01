@@ -1,0 +1,775 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        22.7539919,
+                        37.7269029
+                    ],
+                    [
+                        22.7539792,
+                        37.7269491
+                    ],
+                    [
+                        22.7539534,
+                        37.7269917
+                    ],
+                    [
+                        22.7539159,
+                        37.7270284
+                    ],
+                    [
+                        22.7538686,
+                        37.7270572
+                    ],
+                    [
+                        22.7538142,
+                        37.7270767
+                    ],
+                    [
+                        22.7537555,
+                        37.7270857
+                    ],
+                    [
+                        22.7536959,
+                        37.7270837
+                    ],
+                    [
+                        22.7536384,
+                        37.7270708
+                    ],
+                    [
+                        22.7535862,
+                        37.7270478
+                    ],
+                    [
+                        22.7535422,
+                        37.7270159
+                    ],
+                    [
+                        22.7535087,
+                        37.7269768
+                    ],
+                    [
+                        22.7534875,
+                        37.7269327
+                    ],
+                    [
+                        22.7534798,
+                        37.7268858
+                    ],
+                    [
+                        22.7534859,
+                        37.7268389
+                    ],
+                    [
+                        22.7535057,
+                        37.7267943
+                    ],
+                    [
+                        22.7535379,
+                        37.7267545
+                    ],
+                    [
+                        22.7535809,
+                        37.7267217
+                    ],
+                    [
+                        22.7536322,
+                        37.7266976
+                    ],
+                    [
+                        22.7536893,
+                        37.7266836
+                    ],
+                    [
+                        22.7537489,
+                        37.7266804
+                    ],
+                    [
+                        22.7538078,
+                        37.7266882
+                    ],
+                    [
+                        22.7538628,
+                        37.7267065
+                    ],
+                    [
+                        22.753911,
+                        37.7267344
+                    ],
+                    [
+                        22.7539498,
+                        37.7267703
+                    ],
+                    [
+                        22.753977,
+                        37.7268124
+                    ],
+                    [
+                        22.7539853,
+                        37.7268334
+                    ],
+                    [
+                        22.7539908,
+                        37.7268557
+                    ],
+                    [
+                        22.7539919,
+                        37.7269029
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-of-treasury-of-atreus",
+            "properties": {
+                "snippet": "Tomb; 1600 BC - 1200 BC",
+                "link": "https://pleiades.stoa.org/places/190863456/osm-location-of-treasury-of-atreus",
+                "description": "Representative location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location of Treasury of Atreus"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "arabinowitz",
+            "homepage": null,
+            "name": "Adam Rabinowitz",
+            "uri": "https://pleiades.stoa.org/author/arabinowitz"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                },
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "late-helladic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-helladic",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/351691460",
+                    "citationDetail": "Way 351691460",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:way=351691460",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-of-treasury-of-atreus",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+            ],
+            "end": -1200,
+            "title": "OSM location of Treasury of Atreus",
+            "provenance": "OpenStreetMap (Way 351691460, version 8, osm:changeset=150754934, 2024-05-01T14:55:22Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -1600,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "tomb"
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "created": "2024-10-20T13:56:32Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        22.7539919,
+                        37.7269029
+                    ],
+                    [
+                        22.7539792,
+                        37.7269491
+                    ],
+                    [
+                        22.7539534,
+                        37.7269917
+                    ],
+                    [
+                        22.7539159,
+                        37.7270284
+                    ],
+                    [
+                        22.7538686,
+                        37.7270572
+                    ],
+                    [
+                        22.7538142,
+                        37.7270767
+                    ],
+                    [
+                        22.7537555,
+                        37.7270857
+                    ],
+                    [
+                        22.7536959,
+                        37.7270837
+                    ],
+                    [
+                        22.7536384,
+                        37.7270708
+                    ],
+                    [
+                        22.7535862,
+                        37.7270478
+                    ],
+                    [
+                        22.7535422,
+                        37.7270159
+                    ],
+                    [
+                        22.7535087,
+                        37.7269768
+                    ],
+                    [
+                        22.7534875,
+                        37.7269327
+                    ],
+                    [
+                        22.7534798,
+                        37.7268858
+                    ],
+                    [
+                        22.7534859,
+                        37.7268389
+                    ],
+                    [
+                        22.7535057,
+                        37.7267943
+                    ],
+                    [
+                        22.7535379,
+                        37.7267545
+                    ],
+                    [
+                        22.7535809,
+                        37.7267217
+                    ],
+                    [
+                        22.7536322,
+                        37.7266976
+                    ],
+                    [
+                        22.7536893,
+                        37.7266836
+                    ],
+                    [
+                        22.7537489,
+                        37.7266804
+                    ],
+                    [
+                        22.7538078,
+                        37.7266882
+                    ],
+                    [
+                        22.7538628,
+                        37.7267065
+                    ],
+                    [
+                        22.753911,
+                        37.7267344
+                    ],
+                    [
+                        22.7539498,
+                        37.7267703
+                    ],
+                    [
+                        22.753977,
+                        37.7268124
+                    ],
+                    [
+                        22.7539853,
+                        37.7268334
+                    ],
+                    [
+                        22.7539908,
+                        37.7268557
+                    ],
+                    [
+                        22.7539919,
+                        37.7269029
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/190863456/osm-location-of-treasury-of-atreus",
+            "creators": [
+                {
+                    "username": "swright",
+                    "homepage": null,
+                    "name": "Sterling Wright",
+                    "uri": "https://pleiades.stoa.org/author/swright"
+                },
+                {
+                    "username": null,
+                    "name": "April Kissinger"
+                },
+                {
+                    "username": null,
+                    "name": "Eric Shea"
+                },
+                {
+                    "username": null,
+                    "name": "Chelsea Lee"
+                },
+                {
+                    "username": "arabinowitz",
+                    "homepage": null,
+                    "name": "Adam Rabinowitz",
+                    "uri": "https://pleiades.stoa.org/author/arabinowitz"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2024-10-21T06:43:13Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-10-20T14:01:03Z"
+                },
+                {
+                    "comment": "import better osm-derived location - update resource to preserve credit lines of original contributors",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-10-20T14:00:59Z"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-10-20T13:56:48Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-10-20T13:56:32Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-10-20T13:56:32Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": null,
+            "description": "",
+            "contributors": [],
+            "created": "2018-05-05T11:44:21Z",
+            "associationCertainty": "certain",
+            "title": "Mycenae",
+            "start": null,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/190863456/6618254756",
+            "connectionType": "at",
+            "id": "6618254756",
+            "attestations": [],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-05-05T11:44:22Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-05-05T11:44:22Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-05-05T11:44:21Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/570491",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q1262524",
+            "citationDetail": "Q1262524: Treasury of Atreus",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Treasury_of_Atreus",
+            "citationDetail": "Treasury of Atreus",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://arachne.dainst.org/entity/8565",
+            "citationDetail": "Kuppelgrab, sog. Schatzhaus des Atreus Mykene, (Mykēnē / Mykenai / Μυκήνη / Mycenae / Μυκήναι / Mykene), Argolis (Regionalbezirk)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Arachne",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Treasury of Atreus, Atreus (Treasury of)",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.wikidata.org/wiki/Q1262524",
+                    "citationDetail": "Treasury of Atreus (Q1262524)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "Wikidata",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "name.2018-05-08.2022648165",
+            "end": 2100,
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2018-05-08T14:20:50Z",
+            "uri": "https://pleiades.stoa.org/places/190863456/name.2018-05-08.2022648165",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Treasury of Atreus",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "update reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-10-20T13:58:45Z"
+                },
+                {
+                    "comment": "update ref. format",
+                    "modifiedBy": "jbecker",
+                    "modified": "2021-01-11T20:15:32Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "thomase",
+                    "modified": "2021-01-11T19:42:33Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-05-08T14:22:21Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-05-08T14:22:14Z"
+                },
+                {
+                    "comment": "added name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-05-08T14:20:50Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-05-08T14:20:50Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Kuppelgrab, sog. Schatzhaus des Atreus",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://arachne.dainst.org/entity/8565",
+                    "citationDetail": "Kuppelgrab, sog. Schatzhaus des Atreus",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Arachne",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+                    "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "kuppelgrab",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "de",
+            "created": "2020-08-28T23:35:31Z",
+            "uri": "https://pleiades.stoa.org/places/190863456/kuppelgrab",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Kuppelgrab, sog. Schatzhaus des Atreus",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "update reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-10-20T13:58:14Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2021-01-11T19:42:07Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-08-28T23:35:38Z"
+                },
+                {
+                    "comment": "name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-08-28T23:35:32Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-08-28T23:35:31Z"
+                }
+            ]
+        }
+    ],
+    "id": "190863456",
+    "subject": [
+        "Mycenaeans",
+        "tomb",
+        "extant remains",
+        "tholos"
+    ],
+    "title": "Treasury of Atreus",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+    ],
+    "details": "<p>The \"Treasury of Atreus\" was built at Mycenae between 1300 and 1250 BC. It was not a treasury, but rather a tholos tomb for an important individual or family, and it remains the best-preserved example of this form at the site. The tomb's facade consists of a large door approached through a corridor flanked by ashlar walls. The 16-foot door was once surrounded by engaged red and green columns with a decorative style suggestive of Minoan influence. These columns were covered in ornaments, rosettes, chevrons, and spiral motifs. Above the entrance is a relieving triangle to reduce the weight of the superstructure on the monolithic lintel of the door. The tomb's interior is shaped like a beehive, with stone corbeled courses laid around a circular base to create a dome-like structure. The enormous vault has a diameter of 48 feet and a height of 43 feet. There is an additional side chamber thought to have been used to store bodies from previous burials when the tomb was re-used.  Unfortunately, the Treasury of Atreus was heavily looted before its discovery, and therefore the original grave goods have been lost.</p>",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "A Bronze Age tholos tomb with a corbeled dome and monumental ashlar facade on the Panagitsa Hill at Mycenae.",
+    "reprPoint": [
+        22.753736487655072,
+        37.72688318289083
+    ],
+    "placeTypes": [
+        "tomb"
+    ],
+    "bbox": [
+        22.7534798,
+        37.7266804,
+        22.7539919,
+        37.7270857
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/570491"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2018-05-05T11:44:20Z",
+    "uri": "https://pleiades.stoa.org/places/190863456",
+    "creators": [
+        {
+            "username": null,
+            "name": "Chelsea Lee"
+        },
+        {
+            "username": null,
+            "name": "April Kissinger"
+        },
+        {
+            "username": null,
+            "name": "Eric Shea"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        },
+        {
+            "username": "swright",
+            "homepage": null,
+            "name": "Sterling Wright",
+            "uri": "https://pleiades.stoa.org/author/swright"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "force reindex",
+            "modifiedBy": "thomase",
+            "modified": "2025-04-16T17:55:34Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2024-10-20T13:59:23Z"
+        },
+        {
+            "comment": "update references",
+            "modifiedBy": "jbecker",
+            "modified": "2024-10-20T13:57:47Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2020-08-28T23:34:34Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2019-04-18T14:43:10Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "jbecker",
+            "modified": "2018-05-08T14:22:21Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "jbecker",
+            "modified": "2018-05-08T14:22:14Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2018-05-08T14:19:53Z"
+        },
+        {
+            "comment": "Migrated from location",
+            "modifiedBy": "thomase",
+            "modified": "2018-05-05T11:44:24Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "thomase",
+            "modified": "2018-05-05T11:44:20Z"
+        }
+    ]
+}

@@ -1,0 +1,596 @@
+{
+  "head" : {
+    "vars" : [ "item", "admin", "adminLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1524"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q204772"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Achaea"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1524"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1224979"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Athens Municipality"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5684"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59202"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Babylon Governorate"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5725"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2281289"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Larkana District"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5747"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q938457"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tadmur"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5788"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q606340"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ma'an Governorate"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5859"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60176"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yucatán"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6373"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q202088"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Camden"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10285"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3940419"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roma Capitale"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10288"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1224979"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Athens Municipality"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12506"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q406"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Istanbul"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12506"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q534799"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Istanbul Province"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12506"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q732923"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fatih"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12506"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6073520"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cankurtaran"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12508"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30832"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giza Governorate"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22647"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47813"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Çanakkale Province"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29238"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q82112"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "State of Mexico"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29317"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q119494"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mandalay Region"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29317"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q888574"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pagan kingdom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37200"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30832"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giza Governorate"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39671"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q470299"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amesbury"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42798"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10621"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Magelang"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43332"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36471"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pompei"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43473"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q652818"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Siem Reap Province"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55816"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60176"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yucatán"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57357"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23066"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cumbria"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57357"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23079"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northumberland"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61750"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q681960"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tiwanaku Municipality"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q101583"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30797"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luxor Governorate"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q101583"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31065"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Qena Governorate"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129072"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15715927"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kenareh Rural District"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129296"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3949542"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thira Municipality"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130958"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q81788"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133423"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22928561"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Qurnah District"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133575"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q493817"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Santillana del Mar"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134140"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29937"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aswan Governorate"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172125"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q495749"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montignac-Lascaux"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172613"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q82112"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "State of Mexico"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q173527"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12875662"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Heraklion Municipality"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181007"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q117322686"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Boğazkale district"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181123"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1815223"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raisen district"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181172"
+      },
+      "admin" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q466061"
+      },
+      "adminLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Petén Department"
+      }
+    } ]
+  }
+}

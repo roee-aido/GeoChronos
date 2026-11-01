@@ -1,0 +1,263 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9331977,
+                    -20.2709359
+                ]
+            },
+            "type": "Feature",
+            "id": "great-zimbabwe-national-monument",
+            "properties": {
+                "snippet": "Settlement; AD 1700 - AD 2100",
+                "link": "https://pleiades.stoa.org/places/322739224/great-zimbabwe-national-monument",
+                "description": "Representative location based on OpenStreetMap.",
+                "location_precision": "precise",
+                "title": "OSM location of Great Zimbabwe National Monument"
+            }
+        }
+    ],
+    "contributors": [],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/2492683868",
+                    "citationDetail": "Node 2492683868",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:node=2492683868",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "great-zimbabwe-national-monument",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "end": 2100,
+            "title": "OSM location of Great Zimbabwe National Monument",
+            "provenance": "OpenStreetMap (Node 2492683868, version 7, osm:changeset=144194797, 2023-11-19T02:32:18Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "settlement"
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "created": "2018-06-29T21:37:45Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9331977,
+                    -20.2709359
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/322739224/great-zimbabwe-national-monument",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-12-04T03:29:57Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2021-04-13T22:28:21Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-12-22T02:53:43Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-12-22T02:53:08Z"
+                },
+                {
+                    "comment": "added OSM location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-06-29T21:38:13Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-06-29T21:37:46Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-06-29T21:37:45Z"
+                }
+            ]
+        }
+    ],
+    "connections": [],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "https://whc.unesco.org/en/list/364",
+            "citationDetail": "364: Great Zimbabwe National Monument",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+            "citationDetail": "Great Zimbabwe",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q209217",
+            "citationDetail": "Great Zimbabwe (Q209217)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.openstreetmap.org/relation/8253612#map=17/-20.270059/30.935059",
+            "citationDetail": "Relation: Great Zimbabwe National Monument (8253612)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "OSM",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+            "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [],
+    "id": "322739224",
+    "subject": [
+        "UWHS"
+    ],
+    "title": "Great Zimbabwe",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "Great Zimbabwe was the capital of the Queen of Sheba, according to legend. The city, covering ca. 80 hectares, belongs to the Bantu civilization of the Shona culture and dates between the eleventh and fifteenth centuries. It was an important trading center.",
+    "reprPoint": [
+        30.9331977,
+        -20.2709359
+    ],
+    "placeTypes": [
+        "settlement"
+    ],
+    "bbox": [
+        30.9331977,
+        -20.2709359,
+        30.9331977,
+        -20.2709359
+    ],
+    "connectsWith": [],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2018-06-29T21:36:24Z",
+    "uri": "https://pleiades.stoa.org/places/322739224",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "update references",
+            "modifiedBy": "jbecker",
+            "modified": "2024-12-04T03:31:43Z"
+        },
+        {
+            "comment": "wikidata Great Zimbabwe (Q209217)",
+            "modifiedBy": "jbecker",
+            "modified": "2024-12-04T03:30:35Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2021-04-13T22:28:21Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "jbecker",
+            "modified": "2018-12-22T02:53:43Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2018-06-29T21:41:47Z"
+        },
+        {
+            "comment": "created place",
+            "modifiedBy": "jbecker",
+            "modified": "2018-06-29T21:36:28Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "jbecker",
+            "modified": "2018-06-29T21:36:24Z"
+        }
+    ]
+}

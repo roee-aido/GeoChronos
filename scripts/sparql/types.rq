@@ -1,0 +1,7 @@
+# Instance of (P31) and heritage designation (P1435).
+SELECT ?item ?prop ?value ?valueLabel WHERE {
+  VALUES ?item { {{VALUES}} }
+  VALUES ?prop { wdt:P31 wdt:P1435 }
+  ?item ?prop ?value .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

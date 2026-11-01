@@ -1,0 +1,1949 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.88841,
+                    29.935945
+                ]
+            },
+            "type": "Feature",
+            "id": "dare-location",
+            "properties": {
+                "snippet": "Settlement; 550 BC - AD 640",
+                "link": "https://pleiades.stoa.org/places/922695/dare-location",
+                "description": "Representative point location, site precision",
+                "location_precision": "precise",
+                "title": "DARE Location"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.8925,
+                    29.9343
+                ]
+            },
+            "type": "Feature",
+            "id": "cigs-location-of-takht-i-jamshid",
+            "properties": {
+                "snippet": "Archaeological-site",
+                "link": "https://pleiades.stoa.org/places/922695/cigs-location-of-takht-i-jamshid",
+                "description": "",
+                "location_precision": "precise",
+                "title": "CIGS location of Takht-i Jamshīd"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        52.8886938,
+                        29.9354462
+                    ],
+                    [
+                        52.8890815,
+                        29.9344643
+                    ],
+                    [
+                        52.8891333,
+                        29.9343331
+                    ],
+                    [
+                        52.8892148,
+                        29.9343574
+                    ],
+                    [
+                        52.8894583,
+                        29.9337518
+                    ],
+                    [
+                        52.8895168,
+                        29.9336121
+                    ],
+                    [
+                        52.8895726,
+                        29.9336296
+                    ],
+                    [
+                        52.8896566,
+                        29.9334289
+                    ],
+                    [
+                        52.8897836,
+                        29.9334688
+                    ],
+                    [
+                        52.8898007,
+                        29.9333955
+                    ],
+                    [
+                        52.8898354,
+                        29.933305
+                    ],
+                    [
+                        52.8899535,
+                        29.9333343
+                    ],
+                    [
+                        52.8899988,
+                        29.9332179
+                    ],
+                    [
+                        52.8900841,
+                        29.933242
+                    ],
+                    [
+                        52.8901048,
+                        29.9331857
+                    ],
+                    [
+                        52.890162,
+                        29.9332012
+                    ],
+                    [
+                        52.8901878,
+                        29.9331302
+                    ],
+                    [
+                        52.8904178,
+                        29.9331916
+                    ],
+                    [
+                        52.8906656,
+                        29.9332578
+                    ],
+                    [
+                        52.8906821,
+                        29.9332082
+                    ],
+                    [
+                        52.8912547,
+                        29.933367
+                    ],
+                    [
+                        52.8914093,
+                        29.933469
+                    ],
+                    [
+                        52.8915173,
+                        29.9335139
+                    ],
+                    [
+                        52.8914798,
+                        29.9336404
+                    ],
+                    [
+                        52.8924013,
+                        29.9339063
+                    ],
+                    [
+                        52.8925743,
+                        29.9341041
+                    ],
+                    [
+                        52.8923689,
+                        29.9347
+                    ],
+                    [
+                        52.8921653,
+                        29.9349198
+                    ],
+                    [
+                        52.8920787,
+                        29.9351767
+                    ],
+                    [
+                        52.892008,
+                        29.935157
+                    ],
+                    [
+                        52.8915053,
+                        29.9364549
+                    ],
+                    [
+                        52.8914691,
+                        29.9368312
+                    ],
+                    [
+                        52.8914831,
+                        29.9371995
+                    ],
+                    [
+                        52.8912844,
+                        29.9372026
+                    ],
+                    [
+                        52.8912768,
+                        29.9370719
+                    ],
+                    [
+                        52.8911019,
+                        29.9370643
+                    ],
+                    [
+                        52.8910847,
+                        29.93718
+                    ],
+                    [
+                        52.8907839,
+                        29.9371211
+                    ],
+                    [
+                        52.8908007,
+                        29.9370169
+                    ],
+                    [
+                        52.8899316,
+                        29.9368892
+                    ],
+                    [
+                        52.8899166,
+                        29.9369926
+                    ],
+                    [
+                        52.8897796,
+                        29.9369693
+                    ],
+                    [
+                        52.8897736,
+                        29.9370358
+                    ],
+                    [
+                        52.8895002,
+                        29.9369991
+                    ],
+                    [
+                        52.8894947,
+                        29.9370612
+                    ],
+                    [
+                        52.8894168,
+                        29.9370567
+                    ],
+                    [
+                        52.8894094,
+                        29.9371215
+                    ],
+                    [
+                        52.8883852,
+                        29.9370229
+                    ],
+                    [
+                        52.8883838,
+                        29.936956
+                    ],
+                    [
+                        52.8883245,
+                        29.9369526
+                    ],
+                    [
+                        52.8883291,
+                        29.9367619
+                    ],
+                    [
+                        52.8884056,
+                        29.9367639
+                    ],
+                    [
+                        52.8884641,
+                        29.9366013
+                    ],
+                    [
+                        52.8883938,
+                        29.9365825
+                    ],
+                    [
+                        52.8884642,
+                        29.9364062
+                    ],
+                    [
+                        52.8884737,
+                        29.9363831
+                    ],
+                    [
+                        52.88856,
+                        29.9361731
+                    ],
+                    [
+                        52.8886257,
+                        29.9360093
+                    ],
+                    [
+                        52.8886317,
+                        29.9359928
+                    ],
+                    [
+                        52.8887042,
+                        29.9358163
+                    ],
+                    [
+                        52.8887418,
+                        29.935725
+                    ],
+                    [
+                        52.888765,
+                        29.9356618
+                    ],
+                    [
+                        52.8888347,
+                        29.935488
+                    ],
+                    [
+                        52.8886938,
+                        29.9354462
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-of-persepolis",
+            "properties": {
+                "snippet": "Archaeological-site; 550 BC - AD 640",
+                "link": "https://pleiades.stoa.org/places/922695/osm-location-of-persepolis",
+                "description": "Representative location based on OpenStreetMap. Chronology following the Barrington Atlas.",
+                "location_precision": "precise",
+                "title": "OSM location of Persepolis"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "bkiesling",
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling"
+        },
+        {
+            "username": null,
+            "name": "P. Flensted Jensen"
+        },
+        {
+            "username": "jahlfeldt",
+            "homepage": null,
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt"
+        },
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "cjohansson",
+            "homepage": null,
+            "name": "Carolin Johansson",
+            "uri": "https://pleiades.stoa.org/author/cjohansson"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        },
+        {
+            "username": null,
+            "name": "DARMC"
+        },
+        {
+            "username": null,
+            "name": "R. Talbert"
+        },
+        {
+            "username": "rrattenborg",
+            "homepage": null,
+            "name": "Rune Rattenborg",
+            "uri": "https://pleiades.stoa.org/author/rrattenborg"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://francia.ahlfeldt.se/imperium.php",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
+                    "otherIdentifier": " ",
+                    "type": "cites"
+                }
+            ],
+            "id": "dare-location",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "end": 640,
+            "title": "DARE Location",
+            "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -550,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
+            "featureType": [
+                "settlement"
+            ],
+            "description": "Representative point location, site precision",
+            "created": "2012-10-20T23:01:47Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.88841,
+                    29.935945
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/922695/dare-location",
+            "creators": [
+                {
+                    "username": "jahlfeldt",
+                    "homepage": null,
+                    "name": "Johan Åhlfeldt",
+                    "uri": "https://pleiades.stoa.org/author/jahlfeldt"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "sgillies",
+                    "modified": "2012-10-20T23:01:48Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "sgillies",
+                    "modified": "2012-10-20T23:01:48Z"
+                },
+                {
+                    "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+                    "modifiedBy": "sgillies",
+                    "modified": "2012-10-20T23:01:48Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "sgillies",
+                    "modified": "2012-10-20T23:01:47Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://doi.org/10.4324/9780203875506",
+                    "citationDetail": "pages 538-543",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Bryce 2009",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZSXV8M2K",
+                    "formattedCitation": "<div class=\"csl-entry\">Bryce, Trevor. <i>The Routledge Handbook of the Peoples and Places of Ancient Western Asia: The Near East from the Early Bronze Age to the Fall of the Persian Empire</i>. London; New York: Routledge, 2012. https://doi.org/10.4324/9780203875506.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://en.wikipedia.org/wiki/Persepolis",
+                    "citationDetail": "Persepolis",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Wikipedia (English)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>, Persepolis.",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://fa.wikipedia.org/wiki/تخت_جمشید",
+                    "citationDetail": "تخت_جمشید",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Wikipedia (Persian)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FJ5B3YGU",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>ویکی‌پدیا، دانشنامهٔ آزاد</i>. Wikimedia Foundation, 2001. https://fa.wikipedia.org.</div>, تخت_جمشید.",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.wikidata.org/wiki/Q129072",
+                    "citationDetail": "Q129072",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Wikidata",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>, Q129072.",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "cigs-location-of-takht-i-jamshid",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "end": null,
+            "title": "CIGS location of Takht-i Jamshīd",
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": null,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "<p>Centre point location extracted from polygon drawn around entire site as identified on Google Earth base imagery in QGIS 3.x.</p>",
+            "review_state": "published",
+            "accuracy_value": 5.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "featureType": [
+                "archaeological-site"
+            ],
+            "description": "",
+            "created": "2023-06-19T08:16:53Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.8925,
+                    29.9343
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/922695/cigs-location-of-takht-i-jamshid",
+            "creators": [
+                {
+                    "username": "cjohansson",
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson"
+                },
+                {
+                    "username": "rrattenborg",
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2023-06-20T19:21:25Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-06-19T08:18:41Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-06-19T08:16:55Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-06-19T08:16:53Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/95531795",
+                    "citationDetail": "Way 95531795",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:way=95531795",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-of-persepolis",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "end": 640,
+            "title": "OSM location of Persepolis",
+            "provenance": "OpenStreetMap (Way 95531795, version 18, osm:changeset=131702053, 2023-01-25T16:10:01Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -550,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "archaeological-site"
+            ],
+            "description": "Representative location based on OpenStreetMap. Chronology following the Barrington Atlas.",
+            "created": "2023-06-19T14:33:45Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        52.8886938,
+                        29.9354462
+                    ],
+                    [
+                        52.8890815,
+                        29.9344643
+                    ],
+                    [
+                        52.8891333,
+                        29.9343331
+                    ],
+                    [
+                        52.8892148,
+                        29.9343574
+                    ],
+                    [
+                        52.8894583,
+                        29.9337518
+                    ],
+                    [
+                        52.8895168,
+                        29.9336121
+                    ],
+                    [
+                        52.8895726,
+                        29.9336296
+                    ],
+                    [
+                        52.8896566,
+                        29.9334289
+                    ],
+                    [
+                        52.8897836,
+                        29.9334688
+                    ],
+                    [
+                        52.8898007,
+                        29.9333955
+                    ],
+                    [
+                        52.8898354,
+                        29.933305
+                    ],
+                    [
+                        52.8899535,
+                        29.9333343
+                    ],
+                    [
+                        52.8899988,
+                        29.9332179
+                    ],
+                    [
+                        52.8900841,
+                        29.933242
+                    ],
+                    [
+                        52.8901048,
+                        29.9331857
+                    ],
+                    [
+                        52.890162,
+                        29.9332012
+                    ],
+                    [
+                        52.8901878,
+                        29.9331302
+                    ],
+                    [
+                        52.8904178,
+                        29.9331916
+                    ],
+                    [
+                        52.8906656,
+                        29.9332578
+                    ],
+                    [
+                        52.8906821,
+                        29.9332082
+                    ],
+                    [
+                        52.8912547,
+                        29.933367
+                    ],
+                    [
+                        52.8914093,
+                        29.933469
+                    ],
+                    [
+                        52.8915173,
+                        29.9335139
+                    ],
+                    [
+                        52.8914798,
+                        29.9336404
+                    ],
+                    [
+                        52.8924013,
+                        29.9339063
+                    ],
+                    [
+                        52.8925743,
+                        29.9341041
+                    ],
+                    [
+                        52.8923689,
+                        29.9347
+                    ],
+                    [
+                        52.8921653,
+                        29.9349198
+                    ],
+                    [
+                        52.8920787,
+                        29.9351767
+                    ],
+                    [
+                        52.892008,
+                        29.935157
+                    ],
+                    [
+                        52.8915053,
+                        29.9364549
+                    ],
+                    [
+                        52.8914691,
+                        29.9368312
+                    ],
+                    [
+                        52.8914831,
+                        29.9371995
+                    ],
+                    [
+                        52.8912844,
+                        29.9372026
+                    ],
+                    [
+                        52.8912768,
+                        29.9370719
+                    ],
+                    [
+                        52.8911019,
+                        29.9370643
+                    ],
+                    [
+                        52.8910847,
+                        29.93718
+                    ],
+                    [
+                        52.8907839,
+                        29.9371211
+                    ],
+                    [
+                        52.8908007,
+                        29.9370169
+                    ],
+                    [
+                        52.8899316,
+                        29.9368892
+                    ],
+                    [
+                        52.8899166,
+                        29.9369926
+                    ],
+                    [
+                        52.8897796,
+                        29.9369693
+                    ],
+                    [
+                        52.8897736,
+                        29.9370358
+                    ],
+                    [
+                        52.8895002,
+                        29.9369991
+                    ],
+                    [
+                        52.8894947,
+                        29.9370612
+                    ],
+                    [
+                        52.8894168,
+                        29.9370567
+                    ],
+                    [
+                        52.8894094,
+                        29.9371215
+                    ],
+                    [
+                        52.8883852,
+                        29.9370229
+                    ],
+                    [
+                        52.8883838,
+                        29.936956
+                    ],
+                    [
+                        52.8883245,
+                        29.9369526
+                    ],
+                    [
+                        52.8883291,
+                        29.9367619
+                    ],
+                    [
+                        52.8884056,
+                        29.9367639
+                    ],
+                    [
+                        52.8884641,
+                        29.9366013
+                    ],
+                    [
+                        52.8883938,
+                        29.9365825
+                    ],
+                    [
+                        52.8884642,
+                        29.9364062
+                    ],
+                    [
+                        52.8884737,
+                        29.9363831
+                    ],
+                    [
+                        52.88856,
+                        29.9361731
+                    ],
+                    [
+                        52.8886257,
+                        29.9360093
+                    ],
+                    [
+                        52.8886317,
+                        29.9359928
+                    ],
+                    [
+                        52.8887042,
+                        29.9358163
+                    ],
+                    [
+                        52.8887418,
+                        29.935725
+                    ],
+                    [
+                        52.888765,
+                        29.9356618
+                    ],
+                    [
+                        52.8888347,
+                        29.935488
+                    ],
+                    [
+                        52.8886938,
+                        29.9354462
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/922695/osm-location-of-persepolis",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2023-06-20T19:21:19Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-06-19T14:34:58Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-06-19T14:34:54Z"
+                },
+                {
+                    "comment": "added osm location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-06-19T14:34:02Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-06-19T14:33:45Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-06-19T14:33:45Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": -330,
+            "description": "",
+            "contributors": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "created": "2025-03-15T13:58:45Z",
+            "associationCertainty": "certain",
+            "title": "Achaemenid empire",
+            "start": -540,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/922695/achaemenid-empire",
+            "connectionType": "capital",
+            "id": "achaemenid-empire",
+            "attestations": [
+                {
+                    "timePeriod": "achaemenid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/achaemenid-middle-east",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-03-15T16:36:24Z"
+                },
+                {
+                    "comment": "update reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-03-15T16:36:17Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "cdlisle",
+                    "modified": "2025-03-15T13:58:50Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "cdlisle",
+                    "modified": "2025-03-15T13:58:46Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "cdlisle",
+                    "modified": "2025-03-15T13:58:45Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/753898782",
+            "details": "",
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://doi.org/10.1163/1574-9347_bnp_e527130",
+                    "citationDetail": "Iran (J. Wiesehöfer)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "New Pauly",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+                    "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brill.com/display/db/npoe.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "cdlisle",
+                    "homepage": null,
+                    "name": "Chris de Lisle",
+                    "uri": "https://pleiades.stoa.org/author/cdlisle"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/capital"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
+            "citationDetail": "94 C4 Persepolis/Parsa/Persai/Sat Setun",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "BAtlas",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Schmidt 1957",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AW3KJKMI",
+            "formattedCitation": "<div class=\"csl-entry\">Schmidt, Erich Friedrich. <i>Persepolis</i>. 3 vols. University of Chicago Oriental Institute Publications 68–70. Chicago: University of Chicago Press, 1953.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Shahbazi 1977",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IMWTRKJA",
+            "formattedCitation": "<div class=\"csl-entry\">Shahbazi, A.S. “From Pārsa to Taxt-e Jamšid.” <i>IranMitt n.F.</i> 10 (1977): 197–207.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "Parsa",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "RGTC",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VN3GQE7N",
+            "formattedCitation": "<div class=\"csl-entry\">Kupper, Jean Robert, and Wolfgang Röllig. <i>Répertoire géographique des textes cunéiformes</i>. Wiesbaden: Reichert, 1974.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://whc.unesco.org/en/list/114",
+            "citationDetail": "114: Persepolis",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Persepolis",
+            "citationDetail": "Persepolis",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2779.html",
+            "citationDetail": "11C2 Persepoliscon Mercivm persarvm (Talbert 2779)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "TP (Talbert: CUP)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+            "otherIdentifier": " ",
+            "type": "citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://topostext.org/place/299529PPer",
+            "citationDetail": "Persepolis (Iran)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "ToposText",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://oi.uchicago.edu/research/publications/saoc/saoc-72-ritual-landscape-persepolis",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Garrison 2017",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/X757QLR2",
+            "formattedCitation": "<div class=\"csl-entry\">Garrison, Mark B. <i>The Ritual Landscape at Persepolis</i>. Studies in Ancient Oriental Civilization 72. Chicago: The Oriental Institute, 2017. https://oi.uchicago.edu/research/publications/saoc/saoc-72-ritual-landscape-persepolis.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://vocab.getty.edu/page/tgn/7002205",
+            "citationDetail": "7002205: Persepolis (deserted settlement)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "TGN",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZLJQ5AZJ",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Getty Thesaurus of Geographic Names® Online</i>, n.d. https://www.getty.edu/research/tools/vocabularies/tgn/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://darmc.harvard.edu/",
+            "citationDetail": "3427 and 22194",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "DARMC",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q129072",
+            "citationDetail": "Persepolis (Q129072)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://nomisma.org/id/persepolis",
+            "citationDetail": "Persepolis",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "nomisma.org",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/N5BAUNTN",
+            "formattedCitation": "<div class=\"csl-entry\">Meadows, Andrew, Sebastian Heath, and Ethan Gruber. <i>Nomisma.Org</i>. New York: American Numismatic Society, 2010. http://nomisma.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/6684340",
+            "citationDetail": "787, 784",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "ItMiller",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q8X83VMV",
+            "formattedCitation": "<div class=\"csl-entry\">Miller, Konrad. <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Persepolis",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [],
+            "id": "persepolis",
+            "end": 640,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "P. Flensted Jensen"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 94 C4 Persepolis/Parsa/Persai/Sat Setun",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -550,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "",
+            "created": "2010-10-06T16:29:37Z",
+            "uri": "https://pleiades.stoa.org/places/922695/persepolis",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "A. Hausleiter"
+                },
+                {
+                    "username": null,
+                    "name": "M. Roaf"
+                },
+                {
+                    "username": null,
+                    "name": "R. Wenke"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T09:38:18Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2010-10-06T17:26:17Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-10-06T16:31:56Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-10-06T16:29:37Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Parsa",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [],
+            "id": "parsa",
+            "end": -30,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "P. Flensted Jensen"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 94 C4 Persepolis/Parsa/Persai/Sat Setun",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -550,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "",
+            "created": "2010-10-06T16:29:37Z",
+            "uri": "https://pleiades.stoa.org/places/922695/parsa",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "A. Hausleiter"
+                },
+                {
+                    "username": null,
+                    "name": "M. Roaf"
+                },
+                {
+                    "username": null,
+                    "name": "R. Wenke"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T09:38:19Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2010-10-06T17:26:18Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-10-06T16:31:56Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-10-06T16:29:37Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Persai",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [],
+            "id": "persai",
+            "end": -30,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "P. Flensted Jensen"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 94 C4 Persepolis/Parsa/Persai/Sat Setun",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -550,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "",
+            "created": "2010-10-06T16:29:37Z",
+            "uri": "https://pleiades.stoa.org/places/922695/persai",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "A. Hausleiter"
+                },
+                {
+                    "username": null,
+                    "name": "M. Roaf"
+                },
+                {
+                    "username": null,
+                    "name": "R. Wenke"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T09:38:19Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2010-10-06T17:26:18Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-10-06T16:31:56Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-10-06T16:29:37Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Sat Setun",
+            "attestations": [
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [],
+            "id": "sat-setun",
+            "end": 640,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "P. Flensted Jensen"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 94 C4 Persepolis/Parsa/Persai/Sat Setun",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -30,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "",
+            "created": "2010-10-06T16:29:37Z",
+            "uri": "https://pleiades.stoa.org/places/922695/sat-setun",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "A. Hausleiter"
+                },
+                {
+                    "username": null,
+                    "name": "M. Roaf"
+                },
+                {
+                    "username": null,
+                    "name": "R. Wenke"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T09:38:19Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2010-10-06T17:26:18Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-10-06T16:31:56Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-10-06T16:29:37Z"
+                }
+            ]
+        },
+        {
+            "nameType": "associated_modern",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Takht-i Jamshīd",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://doi.org/10.4324/9780203875506",
+                    "citationDetail": "pages 538-543",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Bryce 2009",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZSXV8M2K",
+                    "formattedCitation": "<div class=\"csl-entry\">Bryce, Trevor. <i>The Routledge Handbook of the Peoples and Places of Ancient Western Asia: The Near East from the Early Bronze Age to the Fall of the Persian Empire</i>. London; New York: Routledge, 2012. https://doi.org/10.4324/9780203875506.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://en.wikipedia.org/wiki/Persepolis",
+                    "citationDetail": "Persepolis",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Wikipedia (English)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>, Persepolis.",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://fa.wikipedia.org/wiki/تخت_جمشید",
+                    "citationDetail": "تخت_جمشید",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Wikipedia (Persian)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FJ5B3YGU",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>ویکی‌پدیا، دانشنامهٔ آزاد</i>. Wikimedia Foundation, 2001. https://fa.wikipedia.org.</div>, تخت_جمشید.",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.wikidata.org/wiki/Q129072",
+                    "citationDetail": "Q129072",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+                    "shortTitle": "Wikidata",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>, Q129072.",
+                    "otherIdentifier": "",
+                    "type": "citesAsRelated"
+                }
+            ],
+            "id": "takht-i-jamshid",
+            "end": 2100,
+            "contributors": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "<p>Romanization according to the ALA-LC specifications for pERSIAN (2012) (https://www.loc.gov/catdir/cpso/roman.html).</p>",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "fa",
+            "created": "2023-06-19T08:17:54Z",
+            "uri": "https://pleiades.stoa.org/places/922695/takht-i-jamshid",
+            "creators": [
+                {
+                    "username": "cjohansson",
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson"
+                },
+                {
+                    "username": "rrattenborg",
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg"
+                }
+            ],
+            "attested": "تخت جمشید",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "name type -> associated modern name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-06-19T14:55:24Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-06-19T14:55:04Z"
+                },
+                {
+                    "comment": "update",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-06-19T14:54:59Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-06-19T08:18:33Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-06-19T08:17:55Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-06-19T08:17:54Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Persepoliscon Mercium persarum",
+            "attestations": [
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2779.html",
+                    "citationDetail": "11C2 (Talbert 2779)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "id": "persepoliscon-mercium-persarum",
+            "end": 640,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 300,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "la",
+            "created": "2025-09-17T01:39:32Z",
+            "uri": "https://pleiades.stoa.org/places/922695/persepoliscon-mercium-persarum",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Persepoliscon Mercivm persarvm",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-09-17T11:05:59Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-09-17T01:39:39Z"
+                },
+                {
+                    "comment": "TP name TP reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-09-17T01:39:32Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-09-17T01:39:32Z"
+                }
+            ]
+        }
+    ],
+    "id": "922695",
+    "subject": [
+        "UWHS"
+    ],
+    "title": "Persepolis/Parsa/Persai/Sat Setun",
+    "provenance": "Barrington Atlas: BAtlas 94 C4 Persepolis/Parsa/Persai/Sat Setun",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+    ],
+    "details": "<p>None</p>",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "Persepolis/Parsa/Persai/Sat Setun was the ceremonial capital of the Achaemenid Empire. The origins of the settlement belong to the sixth century BC (ca. 515). The archaeological site was named as a UNESCO World Heritage Site in 1979.",
+    "reprPoint": [
+        52.8904279399187,
+        29.93519729783907
+    ],
+    "placeTypes": [
+        "settlement",
+        "archaeological-site"
+    ],
+    "bbox": [
+        52.8883245,
+        29.9331302,
+        52.8925743,
+        29.9372026
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/753898782",
+        "https://pleiades.stoa.org/places/774842748",
+        "https://pleiades.stoa.org/places/658615446"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2022-05-20T17:30:44Z",
+    "uri": "https://pleiades.stoa.org/places/922695",
+    "creators": [
+        {
+            "username": null,
+            "name": "A. Hausleiter"
+        },
+        {
+            "username": null,
+            "name": "M. Roaf"
+        },
+        {
+            "username": null,
+            "name": "R. Wenke"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2025-09-17T01:42:50Z"
+        },
+        {
+            "comment": "added Wikidata reference provided by bkiesling",
+            "modifiedBy": "thomase",
+            "modified": "2024-02-06T18:46:04Z"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modifiedBy": "thomase",
+            "modified": "2023-06-20T19:22:15Z"
+        },
+        {
+            "comment": "add TGN 7002205: Persepolis (deserted settlement)",
+            "modifiedBy": "jbecker",
+            "modified": "2023-06-19T14:54:31Z"
+        },
+        {
+            "comment": "update references",
+            "modifiedBy": "jbecker",
+            "modified": "2022-05-20T21:36:20Z"
+        },
+        {
+            "comment": "added Garrison 2017",
+            "modifiedBy": "thomase",
+            "modified": "2022-05-20T17:31:31Z"
+        },
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modifiedBy": "thomase",
+            "modified": "2018-06-07T19:10:14Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "admin",
+            "modified": "2018-06-07T19:05:20Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "admin",
+            "modified": "2018-06-06T23:39:44Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2015-02-23T17:30:19Z"
+        },
+        {
+            "comment": "edited description",
+            "modifiedBy": "jbecker",
+            "modified": "2013-05-23T15:08:29Z"
+        },
+        {
+            "comment": "added category; edited description",
+            "modifiedBy": "jbecker",
+            "modified": "2012-11-02T21:55:52Z"
+        },
+        {
+            "comment": "DARE feature tag fix.",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-23T19:42:26Z"
+        },
+        {
+            "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-20T23:01:49Z"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modifiedBy": "admin",
+            "modified": "2012-02-15T09:38:16Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-10T01:03:37Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-09T18:58:12Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2010-10-06T17:26:17Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "sgillies",
+            "modified": "2010-10-06T16:31:56Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "sgillies",
+            "modified": "2010-10-06T16:29:36Z"
+        }
+    ]
+}

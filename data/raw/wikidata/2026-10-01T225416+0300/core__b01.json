@@ -1,0 +1,1125 @@
+{
+  "head" : {
+    "vars" : [ "item", "label", "description", "aliases", "coords" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q192522"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Çatalhöyük"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site in Konya Province, Turkey"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Bienvenue dans le presse-papiers Gboard. Le texte que vous copiez est enregistré ici.|Catal Höyük|Catal hüyük|Catal Hüyük"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(32.828333333 37.6675)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191504"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leptis Magna"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient city in modern Libya"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Mint of Leptis Magna|Labdah|Ulpia Traiana"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(14.2922 32.636748)|Point(14.290496459 32.638331884)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q192418"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pyramid of Djoser"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Archeological site in Egypt"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "step pyramid|Pyramid of Zoser"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(31.216666666 29.871111111)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q199861"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Khafra"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient Egyptian pharaoh of 4th dynasty"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Chephren|Cheophren|Khaefre|Khefren"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q209217"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Zimbabwe"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ruined city in the south-eastern hills of Zimbabwe near Lake Mutirikwe and the town of Masvingo, was once the capital of the Kingdom of Zimbabwe during the country's Late Iron Age"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Zimbabye"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(30.933 -20.27)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q214944"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Göbekli Tepe"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "neolithic archaeological site in Turkey"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Portasar|Potbelly Hill"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(38.9225 37.223055555)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q219279"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site in Peru"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Caral-Supe"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-77.520277777 -10.893611111)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q201219"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Egyptian Museum"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "museum in Cairo"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Cairo Museum|Matḥaf al-Miṣrī|Museum nke Egypt|Museum of Cairo|Museum of Egyptian Antiquities|Ụlọ ihe ngosi nka Cairo|Ụlọ ihe ngosi nka nke Cairo|Cairo Egyptian Museum"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(31.233333 30.047778)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q484458"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buddhas of Bamiyan"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sculptures in Afghanistan before 2001"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Shahmama|Salsal"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(67.826802777 34.832041666)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q202927"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ziggurat of Ur"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "early Bronze Age ziggurat in present-day Iraq"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Temple of Ur"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(46.1025 30.9625)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q208379"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tel Megiddo"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "site of an ancient city in northern Israel's Jezreel valley"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Megiddo"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(35.184444444 32.585277777)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q844886"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Siege of Jerusalem"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "siege of Jerusalem in 70 AD by the Roman army"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Destruction of the Second Temple"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(35.23583333 31.77805556)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q503256"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sutton Hoo"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site near Woodbridge, Suffolk, England, UK"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Prehistoric settlement and group of barrows (including site of ship burial) at Sutton Hoo"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(1.338888888 52.089722222)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q522862"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnak Temple Complex"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient Egyptian temple complex"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Karnak|Temple of Karnak"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(32.658333333 25.718333333)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q637187"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Archaeological Museum of Athens"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "museum in Athens, Greece"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "NAMA|Archaeological Museum of Athens|National Archaeological Museum, Athens"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(23.732222222 37.989166666)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q637584"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aleppo Codex"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "10th century manuscript of the Hebrew Bible, written in Tiberias"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Keter Aram Tsova|Keter Aram Tsovah|Keter Aram Zova|Keter Aram Zovah"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q339503"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Newgrange"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "neolithic monument in County Meath, Ireland"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Newgrange Passage Tomb"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-6.4755655 53.6947251)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q343053"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ħaġar Qim"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "megalithic temple complex"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Hagar Qim"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(14.442222222 35.827777777)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q456939"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pyramids of Meroe"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pyramids in Sudan"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Meroë Pyramids"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(33.74916667 16.93833333)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q464904"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yinxu"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archeological site of the last capital of China's Shang dynasty"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Yin Xu|archaeological site of Yin Xu|Ruins of Yin|Yin Ruins"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(114.318611111 36.1225)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q471332"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gebre Mesqel Lalibela"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ethiopean Emperor"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Lalibela"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q243699"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rosetta"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "city in Egypt"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Rashid|Bolbitine|Bolbythia|Rosetta, Egypt"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(30.419444444 31.401388888)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q269163"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Murujuga"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Burrup Peninsula on the Pilbara coastline of Western Australia"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Burrup Peninsula|Dampier Island"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(116.808 -20.581)|Point(116.833333333 -20.558333333)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q280444"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monks Mound"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "part of Cahokia, the largest Pre-Columbian earthwork in the Americas and the largest pyramid north of Mesoamerica"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Cahokia Mound 38|Monk's Mound"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-90.062 38.6607)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q333661"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cahokia"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site near East St. Louis, Illinois, USA"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Cahokia Mounds State Historic Site|Cahokia Mounds State Park"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-90.064444444 38.653888888)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q724954"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mesha Stele"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stele set up around 840 BCE by King Mesha of Moab"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Moabite Stone"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(35.785556 31.498889)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q816437"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Skara Brae"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Neolithic archaeological site in Scotland"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Skara Brae, settlement, mounds and other remains"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-3.3417499 59.0487138)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q835309"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tomb of Tutankhamun"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tomb of Tutankhamun"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "KV62|Tutankhamen’s tomb|Tutankhamun's tomb"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(32.601444444 25.740361111)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q676203"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Machu Picchu"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "15th-century Inca citadel in the Peruvian Andes and UNESCO World Heritage Site"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Huayna Picchu|Wayna Picchu"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-72.545555555 -13.163333333)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q683632"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Mosque of Djenné"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mosque in Djenné, Mali"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Great Mosque of Djenne"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-4.555555555 13.905277777)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q688704"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Natural History Museum, Vienna"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "natural history museum in Vienna, Austria"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "NMW|Naturhistorisches Museum|Imperial Natural History Museum|Museum of Natural History Vienna|Natural History Museum Vienna|NHMW|Vienna Museum of Natural History"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(16.359930555 48.205130555)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q690035"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kadesh"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Qadesh"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(36.52 34.5576)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q182324"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antikythera mechanism"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient analog computer designed to calculate astronomical positions"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(23.305 35.864167)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q184427"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ajanta Caves"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd century BCE to 1st century CE Buddhist cave monuments located in Maharashtra, India"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(75.70047222 20.55341667)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q185562"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Harappa"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site in Punjab, Pakistan"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(72.866666666 30.633333333)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q186312"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Masada"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site in southeastern Israel"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(35.353888888 31.315555555)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189113"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "L'Anse aux Meadows"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site on the island of Newfoundland, Canada"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-55.531222222 51.595266666)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q203729"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Battle of Kadesh"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "battle between Egyptians and Hittites fought in 1274 BCE"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(36.498028 34.555487)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q245388"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lucy"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "fossilized skeleton of a female Australopithecus afarensis"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q277540"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chan Chan"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Archaeological site in Peru"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-79.075 -8.110555555)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q313298"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Suryavarman II"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cambodian king (1094-1150)"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q374096"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chauvet Cave"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cave in France"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(4.4161408 44.3881219)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q421232"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Akrotiri"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bronze Age settlement on the volcanic Greek island of Santorini (Thera)"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(25.40356 36.35136)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q464899"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monte Albán"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pre-Columbian archaeological site in Mexico"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-96.767777777 17.043888888)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q495286"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gochang, Hwasun and Ganghwa Dolmen Sites"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "dolmen"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(126.92917 34.96667)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q516354"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tel Dan Stele"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "broken stele (inscribed stone) discovered in 1993–94 during excavations at Tel Dan in northern Israel"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q642979"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monolithic churches in Lalibela"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Churches made from a single block of stone in Ethiopia"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(39.04042 12.02935)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q672146"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Laetoli"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "footprints site"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(35.3524 -2.99622)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q744869"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Siloam inscription"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hebrew inscription"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833850"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carnac stones"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "stone rows in Carnac, France"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-3.079722222 47.593333333)"
+      }
+    } ]
+  }
+}

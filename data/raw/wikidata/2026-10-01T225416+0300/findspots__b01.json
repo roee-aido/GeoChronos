@@ -1,0 +1,80 @@
+{
+  "head" : {
+    "vars" : [ "item", "spot", "spotLabel", "spotCoord" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q724954"
+      },
+      "spot" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1019166"
+      },
+      "spotLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dhiban"
+      },
+      "spotCoord" : {
+        "type" : "literal",
+        "value" : "Point(35.783333333 31.5)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q245388"
+      },
+      "spot" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1567353"
+      },
+      "spotLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hadar"
+      },
+      "spotCoord" : {
+        "type" : "literal",
+        "value" : "Point(40.599888888 11.193183333)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q744869"
+      },
+      "spot" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1620682"
+      },
+      "spotLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hezekiah's Tunnel"
+      },
+      "spotCoord" : {
+        "type" : "literal",
+        "value" : "Point(35.235673 31.772358)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q182324"
+      },
+      "spot" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2616711"
+      },
+      "spotLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antikythera wreck"
+      },
+      "spotCoord" : {
+        "type" : "literal",
+        "value" : "Point(23.3078 35.8897)"
+      }
+    } ]
+  }
+}

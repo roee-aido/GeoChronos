@@ -1,0 +1,32 @@
+{
+ "endpoint": "https://query.wikidata.org/sparql",
+ "query_file": "scripts/sparql/findspots.rq",
+ "sparql_sha256": "fd1adeb2b2d7f94b4a1129b5caf371d6c25b4fca973a0460d5f5d1f685ddcab5",
+ "qids": [
+  "Q846967",
+  "Q884971",
+  "Q910180",
+  "Q968802",
+  "Q975775",
+  "Q1060888",
+  "Q1128327",
+  "Q1143218",
+  "Q1144693",
+  "Q1165562",
+  "Q1262524",
+  "Q1741475",
+  "Q2308606",
+  "Q2402267",
+  "Q2620036",
+  "Q2979068",
+  "Q3287362",
+  "Q3448354",
+  "Q7272782",
+  "Q9048095",
+  "Q65159662",
+  "Q85749368"
+ ],
+ "from_cache": false,
+ "fetched_at": "2026-10-01T22:54:55+03:00",
+ "status": 200
+}

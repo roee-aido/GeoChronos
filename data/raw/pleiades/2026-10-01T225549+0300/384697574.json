@@ -1,0 +1,680 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        32.6008824,
+                        25.7376593
+                    ],
+                    [
+                        32.6005461,
+                        25.7376961
+                    ],
+                    [
+                        32.6001661,
+                        25.7381538
+                    ],
+                    [
+                        32.5992057,
+                        25.7381949
+                    ],
+                    [
+                        32.5985238,
+                        25.7390652
+                    ],
+                    [
+                        32.5991076,
+                        25.7396013
+                    ],
+                    [
+                        32.5996133,
+                        25.7399997
+                    ],
+                    [
+                        32.5997411,
+                        25.741025
+                    ],
+                    [
+                        32.5999516,
+                        25.7412483
+                    ],
+                    [
+                        32.6006149,
+                        25.7412458
+                    ],
+                    [
+                        32.6012027,
+                        25.7416435
+                    ],
+                    [
+                        32.601481,
+                        25.7418068
+                    ],
+                    [
+                        32.601849,
+                        25.7421896
+                    ],
+                    [
+                        32.6016158,
+                        25.7427296
+                    ],
+                    [
+                        32.6017881,
+                        25.7428492
+                    ],
+                    [
+                        32.6026956,
+                        25.7420079
+                    ],
+                    [
+                        32.6029732,
+                        25.7418527
+                    ],
+                    [
+                        32.6031819,
+                        25.7417297
+                    ],
+                    [
+                        32.6039617,
+                        25.74098
+                    ],
+                    [
+                        32.6037103,
+                        25.7399528
+                    ],
+                    [
+                        32.6035263,
+                        25.7395418
+                    ],
+                    [
+                        32.6041506,
+                        25.7391003
+                    ],
+                    [
+                        32.6042618,
+                        25.7385436
+                    ],
+                    [
+                        32.6038552,
+                        25.7379434
+                    ],
+                    [
+                        32.6021482,
+                        25.7381642
+                    ],
+                    [
+                        32.601852,
+                        25.7383837
+                    ],
+                    [
+                        32.6017028,
+                        25.7388997
+                    ],
+                    [
+                        32.6013624,
+                        25.738937
+                    ],
+                    [
+                        32.6011399,
+                        25.7384774
+                    ],
+                    [
+                        32.6011284,
+                        25.7377528
+                    ],
+                    [
+                        32.6008824,
+                        25.7376593
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-valley-of-the-kings",
+            "properties": {
+                "snippet": "Cemetery; 1548 BC - 1086 BC",
+                "link": "https://pleiades.stoa.org/places/384697574/osm-location-valley-of-the-kings",
+                "description": "Representative location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location: Valley of the Kings"
+            }
+        }
+    ],
+    "contributors": [],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "new-kingdom-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/new-kingdom-egypt",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/115773400",
+                    "citationDetail": "Way 115773400",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:way=115773400",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-valley-of-the-kings",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+            ],
+            "end": -1086,
+            "title": "OSM location: Valley of the Kings",
+            "provenance": "OpenStreetMap (Way 115773400, version 27, osm:changeset=156322106, 2024-09-07T17:16:09Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -1548,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "cemetery"
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "created": "2024-12-09T01:43:16Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        32.6008824,
+                        25.7376593
+                    ],
+                    [
+                        32.6005461,
+                        25.7376961
+                    ],
+                    [
+                        32.6001661,
+                        25.7381538
+                    ],
+                    [
+                        32.5992057,
+                        25.7381949
+                    ],
+                    [
+                        32.5985238,
+                        25.7390652
+                    ],
+                    [
+                        32.5991076,
+                        25.7396013
+                    ],
+                    [
+                        32.5996133,
+                        25.7399997
+                    ],
+                    [
+                        32.5997411,
+                        25.741025
+                    ],
+                    [
+                        32.5999516,
+                        25.7412483
+                    ],
+                    [
+                        32.6006149,
+                        25.7412458
+                    ],
+                    [
+                        32.6012027,
+                        25.7416435
+                    ],
+                    [
+                        32.601481,
+                        25.7418068
+                    ],
+                    [
+                        32.601849,
+                        25.7421896
+                    ],
+                    [
+                        32.6016158,
+                        25.7427296
+                    ],
+                    [
+                        32.6017881,
+                        25.7428492
+                    ],
+                    [
+                        32.6026956,
+                        25.7420079
+                    ],
+                    [
+                        32.6029732,
+                        25.7418527
+                    ],
+                    [
+                        32.6031819,
+                        25.7417297
+                    ],
+                    [
+                        32.6039617,
+                        25.74098
+                    ],
+                    [
+                        32.6037103,
+                        25.7399528
+                    ],
+                    [
+                        32.6035263,
+                        25.7395418
+                    ],
+                    [
+                        32.6041506,
+                        25.7391003
+                    ],
+                    [
+                        32.6042618,
+                        25.7385436
+                    ],
+                    [
+                        32.6038552,
+                        25.7379434
+                    ],
+                    [
+                        32.6021482,
+                        25.7381642
+                    ],
+                    [
+                        32.601852,
+                        25.7383837
+                    ],
+                    [
+                        32.6017028,
+                        25.7388997
+                    ],
+                    [
+                        32.6013624,
+                        25.738937
+                    ],
+                    [
+                        32.6011399,
+                        25.7384774
+                    ],
+                    [
+                        32.6011284,
+                        25.7377528
+                    ],
+                    [
+                        32.6008824,
+                        25.7376593
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/384697574/osm-location-valley-of-the-kings",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-01-31T14:36:04Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-12-09T01:44:30Z"
+                },
+                {
+                    "comment": "supersedes previously published location whose underlying OSM data is now deprecated",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-12-09T01:44:21Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-12-09T01:43:16Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-12-09T01:43:16Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": -1086,
+            "description": "",
+            "contributors": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "created": "2019-06-07T16:03:42Z",
+            "associationCertainty": "certain",
+            "title": "Theban necropolis",
+            "start": -1548,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/384697574/theban-necropolis",
+            "connectionType": "part_of_analytical",
+            "id": "theban-necropolis",
+            "attestations": [
+                {
+                    "timePeriod": "new-kingdom-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/new-kingdom-egypt",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-06-07T21:49:57Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-06-07T21:49:51Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "gmckee",
+                    "modified": "2019-06-07T16:03:47Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "gmckee",
+                    "modified": "2019-06-07T16:03:42Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "gmckee",
+                    "modified": "2019-06-07T16:03:42Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/836839127",
+            "details": "",
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://whc.unesco.org/en/list/87",
+                    "citationDetail": "Ancient Thebes with its Necropolis",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "WHL",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+                    "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "gmckee",
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_analytical"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Valley_Of_The_Kings",
+            "citationDetail": "Valley of the Kings",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Valley of the Kings.",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.thebanmappingproject.com/",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Theban Mapping Project",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://whc.unesco.org/en/list/87-003",
+            "citationDetail": "87-003: Ancient Thebes with its Necropolis",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q133423",
+            "citationDetail": "Q133423: Valley of the Kings",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Valley of the Kings",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.wikidata.org/wiki/Q133423",
+                    "citationDetail": "Q133423: Valley of the Kings",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "Wikidata",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "valley-of-the-kings",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2018-12-01T15:22:05Z",
+            "uri": "https://pleiades.stoa.org/places/384697574/valley-of-the-kings",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Valley of the Kings",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2021-12-03T12:05:21Z"
+                },
+                {
+                    "comment": "ref. update",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-08-20T00:18:58Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-02-15T21:13:37Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-12-01T15:22:16Z"
+                },
+                {
+                    "comment": "name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-12-01T15:22:05Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-12-01T15:22:05Z"
+                }
+            ]
+        }
+    ],
+    "id": "384697574",
+    "subject": [
+        "necropolis",
+        "UWHS"
+    ],
+    "title": "Valley of the Kings",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "A valley in Egypt where Pharaonic burials took place from the sixteenth to the eleventh centuries B.C. (Eighteenth to the Twentieth Dynasties).",
+    "reprPoint": [
+        32.60162506100955,
+        25.73980492635105
+    ],
+    "placeTypes": [
+        "cemetery"
+    ],
+    "bbox": [
+        32.5985238,
+        25.7376593,
+        32.6042618,
+        25.7428492
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/836839127",
+        "https://pleiades.stoa.org/places/422247194",
+        "https://pleiades.stoa.org/places/750729612",
+        "https://pleiades.stoa.org/places/380628162",
+        "https://pleiades.stoa.org/places/599287018",
+        "https://pleiades.stoa.org/places/201675359"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2013-02-20T19:59:51Z",
+    "uri": "https://pleiades.stoa.org/places/384697574",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "ref. update",
+            "modifiedBy": "jbecker",
+            "modified": "2020-08-20T00:10:07Z"
+        },
+        {
+            "comment": "changed wikidata to related",
+            "modifiedBy": "jbecker",
+            "modified": "2020-02-15T21:14:32Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2018-12-01T14:33:32Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2018-05-16T22:20:48Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2016-08-04T02:37:54Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2013-03-11T11:32:23Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "jbecker",
+            "modified": "2013-03-03T21:42:43Z"
+        },
+        {
+            "comment": "created place",
+            "modifiedBy": "jbecker",
+            "modified": "2013-02-20T19:59:53Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "jbecker",
+            "modified": "2013-02-20T19:59:51Z"
+        }
+    ]
+}

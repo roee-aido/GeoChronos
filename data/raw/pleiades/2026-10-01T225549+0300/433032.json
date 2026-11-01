@@ -1,0 +1,2006 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.485429,
+                    40.74941
+                ]
+            },
+            "type": "Feature",
+            "id": "darmc-location-18793",
+            "properties": {
+                "snippet": "Urban, Settlement, ; 750 BC - AD 300",
+                "link": "https://pleiades.stoa.org/places/433032/darmc-location-18793",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+                "location_precision": "precise",
+                "title": "DARMC location 18793"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "bkiesling",
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling"
+        },
+        {
+            "username": null,
+            "name": "R. Talbert"
+        },
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        },
+        {
+            "username": null,
+            "name": "DARMC"
+        },
+        {
+            "username": "gbodard",
+            "homepage": null,
+            "name": "Gabriel Bodard",
+            "uri": "https://pleiades.stoa.org/author/gbodard"
+        },
+        {
+            "username": "rssmith",
+            "homepage": null,
+            "name": "R. Scott Smith",
+            "uri": "https://pleiades.stoa.org/author/rssmith"
+        },
+        {
+            "username": "ghawes",
+            "homepage": null,
+            "name": "Greta Hawes",
+            "uri": "https://pleiades.stoa.org/author/ghawes"
+        },
+        {
+            "username": "rmhorne",
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "DARMC"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                },
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://darmc.harvard.edu/",
+                    "citationDetail": "18793",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "DARMC",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18793.",
+                    "otherIdentifier": " ",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "darmc-location-18793",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/urban",
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "end": 300,
+            "title": "DARMC location 18793",
+            "provenance": "DARMC OBJECTID: 18793",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -750,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/urban",
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "DARMC OBJECTID: 18793",
+            "review_state": "published",
+            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
+            "featureType": [
+                "urban",
+                "settlement",
+                ""
+            ],
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+            "created": "2011-01-21T23:11:43Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.485429,
+                    40.74941
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/433032/darmc-location-18793",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "N. Purcell"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-09-28T10:31:38Z"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T05:01:50Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "sgillies",
+                    "modified": "2011-01-21T23:23:12Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "sgillies",
+                    "modified": "2011-01-21T23:11:43Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "sgillies",
+                    "modified": "2011-01-21T23:11:43Z"
+                }
+            ]
+        }
+    ],
+    "connections": [],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
+            "citationDetail": "44 F4 Pompeii",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "BAtlas",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/9393495",
+            "citationDetail": "8-258",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "GAL Pompei",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/46JQZ4IU",
+            "formattedCitation": "<div class=\"csl-entry\">A De Vos, and M De Vos. <i>Guide archeologiche Laterza: Pompei, Ercolano, Stabia</i>. Guide archeologiche Laterza 11. Bari, Rome: Laterza, 1982. http://www.worldcat.org/oclc/9393495.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://whc.unesco.org/en/list/829",
+            "citationDetail": "829: Archaeological Areas of Pompei, Herculaneum and Torre Annunziata (World Heritage Site 829)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1476.html",
+            "citationDetail": "5B5 (Talbert 1476)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "TP (Talbert: CUP)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+            "otherIdentifier": " ",
+            "type": "citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Pompeii",
+            "citationDetail": "Pompeii",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Pompeii.",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://doi.org/10.1163/1574-9347_bnp_e1002930",
+            "citationDetail": "Pompeii (Maria Ida Gulletta and Valentin Kockel)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "New Pauly",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://latin.packhum.org/loc/978/1/0#237",
+            "citationDetail": "3.62.3",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+            "otherIdentifier": " ",
+            "type": "citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://latin.packhum.org/loc/474/11/21/8634-8641",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Cic. de leg. Agr. 2.97.1",
+            "otherIdentifier": " ",
+            "type": "citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:5.4.8",
+            "citationDetail": "5.4.8",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "Str. (Meineke: Perseus)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+            "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877.</div>",
+            "otherIdentifier": " ",
+            "type": "citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=pompeii",
+            "citationDetail": "POMPEII Italy",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "PECS (Perseus)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://latin.packhum.org/loc/1318/1/0#131",
+            "citationDetail": "6.16",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "Plin. Letters (Mynors: PHI)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KA9R994P",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Caecilius Secundus, Gaius. <i>C. Plini Caecilii Secundi epistularum libri decem</i>. Edited by Roger A. B Mynors. Scriptorum classicorum bibliotheca Oxoniensis. Oxonii: Clarendon, 1966. http://latin.packhum.org/loc/1318/1/0.</div>",
+            "otherIdentifier": " ",
+            "type": "citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://latin.packhum.org/loc/1351/5/0#563",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Tac. Ann. 14.17.1",
+            "otherIdentifier": " ",
+            "type": "citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.umass.edu/classics/PQP.htm",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Pompeii Quadriporticus Project",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://digitalhumanities.umass.edu/pbmp/",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "PBMP",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AM687RVZ",
+            "formattedCitation": "<div class=\"csl-entry\">Poehler, Eric. “Pompeii Bibliography and Mapping Project.” <i>Pompeii Bibliography and Mapping Project</i>, 2017. http://digitalhumanities.umass.edu/pbmp/.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://pompeii.virginia.edu/",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Pompeii Forum Project",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/8667821",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "VanderPoel et al. 1977-1986",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WQBMM724",
+            "formattedCitation": "<div class=\"csl-entry\">VanderPoel, Halsted B. <i>Corpus Topographicum Pompeianum</i>. 5 vols. Rome: The University of Texas at Austin, 1977–1986. http://www.worldcat.org/oclc/8667821.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.pompeiisites.org/Sezione.jsp?titolo=Pompeii&idSezione=555",
+            "citationDetail": "Pompeii",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Pompeii Sites",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RQWYV366",
+            "formattedCitation": "<div class=\"csl-entry\">Osanna, Massimo, ed. <i>Pompeii Sites: Portale Ufficiale Parco Archeologico di Pompei</i>. Accessed January 10, 2020. http://pompeiisites.org/.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://pompeiiinpictures.com/pompeiiinpictures/index.htm",
+            "citationDetail": "A complete photographic plan of ancient Pompeii as it is today, produced by Jackie and Bob Dunn",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "PompeiiinPictures",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JU2FIK6G",
+            "formattedCitation": "<div class=\"csl-entry\">Dunn, Jackie, and Bob Dunn. “PompeiiinPictures Ancient Pompeii Herculaneum Oplontis Stabiae.” PompeiiinPictures  A complete photographic plan of ancient Pompeii as it is today, produced by Jackie and Bob Dunn for those as enthusiastic about Pompeii as we are., December 11, 2018. https://pompeiiinpictures.com/pompeiiinpictures/index.htm.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Dobbins and Foss 2007",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HZQSPX77",
+            "formattedCitation": "<div class=\"csl-entry\">Dobbins, John Joseph, and Pedar William Foss. <i>The World of Pompeii</i>. London; New York: Routledge, 2007.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/698517609",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Della Corte 1925",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FNEPKDEA",
+            "formattedCitation": "<div class=\"csl-entry\">Della Corte, Matteo. <i>Pompeji, the New Excavations (houses and Inhabitants)</i>. Valle di Pompei: Tipografia di Francesco Sicignano, 1925. http://www.worldcat.org/oclc/698517609.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DP%3Aentry+group%3D14%3Aentry%3Dpompeii-geo",
+            "citationDetail": "POMPEII",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Smith 1854 (Perseus)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://it.wikipedia.org/wiki/Scavi_archeologici_di_Pompei",
+            "citationDetail": "Scavi archeologici di Pompei",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (Italian)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Scavi archeologici di Pompei.",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.treccani.it/enciclopedia/pompei_res-d1467f3f-87e9-11dc-8e9d-0016357eee51_(Enciclopedia-Italiana)/",
+            "citationDetail": "\"POMPEI\" (de Franciscis, A. Enciclopedia Italiana - IV Appendice, 1981)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "TrecEnc",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HHA9M2F7",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Treccani Enciclopedia</i>. Roma: Istituto della Enciclopedia Italiana fondata da Giovanni Treccani. Accessed June 6, 2022. https://www.treccani.it/enciclopedia/.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Mau 1982",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LFWGCWJZ",
+            "formattedCitation": "<div class=\"csl-entry\">Mau, August. <i>Pompeii, Its Life and Art.</i> New Rochelle, N.Y.: Caratzas Bros., 1982.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Maiuri 1929",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UCCC6CBW",
+            "formattedCitation": "<div class=\"csl-entry\">Maiuri, Amedeo, and Istituto geografico De Agostini. <i>Pompei</i>. Novara: Istituto geografico de Agostini, 1929.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Richardson jr. 1988",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/X72XPGR4",
+            "formattedCitation": "<div class=\"csl-entry\">Richardson, Lawrence. <i>Pompeii: An Architectural History</i>. Baltimore: Johns Hopkins University Press, 1988.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Nappo 2010",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/S37BVF2U",
+            "formattedCitation": "<div class=\"csl-entry\">Nappo, Salvatore, Alfredo Foglia, and Pio Foglia. <i>Pompeii.</i> Vercelli; Enfield: White Star ; Publishers Group UK [distributor, 2010.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/28112827",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wallace-Hadrill 1994",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VQDM4IWA",
+            "formattedCitation": "<div class=\"csl-entry\">Wallace-Hadrill, Andrew. <i>Houses and Society in Pompeii and Herculaneum</i>. 1 vols. Princeton, N.J.: Princeton University Press, 1994. http://www.worldcat.org/oclc/28112827.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.stoa.org/projects/ph/home",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Pompeian Households",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HEF9FRX2",
+            "formattedCitation": "<div class=\"csl-entry\">Allison, Penelope M. “Pompeian Households: An On-Line Companion.” Educational, October 12, 2004. http://www.stoa.org/projects/ph/home.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/45375186",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Allison 2004",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3DV7X5JD",
+            "formattedCitation": "<div class=\"csl-entry\">Allison, Penelope. <i>Pompeian Households : An Analysis of Material Culture</i>. 1 vols. Monograph (University of California, Los Angeles. Institute of Archaeology) 42. Los Angeles: Cotsen Institute of Archaeology, University of California, Los Angeles, 2004. http://www.worldcat.org/oclc/45375186.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.cambridge.org/core/journals/papers-of-the-british-school-at-rome/article/social-structure-of-the-roman-house1/D067A272372C96440838490DE8D2D312",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wallace-Hadrill 1988",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TM7NDZVT",
+            "formattedCitation": "<div class=\"csl-entry\">Wallace-Hadrill, Andrew. “The Social Structure of the Roman House.” <i>Papers of the British School at Rome</i> 56 (November 1988): 43–97. doi:10.1017/S0068246200009569.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.trismegistos.org/place/2788",
+            "citationDetail": "GEO ID, 2788: Pompeii",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "TM",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": " ",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.geonames.org/3170336/pompei.html",
+            "citationDetail": "3170336: Pompeii",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "GeoNames",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://ancientgraffiti.wlu.edu/",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "AGP",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/A2X652DK",
+            "formattedCitation": "<div class=\"csl-entry\">Benefiel, Rebecca, Sara Sprenkle, Holly Sypniewski, and Mackenzie Brooks. <i>Ancient Graffiti Project</i>, 2014. http://ancientgraffiti.org/Graffiti/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/29359913",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Laurence 1994",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SIKB8QW5",
+            "formattedCitation": "<div class=\"csl-entry\">Laurence, Ray. <i>Roman Pompeii : Space and Society</i>. London: Routledge, 1994. http://www.worldcat.org/oclc/29359913.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Zanker 1998",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DVE47B26",
+            "formattedCitation": "<div class=\"csl-entry\">Zanker, Paul, and Deborah Lucas-Schneider. <i>Pompeii: Public and Private Life</i>. Cambridge (Mass.); London (Eng.): Harvard University Press, 2001.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/51465220",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Coarelli 2002",
+            "bibliographicURI": "http://www.worldcat.org/oclc/51465220",
+            "formattedCitation": "<div class=\"csl-entry\">Coarelli, Filippo, Alfredo Foglia, and Pio Foglia. <i>Pompeii</i>. New York: Riverside Book Co., 2002. http://www.worldcat.org/oclc/51465220.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/41539515",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Guzzo and D'Ambrosio 1998",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3V3CZXR8",
+            "formattedCitation": "<div class=\"csl-entry\">Guzzo, Pier Giovanni, and Antonio D’Ambrosio. <i>Pompeii</i>. Rome]; Napoli: “L’Erma” di Bretschneider ; Electa, 1998.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.jstor.org/stable/j.ctt6wpqp6",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Rowland 2014",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9ZJM5TD8",
+            "formattedCitation": "<div class=\"csl-entry\">ROWLAND, INGRID D. <i>From Pompeii: The Afterlife of a Roman Town</i>. Harvard University Press, 2014. http://www.jstor.org/stable/j.ctt6wpqp6.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q43332",
+            "citationDetail": "Q43332: Pompeii",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q27055447",
+            "citationDetail": "Q27055447: catalogue of Pompeii buildings",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "seeAlso"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Cooley 2003",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GB7ZZEDI",
+            "formattedCitation": "<div class=\"csl-entry\">Cooley, Alison. <i>Pompeii</i>. London: Duckworth, 2003.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/25753150",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Etienne 1992",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GNTTAUZQ",
+            "formattedCitation": "<div class=\"csl-entry\">Etienne, Robert. <i>Pompeii: the day a city died</i>. New York: H.N. Abrams, 1992. http://www.worldcat.org/oclc/25753150.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/787854591",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Cooley and Cooley 2004",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/23AM8H3Q",
+            "formattedCitation": "<div class=\"csl-entry\">Cooley, Alison, and M. G. L Cooley. <i>Pompeii: A Sourcebook</i>. London: Routledge, 2006. http://www.worldcat.org/oclc/787854591.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Laurence et al. 1997",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HF344WUN",
+            "formattedCitation": "<div class=\"csl-entry\">Laurence, Ray, Andrew Wallace-Hadrill, British Academy, Society for the Promotion of Roman Studies, University of Reading, and Centre for Roman Studies, eds. <i>Domestic Space in the Roman World: Pompeii and Beyond</i>. Journal of Roman Archaeology. Supplementary Series. Portsmouth, RI: JRA, 1997.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/807576704",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Fentress and Alcock 2000",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MVR52B6A",
+            "formattedCitation": "<div class=\"csl-entry\">Fentress, Elizabeth, and Susan E Alcock. <i>Romanization and the City: Creation, Transformations and Failures : Proceedings of a Conference.... Edited by Elizabeth Fentress</i>. Journal of Roman Archaeology., Supplementary Series (Journal of Roman Archaeology) 38. Portsmouth, Rhode Island: Journal of Roman archaeology, 2000. http://www.worldcat.org/oclc/807576704.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Rivista di studi pompeiani",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3INP3SPH",
+            "formattedCitation": "<div class=\"csl-entry\">Associazione Internazionale Amici di Pompei. “Rivista di studi pompeiani.” <i>Rivista di studi pompeiani</i>, 1934.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Clarke et al. 1850",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/39KKR6RE",
+            "formattedCitation": "<div class=\"csl-entry\">Clarke, W. B, T. E Nicholson, Chris Knight &amp; Co, and Society for the Diffusion of Useful Knowledge (Great Britain). “Pompeii.” 1850.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/757412600",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Lazer 2011",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WRCHT6AA",
+            "formattedCitation": "<div class=\"csl-entry\">Lazer, Estelle. <i>Resurrecting Pompeii</i>. London; New York: Routledge, 2011. http://www.worldcat.org/oclc/757412600.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/71810100",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Gardner Coates and Seydl 2007",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MAVAPF38",
+            "formattedCitation": "<div class=\"csl-entry\">Gardner Coates, Victoria C, and Jon L Seydl. <i>Antiquity Recovered: The Legacy of Pompeii and Herculaneum</i>. Los Angeles: J. Paul Getty Museum, 2007. http://www.worldcat.org/oclc/71810100.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/601536792",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Beard 2010",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/S4TF97QX",
+            "formattedCitation": "<div class=\"csl-entry\">Beard, Mary. <i>The Fires of Vesuvius: Pompeii Lost and Found</i>. Cambridge, Mass.: Belknap Press of Harvard University Press, 2010. http://www.worldcat.org/oclc/601536792.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/237599691",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Jashemski 2002",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/A8F9SF69",
+            "formattedCitation": "<div class=\"csl-entry\">Jashemski, Wilhelmina Mary Feemster. <i>The Natural History of Pompeii</i>. Cambridge: Cambridge Univ. Press, 2002. http://www.worldcat.org/oclc/237599691.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.jstor.org/stable/10.3764/aja.121.3.0467",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Ball and Dobbins 2017",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/C7BHFS4K",
+            "formattedCitation": "<div class=\"csl-entry\">Larry F. Ball, and John J. Dobbins. “Pompeii Forum Project: Excavation and Urbanistic Reappraisals of the Sanctuary of Apollo, Basilica, and Via Della Fortuna Neighborhood.” <i>American Journal of Archaeology</i> 121, no. 3 (2017): 467. doi:10.3764/aja.121.3.0467.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/minerva-urban-defenses-and-the-continuity-of-cult-at-pompeii/3B0FDA96150626E83E0118C0071B0F4E",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "van der Graaff and Ellis 2017",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/P7P835W4",
+            "formattedCitation": "<div class=\"csl-entry\">Graaff, Ivo van der, and Steven J. R. Ellis. “Minerva, Urban Defenses, and the Continuity of Cult at Pompeii.” <i>Journal of Roman Archaeology</i> 30 (ed 2017): 283–300. https://doi.org/10.1017/S1047759400074122.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Maratini and Zaccaria Ruggiu 2017",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TADMP4JS",
+            "formattedCitation": "<div class=\"csl-entry\">Maratini, C., and A. Zaccaria Ruggiu, eds. <i>Rileggere Pompei IV. L’insula 7 della Regio VI</i>. Studi della Soprintendenza Archeologica di Pompei 35. Rome: “L’ERMA” di Bretschneider, 2017.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://topostext.org/place/407145PPom",
+            "citationDetail": "Pompeii (Italy)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "ToposText",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "http://atlantides.org/bibliography/",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "POMPEI. Nuova cartografia informatizzata georiferita",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ENY35D8R",
+            "formattedCitation": "<div class=\"csl-entry\">Morichi, Ruggero, R. Paone, and F. Sampaolo. <i>POMPEI. Nuova cartografia informatizzata georiferita (QNBP, series maior, 2) - Con prefazione di Massimo Osanna</i>. 2 vols. QNBP 2. Rome: Arbor Sapientiae, 2018.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Van der Graaff 2019",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GNY9VAGX",
+            "formattedCitation": "<div class=\"csl-entry\">Van der Graaff, Ivo. <i>The Fortifications of Pompeii and Ancient Italy</i>. London: Routledge, 2019.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://pompeiisites.org/",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Pompeii Sites",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RQWYV366",
+            "formattedCitation": "<div class=\"csl-entry\">Osanna, Massimo, ed. <i>Pompeii Sites: Portale Ufficiale Parco Archeologico di Pompei</i>. Accessed January 10, 2020. http://pompeiisites.org/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Osanna 2018",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RN5Q2NFM",
+            "formattedCitation": "<div class=\"csl-entry\">Osanna, Massimo, and Stéphane Verger. <i>Pompei e gli Etruschi: [exposition, Pompei, Palestra Grande, du 12 décembre 2018 au 2 mai 2019</i>, 2018.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Osanna 2019",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q6MJRG7X",
+            "formattedCitation": "<div class=\"csl-entry\">Osanna, Massimo, Dimitris Athanasoulis, and Scuderie Papali al Quirinale. <i>Pompei e Santorini: l’eternità in un giorno</i>, 2019.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Osanna 2017",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RW3RUFNP",
+            "formattedCitation": "<div class=\"csl-entry\">Osanna, Massimo, and Carlo Rescigno. <i>Pompei e i Greci</i>, 2017.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://rizzoli.rizzolilibri.it/libri/pompei-il-tempo-ritrovato/",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Osanna 2019b",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/P5JKDPJI",
+            "formattedCitation": "<div class=\"csl-entry\">Osanna, Massimo. <i>Pompei. Il tempo ritrovato</i>. Rizzoli, 2019. https://rizzoli.rizzolilibri.it/libri/pompei-il-tempo-ritrovato/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Fiorelli",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WLUBF7Y5",
+            "formattedCitation": "<div class=\"csl-entry\">Fiorelli, Giuseppe. <i>Pompeianarvm antiqvitatvm historia: qvam ex cod. mss. et a schedis divrnisqve R. Alcvbierre, C. Weber, M. Cixia, I. Corcoles, I. Perez-Conde, F. et P. La Vega, R. Amicone, A. Ribav, M. Arditi, N. D’Apvzzo ceteror. qvae in pvblicis avt privatis bibliothecis servantvr. Volvmen secvndvm complectens annos effossionvm MDCCCXIX-MDCCCLX. Volvmen tertivm complectens commentarivm perpetvvm et indices locvpletissimos</i>. 2 vols. Napoli: s.n., 1862.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Fiorelli 1860",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2RCIQF29",
+            "formattedCitation": "<div class=\"csl-entry\">Fiorelli, Giuseppe. <i>Pompeianarvm antiqvitatvm historia: qvam ex cod. mss. et a schedis divrnisqve R. Alcvbierre, C. Weber, M. Cixia, I. Corcoles, I. Perez-Conde, F. et P. La Vega, R. Amicone, A. Ribav, M. Arditi, N. D’Apvzzo ceteror. qvae in pvblicis avt privatis bibliothecis servantvr. Volvmen primvm: complectens annos effossionvm MDCCXLVIII-MDCCCXVIII</i>. Napoli: s.n., 1860.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://arachne.dainst.org/entity/6",
+            "citationDetail": "Pompeji Pompei (Pompeii), Italien",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Arachne",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://sites.google.com/site/ad79eruption/",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "AD79",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SAEEN7M7",
+            "formattedCitation": "<div class=\"csl-entry\">Clements, Peter. “AD79: Destruction and Re-Discovery.” Accessed September 10, 2017. https://sites.google.com/site/ad79eruption/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://vocab.getty.edu/page/tgn/7004658",
+            "citationDetail": "7004658: Pompeii",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "TGN",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZLJQ5AZJ",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Getty Thesaurus of Geographic Names® Online</i>, n.d. https://www.getty.edu/research/tools/vocabularies/tgn/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/tracking-liquid-savings-at-pompeii-the-coin-hoard-data/CD99C1A63436A0DDB57FE1A7FE192442",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Bowes 2022",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EKCKID67",
+            "formattedCitation": "<div class=\"csl-entry\">Bowes, Kim. “Tracking Liquid Savings at Pompeii: The Coin Hoard Data.” <i>Journal of Roman Archaeology</i> 35, no. 1 (June 2022): 194–220. https://doi.org/10.1017/S1047759422000162.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://public.ebookcentral.proquest.com/choice/PublicFullRecord.aspx?p=7269081",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Ellis et al. 2023",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2HQR932Q",
+            "formattedCitation": "<div class=\"csl-entry\">Ellis, Steven J. R., Allison L. C. Emmerson, and Kevin D. Dicus, eds. <i>The Porta Stabia Neighborhood at Pompeii. Volume I, Structure, Stratigraphy, and Space</i>. Oxford: Oxford University Press, Incorporated, 2023. https://public.ebookcentral.proquest.com/choice/PublicFullRecord.aspx?p=7269081.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://resource.manto.unh.edu/11316362",
+            "citationDetail": "11316362: Pompeii (Campania)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "MANTO",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
+            "formattedCitation": "<div class=\"csl-entry\">Hawes, Greta, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://tp-online.ku.de/trefferanzeige_en.php?id=519",
+            "citationDetail": "519: Pompeis",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "KU TP Database (Rathmann)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KDZ6Q72N",
+            "formattedCitation": "<div class=\"csl-entry\">Ingolstadt, Katholische Universität Eichstätt-. “Tabula Peutingeriana.” Datenbank tp-online. Accessed June 4, 2025. https://www.ku.de/ggf/geschichte/alte-geschichte/forschung/datenbank-tp-online.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://elexikon.ch/RE/XXI,2_2001.png",
+            "citationDetail": "Pompeii",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "RE",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://vici.org/vici/1878/",
+            "citationDetail": "1878: Pompeii",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "vici.org",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Pompeii",
+            "attestations": [
+                {
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.trismegistos.org/place/2788",
+                    "citationDetail": "GEO ID 2788: Pompeii",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
+                    "shortTitle": "TM",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+                    "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+                    "otherIdentifier": " ",
+                    "type": "cites"
+                }
+            ],
+            "id": "pompeii",
+            "end": 300,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                },
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                },
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 44 F4 Pompeii",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -750,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "la",
+            "created": "2010-11-11T23:28:13Z",
+            "uri": "https://pleiades.stoa.org/places/433032/pompeii",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "N. Purcell"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "update reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-06-14T19:54:35Z"
+                },
+                {
+                    "comment": "added reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-06-29T15:40:48Z"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T05:01:50Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2010-11-14T13:59:07Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-11-12T00:53:57Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-11-11T23:28:13Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Pompeia",
+            "attestations": [
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:5.4.8",
+                    "citationDetail": "5.4.8",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Str. (Meineke: Perseus)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+                    "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
+                    "otherIdentifier": " ",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "id": "pompeia",
+            "end": 300,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -30,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "grc",
+            "created": "2015-03-20T02:57:46Z",
+            "uri": "https://pleiades.stoa.org/places/433032/pompeia",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Πομπηία",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "update Strabo reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-06-14T19:53:00Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-30T20:26:18Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-05-18T18:04:34Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-03-20T03:04:47Z"
+                },
+                {
+                    "comment": "added name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-03-20T02:58:12Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-03-20T02:57:51Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Pompei",
+            "attestations": [
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://latin.packhum.org/loc/978/1/0#237",
+                    "citationDetail": "3.62.2",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": " ",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "id": "name.2015-03-19.3931752417",
+            "end": 300,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -30,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "la",
+            "created": "2015-03-20T03:00:27Z",
+            "uri": "https://pleiades.stoa.org/places/433032/name.2015-03-19.3931752417",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Pompei",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "update Pliny reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-06-14T19:53:27Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-30T20:25:49Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-06-29T15:38:39Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-03-20T03:04:39Z"
+                },
+                {
+                    "comment": "added name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-03-20T03:00:47Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-03-20T03:00:33Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Colonia Cornelia Veneria Pompeianorum",
+            "attestations": [
+                {
+                    "timePeriod": "first-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/first-bce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/first-ce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:id=pompeii",
+                    "citationDetail": "POMPEII Italy",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
+                    "shortTitle": "PECS (Perseus)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+                    "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
+                    "otherIdentifier": " ",
+                    "type": "cites"
+                }
+            ],
+            "id": "name.2015-07-03.8961969251",
+            "end": 99,
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -100,
+            "details": "",
+            "review_state": "published",
+            "description": "The toponym assigned to the Sullan colony.",
+            "transcriptionCompleteness": "complete",
+            "language": "la",
+            "created": "2015-07-03T19:50:50Z",
+            "uri": "https://pleiades.stoa.org/places/433032/name.2015-07-03.8961969251",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Colonia Cornelia Veneria Pompeianorum",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2024-07-15T20:18:37Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "thomase",
+                    "modified": "2024-07-15T20:18:34Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-06-14T19:52:35Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-06-14T19:52:31Z"
+                },
+                {
+                    "comment": "added name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-07-03T19:51:16Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-07-03T19:50:59Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Pompei",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.geonames.org/3170336/pompei.html",
+                    "citationDetail": "3170336: Pompei",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "GeoNames",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": " ",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "id": "pompei",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "it",
+            "created": "2016-06-29T15:41:34Z",
+            "uri": "https://pleiades.stoa.org/places/433032/pompei",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Pompei",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "update GeoNames",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-06-14T19:53:55Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-30T20:26:04Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-06-29T15:42:13Z"
+                },
+                {
+                    "comment": "added name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-06-29T15:41:35Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-06-29T15:41:34Z"
+                }
+            ]
+        }
+    ],
+    "id": "433032",
+    "subject": [
+        "inscription",
+        "forum",
+        "UWHS",
+        "fortification",
+        "orthogonal",
+        "extant remains",
+        "garum",
+        "dare:ancient=1",
+        "gate",
+        "domus"
+    ],
+    "title": "Pompeii",
+    "provenance": "Barrington Atlas: BAtlas 44 F4 Pompeii",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/urban",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
+    "details": "<p>The Barrington Atlas Directory notes: Pompei Scavi</p>",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.",
+    "reprPoint": [
+        14.485429,
+        40.74941
+    ],
+    "placeTypes": [
+        "urban",
+        "settlement"
+    ],
+    "bbox": [
+        14.485429,
+        40.74941,
+        14.485429,
+        40.74941
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/11924823",
+        "https://pleiades.stoa.org/places/69955749",
+        "https://pleiades.stoa.org/places/379375824",
+        "https://pleiades.stoa.org/places/5121770",
+        "https://pleiades.stoa.org/places/119022475",
+        "https://pleiades.stoa.org/places/437828318",
+        "https://pleiades.stoa.org/places/719121735",
+        "https://pleiades.stoa.org/places/566364108",
+        "https://pleiades.stoa.org/places/945930915",
+        "https://pleiades.stoa.org/places/924546513",
+        "https://pleiades.stoa.org/places/396427768",
+        "https://pleiades.stoa.org/places/723728396",
+        "https://pleiades.stoa.org/places/973204924",
+        "https://pleiades.stoa.org/places/502004233",
+        "https://pleiades.stoa.org/places/256404901",
+        "https://pleiades.stoa.org/places/489062160",
+        "https://pleiades.stoa.org/places/458593871",
+        "https://pleiades.stoa.org/places/809159706",
+        "https://pleiades.stoa.org/places/690549463",
+        "https://pleiades.stoa.org/places/826462996",
+        "https://pleiades.stoa.org/places/456321707",
+        "https://pleiades.stoa.org/places/881305239",
+        "https://pleiades.stoa.org/places/222138654",
+        "https://pleiades.stoa.org/places/99692383",
+        "https://pleiades.stoa.org/places/531536068",
+        "https://pleiades.stoa.org/places/182931393",
+        "https://pleiades.stoa.org/places/264408879",
+        "https://pleiades.stoa.org/places/984330149",
+        "https://pleiades.stoa.org/places/984330150",
+        "https://pleiades.stoa.org/places/984330151",
+        "https://pleiades.stoa.org/places/599902893",
+        "https://pleiades.stoa.org/places/557684935",
+        "https://pleiades.stoa.org/places/452502505",
+        "https://pleiades.stoa.org/places/456945392",
+        "https://pleiades.stoa.org/places/260329423",
+        "https://pleiades.stoa.org/places/433076",
+        "https://pleiades.stoa.org/places/367026512",
+        "https://pleiades.stoa.org/places/338820566",
+        "https://pleiades.stoa.org/places/830781444",
+        "https://pleiades.stoa.org/places/615138225",
+        "https://pleiades.stoa.org/places/663121962",
+        "https://pleiades.stoa.org/places/829196251",
+        "https://pleiades.stoa.org/places/939537684",
+        "https://pleiades.stoa.org/places/999909607",
+        "https://pleiades.stoa.org/places/999909608",
+        "https://pleiades.stoa.org/places/629116433",
+        "https://pleiades.stoa.org/places/600118250",
+        "https://pleiades.stoa.org/places/753612858",
+        "https://pleiades.stoa.org/places/404426272",
+        "https://pleiades.stoa.org/places/972528602",
+        "https://pleiades.stoa.org/places/560899635",
+        "https://pleiades.stoa.org/places/680072866",
+        "https://pleiades.stoa.org/places/495101026",
+        "https://pleiades.stoa.org/places/132276185",
+        "https://pleiades.stoa.org/places/38626420",
+        "https://pleiades.stoa.org/places/81187433",
+        "https://pleiades.stoa.org/places/769901808",
+        "https://pleiades.stoa.org/places/854777997",
+        "https://pleiades.stoa.org/places/850954730",
+        "https://pleiades.stoa.org/places/264408878",
+        "https://pleiades.stoa.org/places/869803559",
+        "https://pleiades.stoa.org/places/135433596",
+        "https://pleiades.stoa.org/places/416199695",
+        "https://pleiades.stoa.org/places/164790904",
+        "https://pleiades.stoa.org/places/644629084",
+        "https://pleiades.stoa.org/places/379116903",
+        "https://pleiades.stoa.org/places/524253439",
+        "https://pleiades.stoa.org/places/419672522",
+        "https://pleiades.stoa.org/places/419672523",
+        "https://pleiades.stoa.org/places/335494560",
+        "https://pleiades.stoa.org/places/495398788",
+        "https://pleiades.stoa.org/places/540663113",
+        "https://pleiades.stoa.org/places/205387552",
+        "https://pleiades.stoa.org/places/797109353",
+        "https://pleiades.stoa.org/places/315612319",
+        "https://pleiades.stoa.org/places/23240266",
+        "https://pleiades.stoa.org/places/410517750",
+        "https://pleiades.stoa.org/places/981889086",
+        "https://pleiades.stoa.org/places/393691694",
+        "https://pleiades.stoa.org/places/117737330",
+        "https://pleiades.stoa.org/places/241409194",
+        "https://pleiades.stoa.org/places/865766495",
+        "https://pleiades.stoa.org/places/894852237",
+        "https://pleiades.stoa.org/places/795615129",
+        "https://pleiades.stoa.org/places/104925762",
+        "https://pleiades.stoa.org/places/615457796",
+        "https://pleiades.stoa.org/places/979775194",
+        "https://pleiades.stoa.org/places/762217869",
+        "https://pleiades.stoa.org/places/979105048",
+        "https://pleiades.stoa.org/places/717810706",
+        "https://pleiades.stoa.org/places/766559454",
+        "https://pleiades.stoa.org/places/195475335",
+        "https://pleiades.stoa.org/places/836029917",
+        "https://pleiades.stoa.org/places/305567842",
+        "https://pleiades.stoa.org/places/352725406",
+        "https://pleiades.stoa.org/places/780913480",
+        "https://pleiades.stoa.org/places/95829693",
+        "https://pleiades.stoa.org/places/449444418",
+        "https://pleiades.stoa.org/places/784028639",
+        "https://pleiades.stoa.org/places/557684934",
+        "https://pleiades.stoa.org/places/449007780",
+        "https://pleiades.stoa.org/places/220742115",
+        "https://pleiades.stoa.org/places/142165735",
+        "https://pleiades.stoa.org/places/792436981",
+        "https://pleiades.stoa.org/places/515998862",
+        "https://pleiades.stoa.org/places/658295679",
+        "https://pleiades.stoa.org/places/630423237",
+        "https://pleiades.stoa.org/places/243620947",
+        "https://pleiades.stoa.org/places/340380318",
+        "https://pleiades.stoa.org/places/387880487",
+        "https://pleiades.stoa.org/places/90074311",
+        "https://pleiades.stoa.org/places/19985870",
+        "https://pleiades.stoa.org/places/531869654",
+        "https://pleiades.stoa.org/places/321173926",
+        "https://pleiades.stoa.org/places/971497934",
+        "https://pleiades.stoa.org/places/793723815",
+        "https://pleiades.stoa.org/places/657262551",
+        "https://pleiades.stoa.org/places/399961131",
+        "https://pleiades.stoa.org/places/26245224",
+        "https://pleiades.stoa.org/places/300044064",
+        "https://pleiades.stoa.org/places/957926371",
+        "https://pleiades.stoa.org/places/978027002",
+        "https://pleiades.stoa.org/places/83544251",
+        "https://pleiades.stoa.org/places/83544252",
+        "https://pleiades.stoa.org/places/825838273",
+        "https://pleiades.stoa.org/places/568496340",
+        "https://pleiades.stoa.org/places/582648311",
+        "https://pleiades.stoa.org/places/90074312",
+        "https://pleiades.stoa.org/places/670733374",
+        "https://pleiades.stoa.org/places/817558810",
+        "https://pleiades.stoa.org/places/973204925",
+        "https://pleiades.stoa.org/places/912505596",
+        "https://pleiades.stoa.org/places/975975197",
+        "https://pleiades.stoa.org/places/188321148",
+        "https://pleiades.stoa.org/places/260329425",
+        "https://pleiades.stoa.org/places/722871113",
+        "https://pleiades.stoa.org/places/583930486",
+        "https://pleiades.stoa.org/places/838230144",
+        "https://pleiades.stoa.org/places/746630758",
+        "https://pleiades.stoa.org/places/850575919",
+        "https://pleiades.stoa.org/places/452016171",
+        "https://pleiades.stoa.org/places/825838272",
+        "https://pleiades.stoa.org/places/264634401",
+        "https://pleiades.stoa.org/places/182931390",
+        "https://pleiades.stoa.org/places/877963847",
+        "https://pleiades.stoa.org/places/436413",
+        "https://pleiades.stoa.org/places/836029916",
+        "https://pleiades.stoa.org/places/383340065",
+        "https://pleiades.stoa.org/places/43612993",
+        "https://pleiades.stoa.org/places/419907821",
+        "https://pleiades.stoa.org/places/538911200",
+        "https://pleiades.stoa.org/places/980900398",
+        "https://pleiades.stoa.org/places/11924821",
+        "https://pleiades.stoa.org/places/44765651",
+        "https://pleiades.stoa.org/places/897019599",
+        "https://pleiades.stoa.org/places/95873554",
+        "https://pleiades.stoa.org/places/100249112",
+        "https://pleiades.stoa.org/places/364001862",
+        "https://pleiades.stoa.org/places/824486497",
+        "https://pleiades.stoa.org/places/419907822"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2018-06-07T20:56:50Z",
+    "uri": "https://pleiades.stoa.org/places/433032",
+    "creators": [
+        {
+            "username": null,
+            "name": "N. Purcell"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2026-07-06T00:24:08Z"
+        },
+        {
+            "comment": "vici.org 1878: Pompeii",
+            "modifiedBy": "jbecker",
+            "modified": "2026-06-11T17:44:02Z"
+        },
+        {
+            "comment": "RE Pompeii",
+            "modifiedBy": "jbecker",
+            "modified": "2025-12-04T00:48:49Z"
+        },
+        {
+            "comment": "add MANTO 11316362: Pompeii (Campania)",
+            "modifiedBy": "jbecker",
+            "modified": "2024-07-09T14:09:38Z"
+        },
+        {
+            "comment": "update references",
+            "modifiedBy": "jbecker",
+            "modified": "2024-06-15T16:08:52Z"
+        },
+        {
+            "comment": "Ellis et al. 2023",
+            "modifiedBy": "jbecker",
+            "modified": "2023-12-01T15:15:47Z"
+        },
+        {
+            "comment": "add Bowes 2022",
+            "modifiedBy": "jbecker",
+            "modified": "2022-07-07T15:35:14Z"
+        },
+        {
+            "comment": "TGN 7004658: Pompeii",
+            "modifiedBy": "jbecker",
+            "modified": "2021-12-18T13:45:46Z"
+        },
+        {
+            "comment": "updates",
+            "modifiedBy": "jbecker",
+            "modified": "2020-12-11T20:07:22Z"
+        },
+        {
+            "comment": "Arachne 500006: Pompeji Pompeii, Pompei",
+            "modifiedBy": "jbecker",
+            "modified": "2020-05-31T20:58:58Z"
+        },
+        {
+            "comment": "Fiorelli references",
+            "modifiedBy": "jbecker",
+            "modified": "2020-05-16T20:24:49Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2020-01-11T01:32:10Z"
+        },
+        {
+            "comment": "reference cleanup",
+            "modifiedBy": "jbecker",
+            "modified": "2020-01-11T01:23:59Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2019-08-08T21:33:01Z"
+        },
+        {
+            "comment": "reference",
+            "modifiedBy": "jbecker",
+            "modified": "2018-06-20T23:05:01Z"
+        },
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modifiedBy": "admin",
+            "modified": "2018-06-07T20:56:59Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2018-05-21T19:06:46Z"
+        },
+        {
+            "comment": "reference",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-10T22:31:08Z"
+        },
+        {
+            "comment": "reference",
+            "modifiedBy": "jbecker",
+            "modified": "2017-12-21T13:48:05Z"
+        },
+        {
+            "comment": "added Ball and Dobbins 2017",
+            "modifiedBy": "jbecker",
+            "modified": "2017-06-14T19:30:16Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2017-05-18T18:42:14Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2017-05-18T18:38:35Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2017-05-18T17:47:01Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2017-05-18T17:44:54Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2017-05-18T17:31:44Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2017-05-18T17:21:16Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2017-05-18T17:19:56Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2017-05-18T17:16:06Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2016-12-23T15:43:38Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2016-10-26T00:57:26Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2016-10-25T22:21:31Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2016-10-25T22:12:47Z"
+        },
+        {
+            "comment": "edited references",
+            "modifiedBy": "jbecker",
+            "modified": "2016-10-25T22:11:03Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2015-08-04T16:05:23Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2015-07-29T14:12:01Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2015-07-29T14:04:44Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2015-06-27T20:22:11Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2015-06-27T03:36:09Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2015-06-18T15:47:36Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2015-06-18T15:36:54Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2015-06-18T15:36:38Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2015-03-20T02:55:39Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2015-03-20T02:50:45Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "gbodard",
+            "modified": "2014-06-10T14:11:50Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2013-12-01T17:57:16Z"
+        },
+        {
+            "comment": "edited description",
+            "modifiedBy": "jbecker",
+            "modified": "2012-11-05T19:23:01Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2012-11-05T19:22:20Z"
+        },
+        {
+            "comment": "added category",
+            "modifiedBy": "jbecker",
+            "modified": "2012-11-05T19:21:46Z"
+        },
+        {
+            "comment": "DARE feature tag fix.",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-23T19:34:54Z"
+        },
+        {
+            "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-20T20:45:59Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2012-09-28T10:33:57Z"
+        },
+        {
+            "comment": "Initial revision",
+            "modifiedBy": "jbecker",
+            "modified": "2012-09-28T10:33:23Z"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modifiedBy": "admin",
+            "modified": "2012-02-15T05:01:49Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-01-21T23:11:44Z"
+        },
+        {
+            "comment": "Detail text updated from former modernLocation. See http://atlantides.org/trac/pleiades/wiki/PlaceDetailsUpgrade",
+            "modifiedBy": "sgillies",
+            "modified": "2011-01-14T19:46:57Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2010-11-14T13:59:06Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "sgillies",
+            "modified": "2010-11-12T00:53:57Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "sgillies",
+            "modified": "2010-11-11T23:28:13Z"
+        }
+    ]
+}

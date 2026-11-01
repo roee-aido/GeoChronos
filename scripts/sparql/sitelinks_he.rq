@@ -1,0 +1,5 @@
+# Title of the Hebrew Wikipedia article linked to each target (a sourced Hebrew name candidate).
+SELECT ?item ?hewikiTitle WHERE {
+  VALUES ?item { {{VALUES}} }
+  ?article schema:about ?item ; schema:isPartOf <https://he.wikipedia.org/> ; schema:name ?hewikiTitle .
+}

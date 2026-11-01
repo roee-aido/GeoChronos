@@ -1,0 +1,883 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        109.2520023,
+                        34.3830191
+                    ],
+                    [
+                        109.2518132,
+                        34.3797336
+                    ],
+                    [
+                        109.253422,
+                        34.3798188
+                    ],
+                    [
+                        109.2556799,
+                        34.3797502
+                    ],
+                    [
+                        109.2558422,
+                        34.3830292
+                    ],
+                    [
+                        109.2520023,
+                        34.3830191
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-of-mausoleum-of-the-first-qin-emperor",
+            "properties": {
+                "snippet": "Tomb; 300 BC - 201 BC",
+                "link": "https://pleiades.stoa.org/places/117715281/osm-location-of-mausoleum-of-the-first-qin-emperor",
+                "description": "Representative location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location of Mausoleum of the First Qin Emperor"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        109.248297,
+                        34.374004
+                    ],
+                    [
+                        109.2592955,
+                        34.3737966
+                    ],
+                    [
+                        109.2596326,
+                        34.3863911
+                    ],
+                    [
+                        109.2596358,
+                        34.3864498
+                    ],
+                    [
+                        109.2596394,
+                        34.3865171
+                    ],
+                    [
+                        109.259662,
+                        34.388458
+                    ],
+                    [
+                        109.2598238,
+                        34.3938222
+                    ],
+                    [
+                        109.2488963,
+                        34.3940733
+                    ],
+                    [
+                        109.2486039,
+                        34.3840704
+                    ],
+                    [
+                        109.248297,
+                        34.374004
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-of-emperor-qinshihuangs-mausoleum",
+            "properties": {
+                "snippet": "Cultural-landscape",
+                "link": "https://pleiades.stoa.org/places/117715281/osm-location-of-emperor-qinshihuangs-mausoleum",
+                "description": "Representative location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location of Emperor Qinshihuang's Mausoleum Site Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        109.2758691,
+                        34.3831612
+                    ],
+                    [
+                        109.2787129,
+                        34.3830663
+                    ],
+                    [
+                        109.2790206,
+                        34.3832183
+                    ],
+                    [
+                        109.2791457,
+                        34.3833551
+                    ],
+                    [
+                        109.279182,
+                        34.3840224
+                    ],
+                    [
+                        109.2791953,
+                        34.3847036
+                    ],
+                    [
+                        109.2792046,
+                        34.384957
+                    ],
+                    [
+                        109.2793856,
+                        34.3898814
+                    ],
+                    [
+                        109.2793894,
+                        34.3913654
+                    ],
+                    [
+                        109.2761632,
+                        34.3905355
+                    ],
+                    [
+                        109.2759975,
+                        34.3865069
+                    ],
+                    [
+                        109.270656,
+                        34.3866039
+                    ],
+                    [
+                        109.2707032,
+                        34.3831661
+                    ],
+                    [
+                        109.2714001,
+                        34.3831619
+                    ],
+                    [
+                        109.2713858,
+                        34.3833135
+                    ],
+                    [
+                        109.2758691,
+                        34.3831612
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-of-terracotta-warriors",
+            "properties": {
+                "snippet": "Archaeological-site; 300 BC - 201 BC",
+                "link": "https://pleiades.stoa.org/places/117715281/osm-location-of-terracotta-warriors",
+                "description": "Representative location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location of Terracotta Warriors"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "third-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/third-bce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/way/257071487",
+                    "citationDetail": "Way: Mausoleum of the First Qin Emperor (257071487)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-of-mausoleum-of-the-first-qin-emperor",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+            ],
+            "end": -201,
+            "title": "OSM location of Mausoleum of the First Qin Emperor",
+            "provenance": "OpenStreetMap (Way 257071487, version 12, osm:changeset=143963368, 2023-11-13T10:09:53Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -300,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "tomb"
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "created": "2026-07-14T15:03:57Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        109.2520023,
+                        34.3830191
+                    ],
+                    [
+                        109.2518132,
+                        34.3797336
+                    ],
+                    [
+                        109.253422,
+                        34.3798188
+                    ],
+                    [
+                        109.2556799,
+                        34.3797502
+                    ],
+                    [
+                        109.2558422,
+                        34.3830292
+                    ],
+                    [
+                        109.2520023,
+                        34.3830191
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/117715281/osm-location-of-mausoleum-of-the-first-qin-emperor",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "cleaned up references checked and revised with bibfix script by @thomase",
+                    "modifiedBy": "admin",
+                    "modified": "2026-07-14T15:03:58Z"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modifiedBy": "admin",
+                    "modified": "2026-07-14T15:03:57Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-11-21T17:15:22Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-19T03:11:59Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-19T03:11:52Z"
+                },
+                {
+                    "comment": "add osm location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-15T15:15:16Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-15T15:14:57Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-15T15:14:57Z"
+                }
+            ]
+        },
+        {
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/way/378143131",
+                    "citationDetail": "Way: Emperor Qinshihuang's Mausoleum Site Park (378143131)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-of-emperor-qinshihuangs-mausoleum",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cultural-landscape"
+            ],
+            "end": null,
+            "title": "OSM location of Emperor Qinshihuang's Mausoleum Site Park",
+            "provenance": "OpenStreetMap (Way 378143131, version 5, osm:changeset=151868118, 2024-05-26T20:01:47Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": null,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cultural-landscape"
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "cultural-landscape"
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "created": "2026-07-14T15:03:21Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        109.248297,
+                        34.374004
+                    ],
+                    [
+                        109.2592955,
+                        34.3737966
+                    ],
+                    [
+                        109.2596326,
+                        34.3863911
+                    ],
+                    [
+                        109.2596358,
+                        34.3864498
+                    ],
+                    [
+                        109.2596394,
+                        34.3865171
+                    ],
+                    [
+                        109.259662,
+                        34.388458
+                    ],
+                    [
+                        109.2598238,
+                        34.3938222
+                    ],
+                    [
+                        109.2488963,
+                        34.3940733
+                    ],
+                    [
+                        109.2486039,
+                        34.3840704
+                    ],
+                    [
+                        109.248297,
+                        34.374004
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/117715281/osm-location-of-emperor-qinshihuangs-mausoleum",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "cleaned up references checked and revised with bibfix script by @thomase",
+                    "modifiedBy": "admin",
+                    "modified": "2026-07-14T15:03:24Z"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modifiedBy": "admin",
+                    "modified": "2026-07-14T15:03:19Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-11-21T17:15:23Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-19T03:11:59Z"
+                },
+                {
+                    "comment": "add osm location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-15T15:17:55Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-15T15:17:37Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-15T15:17:37Z"
+                }
+            ]
+        },
+        {
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "third-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/third-bce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/way/71235670",
+                    "citationDetail": "Way: Terracotta Warriors (71235670)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-of-terracotta-warriors",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "end": -201,
+            "title": "OSM location of Terracotta Warriors",
+            "provenance": "OpenStreetMap (Way 71235670, version 13, osm:changeset=173892149, 2025-10-28T16:33:57Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -300,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "archaeological-site"
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "created": "2026-07-14T15:03:58Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        109.2758691,
+                        34.3831612
+                    ],
+                    [
+                        109.2787129,
+                        34.3830663
+                    ],
+                    [
+                        109.2790206,
+                        34.3832183
+                    ],
+                    [
+                        109.2791457,
+                        34.3833551
+                    ],
+                    [
+                        109.279182,
+                        34.3840224
+                    ],
+                    [
+                        109.2791953,
+                        34.3847036
+                    ],
+                    [
+                        109.2792046,
+                        34.384957
+                    ],
+                    [
+                        109.2793856,
+                        34.3898814
+                    ],
+                    [
+                        109.2793894,
+                        34.3913654
+                    ],
+                    [
+                        109.2761632,
+                        34.3905355
+                    ],
+                    [
+                        109.2759975,
+                        34.3865069
+                    ],
+                    [
+                        109.270656,
+                        34.3866039
+                    ],
+                    [
+                        109.2707032,
+                        34.3831661
+                    ],
+                    [
+                        109.2714001,
+                        34.3831619
+                    ],
+                    [
+                        109.2713858,
+                        34.3833135
+                    ],
+                    [
+                        109.2758691,
+                        34.3831612
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/117715281/osm-location-of-terracotta-warriors",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "cleaned up references checked and revised with bibfix script by @thomase",
+                    "modifiedBy": "admin",
+                    "modified": "2026-07-14T15:03:59Z"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modifiedBy": "admin",
+                    "modified": "2026-07-14T15:03:58Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-11-21T17:15:23Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-19T03:12:19Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-19T03:11:59Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-19T03:11:31Z"
+                },
+                {
+                    "comment": "add osm location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-15T15:19:27Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-15T15:19:13Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-15T15:19:13Z"
+                }
+            ]
+        }
+    ],
+    "connections": [],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "https://whc.unesco.org/en/list/441",
+            "citationDetail": "441: Mausoleum of the First Qin Emperor",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. https://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q910180",
+            "citationDetail": "Mausoleum of the First Qin Emperor (Q910180)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Mausoleum_of_Qin_Shi_Huang",
+            "citationDetail": "Mausoleum of Qin Shi Huang",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.cambridge.org/core/journals/antiquity/article/qin-structural-timbers-and-the-first-emperors-mausoleum-xian-china/06C0DD897F1729B17730EE55F58EDACE",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Yang 2025",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KRSHXTX9",
+            "formattedCitation": "<div class=\"csl-entry\">Yang, Ying, Dorian Q. Fuller, Andrew Bevan, Xiuzhen Li, Wenbin Shao, and Yin Xia. “Qin Structural Timbers and the First Emperor’s Mausoleum (Xi’an, China).” <i>Antiquity</i> 99, no. 407 (October 2025): 1282–1302. https://doi.org/10.15184/aqy.2025.10172.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Mausoleum of the First Qin Emperor",
+            "attestations": [],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.wikidata.org/wiki/Q910180",
+                    "citationDetail": "Mausoleum of the First Qin Emperor (Q910180)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "Wikidata",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "mausoleum-of-the-first-qin-emperor",
+            "end": null,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": null,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2025-11-15T21:14:39Z",
+            "uri": "https://pleiades.stoa.org/places/117715281/mausoleum-of-the-first-qin-emperor",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Mausoleum of the First Qin Emperor",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-11-21T17:15:23Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-19T03:11:59Z"
+                },
+                {
+                    "comment": "wikidata Q910180",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-15T21:14:42Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-11-15T21:14:39Z"
+                }
+            ]
+        }
+    ],
+    "id": "117715281",
+    "subject": [
+        "UWHS"
+    ],
+    "title": "Mausoleum of the First Qin Emperor",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cultural-landscape",
+        "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "The mausoleum of Qin Shi Huang, the first emperor of the Qin dynasty of China, was built between 246 and 208 BCE. The mausoleum itself was outfitted with numerous ancillary features, including the famed \"terracotta army\" discovered in 1974. The site was inscribed as a UNESCO World Heritage Site in 1987.",
+    "reprPoint": [
+        109.2612057448407,
+        34.38389140346692
+    ],
+    "placeTypes": [
+        "cultural-landscape",
+        "tomb",
+        "archaeological-site"
+    ],
+    "bbox": [
+        109.248297,
+        34.3737966,
+        109.2793894,
+        34.3940733
+    ],
+    "connectsWith": [],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2026-07-14T15:03:53Z",
+    "uri": "https://pleiades.stoa.org/places/117715281",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "Yang 2025",
+            "modifiedBy": "jbecker",
+            "modified": "2026-09-10T14:43:26Z"
+        },
+        {
+            "comment": "cleaned up references checked and revised with bibfix script by @thomase",
+            "modifiedBy": "admin",
+            "modified": "2026-07-14T15:03:55Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "admin",
+            "modified": "2026-07-14T15:03:53Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2025-11-21T17:15:22Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2025-11-19T03:12:47Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "jbecker",
+            "modified": "2025-11-19T03:11:58Z"
+        },
+        {
+            "comment": "summary",
+            "modifiedBy": "jbecker",
+            "modified": "2025-11-19T03:11:09Z"
+        },
+        {
+            "comment": "wikidata Q910180",
+            "modifiedBy": "jbecker",
+            "modified": "2025-11-15T21:02:45Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2025-11-15T15:19:43Z"
+        },
+        {
+            "comment": "place created",
+            "modifiedBy": "jbecker",
+            "modified": "2025-11-15T15:14:26Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "jbecker",
+            "modified": "2025-11-15T15:14:23Z"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "snapshot_id": "2026-10-01T223012+0300",
+  "source": "hebcal",
+  "status": "complete",
+  "endpoint": "https://www.hebcal.com/converter?cfg=json&gy=&gm=&gd=&g2h=1",
+  "license": "CC BY 4.0 (Hebcal API output)",
+  "terms_url": "https://www.hebcal.com/home/developer-apis",
+  "terms_checked_at": "2026-10-01",
+  "terms_status": "verified 2026-10-01 (developer page: CC BY 4.0; 90 requests / 10 s)",
+  "purpose": "independent test fixtures for scripts/timefmt.py Hebrew conversion",
+  "files": {
+    "g2h_0079-10-24.json": "c8c12ef91065ea866fe4297fc8c4ef3d2c307b5954f8c12df199f0fba322c570",
+    "g2h_0800-01-01.json": "bc0de4abd3ffddfc3decf1dbe0e4d2e9f0f5f0760abb8e6bc45a78bd7a89371b",
+    "g2h_1200-06-15.json": "8e822de5e5feb1b0eadb8e9e1a8ecd680f412d57ec268f4f89f602ae9e688297",
+    "g2h_1600-03-01.json": "26f7274deb916b9e2a3a1c4bdc45423e13aab0971a1baf1fb4df3b87d89c0571",
+    "g2h_1799-07-15.json": "78b12b5009e5cc01fdc35035cce9e6d45dfac63d7262121c41b52ec8d0082b45",
+    "g2h_1908-08-07.json": "7ca2a7699ee71de51fe07286b0f62621d68a735c5bb9e5978107ca77b2ed1e20",
+    "g2h_1922-11-04.json": "c1065de7d95e1f676c6923d7809810c1c01756f254113666a1baa29e97c0d347",
+    "g2h_1940-09-12.json": "bd805c2bc65ce6b27ff8fdb3cd88288996008a6ccfd37a06533d77c83a1121fd",
+    "g2h_2000-01-01.json": "ca641d3cf0294496e9185befe8ada90eafde82c417cb54a57997a4cd95fe974e"
+  },
+  "errors": []
+}

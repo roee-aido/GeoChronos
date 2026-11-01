@@ -1,0 +1,921 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6.4760145,
+                        53.6949903
+                    ],
+                    [
+                        -6.4759083,
+                        53.6950345
+                    ],
+                    [
+                        -6.4757704,
+                        53.6950653
+                    ],
+                    [
+                        -6.4755241,
+                        53.6950746
+                    ],
+                    [
+                        -6.4753614,
+                        53.6950653
+                    ],
+                    [
+                        -6.4751965,
+                        53.6950291
+                    ],
+                    [
+                        -6.4750993,
+                        53.694993
+                    ],
+                    [
+                        -6.4750067,
+                        53.6949382
+                    ],
+                    [
+                        -6.4749615,
+                        53.6949127
+                    ],
+                    [
+                        -6.4749412,
+                        53.6948552
+                    ],
+                    [
+                        -6.4749163,
+                        53.6947856
+                    ],
+                    [
+                        -6.4749231,
+                        53.6947268
+                    ],
+                    [
+                        -6.4749502,
+                        53.6946679
+                    ],
+                    [
+                        -6.4749864,
+                        53.6946104
+                    ],
+                    [
+                        -6.4750971,
+                        53.6945221
+                    ],
+                    [
+                        -6.4751468,
+                        53.6944993
+                    ],
+                    [
+                        -6.4751287,
+                        53.6944853
+                    ],
+                    [
+                        -6.4751106,
+                        53.6944712
+                    ],
+                    [
+                        -6.4751218,
+                        53.6944653
+                    ],
+                    [
+                        -6.4751826,
+                        53.6945071
+                    ],
+                    [
+                        -6.475224,
+                        53.6944932
+                    ],
+                    [
+                        -6.4752545,
+                        53.6944655
+                    ],
+                    [
+                        -6.4751924,
+                        53.6944271
+                    ],
+                    [
+                        -6.4752033,
+                        53.6944231
+                    ],
+                    [
+                        -6.4752575,
+                        53.6944472
+                    ],
+                    [
+                        -6.4753614,
+                        53.6943896
+                    ],
+                    [
+                        -6.4754789,
+                        53.6943535
+                    ],
+                    [
+                        -6.4755942,
+                        53.6943495
+                    ],
+                    [
+                        -6.4757072,
+                        53.6943482
+                    ],
+                    [
+                        -6.4758043,
+                        53.6943602
+                    ],
+                    [
+                        -6.475906,
+                        53.6943963
+                    ],
+                    [
+                        -6.4760122,
+                        53.6944458
+                    ],
+                    [
+                        -6.4761049,
+                        53.6945355
+                    ],
+                    [
+                        -6.4761387,
+                        53.6945702
+                    ],
+                    [
+                        -6.4761613,
+                        53.6946398
+                    ],
+                    [
+                        -6.4761726,
+                        53.6947415
+                    ],
+                    [
+                        -6.4761523,
+                        53.6948445
+                    ],
+                    [
+                        -6.476089,
+                        53.6949248
+                    ],
+                    [
+                        -6.4760145,
+                        53.6949903
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "location-of-newgrange",
+            "properties": {
+                "snippet": "Monument, ; 4000 BC - AD 640",
+                "link": "https://pleiades.stoa.org/places/79612/location-of-newgrange",
+                "description": "Location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location of Newgrange"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": null,
+            "name": "DARMC"
+        },
+        {
+            "username": null,
+            "name": "R. Talbert"
+        },
+        {
+            "username": null,
+            "name": "R. Warner"
+        },
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "4th-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/4th-millenium-bce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "3rd-millennium-bc",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/3rd-millennium-bc",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "iron-age-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/iron-age-britain",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/25696157",
+                    "citationDetail": "Way 25696157",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:way=25696157",
+                    "otherIdentifier": " ",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "location-of-newgrange",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/monument",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "end": 640,
+            "title": "OSM location of Newgrange",
+            "provenance": "OpenStreetMap (Way 25696157, version 24, osm:changeset=140207795, 2023-08-22T03:57:58Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -4000,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/monument",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "monument",
+                ""
+            ],
+            "description": "Location based on OpenStreetMap",
+            "created": "2023-04-04T19:54:21Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6.4760145,
+                        53.6949903
+                    ],
+                    [
+                        -6.4759083,
+                        53.6950345
+                    ],
+                    [
+                        -6.4757704,
+                        53.6950653
+                    ],
+                    [
+                        -6.4755241,
+                        53.6950746
+                    ],
+                    [
+                        -6.4753614,
+                        53.6950653
+                    ],
+                    [
+                        -6.4751965,
+                        53.6950291
+                    ],
+                    [
+                        -6.4750993,
+                        53.694993
+                    ],
+                    [
+                        -6.4750067,
+                        53.6949382
+                    ],
+                    [
+                        -6.4749615,
+                        53.6949127
+                    ],
+                    [
+                        -6.4749412,
+                        53.6948552
+                    ],
+                    [
+                        -6.4749163,
+                        53.6947856
+                    ],
+                    [
+                        -6.4749231,
+                        53.6947268
+                    ],
+                    [
+                        -6.4749502,
+                        53.6946679
+                    ],
+                    [
+                        -6.4749864,
+                        53.6946104
+                    ],
+                    [
+                        -6.4750971,
+                        53.6945221
+                    ],
+                    [
+                        -6.4751468,
+                        53.6944993
+                    ],
+                    [
+                        -6.4751287,
+                        53.6944853
+                    ],
+                    [
+                        -6.4751106,
+                        53.6944712
+                    ],
+                    [
+                        -6.4751218,
+                        53.6944653
+                    ],
+                    [
+                        -6.4751826,
+                        53.6945071
+                    ],
+                    [
+                        -6.475224,
+                        53.6944932
+                    ],
+                    [
+                        -6.4752545,
+                        53.6944655
+                    ],
+                    [
+                        -6.4751924,
+                        53.6944271
+                    ],
+                    [
+                        -6.4752033,
+                        53.6944231
+                    ],
+                    [
+                        -6.4752575,
+                        53.6944472
+                    ],
+                    [
+                        -6.4753614,
+                        53.6943896
+                    ],
+                    [
+                        -6.4754789,
+                        53.6943535
+                    ],
+                    [
+                        -6.4755942,
+                        53.6943495
+                    ],
+                    [
+                        -6.4757072,
+                        53.6943482
+                    ],
+                    [
+                        -6.4758043,
+                        53.6943602
+                    ],
+                    [
+                        -6.475906,
+                        53.6943963
+                    ],
+                    [
+                        -6.4760122,
+                        53.6944458
+                    ],
+                    [
+                        -6.4761049,
+                        53.6945355
+                    ],
+                    [
+                        -6.4761387,
+                        53.6945702
+                    ],
+                    [
+                        -6.4761613,
+                        53.6946398
+                    ],
+                    [
+                        -6.4761726,
+                        53.6947415
+                    ],
+                    [
+                        -6.4761523,
+                        53.6948445
+                    ],
+                    [
+                        -6.476089,
+                        53.6949248
+                    ],
+                    [
+                        -6.4760145,
+                        53.6949903
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative",
+                ""
+            ],
+            "uri": "https://pleiades.stoa.org/places/79612/location-of-newgrange",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-11-24T01:50:32Z"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modifiedBy": "jbecker",
+                    "modified": "2023-04-04T23:55:58Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-08-11T02:28:51Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-12-19T16:23:03Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-09-19T03:40:13Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-09-19T03:40:00Z"
+                },
+                {
+                    "comment": "added location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-09-19T03:38:27Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-09-19T03:38:02Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-09-19T03:38:02Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": null,
+            "description": "",
+            "contributors": [],
+            "created": "2016-07-13T13:48:36Z",
+            "associationCertainty": "certain",
+            "title": "Hibernia",
+            "start": null,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/79612/20487",
+            "connectionType": "connection",
+            "id": "20487",
+            "attestations": [],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:48:36Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:48:36Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:48:36Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/20487",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "admin",
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection"
+        },
+        {
+            "end": 2100,
+            "description": "",
+            "contributors": [],
+            "created": "2019-08-04T13:14:56Z",
+            "associationCertainty": "certain",
+            "title": "Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne",
+            "start": 1700,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/79612/bru-na-boinne-archaeological-ensemble-of-the-bend-of-the-boyne",
+            "connectionType": "part_of_analytical",
+            "id": "bru-na-boinne-archaeological-ensemble-of-the-bend-of-the-boyne",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2019-08-11T11:47:11Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-08-04T13:15:05Z"
+                },
+                {
+                    "comment": "cnxn",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-08-04T13:14:59Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-08-04T13:14:56Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/3911647",
+            "details": "",
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://whc.unesco.org/en/list/659/",
+                    "citationDetail": "Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "WHL",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+                    "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_analytical"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
+            "citationDetail": "8 A1 Newgrange",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "BAtlas",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Carson 1977",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/6QDP4L77",
+            "formattedCitation": "<div class=\"csl-entry\">Carson, R. A. G., and Claire O’Kelly. <i>A Catalogue of the Roman Coins from Newgrange, Co: Meath. Notes on the Coins and Related Finds</i>. Proceedings of the Royal Irish Academy, C, 77,2. Dublin: Royal Irish Academy, 1977.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Newgrange",
+            "citationDetail": "Newgrange",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Newgrange.",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://whc.unesco.org/en/list/659",
+            "citationDetail": "659: Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.heritageireland.ie/en/midlandseastcoast/brunaboinnevisitorcentrenewgrangeandknowth/",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Brú na Bóinne Visitor Centre Newgrange and Knowth",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://darmc.harvard.edu/",
+            "citationDetail": "30605 ",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "DARMC",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://darmc.harvard.edu/",
+            "citationDetail": "20615",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "DARMC",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q339503",
+            "citationDetail": "Newgrange (Q339503)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Newgrange",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.geonames.org/2962272/newgrange.html",
+                    "citationDetail": "2962272: Newgrange",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "GeoNames",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "newgrange",
+            "end": 2100,
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2019-08-04T15:13:57Z",
+            "uri": "https://pleiades.stoa.org/places/79612/newgrange",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Newgrange",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2021-01-07T20:05:38Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "thomase",
+                    "modified": "2021-01-07T20:05:33Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-08-04T15:15:20Z"
+                },
+                {
+                    "comment": "name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-08-04T15:13:57Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-08-04T15:13:57Z"
+                }
+            ]
+        }
+    ],
+    "id": "79612",
+    "subject": [
+        "UWHS"
+    ],
+    "title": "Newgrange",
+    "provenance": "Barrington Atlas: BAtlas 8 A1 Newgrange",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/monument"
+    ],
+    "details": "<p>The Barrington Atlas Directory notes: Newgrange, IRE</p>",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "Newgrange is a prehistoric monument in County Meath, Ireland, built ca. 3200 BC.",
+    "reprPoint": [
+        -6.475532545366013,
+        53.69470909779557
+    ],
+    "placeTypes": [
+        "monument"
+    ],
+    "bbox": [
+        -6.4761726,
+        53.6943482,
+        -6.4749163,
+        53.6950746
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/20487",
+        "https://pleiades.stoa.org/places/3911647"
+    ],
+    "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2009-10-30T22:39:10Z",
+    "uri": "https://pleiades.stoa.org/places/79612",
+    "creators": [
+        {
+            "username": null,
+            "name": "A.S. Esmonde Cleary"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "wikidata Q339503",
+            "modifiedBy": "jbecker",
+            "modified": "2024-11-24T01:51:21Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2019-08-04T13:14:06Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2016-08-11T02:28:26Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2013-12-19T16:27:48Z"
+        },
+        {
+            "comment": "edited description, added references",
+            "modifiedBy": "jbecker",
+            "modified": "2013-09-19T03:37:21Z"
+        },
+        {
+            "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-20T21:35:12Z"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modifiedBy": "admin",
+            "modified": "2012-02-15T08:33:15Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-08-02T20:54:15Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-01-21T05:47:33Z"
+        },
+        {
+            "comment": "Detail text updated from former modernLocation. See http://atlantides.org/trac/pleiades/wiki/PlaceDetailsUpgrade",
+            "modifiedBy": "sgillies",
+            "modified": "2011-01-14T21:06:42Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2009-11-23T19:30:30Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "sgillies",
+            "modified": "2009-10-30T22:48:52Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "sgillies",
+            "modified": "2009-10-30T22:39:10Z"
+        }
+    ]
+}

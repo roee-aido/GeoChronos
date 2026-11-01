@@ -1,0 +1,431 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        75.6999841,
+                        20.5518886
+                    ],
+                    [
+                        75.6998891,
+                        20.5525888
+                    ],
+                    [
+                        75.7000237,
+                        20.5529005
+                    ],
+                    [
+                        75.7006922,
+                        20.5532047
+                    ],
+                    [
+                        75.7010136,
+                        20.5531243
+                    ],
+                    [
+                        75.7012823,
+                        20.5528631
+                    ],
+                    [
+                        75.7016793,
+                        20.5523106
+                    ],
+                    [
+                        75.7020543,
+                        20.551707
+                    ],
+                    [
+                        75.7022157,
+                        20.5514767
+                    ],
+                    [
+                        75.7027093,
+                        20.5515973
+                    ],
+                    [
+                        75.7021371,
+                        20.5528749
+                    ],
+                    [
+                        75.7009283,
+                        20.5536065
+                    ],
+                    [
+                        75.6998966,
+                        20.5536617
+                    ],
+                    [
+                        75.6991711,
+                        20.5528669
+                    ],
+                    [
+                        75.6991307,
+                        20.5518534
+                    ],
+                    [
+                        75.6995544,
+                        20.5512361
+                    ],
+                    [
+                        75.6999841,
+                        20.5518886
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-of-ajanta-caves",
+            "properties": {
+                "snippet": "Cave, Sanctuary; AD 1700 - AD 2100",
+                "link": "https://pleiades.stoa.org/places/308085066/osm-location-of-ajanta-caves",
+                "description": "Representative location based on OpenStreetMap.",
+                "location_precision": "precise",
+                "title": "OSM location of Ajanta Caves"
+            }
+        }
+    ],
+    "contributors": [],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/115567314",
+                    "citationDetail": "Way 115567314",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:way=115567314",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-of-ajanta-caves",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cave",
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
+            ],
+            "end": 2100,
+            "title": "OSM location of Ajanta Caves",
+            "provenance": "OpenStreetMap (Way 115567314, version 6, osm:changeset=60177190, 2018-06-26T10:17:25Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cave",
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "cave",
+                "sanctuary"
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "created": "2018-11-09T19:21:20Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        75.6999841,
+                        20.5518886
+                    ],
+                    [
+                        75.6998891,
+                        20.5525888
+                    ],
+                    [
+                        75.7000237,
+                        20.5529005
+                    ],
+                    [
+                        75.7006922,
+                        20.5532047
+                    ],
+                    [
+                        75.7010136,
+                        20.5531243
+                    ],
+                    [
+                        75.7012823,
+                        20.5528631
+                    ],
+                    [
+                        75.7016793,
+                        20.5523106
+                    ],
+                    [
+                        75.7020543,
+                        20.551707
+                    ],
+                    [
+                        75.7022157,
+                        20.5514767
+                    ],
+                    [
+                        75.7027093,
+                        20.5515973
+                    ],
+                    [
+                        75.7021371,
+                        20.5528749
+                    ],
+                    [
+                        75.7009283,
+                        20.5536065
+                    ],
+                    [
+                        75.6998966,
+                        20.5536617
+                    ],
+                    [
+                        75.6991711,
+                        20.5528669
+                    ],
+                    [
+                        75.6991307,
+                        20.5518534
+                    ],
+                    [
+                        75.6995544,
+                        20.5512361
+                    ],
+                    [
+                        75.6999841,
+                        20.5518886
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/308085066/osm-location-of-ajanta-caves",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-11-29T22:26:27Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-11-09T19:24:25Z"
+                },
+                {
+                    "comment": "added OSM location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-11-09T19:22:29Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-11-09T19:21:20Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-11-09T19:21:20Z"
+                }
+            ]
+        }
+    ],
+    "connections": [],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Ajanta_Caves",
+            "citationDetail": "Ajanta Caves",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://whc.unesco.org/en/list/242",
+            "citationDetail": "Ajanta Caves",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Ajanta Caves",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.wikidata.org/wiki/Q184427",
+                    "citationDetail": "Q184427",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "Wikidata",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "name.2018-11-09.3979942432",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2018-11-09T19:23:51Z",
+            "uri": "https://pleiades.stoa.org/places/308085066/name.2018-11-09.3979942432",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-11-29T22:26:27Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-11-09T19:24:26Z"
+                },
+                {
+                    "comment": "name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-11-09T19:23:52Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-11-09T19:23:51Z"
+                }
+            ]
+        }
+    ],
+    "id": "308085066",
+    "subject": [
+        "UWHS"
+    ],
+    "title": "Ajanta Caves",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+        "https://pleiades.stoa.org/vocabularies/place-types/cave"
+    ],
+    "details": "<p>The Ajanta Caves were enrolled as a UNESCO World Heritage Site in 1983.</p>",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "The Ajanta Caves are among the earliest Buddhist cave monuments and date from the second and first centuries B.C. During the Gupta period (fifth and sixth centuries A.D.), additional decorated caves were added to the group.",
+    "reprPoint": [
+        75.7007458984884,
+        20.552562348137844
+    ],
+    "placeTypes": [
+        "sanctuary",
+        "cave"
+    ],
+    "bbox": [
+        75.6991307,
+        20.5512361,
+        75.7027093,
+        20.5536617
+    ],
+    "connectsWith": [],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2018-11-09T19:20:40Z",
+    "uri": "https://pleiades.stoa.org/places/308085066",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2018-11-29T23:39:01Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2018-11-29T22:26:27Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "jbecker",
+            "modified": "2018-11-09T19:24:25Z"
+        },
+        {
+            "comment": "created place",
+            "modifiedBy": "jbecker",
+            "modified": "2018-11-09T19:20:46Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "jbecker",
+            "modified": "2018-11-09T19:20:40Z"
+        }
+    ]
+}

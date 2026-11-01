@@ -1,0 +1,977 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        38.9208771,
+                        37.2251576
+                    ],
+                    [
+                        38.9210226,
+                        37.2251767
+                    ],
+                    [
+                        38.9211694,
+                        37.2251875
+                    ],
+                    [
+                        38.9213169,
+                        37.2251897
+                    ],
+                    [
+                        38.9214641,
+                        37.2251834
+                    ],
+                    [
+                        38.9216104,
+                        37.2251687
+                    ],
+                    [
+                        38.921755,
+                        37.2251455
+                    ],
+                    [
+                        38.9218971,
+                        37.2251141
+                    ],
+                    [
+                        38.9220276,
+                        37.2250773
+                    ],
+                    [
+                        38.9221547,
+                        37.2250335
+                    ],
+                    [
+                        38.9222777,
+                        37.2249829
+                    ],
+                    [
+                        38.9223961,
+                        37.2249257
+                    ],
+                    [
+                        38.9225094,
+                        37.2248623
+                    ],
+                    [
+                        38.922617,
+                        37.2247929
+                    ],
+                    [
+                        38.9227184,
+                        37.2247179
+                    ],
+                    [
+                        38.9228132,
+                        37.2246375
+                    ],
+                    [
+                        38.9228499,
+                        37.2246384
+                    ],
+                    [
+                        38.9228857,
+                        37.224632
+                    ],
+                    [
+                        38.9229184,
+                        37.2246186
+                    ],
+                    [
+                        38.923143,
+                        37.2244606
+                    ],
+                    [
+                        38.923375,
+                        37.2240279
+                    ],
+                    [
+                        38.9234827,
+                        37.2240371
+                    ],
+                    [
+                        38.9235909,
+                        37.2240393
+                    ],
+                    [
+                        38.9236909,
+                        37.2240351
+                    ],
+                    [
+                        38.9237903,
+                        37.2240248
+                    ],
+                    [
+                        38.9238883,
+                        37.2240086
+                    ],
+                    [
+                        38.9239845,
+                        37.2239865
+                    ],
+                    [
+                        38.924014,
+                        37.2237222
+                    ],
+                    [
+                        38.9240434,
+                        37.2232878
+                    ],
+                    [
+                        38.9240865,
+                        37.2232202
+                    ],
+                    [
+                        38.9240439,
+                        37.2231799
+                    ],
+                    [
+                        38.923996,
+                        37.2231436
+                    ],
+                    [
+                        38.9239434,
+                        37.2231117
+                    ],
+                    [
+                        38.9238866,
+                        37.2230846
+                    ],
+                    [
+                        38.9238121,
+                        37.2230584
+                    ],
+                    [
+                        38.923735,
+                        37.2230373
+                    ],
+                    [
+                        38.923656,
+                        37.2230216
+                    ],
+                    [
+                        38.9235817,
+                        37.223012
+                    ],
+                    [
+                        38.9235065,
+                        37.2230089
+                    ],
+                    [
+                        38.9234313,
+                        37.2230125
+                    ],
+                    [
+                        38.9233597,
+                        37.2230223
+                    ],
+                    [
+                        38.9232899,
+                        37.223038
+                    ],
+                    [
+                        38.9231504,
+                        37.2230697
+                    ],
+                    [
+                        38.9230067,
+                        37.2231094
+                    ],
+                    [
+                        38.9228661,
+                        37.2231556
+                    ],
+                    [
+                        38.9228064,
+                        37.2228326
+                    ],
+                    [
+                        38.9224865,
+                        37.2228529
+                    ],
+                    [
+                        38.922308,
+                        37.2228624
+                    ],
+                    [
+                        38.9221291,
+                        37.2228673
+                    ],
+                    [
+                        38.9219389,
+                        37.2228674
+                    ],
+                    [
+                        38.9217489,
+                        37.2228622
+                    ],
+                    [
+                        38.9215592,
+                        37.2228518
+                    ],
+                    [
+                        38.9212313,
+                        37.2228339
+                    ],
+                    [
+                        38.9206881,
+                        37.2228555
+                    ],
+                    [
+                        38.9206599,
+                        37.2228551
+                    ],
+                    [
+                        38.9206324,
+                        37.2228498
+                    ],
+                    [
+                        38.920607,
+                        37.2228401
+                    ],
+                    [
+                        38.9205848,
+                        37.2228263
+                    ],
+                    [
+                        38.9205667,
+                        37.2228091
+                    ],
+                    [
+                        38.9205405,
+                        37.2227499
+                    ],
+                    [
+                        38.9204152,
+                        37.2227653
+                    ],
+                    [
+                        38.9201398,
+                        37.2228253
+                    ],
+                    [
+                        38.9199901,
+                        37.2228491
+                    ],
+                    [
+                        38.9200666,
+                        37.2232247
+                    ],
+                    [
+                        38.9202008,
+                        37.223982
+                    ],
+                    [
+                        38.920506,
+                        37.2248095
+                    ],
+                    [
+                        38.9208771,
+                        37.2251576
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-of-gapbekli-tepe",
+            "properties": {
+                "snippet": "Archaeological-site; 10000 BC - 3300 BC",
+                "link": "https://pleiades.stoa.org/places/245438984/osm-location-of-gapbekli-tepe",
+                "description": "Location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location of Göbekli Tepe"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "neolithic-eastern-med",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neolithic-eastern-med",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/124331302",
+                    "citationDetail": "Way 124331302",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:way=124331302",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-of-gapbekli-tepe",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "end": -3300,
+            "title": "OSM location of Göbekli Tepe",
+            "provenance": "OpenStreetMap (Way 124331302, version 24, osm:changeset=155122915, 2024-08-11T21:42:10Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -10000,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "archaeological-site"
+            ],
+            "description": "Location based on OpenStreetMap",
+            "created": "2025-02-09T03:28:07Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        38.9208771,
+                        37.2251576
+                    ],
+                    [
+                        38.9210226,
+                        37.2251767
+                    ],
+                    [
+                        38.9211694,
+                        37.2251875
+                    ],
+                    [
+                        38.9213169,
+                        37.2251897
+                    ],
+                    [
+                        38.9214641,
+                        37.2251834
+                    ],
+                    [
+                        38.9216104,
+                        37.2251687
+                    ],
+                    [
+                        38.921755,
+                        37.2251455
+                    ],
+                    [
+                        38.9218971,
+                        37.2251141
+                    ],
+                    [
+                        38.9220276,
+                        37.2250773
+                    ],
+                    [
+                        38.9221547,
+                        37.2250335
+                    ],
+                    [
+                        38.9222777,
+                        37.2249829
+                    ],
+                    [
+                        38.9223961,
+                        37.2249257
+                    ],
+                    [
+                        38.9225094,
+                        37.2248623
+                    ],
+                    [
+                        38.922617,
+                        37.2247929
+                    ],
+                    [
+                        38.9227184,
+                        37.2247179
+                    ],
+                    [
+                        38.9228132,
+                        37.2246375
+                    ],
+                    [
+                        38.9228499,
+                        37.2246384
+                    ],
+                    [
+                        38.9228857,
+                        37.224632
+                    ],
+                    [
+                        38.9229184,
+                        37.2246186
+                    ],
+                    [
+                        38.923143,
+                        37.2244606
+                    ],
+                    [
+                        38.923375,
+                        37.2240279
+                    ],
+                    [
+                        38.9234827,
+                        37.2240371
+                    ],
+                    [
+                        38.9235909,
+                        37.2240393
+                    ],
+                    [
+                        38.9236909,
+                        37.2240351
+                    ],
+                    [
+                        38.9237903,
+                        37.2240248
+                    ],
+                    [
+                        38.9238883,
+                        37.2240086
+                    ],
+                    [
+                        38.9239845,
+                        37.2239865
+                    ],
+                    [
+                        38.924014,
+                        37.2237222
+                    ],
+                    [
+                        38.9240434,
+                        37.2232878
+                    ],
+                    [
+                        38.9240865,
+                        37.2232202
+                    ],
+                    [
+                        38.9240439,
+                        37.2231799
+                    ],
+                    [
+                        38.923996,
+                        37.2231436
+                    ],
+                    [
+                        38.9239434,
+                        37.2231117
+                    ],
+                    [
+                        38.9238866,
+                        37.2230846
+                    ],
+                    [
+                        38.9238121,
+                        37.2230584
+                    ],
+                    [
+                        38.923735,
+                        37.2230373
+                    ],
+                    [
+                        38.923656,
+                        37.2230216
+                    ],
+                    [
+                        38.9235817,
+                        37.223012
+                    ],
+                    [
+                        38.9235065,
+                        37.2230089
+                    ],
+                    [
+                        38.9234313,
+                        37.2230125
+                    ],
+                    [
+                        38.9233597,
+                        37.2230223
+                    ],
+                    [
+                        38.9232899,
+                        37.223038
+                    ],
+                    [
+                        38.9231504,
+                        37.2230697
+                    ],
+                    [
+                        38.9230067,
+                        37.2231094
+                    ],
+                    [
+                        38.9228661,
+                        37.2231556
+                    ],
+                    [
+                        38.9228064,
+                        37.2228326
+                    ],
+                    [
+                        38.9224865,
+                        37.2228529
+                    ],
+                    [
+                        38.922308,
+                        37.2228624
+                    ],
+                    [
+                        38.9221291,
+                        37.2228673
+                    ],
+                    [
+                        38.9219389,
+                        37.2228674
+                    ],
+                    [
+                        38.9217489,
+                        37.2228622
+                    ],
+                    [
+                        38.9215592,
+                        37.2228518
+                    ],
+                    [
+                        38.9212313,
+                        37.2228339
+                    ],
+                    [
+                        38.9206881,
+                        37.2228555
+                    ],
+                    [
+                        38.9206599,
+                        37.2228551
+                    ],
+                    [
+                        38.9206324,
+                        37.2228498
+                    ],
+                    [
+                        38.920607,
+                        37.2228401
+                    ],
+                    [
+                        38.9205848,
+                        37.2228263
+                    ],
+                    [
+                        38.9205667,
+                        37.2228091
+                    ],
+                    [
+                        38.9205405,
+                        37.2227499
+                    ],
+                    [
+                        38.9204152,
+                        37.2227653
+                    ],
+                    [
+                        38.9201398,
+                        37.2228253
+                    ],
+                    [
+                        38.9199901,
+                        37.2228491
+                    ],
+                    [
+                        38.9200666,
+                        37.2232247
+                    ],
+                    [
+                        38.9202008,
+                        37.223982
+                    ],
+                    [
+                        38.920506,
+                        37.2248095
+                    ],
+                    [
+                        38.9208771,
+                        37.2251576
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/245438984/osm-location-of-gapbekli-tepe",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-02-09T13:12:37Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-02-09T03:28:24Z"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-02-09T03:28:19Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-02-09T03:28:07Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-02-09T03:28:07Z"
+                }
+            ]
+        }
+    ],
+    "connections": [],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Gobekli_Tepe",
+            "citationDetail": "Göbekli Tepe",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Göbekli Tepe.",
+            "otherIdentifier": " ",
+            "type": "seeAlso"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.dainst.org/en/project/goebeklitepe?ft=all",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "DAI, Göbekli Tepe",
+            "otherIdentifier": " ",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Schmidt 2007",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IMEKCVLZ",
+            "formattedCitation": "<div class=\"csl-entry\">Schmidt, Klaus. <i>Sie bauten die ersten Tempel : das rätselhafte Heiligtum der Steinzeitjäger : die archäologische Entdeckung am Göbekli Tepe</i>. [3., Erweiterte und aktualisierte Auflage]. München : C. H. Beck, 2007.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "",
+            "bibliographicURI": "http://www.worldcat.org/oclc/823576840",
+            "formattedCitation": "Schmidt, K. and M. Wittwar. 2012. Göbekli Tepe : a Stone Age sanctuary in South-Eastern Anatolia. Berlin: Ex Oriente.",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "www.jstor.org/stable/10.1086/661207",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Banning 2011",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DCJFH9V3",
+            "formattedCitation": "<div class=\"csl-entry\">Banning, E. B. “So Fair a House: Göbekli Tepe and the Identification of Temples in the Pre-Pottery Neolithic of the Near East.” <i>Current Anthropology</i> 52, no. 5 (2011): 619–60. https://doi.org/10.1086/661207.</div>",
+            "otherIdentifier": "www.jstor.org/stable/10.1086/661207",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.geonames.org/8224899/goebekli-tepe.html",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "GeoNames 8224899",
+            "otherIdentifier": " ",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.jstor.org/stable/41496558",
+            "citationDetail": "45-54",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Schmidt 2000",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/N5VRRME3",
+            "formattedCitation": "<div class=\"csl-entry\">SCHMIDT, Klaus. “Göbekli Tepe, Southeastern Turkey: A Preliminary Report on the 1995-1999 Excavations.” <i>Paléorient</i> 26, no. 1 (2000): 45–54. http://www.jstor.org/stable/41496558.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.jstor.org/stable/41780422",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Scham 2008",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VTEZ5MUT",
+            "formattedCitation": "<div class=\"csl-entry\">Scham, Sandra. “The World’s First Temple.” <i>Archaeology</i> 61, no. 6 (2008): 22–27. http://www.jstor.org/stable/41780422.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://whc.unesco.org/en/list/1572",
+            "citationDetail": "1572: Göbekli Tepe",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/geometry-and-architectural-planning-at-gobekli-tepe-turkey/2CBAF416E33AFE6496B73710A2F42FF9",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Haklay 2020",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WG7Z7AAT",
+            "formattedCitation": "<div class=\"csl-entry\">Haklay, Gil, and Avi Gopher. “Geometry and Architectural Planning at Göbekli Tepe, Turkey.” <i>Cambridge Archaeological Journal</i> 30, no. 2 (May 2020): 343–57. https://doi.org/10.1017/S0959774319000660.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q214944",
+            "citationDetail": "Göbekli Tepe (Q214944)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Göbekli Tepe",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.geonames.org/8224899/goebekli-tepe.html",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "GeoNames 8224899",
+                    "otherIdentifier": " ",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "name.2016-01-28.7437686742",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "tr",
+            "created": "2016-01-28T20:09:41Z",
+            "uri": "https://pleiades.stoa.org/places/245438984/name.2016-01-28.7437686742",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Göbekli Tepe ",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-07-03T23:16:49Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-07-03T23:16:42Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-01-28T20:09:52Z"
+                },
+                {
+                    "comment": "added name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-01-28T20:09:46Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-01-28T20:09:43Z"
+                }
+            ]
+        }
+    ],
+    "id": "245438984",
+    "subject": [
+        "UWHS",
+        "PPNB",
+        "extant remains",
+        "PPNA"
+    ],
+    "title": "Göbekli Tepe",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+    ],
+    "details": "<p>Göbekli Tepe was enrolled as a UNESCO World Heritage site on 1 July 2018.</p>",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "The site of Göbekli Tepe, located in the Germuş mountains of south-eastern Anatolia, was the location of a Neolithic hilltop sanctuary. This sanctuary, thought to be a series of stone enclosures with T-shaped pillars carrying carving of wild animals, was built in the Pre-Pottery Neolithic and ranges in date from 9,600 to 8,200 B.C.",
+    "reprPoint": [
+        38.92195403720695,
+        37.223780129731686
+    ],
+    "placeTypes": [
+        "sanctuary",
+        "archaeological-site"
+    ],
+    "bbox": [
+        38.9199901,
+        37.2227499,
+        38.9240865,
+        37.2251897
+    ],
+    "connectsWith": [],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2012-09-14T20:10:22Z",
+    "uri": "https://pleiades.stoa.org/places/245438984",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "update references",
+            "modifiedBy": "jbecker",
+            "modified": "2025-02-09T03:25:11Z"
+        },
+        {
+            "comment": "reference",
+            "modifiedBy": "jbecker",
+            "modified": "2020-07-16T19:32:08Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2018-07-03T23:16:10Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2016-10-08T15:13:26Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2016-08-01T00:47:27Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2016-01-28T20:08:46Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2013-02-04T22:08:55Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "jbecker",
+            "modified": "2012-12-05T19:27:14Z"
+        },
+        {
+            "comment": "edited references",
+            "modifiedBy": "jbecker",
+            "modified": "2012-12-05T19:25:12Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "thomase",
+            "modified": "2012-12-05T02:39:52Z"
+        },
+        {
+            "comment": "created place",
+            "modifiedBy": "jbecker",
+            "modified": "2012-09-14T20:10:23Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "jbecker",
+            "modified": "2012-09-14T20:10:22Z"
+        }
+    ]
+}

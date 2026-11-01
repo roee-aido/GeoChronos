@@ -1,0 +1,25 @@
+{
+  "source": "Wikidata Special:EntityData (JSON)",
+  "retrieved_at": "2026-10-01T22:16:49+03:00",
+  "purpose": "calibrate WDQS RDF year numbering vs JSON historical numbering",
+  "license": "CC0 1.0",
+  "files": {
+    "Q129072.json": "1770280be11f4f973fce5c386456c94db359ff86af6ff33d2a435c9739b107ba",
+    "Q1421.json": "1e9586b7a0aceb15ec6ee2786b035d4cd5a25c1f245a0d85e4bb6ae63277eedb",
+    "Q174367.json": "d53c77337ce69d4b1dffc10d4e988f4ff0df7890b42dd640d535ea3eb12ac0d6",
+    "Q192522.json": "57cd97d3f57bc316241c6407e0104d53e917697cfad1a7272a4300a9623f4611",
+    "Q203729.json": "5298219d664664910e83a2ca149a31187cc518a22bc803d9595d9f5dc8ef1491",
+    "Q214944.json": "b0cb0f6dc4e6778dd9e6d83181f72586f4597f38738e035c0fcba423f2a6fba0",
+    "Q219279.json": "230326456b7a2ea15a533cc908858c578b3a8bbe892c6128c873a9564cb2b46e",
+    "Q2402267.json": "13983634f6185a501f557ac1d6466584c8817d4af7e6ab88792d81aaafbc20d9",
+    "Q37200.json": "e3d6040476c353510810ffa190b984fc25d809ff9b846f86fb972a37404e531b",
+    "Q39671.json": "935577a6c184590ca140e8fca9dd5057123201a8355e4899128af7fe967bbcf5",
+    "Q48584.json": "1c21245935b403da3ebc1be4fe8ae120eb952dcdecd5f574461249b13b0723a3",
+    "Q5725.json": "42778291db820ef33dbd958dac12205c083e46587bc7f9496c90d6143b75a753",
+    "REQUEST_Q219279.json": "5b7aa36d0d07d86e768d06830d107997b8195aa11c9b6bc683e3b18347efaaed"
+  },
+  "notes": [
+    "Q129072/Q214944/Q5725/Q174367/Q2402267/Q192522 added 22:17 (second calibration batch, per file mtimes).",
+    "Q219279 (Caral) added 22:33 for the identity check; REQUEST_Q219279.json records that request."
+  ]
+}

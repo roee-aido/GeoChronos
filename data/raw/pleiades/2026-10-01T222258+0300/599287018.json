@@ -1,0 +1,320 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.6012989,
+                    25.7402889
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-of-kv62-tomb-of-tutankhamen",
+            "properties": {
+                "snippet": "Tomb; 1548 BC - 1086 BC",
+                "link": "https://pleiades.stoa.org/places/599287018/osm-location-of-kv62-tomb-of-tutankhamen",
+                "description": "Representative location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location of KV62 Tomb of Tutankhamen"
+            }
+        }
+    ],
+    "contributors": [],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "new-kingdom-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/new-kingdom-egypt",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1047911950",
+                    "citationDetail": "Node 1047911950",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:node=1047911950",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-of-kv62-tomb-of-tutankhamen",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+            ],
+            "end": -1086,
+            "title": "OSM location of KV62 Tomb of Tutankhamen",
+            "provenance": "OpenStreetMap (Node 1047911950, version 13, osm:changeset=146485688, 2024-01-20T16:39:55Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -1548,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "tomb"
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "created": "2024-12-09T01:47:21Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.6012989,
+                    25.7402889
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/599287018/osm-location-of-kv62-tomb-of-tutankhamen",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-01-31T14:31:56Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-12-09T01:48:11Z"
+                },
+                {
+                    "comment": "added osm location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-12-09T01:48:03Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-12-09T01:47:21Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-12-09T01:47:21Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": null,
+            "description": "",
+            "contributors": [],
+            "created": "2018-04-30T14:02:47Z",
+            "associationCertainty": "certain",
+            "title": "Valley of the Kings",
+            "start": null,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/599287018/9669590854",
+            "connectionType": "at",
+            "id": "9669590854",
+            "attestations": [],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-04-30T14:02:47Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-04-30T14:02:47Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-04-30T14:02:47Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/384697574",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Tutankhamun",
+            "citationDetail": "Tutankhamun",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Tutankhamun.",
+            "otherIdentifier": " ",
+            "type": "seeAlso"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q835309",
+            "citationDetail": "Q835309: KV62",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/KV62",
+            "citationDetail": "KV62",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Reeves 2011",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/A5RVV6A9",
+            "formattedCitation": "<div class=\"csl-entry\">Reeves, Nicholas, and Henry George Reginald Molyneux Herbert Porchester. <i>The Complete Tutankhamun: The King, the Tomb, the Royal Treasure</i>. London; New York, N.Y.: Thames and Hudson, 2011.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "The tomb of Tutankhamun",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LCJAHI4C",
+            "formattedCitation": "<div class=\"csl-entry\">Carter, Howard, and A. C Mace. <i>The Tomb of Tutankhamun</i>. 3 vols., 2014.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        }
+    ],
+    "names": [],
+    "id": "599287018",
+    "subject": [],
+    "title": "Tomb of Tutankhamun (KV62)",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "The rock-cut tomb of the Egyptian pharaoh Tutankhamun (r. ca. 1332-1323 BC), discovered by Howard Carter in 1922.",
+    "reprPoint": [
+        32.6012989,
+        25.7402889
+    ],
+    "placeTypes": [
+        "tomb"
+    ],
+    "bbox": [
+        32.6012989,
+        25.7402889,
+        32.6012989,
+        25.7402889
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/384697574"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2018-04-30T14:02:30Z",
+    "uri": "https://pleiades.stoa.org/places/599287018",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2020-08-20T00:10:43Z"
+        },
+        {
+            "comment": "changed wikidata reference type",
+            "modifiedBy": "jbecker",
+            "modified": "2020-02-15T21:02:18Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2020-02-14T22:30:54Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2018-12-01T15:07:04Z"
+        },
+        {
+            "comment": "reference",
+            "modifiedBy": "jbecker",
+            "modified": "2018-12-01T14:35:30Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "jbecker",
+            "modified": "2018-04-30T14:03:53Z"
+        },
+        {
+            "comment": "title, summary",
+            "modifiedBy": "jbecker",
+            "modified": "2018-04-30T14:03:39Z"
+        },
+        {
+            "comment": "Migrated from location",
+            "modifiedBy": "jbecker",
+            "modified": "2018-04-30T14:02:50Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "jbecker",
+            "modified": "2018-04-30T14:02:30Z"
+        }
+    ]
+}

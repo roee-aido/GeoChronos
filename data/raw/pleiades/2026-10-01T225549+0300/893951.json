@@ -1,0 +1,2166 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.4241563,
+                    32.5395939
+                ]
+            },
+            "type": "Feature",
+            "id": "62b627631-628627628644",
+            "properties": {
+                "snippet": "Archaeological-site",
+                "link": "https://pleiades.stoa.org/places/893951/62b627631-628627628644",
+                "description": "Location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location of آثار بابل"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.4258,
+                    32.535
+                ]
+            },
+            "type": "Feature",
+            "id": "cigs-location-of-babil",
+            "properties": {
+                "snippet": "Archaeological-site",
+                "link": "https://pleiades.stoa.org/places/893951/cigs-location-of-babil",
+                "description": "",
+                "location_precision": "precise",
+                "title": "CIGS location of Bābīl"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "enesy",
+            "homepage": null,
+            "name": "Enes Yılandiloğlu",
+            "uri": "https://pleiades.stoa.org/author/enesy"
+        },
+        {
+            "username": "bkiesling",
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling"
+        },
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "cdlisle",
+            "homepage": null,
+            "name": "Chris de Lisle",
+            "uri": "https://pleiades.stoa.org/author/cdlisle"
+        },
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "cjohansson",
+            "homepage": null,
+            "name": "Carolin Johansson",
+            "uri": "https://pleiades.stoa.org/author/cjohansson"
+        },
+        {
+            "username": "jnovotny",
+            "homepage": null,
+            "name": "Jamie Novotny",
+            "uri": "https://pleiades.stoa.org/author/jnovotny"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        },
+        {
+            "username": null,
+            "name": "DARMC"
+        },
+        {
+            "username": null,
+            "name": "R. Talbert"
+        },
+        {
+            "username": "rssmith",
+            "homepage": null,
+            "name": "R. Scott Smith",
+            "uri": "https://pleiades.stoa.org/author/rssmith"
+        },
+        {
+            "username": "ghawes",
+            "homepage": null,
+            "name": "Greta Hawes",
+            "uri": "https://pleiades.stoa.org/author/ghawes"
+        },
+        {
+            "username": "rmhorne",
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne"
+        },
+        {
+            "username": "rrattenborg",
+            "homepage": null,
+            "name": "Rune Rattenborg",
+            "uri": "https://pleiades.stoa.org/author/rrattenborg"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/2488023863",
+                    "citationDetail": "Node 2488023863",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:node=2488023863",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "62b627631-628627628644",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "end": null,
+            "title": "OSM location of آثار بابل",
+            "provenance": "OpenStreetMap (Node 2488023863, version 5, osm:changeset=90407649, 2020-09-04T09:58:15Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": null,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "archaeological-site"
+            ],
+            "description": "Location based on OpenStreetMap",
+            "created": "2023-01-24T11:50:44Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.4241563,
+                    32.5395939
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/893951/62b627631-628627628644",
+            "creators": [
+                {
+                    "username": "cjohansson",
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson"
+                },
+                {
+                    "username": "rrattenborg",
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2023-01-24T15:28:30Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T12:28:45Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T12:28:35Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T11:51:46Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T11:50:45Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T11:50:44Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://doi.org/10.4324/9780203875506",
+                    "citationDetail": "pages 99-103",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Bryce 2009",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZSXV8M2K",
+                    "formattedCitation": "<div class=\"csl-entry\">Bryce, Trevor. <i>The Routledge Handbook of the Peoples and Places of Ancient Western Asia: The Near East from the Early Bronze Age to the Fall of the Persian Empire</i>. London; New York: Routledge, 2012. https://doi.org/10.4324/9780203875506.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Unger 1928",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LIB7QMW5",
+                    "formattedCitation": "<div class=\"csl-entry\">Unger, Eckhard. “Babylon.” In <i>Reallexikon Der Assyriologie Und Vorderasiatischen Archäologie</i>, 1:330–69, 1928.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://en.wikipedia.org/wiki/Babylon",
+                    "citationDetail": "Babylon",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Wikipedia (English)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>, Babylon.",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://ar.wikipedia.org/wiki/بابل",
+                    "citationDetail": "بابل",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Wikipedia (Arabic)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GIR336Y",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>الموسوعة الحرة التي يستطيع الجميع تحريرها: ويكيبيديا</i>. Wikimedia Foundation, 2001. https://ar.wikipedia.org.</div>, بابل.",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.wikidata.org/wiki/Q5684",
+                    "citationDetail": "Q5684",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Wikidata",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>, Q5684.",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "cigs-location-of-babil",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "end": null,
+            "title": "CIGS location of Bābīl",
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": null,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "<p>Centre point location extracted from polygon drawn around entire site as identified on Google Earth base imagery in QGIS 3.x.</p>",
+            "review_state": "published",
+            "accuracy_value": 5.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "featureType": [
+                "archaeological-site"
+            ],
+            "description": "",
+            "created": "2023-01-24T11:56:32Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.4258,
+                    32.535
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/893951/cigs-location-of-babil",
+            "creators": [
+                {
+                    "username": "cjohansson",
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson"
+                },
+                {
+                    "username": "rrattenborg",
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2023-01-24T15:28:23Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T12:28:04Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T12:26:06Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T12:24:37Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T11:56:36Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T11:56:32Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": null,
+            "description": "",
+            "contributors": [],
+            "created": "2016-07-13T14:03:13Z",
+            "associationCertainty": "certain",
+            "title": "Euphrates (river)",
+            "start": null,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/893951/912849",
+            "connectionType": "connection",
+            "id": "912849",
+            "attestations": [],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T14:03:13Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T14:03:13Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T14:03:13Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/912849",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "admin",
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection"
+        },
+        {
+            "end": -30,
+            "description": "",
+            "contributors": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "created": "2016-07-13T14:03:13Z",
+            "associationCertainty": "certain",
+            "title": "Seleucid Empire",
+            "start": -330,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/893951/45635759",
+            "connectionType": "part_of_admin",
+            "id": "45635759",
+            "attestations": [
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-13T14:29:35Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T14:03:13Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T14:03:13Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T14:03:13Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/45635759",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_admin"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
+            "citationDetail": "91 F5 Babylon",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "BAtlas",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "RLAss",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LCUKSJKD",
+            "formattedCitation": "<div class=\"csl-entry\">Ebeling, Erich. <i>Reallexikon Der Assyriologie Und Vorderasiatischen Archäologie</i>. Berlin und Leipzig: W. de Gruyter &amp; Co., 1932.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Babylon",
+            "citationDetail": "Babylon",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Babylon.",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.trismegistos.org/place/390",
+            "citationDetail": "GEO ID 390: Babylon",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "TM",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "formattedCitation": "<div class=\"csl-entry\">Mark Depauw, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": " ",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/babylon-e210960",
+            "citationDetail": "Babylon",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "New Pauly",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. http://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://web.archive.org/web/20160405220430/http://www.cemml.colostate.edu/cultural/09476/iraqstart.html",
+            "citationDetail": "007. Babil (ancient: Babylon)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "CENTCOM Iraq",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZRPCQTB4",
+            "formattedCitation": "<div class=\"csl-entry\">CENTCOM Historical/Cultural Advisory Group. “Cultural Heritage Training - Iraq.” Accessed October 18, 2017. https://www.cemml.colostate.edu/cultural/09476/iraqstart.html.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q5684",
+            "citationDetail": "Q5684: Babylon",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.geonames.org/98228/babylon.html",
+            "citationDetail": "98228: Babylon",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "GeoNames",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://darmc.harvard.edu/",
+            "citationDetail": "22460",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "DARMC",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/803804468",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "George 1992",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GUZL9E89",
+            "formattedCitation": "<div class=\"csl-entry\">George, A. R, Katholieke Universiteit te Leuven (1970-), and Departement Oriëntalistiek. <i>Babylonian topographical texts</i>. Orientalia Lovaniensia analecta 40. Leuven: Departement Oriëntalistiek : Peeters, 1992. http://www.worldcat.org/oclc/803804468.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://topostext.org/place/325444UBab",
+            "citationDetail": "Babylon (Iraq)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "ToposText",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://whc.unesco.org/en/list/278",
+            "citationDetail": "278: Bablyon",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://oracc.museum.upenn.edu/btto/",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "BTTo",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/22XITAIJ",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Babylonian Topographical Texts Online</i>. Oracc. Accessed January 28, 2021. http://oracc.museum.upenn.edu/btto/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Pedersén 2021",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/G4TYAF5Z",
+            "formattedCitation": "<div class=\"csl-entry\">Pedersén, Olof. <i>Babylon: The Great City</i>. Münster: Zaphon, 2021.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Koldewey et al. 1990",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4VHFS5T8",
+            "formattedCitation": "<div class=\"csl-entry\">Koldewey, Robert, and Barthel Hrouda. <i>Das wieder erstehende Babylon</i>. München: C.H. Beck, 1990.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Koldewey and Wetzel 1931",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QTX8J6PF",
+            "formattedCitation": "<div class=\"csl-entry\">Koldewey, Robert, and Friedrich Wetzel. <i>Die Königsburgen von Babylon</i>. Vol. 2. Wissenschaftliche Veröffentlichung der Deutschen Orient-Gesellschaft 54–55. Osnabrück: O. Zeller ;, 1931.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Koldewey 1911",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CT3YPEPD",
+            "formattedCitation": "<div class=\"csl-entry\">Koldewey, Robert. <i>Die Tempel von Babylon und Borsippa, nach den Ausgrabungen durch die Deutsche Orient-Gesellschaft,</i>. Osnabrück: Otto Zeller Verlag, 1972.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://archive.org/details/ldpd_10797913_000",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Koldewey 1914",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3T9BGEQ9",
+            "formattedCitation": "<div class=\"csl-entry\">Koldewey, Robert. <i>The excavations at Babylon</i>. Translated by A. S Johns. London: Macmillan, 1914. https://archive.org/details/ldpd_10797913_000.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://de.wikipedia.org/wiki/Babylon",
+            "citationDetail": "Babylon",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (German)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QVRBJVTM",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: Die freie Enzyklopädie</i>. Wikimedia Foundation, 2001. https://de.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://oracc.museum.upenn.edu/ribo/",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "RIBo",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VBHUTCY7",
+            "formattedCitation": "<div class=\"csl-entry\"><i>The Royal Inscriptions of Babylonia Online Project</i>. Oracc. Accessed January 28, 2021. http://oracc.museum.upenn.edu/ribo/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2702.html",
+            "citationDetail": "10C4 (Talbert 2702)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "TP (Talbert: CUP)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://resource.manto.unh.edu/11300121",
+            "citationDetail": "11300121: Babylon (Mesopotamia)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "MANTO",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
+            "formattedCitation": "<div class=\"csl-entry\">Greta Hawes, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/843532247",
+            "citationDetail": "130-138",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Cohen 2013",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3IUMQ8JG",
+            "formattedCitation": "<div class=\"csl-entry\">Cohen, Getzel. <i>The Hellenistic Settlements in the East from Armenia and Mesopotamia to Bactria and India</i>. Hellenistic Culture and Society 54. Berkeley: University of California Press, 2013. https://doi.org/https://doi.org/10.1525/9780520953567.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://nomisma.org/id/babylon",
+            "citationDetail": "Babylon",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "nomisma.org",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/N5BAUNTN",
+            "formattedCitation": "<div class=\"csl-entry\">Meadows, Andrew, Sebastian Heath, and Ethan Gruber. <i>Nomisma.Org</i>. New York: American Numismatic Society, 2010. http://nomisma.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "791",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "ItMiller",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q8X83VMV",
+            "formattedCitation": "<div class=\"csl-entry\">Miller, Konrad. <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://tp-online.ku.de/trefferanzeige_en.php?id=1841",
+            "citationDetail": "1841: Babylonia",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "KU TP Database (Rathmann)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KDZ6Q72N",
+            "formattedCitation": "<div class=\"csl-entry\">Ingolstadt, Katholische Universität Eichstätt-. “Tabula Peutingeriana.” Datenbank tp-online. Accessed June 4, 2025. https://www.ku.de/ggf/geschichte/alte-geschichte/forschung/datenbank-tp-online.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://vici.org/vici/2432",
+            "citationDetail": "2432: Babylon",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "vici.org",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Babylon",
+            "attestations": [
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://latin.packhum.org/loc/978/1/206/1418-1425,2509-2516#206",
+                    "citationDetail": "2.235.9",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Plin. NH (Mayhoff: PHI)",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/8AK7HSRG",
+                    "formattedCitation": "Pliny, Natural History. K.F.T. Mayhoff (ed.), Naturalis Historiae, Bibliotheca scriptorum Graecorum et Romanorum Teubneriana, Lipsiae, 1906. See ",
+                    "otherIdentifier": "",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "id": "babylon",
+            "end": 640,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                },
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 91 F5 Babylon",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -330,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "la",
+            "created": "2010-10-05T20:34:03Z",
+            "uri": "https://pleiades.stoa.org/places/893951/babylon",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "M. Roaf"
+                },
+                {
+                    "username": null,
+                    "name": "St J. Simpson"
+                }
+            ],
+            "attested": "Babylon",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "removed earlier periods erroneously interpolated from legacy BAtlas data",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-25T17:55:31Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-25T17:45:56Z"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T09:21:35Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2010-10-05T20:51:46Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-10-05T20:40:31Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-10-05T20:34:03Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Babil",
+            "attestations": [
+                {
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [],
+            "id": "babil",
+            "end": 640,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 91 F5 Babylon",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -750,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "",
+            "created": "2010-10-05T20:34:03Z",
+            "uri": "https://pleiades.stoa.org/places/893951/babil",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "M. Roaf"
+                },
+                {
+                    "username": null,
+                    "name": "St J. Simpson"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T09:21:35Z"
+                },
+                {
+                    "comment": "Time periods copied from sibling. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+                    "modifiedBy": "sgillies",
+                    "modified": "2011-01-20T03:28:26Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2010-10-05T20:51:46Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-10-05T20:40:31Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "sgillies",
+                    "modified": "2010-10-05T20:34:04Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Babylon, Babylōn",
+            "attestations": [
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:16.4.2",
+                    "citationDetail": "16.4.2",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Str. (Meineke: Perseus)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+                    "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "id": "babylona",
+            "end": 300,
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -30,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "grc",
+            "created": "2017-12-09T12:41:44Z",
+            "uri": "https://pleiades.stoa.org/places/893951/babylona",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Βαβυλών",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "update Str. (Meineke: Perseus) ref.",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-07-07T21:18:52Z"
+                },
+                {
+                    "comment": "adjusted nominative form in both attested and romanized fields",
+                    "modifiedBy": "thomase",
+                    "modified": "2018-01-25T17:48:41Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-06T20:57:16Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-12-09T12:44:02Z"
+                },
+                {
+                    "comment": "name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-12-09T12:41:47Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-12-09T12:41:44Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Bābili",
+            "attestations": [
+                {
+                    "timePeriod": "later-2nd-millennium-bc-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/later-2nd-millennium-bc-mesopotamia",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "achaemenid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/achaemenid-middle-east",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-central-asia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-central-asia",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.worldcat.org/oclc/803804468",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "George 1992",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GUZL9E89",
+                    "formattedCitation": "<div class=\"csl-entry\">George, A. R, Katholieke Universiteit te Leuven (1970-), and Departement Oriëntalistiek. <i>Babylonian topographical texts</i>. Orientalia Lovaniensia analecta 40. Leuven: Departement Oriëntalistiek : Peeters, 1992. http://www.worldcat.org/oclc/803804468.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Zadok 1985",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/B49BJP53",
+                    "formattedCitation": "<div class=\"csl-entry\">Zadok, Ran. <i>Geographical Names According to New- and Late-Babylonian Texts</i>. Beihefte Zum Tübinger Atlas Des Vorderen Orients, Geisteswissenschaften, Nr. 7. Wiesbaden: L. Reichert, 1985.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "name.2018-01-06.8890273340",
+            "end": -100,
+            "contributors": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -1600,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "akk",
+            "created": "2018-01-06T16:46:34Z",
+            "uri": "https://pleiades.stoa.org/places/893951/name.2018-01-06.8890273340",
+            "creators": [
+                {
+                    "username": "jnovotny",
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-06T20:57:16Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-06T20:55:56Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-06T17:00:04Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-06T16:49:05Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-06T16:46:35Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-06T16:46:34Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Bābilim",
+            "attestations": [
+                {
+                    "timePeriod": "old-babylonian-assyrian-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/old-babylonian-assyrian-mesopotamia",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.worldcat.org/oclc/803804468",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "George 1992",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GUZL9E89",
+                    "formattedCitation": "<div class=\"csl-entry\">George, A. R, Katholieke Universiteit te Leuven (1970-), and Departement Oriëntalistiek. <i>Babylonian topographical texts</i>. Orientalia Lovaniensia analecta 40. Leuven: Departement Oriëntalistiek : Peeters, 1992. http://www.worldcat.org/oclc/803804468.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.worldcat.org/oclc/310661280",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Groneberg 1980",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IKZ2AXKB",
+                    "formattedCitation": "<div class=\"csl-entry\">Groneberg, Brigitte. <i>Répertoire géographique des textes cunéiformes 3, 3,</i>. Vol. 7. Tübinger Atlas des Vorderen Orients / Beihefte, B. Wiesbaden: Reichert, 1980. http://www.worldcat.org/oclc/310661280.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "name.2018-01-06.2223095271",
+            "end": -1600,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -2000,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "akk",
+            "created": "2018-01-06T16:48:05Z",
+            "uri": "https://pleiades.stoa.org/places/893951/name.2018-01-06.2223095271",
+            "creators": [
+                {
+                    "username": "jnovotny",
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-06T20:57:16Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-06T17:00:28Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-06T16:51:26Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-06T16:48:05Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-06T16:48:05Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Šuanna",
+            "attestations": [
+                {
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "achaemenid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/achaemenid-middle-east",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-central-asia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-central-asia",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.worldcat.org/oclc/803804468",
+                    "citationDetail": "25",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "George 1992",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GUZL9E89",
+                    "formattedCitation": "<div class=\"csl-entry\">George, A. R, Katholieke Universiteit te Leuven (1970-), and Departement Oriëntalistiek. <i>Babylonian topographical texts</i>. Orientalia Lovaniensia analecta 40. Leuven: Departement Oriëntalistiek : Peeters, 1992. http://www.worldcat.org/oclc/803804468.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "name.2018-01-11.8769134339",
+            "end": -100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -720,
+            "details": "",
+            "review_state": "published",
+            "description": "The Šuanna quarter of Babylon was located south of the Eridu quarter and it stretched south to the Uraš Gate. The temples Ehursagtilla and Ešasurra were located inside it and the processional street Nabû-dayyān-nišēšu ran through it, from Esagil in the north and the Uraš Gate in the south.",
+            "transcriptionCompleteness": "complete",
+            "language": "akk",
+            "created": "2018-01-11T11:02:37Z",
+            "uri": "https://pleiades.stoa.org/places/893951/name.2018-01-11.8769134339",
+            "creators": [
+                {
+                    "username": "jnovotny",
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-16T13:58:39Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-11T11:02:50Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-11T11:02:38Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-11T11:02:37Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Eridu",
+            "attestations": [
+                {
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "achaemenid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/achaemenid-middle-east",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-central-asia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-central-asia",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.worldcat.org/oclc/803804468",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "George 1992",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GUZL9E89",
+                    "formattedCitation": "<div class=\"csl-entry\">George, A. R, Katholieke Universiteit te Leuven (1970-), and Departement Oriëntalistiek. <i>Babylonian topographical texts</i>. Orientalia Lovaniensia analecta 40. Leuven: Departement Oriëntalistiek : Peeters, 1992. http://www.worldcat.org/oclc/803804468.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "name.2018-01-16.9548338862",
+            "end": -100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -720,
+            "details": "",
+            "review_state": "published",
+            "description": "The eastern city quarter of Eridu contains fourteen temples, including Esagil and Etemenanki, and is the religious center of Babylon. It is bounded on the north by the Kadingirra district and one the south by the Šuanna quarter. Its eastern and western limits are respectively the processional street Ay-ibūr-šabû and the Euphrates River.",
+            "transcriptionCompleteness": "complete",
+            "language": "sux",
+            "created": "2018-01-16T09:39:00Z",
+            "uri": "https://pleiades.stoa.org/places/893951/name.2018-01-16.9548338862",
+            "creators": [
+                {
+                    "username": "jnovotny",
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-16T14:42:06Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-16T09:50:34Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-16T09:50:26Z"
+                },
+                {
+                    "action": "Retract",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-16T09:50:09Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-16T09:39:53Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-16T09:39:37Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-16T09:39:01Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-16T09:39:00Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Ka-dingirra",
+            "attestations": [
+                {
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "achaemenid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/achaemenid-middle-east",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-central-asia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-central-asia",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.worldcat.org/oclc/803804468",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "George 1992",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GUZL9E89",
+                    "formattedCitation": "<div class=\"csl-entry\">George, A. R, Katholieke Universiteit te Leuven (1970-), and Departement Oriëntalistiek. <i>Babylonian topographical texts</i>. Orientalia Lovaniensia analecta 40. Leuven: Departement Oriëntalistiek : Peeters, 1992. http://www.worldcat.org/oclc/803804468.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "name.2018-01-16.6274922030",
+            "end": -100,
+            "contributors": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -720,
+            "details": "",
+            "review_state": "published",
+            "description": "The eastern city quarter of Ka-dingirra contains four temples, including Eniggidrukalammasumma and Emašdari. It is north of the Eridu quarter and extends from the Grand Gate in the south to the Ištar Gate in the north. Its eastern and western limits are respectively the processional street Ay-ibūr-šabû and the Euphrates River.",
+            "transcriptionCompleteness": "complete",
+            "language": "sux",
+            "created": "2018-01-16T09:47:27Z",
+            "uri": "https://pleiades.stoa.org/places/893951/name.2018-01-16.6274922030",
+            "creators": [
+                {
+                    "username": "jnovotny",
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-16T14:31:06Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-16T14:08:00Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-16T14:07:00Z"
+                },
+                {
+                    "action": "Retract",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-16T13:58:11Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-16T13:57:33Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-16T09:47:50Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-16T09:47:28Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jnovotny",
+                    "modified": "2018-01-16T09:47:27Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Bābīl",
+            "attestations": [],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://doi.org/10.4324/9780203875506",
+                    "citationDetail": "pages 99-103",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Bryce 2009",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZSXV8M2K",
+                    "formattedCitation": "<div class=\"csl-entry\">Bryce, Trevor. <i>The Routledge Handbook of the Peoples and Places of Ancient Western Asia: The Near East from the Early Bronze Age to the Fall of the Persian Empire</i>. London; New York: Routledge, 2012. https://doi.org/10.4324/9780203875506.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Unger 1928",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LIB7QMW5",
+                    "formattedCitation": "<div class=\"csl-entry\">Unger, Eckhard. “Babylon.” In <i>Reallexikon Der Assyriologie Und Vorderasiatischen Archäologie</i>, 1:330–69, 1928.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://en.wikipedia.org/wiki/Babylon",
+                    "citationDetail": "Babylon",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Wikipedia (English)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>, Babylon.",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://ar.wikipedia.org/wiki/بابل",
+                    "citationDetail": "بابل",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Wikipedia (Arabic)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GIR336Y",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>الموسوعة الحرة التي يستطيع الجميع تحريرها: ويكيبيديا</i>. Wikimedia Foundation, 2001. https://ar.wikipedia.org.</div>, بابل.",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.wikidata.org/wiki/Q5684",
+                    "citationDetail": "Q5684",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Wikidata",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>, Q5684.",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "babil-1",
+            "end": null,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": null,
+            "details": "<p>Romanization according to the ALA-LC specifications for Arabic (2012) (https://www.loc.gov/catdir/cpso/roman.html).</p>",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "ar",
+            "created": "2023-01-24T12:24:35Z",
+            "uri": "https://pleiades.stoa.org/places/893951/babil-1",
+            "creators": [
+                {
+                    "username": "cjohansson",
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson"
+                },
+                {
+                    "username": "rrattenborg",
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg"
+                }
+            ],
+            "attested": "بابيل",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2023-01-24T15:27:28Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T12:27:55Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T12:27:39Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T12:26:32Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T12:24:36Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "cjohansson",
+                    "modified": "2023-01-24T12:24:35Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Babylonia",
+            "attestations": [
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2702.html",
+                    "citationDetail": "10C4 (Talbert 2702)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "id": "babylonia",
+            "end": 640,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 300,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "la",
+            "created": "2025-07-07T21:16:41Z",
+            "uri": "https://pleiades.stoa.org/places/893951/babylonia",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Babylonia",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2025-07-07T21:49:50Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-07-07T21:18:28Z"
+                },
+                {
+                    "comment": "TP name TP reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-07-07T21:16:41Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2025-07-07T21:16:41Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Bābil",
+            "attestations": [
+                {
+                    "timePeriod": "sixteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/sixteenth-ce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://ekitap.yek.gov.tr/urun/kunhu%E2%80%99l-ahbar--takim-5-cilt-_821.aspx",
+                    "citationDetail": "1st Volume, 323, s.v. \"Bābil\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Künhü'l-ahbâr",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WKDD5W8W",
+                    "formattedCitation": "<div class=\"csl-entry\">Âli, Mustafa bin Ahmet. <i>Künhü’l-ahbâr: (tenkitli metin)</i>. Edited by Suat Donuk and Derya Örs. 1. baskı. 5 vols. Türkiye Yazma Eserler Kurumu Başkanlığı yayınları. Fatih, İstanbul: Türkiye Yazma Eserler Kurumu Başkanlığı, 2020. https://ekitap.yek.gov.tr/urun/kunhu%E2%80%99l-ahbar--takim-5-cilt-_821.aspx.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "babil-2",
+            "end": 1599,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1500,
+            "details": "<p class=\"p1\"><em>\"Bābil</em>: It is in Iraq. Prophet Abraham was thrown into the fire here. Then, it was demolished, and now there is a village there... It was first built by <em>Ḍaḥḥāk</em>. In every sense, it is an important settlement and ancient city...\" (Partially translated to English.)</p>",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "ota",
+            "created": "2025-11-07T17:08:53Z",
+            "uri": "https://pleiades.stoa.org/places/893951/babil-2",
+            "creators": [
+                {
+                    "username": "enesy",
+                    "homepage": null,
+                    "name": "Enes Yılandiloğlu",
+                    "uri": "https://pleiades.stoa.org/author/enesy"
+                }
+            ],
+            "attested": "بابل",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2026-02-25T18:10:08Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "enesy",
+                    "modified": "2026-02-25T08:37:00Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "enesy",
+                    "modified": "2026-02-25T08:36:52Z"
+                },
+                {
+                    "action": "Retract",
+                    "modifiedBy": "enesy",
+                    "modified": "2026-02-25T08:35:40Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-07T17:10:55Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-07T17:10:32Z"
+                },
+                {
+                    "action": "Retract",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-07T17:10:06Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-07T17:09:56Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-07T17:08:53Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "enesy",
+                    "modified": "2025-11-07T17:08:53Z"
+                }
+            ]
+        }
+    ],
+    "id": "893951",
+    "subject": [
+        "dare:ancient=1",
+        "dare:major=1",
+        "dare:feature=major settlement",
+        "UWHS"
+    ],
+    "title": "Babylon",
+    "provenance": "Barrington Atlas: BAtlas 91 F5 Babylon",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/urban",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+    ],
+    "details": "<p>The Barrington Atlas Directory notes: Tell Amran</p>\r\n<p>Inscribed as a UNESCO World Heritage site on 5 July 2019.</p>",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "The ancient city of Babylon began as an Akkadian city-state founded by Amorites in 1894 B.C. The city was also the seat of the Neo-Babylonian Empire from 608 to 539 B.C.",
+    "reprPoint": [
+        44.42497815,
+        32.53729695
+    ],
+    "placeTypes": [
+        "urban",
+        "settlement",
+        "archaeological-site"
+    ],
+    "bbox": [
+        44.4241563,
+        32.535,
+        44.4258,
+        32.5395939
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/912849",
+        "https://pleiades.stoa.org/places/45635759",
+        "https://pleiades.stoa.org/places/202833933",
+        "https://pleiades.stoa.org/places/704495840",
+        "https://pleiades.stoa.org/places/189727830",
+        "https://pleiades.stoa.org/places/189727829",
+        "https://pleiades.stoa.org/places/632147764",
+        "https://pleiades.stoa.org/places/452758807",
+        "https://pleiades.stoa.org/places/722340789",
+        "https://pleiades.stoa.org/places/856859069",
+        "https://pleiades.stoa.org/places/358880029",
+        "https://pleiades.stoa.org/places/896947",
+        "https://pleiades.stoa.org/places/894056377",
+        "https://pleiades.stoa.org/places/452038953",
+        "https://pleiades.stoa.org/places/856859068",
+        "https://pleiades.stoa.org/places/894126",
+        "https://pleiades.stoa.org/places/883747310",
+        "https://pleiades.stoa.org/places/5066375",
+        "https://pleiades.stoa.org/places/89975947",
+        "https://pleiades.stoa.org/places/386664298",
+        "https://pleiades.stoa.org/places/576681909",
+        "https://pleiades.stoa.org/places/794488651",
+        "https://pleiades.stoa.org/places/133324175",
+        "https://pleiades.stoa.org/places/87882504",
+        "https://pleiades.stoa.org/places/454450225",
+        "https://pleiades.stoa.org/places/454450226",
+        "https://pleiades.stoa.org/places/124694415",
+        "https://pleiades.stoa.org/places/54136919",
+        "https://pleiades.stoa.org/places/607767545",
+        "https://pleiades.stoa.org/places/5066376",
+        "https://pleiades.stoa.org/places/419903060",
+        "https://pleiades.stoa.org/places/633091638",
+        "https://pleiades.stoa.org/places/116348460",
+        "https://pleiades.stoa.org/places/142907963",
+        "https://pleiades.stoa.org/places/117946902",
+        "https://pleiades.stoa.org/places/897225060",
+        "https://pleiades.stoa.org/places/130405658",
+        "https://pleiades.stoa.org/places/568355929",
+        "https://pleiades.stoa.org/places/130405659",
+        "https://pleiades.stoa.org/places/646547815",
+        "https://pleiades.stoa.org/places/223617668",
+        "https://pleiades.stoa.org/places/818994290",
+        "https://pleiades.stoa.org/places/438874660",
+        "https://pleiades.stoa.org/places/452758808",
+        "https://pleiades.stoa.org/places/568355929",
+        "https://pleiades.stoa.org/places/76011693",
+        "https://pleiades.stoa.org/places/764089567",
+        "https://pleiades.stoa.org/places/251337021",
+        "https://pleiades.stoa.org/places/653377582",
+        "https://pleiades.stoa.org/places/894126",
+        "https://pleiades.stoa.org/places/633091639",
+        "https://pleiades.stoa.org/places/323375925",
+        "https://pleiades.stoa.org/places/386554382",
+        "https://pleiades.stoa.org/places/541602250",
+        "https://pleiades.stoa.org/places/633091640",
+        "https://pleiades.stoa.org/places/897449051",
+        "https://pleiades.stoa.org/places/55248061",
+        "https://pleiades.stoa.org/places/225152488",
+        "https://pleiades.stoa.org/places/33309869",
+        "https://pleiades.stoa.org/places/54136920",
+        "https://pleiades.stoa.org/places/646547814",
+        "https://pleiades.stoa.org/places/213534097",
+        "https://pleiades.stoa.org/places/923543650",
+        "https://pleiades.stoa.org/places/223954669",
+        "https://pleiades.stoa.org/places/293222275",
+        "https://pleiades.stoa.org/places/576681908",
+        "https://pleiades.stoa.org/places/54136921",
+        "https://pleiades.stoa.org/places/863887719",
+        "https://pleiades.stoa.org/places/699978029",
+        "https://pleiades.stoa.org/places/510139757",
+        "https://pleiades.stoa.org/places/124694416",
+        "https://pleiades.stoa.org/places/191883652"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2024-09-10T22:52:09Z",
+    "uri": "https://pleiades.stoa.org/places/893951",
+    "creators": [
+        {
+            "username": null,
+            "name": "M. Roaf"
+        },
+        {
+            "username": null,
+            "name": "St J. Simpson"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2026-06-11T17:56:25Z"
+        },
+        {
+            "comment": "vici.org 2432: Babylon",
+            "modifiedBy": "jbecker",
+            "modified": "2026-06-11T17:55:55Z"
+        },
+        {
+            "comment": "add KU TP Database (Rathmann) 1841: Babylonia",
+            "modifiedBy": "jbecker",
+            "modified": "2025-07-07T21:23:08Z"
+        },
+        {
+            "comment": "update references",
+            "modifiedBy": "jbecker",
+            "modified": "2025-07-07T21:21:08Z"
+        },
+        {
+            "comment": "Add Cohen 2013 by @cdlisle",
+            "modifiedBy": "thomase",
+            "modified": "2024-09-11T19:18:26Z"
+        },
+        {
+            "comment": "added MANTO reference",
+            "modifiedBy": "thomase",
+            "modified": "2023-05-18T21:12:04Z"
+        },
+        {
+            "comment": "added TP ref.",
+            "modifiedBy": "jbecker",
+            "modified": "2021-02-25T01:05:41Z"
+        },
+        {
+            "comment": "Edited; added references",
+            "modifiedBy": "jbecker",
+            "modified": "2021-02-03T19:52:14Z"
+        },
+        {
+            "comment": "updates to references",
+            "modifiedBy": "jbecker",
+            "modified": "2021-01-07T15:38:47Z"
+        },
+        {
+            "comment": "references, added UWHS",
+            "modifiedBy": "jbecker",
+            "modified": "2019-07-05T18:22:49Z"
+        },
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modifiedBy": "admin",
+            "modified": "2018-06-08T00:41:18Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "admin",
+            "modified": "2018-06-08T00:41:05Z"
+        },
+        {
+            "comment": "check in of working copy",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-06T20:56:42Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "jnovotny",
+            "modified": "2018-01-06T16:52:35Z"
+        },
+        {
+            "comment": "darmc 22460",
+            "modifiedBy": "jbecker",
+            "modified": "2017-12-09T12:46:02Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2017-10-21T03:42:34Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2017-01-20T04:59:49Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "thomase",
+            "modified": "2017-01-19T19:44:28Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2015-09-05T03:11:22Z"
+        },
+        {
+            "comment": "checked-in working copy with new connection.",
+            "modifiedBy": "jbecker",
+            "modified": "2015-09-05T03:09:13Z"
+        },
+        {
+            "comment": "edited description; added references",
+            "modifiedBy": "jbecker",
+            "modified": "2013-02-22T00:34:07Z"
+        },
+        {
+            "comment": "DARE feature tag fix.",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-23T19:44:55Z"
+        },
+        {
+            "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-21T00:01:41Z"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modifiedBy": "admin",
+            "modified": "2012-02-15T09:21:34Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-10T01:10:26Z"
+        },
+        {
+            "comment": "Detail text updated from former modernLocation. See http://atlantides.org/trac/pleiades/wiki/PlaceDetailsUpgrade",
+            "modifiedBy": "sgillies",
+            "modified": "2011-01-14T21:27:42Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2010-10-05T20:51:46Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "sgillies",
+            "modified": "2010-10-05T20:40:31Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "sgillies",
+            "modified": "2010-10-05T20:34:03Z"
+        }
+    ]
+}

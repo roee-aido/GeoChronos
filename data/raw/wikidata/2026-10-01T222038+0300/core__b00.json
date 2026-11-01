@@ -1,0 +1,1105 @@
+{
+  "head" : {
+    "vars" : [ "item", "label", "description", "aliases", "coords" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1419"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vespasian"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ninth Roman Emperor and founder of the Flavian dynasty (69–79)"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Vespasianus|Caesar Vespasianus Augustus|Emperor Vespasian|Mulio"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1421"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Titus"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tenth Roman Emperor (79–81)"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Titus Flavius Vespasianus|Flavius Vespasianus Titus|Titus Caesar Vespasianus|Titus Flavius Sabinus Vespasianus|Titus Vespasianus Augustus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1523"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ramesses II"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Egyptian third pharaoh of the Nineteenth Dynasty"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Ozymandias|Rameses|Ramses|Ramses II|Ramesses the Great|Ramses the Great"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1524"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Athens"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "capital and largest city of Greece"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Athenae|Athens city"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(23.728055555 37.984166666)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5725"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mohenjo-daro"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site in the province of Sindh, Pakistan"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Mohenjo Daro|Mound of the Dead|Moanjo-daro(Mound of dead)|Mound of dead|Mound of Dead Men"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(68.138888888 27.329166666)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5788"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Petra"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient rock-cut historical city in Jordan"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Mint of Petra|Petra, Jordan"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(35.440277777 30.328888888)|Point(35.441944 30.328611)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10285"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colosseum"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient Roman amphitheatre, a landmark of Rome, Italy"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Coliseum|Flavian Amphitheater|Flavian Amphitheatre|Flavius amphitheatre|Roman Coliseum|Roman Colosseum|the Colosseum"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(12.492222222 41.890277777)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37200"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Pyramid of Giza"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "oldest and largest of the three pyramids in the Giza Necropolis; one of the seven ancient wonders of the world"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Pyramid of Cheops|Pyramid of Khufu"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(31.13422 29.97915)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5859"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chichen Itza"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pre-Columbian Maya city in Mexico"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Chichén Itzá"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-88.568611111 20.683055555)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6373"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "British Museum"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "national museum in London, United Kingdom"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "the British Museum"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-0.126944444 51.519444444)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7192"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Qin Shi Huang"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "first emperor of Qin Dynasty"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Ying Zheng|Ying Cheng|Chao Cheng|Zhao Zheng|First Emperor|Ch'in Shih Huang|Ch'in Shih Huang Ti|Ch'in Shih Huang-ti|Ch'in Shih-huang|Ch'in Shih-huang-ti|Chi Hoang Ti|Chi Hoang-ti|Chi-hoang-ti|Chin Shi Hwang|Chin Shi Hwangti|Chin Shih Huang|Chin Shih Huang Ti|Chin Shih Huang-ti|Chin Shih-huang|Chin Shih-huang-ti|Çin Shi Huangdi|Dragon Emperor|First Dragon|First Emperor of the Qin|Qin Shihuang|Shi Huangdi|Shih Huang Ti|Shih Huang-ti|Shih-huang-ti|Tsin Shi Hwangti|Tsin-Chi-hwangti"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10288"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Parthenon"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "former temple of Athena on the Athenian Acropolis, Greece"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Pathenonas|The Parthenon"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(23.726601 37.971527)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12154"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tutankhamun"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "14th century BCE (18th dynasty) Egyptian pharaoh"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "King Tut|Tutankhamen|Tutankhaten|Tutenkhamen|Tutenkhamon"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12508"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giza pyramid complex"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site on the Giza Plateau, Egypt"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Giza Pyramids"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(31.132778 29.976111)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39671"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stonehenge"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Neolithic henge monument in Amesbury, Wiltshire, England, UK"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Stonehenge, the Avenue, and Three Barrows Adjacent to the Avenue Forming Part of a Round Barrow Cemetery on Countess Farm"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-1.826111111 51.178888888)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39957"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ptolemy V Epiphanes"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "fifth ruler of the Ptolemaic dynasty in Egypt (209–179 B.C.)"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Ptolemy Epiphanes|Ptolemy V"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42798"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Borobudur Temple"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buddhist temple in Java, Indonesia"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Boro Budor|Candi Borobudur"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(110.20384 -7.60793)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43473"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angkor Wat"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hindu-Buddhist temple complex in Cambodia"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "City of Temples|Brah Bisnulok|Brah Bisnulōk|Nokor Wat|Prasat Angkor Wat|Temple City|Vrah Visnuloka|Vrah Viṣṇuloka"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(103.866666666 13.4125)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51672"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Herod the Great"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "king of Judea from 37/6 BCE to 4/1 BCE"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Herod I"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q101583"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thebes"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient Egyptian city"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Ancient Thebes with its Necropolis|Neyout|Niwt|Thēbai|Waset"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(32.610277777 25.720555555)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q44387"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Darius I"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The fourth and greatest Achaemenid emperor (522–486 BC)"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Dareios|Dārayavahuš|Dārayavauš|Darayavaush|Darius I of Persia|Darius the Great|Dāriyūsh|Dāryūsh"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129072"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Persepolis"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient city in Marvdasht County, Iranian national heritage site and World heritage site"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Mint of Persepolis|Chehel Menar|Chel Menar|Chelmenar|Chihil Minar|Chil Minar|Chilminar|Takht-e Jamshid|Takht-e-Jamshid"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(52.89 29.935)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129296"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Santorini"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greek island in the Cyclades"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Thira|Thera|Santorin|Santorini Greece"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(25.4325 36.415)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130958"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Great Sphinx"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient Egyptian monumental sculpture"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Sphinx|Great Sphinx of Giza"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(31.13768 29.97527)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131397"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Venus of Willendorf"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prehistoric figurine from Austria"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Venus I"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(15.383333333 48.316666666)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133423"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Valley of the Kings"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "necropolis in ancient Egypt"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Valley of the Gates of the Kings"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(32.602358 25.74025)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134140"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abu Simbel"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UNESCO World Heritage Site in southern Egypt"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Abu Simbel temples|Great and Small Temples of Abu Simbel|Temples at Abu Simbel"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(31.625555555 22.336944444)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145780"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dead Sea scrolls"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "15,000 fragments of about 850 scrolls from ancient Judaism"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Qumran manuscripts"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(35.4586 31.7408)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172125"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lascaux"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cave in southwestern France famous for its Paleolithic cave paintings"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Lascaux cave"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(1.170959 45.053766)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q161904"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Khufu"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fourth Dynasty ancient Egyptian pharaoh"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Cheops|Kheops|Khêops|Khnum-Khufu|Salhuk|Saurid|Sofe|Suphis|Súphis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172613"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Teotihuacan"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient Mesoamerican city"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "City of the Sun|City of the Gods|archeological site of Teotihuacan|Place of Reeds|Teotihuacán"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-98.843888888 19.6925)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q173527"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Knossos"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient Minoan through Roman administrative center and city"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Cnossus|Mint of Cnossus"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(25.163155555 35.297961111)|Point(25.163156 35.297961)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q174367"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Djoser"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient Egyptian pharaoh of the 3rd dynasty"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Zoser|Djeser|Sesorthos|Tosorthros"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181172"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tikal"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ruins of major ancient Maya city"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Mutal|Mutul|Yax Mutul"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-89.623613888 17.222094444)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q192522"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Çatalhöyük"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site in Konya Province, Turkey"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Bienvenue dans le presse-papiers Gboard. Le texte que vous copiez est enregistré ici.|Catal Höyük|Catal hüyük|Catal Hüyük"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(32.828333333 37.6675)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q192418"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pyramid of Djoser"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Archeological site in Egypt"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "step pyramid|Pyramid of Zoser"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(31.216666666 29.871111111)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q199861"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Khafra"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient Egyptian pharaoh of 4th dynasty"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Chephren|Cheophren|Khaefre|Khefren"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q201219"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Egyptian Museum"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "museum in Cairo"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Cairo Museum|Matḥaf al-Miṣrī|Museum nke Egypt|Museum of Cairo|Museum of Egyptian Antiquities|Ụlọ ihe ngosi nka Cairo|Ụlọ ihe ngosi nka nke Cairo|Cairo Egyptian Museum"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(31.233333 30.047778)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q202927"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ziggurat of Ur"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "early Bronze Age ziggurat in present-day Iraq"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Temple of Ur"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(46.1025 30.9625)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q219279"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site in Peru"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Caral-Supe"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-77.520277777 -10.893611111)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q243699"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rosetta"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "city in Egypt"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Rashid|Bolbitine|Bolbythia|Rosetta, Egypt"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(30.419444444 31.401388888)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q209217"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Zimbabwe"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ruined city in the south-eastern hills of Zimbabwe near Lake Mutirikwe and the town of Masvingo, was once the capital of the Kingdom of Zimbabwe during the country's Late Iron Age"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Zimbabye"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(30.933 -20.27)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q214944"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Göbekli Tepe"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "neolithic archaeological site in Turkey"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Portasar|Potbelly Hill"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(38.9225 37.223055555)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29238"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pyramid of the Sun"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mesoamerica structure in Teotihuacan, first built in 100 CE"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-98.8438 19.6925)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43332"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pompeii"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient Roman city near modern Naples, Italy"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(14.489722 40.750556)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48584"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rosetta Stone"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient Egyptian stele with inscriptions in three writing systems"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q182324"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antikythera mechanism"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient analog computer designed to calculate astronomical positions"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(23.305 35.864167)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q186312"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Masada"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site in southeastern Israel"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(35.353888888 31.315555555)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189113"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "L'Anse aux Meadows"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site on the island of Newfoundland, Canada"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-55.531222222 51.595266666)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q203729"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Battle of Kadesh"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "battle between Egyptians and Hittites fought in 1274 BCE"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(36.498028 34.555487)"
+      }
+    } ]
+  }
+}

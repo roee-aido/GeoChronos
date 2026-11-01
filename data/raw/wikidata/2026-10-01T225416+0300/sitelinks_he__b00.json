@@ -1,0 +1,498 @@
+{
+  "head" : {
+    "vars" : [ "item", "hewikiTitle" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1524"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אתונה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1419"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אספסיאנוס"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1421"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "טיטוס"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1523"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "רעמסס השני"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5859"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "צ'יצ'ן איצה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12508"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מתחם הפירמידות בגיזה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6373"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "המוזיאון הבריטי"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5684"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "בבל"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5725"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מואנג'ודארו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5747"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "תדמור"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5788"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פטרה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22647"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "טרויה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29238"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פירמידת השמש"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29317"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "באגאן"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37200"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "הפירמידה הגדולה של גיזה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39671"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "סטונהנג'"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10288"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פרתנון"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10285"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קולוסיאום"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12154"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "תות ענח' אמון"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12506"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "איה סופיה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7192"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "צ'ין שה-חואנג, קיסר סין"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172125"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מערת לאסקו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172613"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "טאוטיווקאן"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q173527"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קנוסוס"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q174367"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "ג'וסר"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181007"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "חתושה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181123"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "המונומנטים הבודהיסטיים בסאנצ'י"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181172"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "טיקאל"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39957"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "תלמי החמישי"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42798"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "בורובודור"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43332"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פומפיי"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43473"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אנגקור ואט"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q44387"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "דריווש הראשון"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48584"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אבן רוזטה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51672"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "הורדוס"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55816"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מכתש צ'יקשולוב"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57357"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "חומת אדריאנוס"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61750"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "טיוואנאקו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q101583"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "תבאי (מצרים)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129072"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פרספוליס"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129296"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "סנטוריני"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130958"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "הספינקס הגדול של גיזה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131397"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "ונוס מווילנדורף"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133423"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "עמק המלכים"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133575"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מערת אלטאמירה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134140"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מקדשי אבו סימבל"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145780"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מגילות מדבר יהודה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q161904"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "ח'ופו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q171291"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אצי, איש הקרח"
+      }
+    } ]
+  }
+}

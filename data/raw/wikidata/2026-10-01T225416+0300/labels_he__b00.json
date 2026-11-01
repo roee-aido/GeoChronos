@@ -1,0 +1,918 @@
+{
+  "head" : {
+    "vars" : [ "item", "labelHe", "descriptionHe", "aliasesHe" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1421"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "טיטוס"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "בנו של הקיסר אספסיאנוס, ואחד משלושת הקיסרים מבית הפלאביים"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "טִיטוּס פְלַאוְויוּס אַסְפַּסְיָאנוּס"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5684"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "בבל"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "עיר מדינה עתיקה במסופוטומיה ובירת ממלכת בבל, ואתר ארכאולוגי בעיראק המודרנית"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "ששך"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37200"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "הפירמידה הגדולה של גיזה"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אחד משבעת פלאי תבל, מבנה עתיק במצרים"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "פירמידה גדולה|פירמידה גדולה של גיזה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39957"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "תלמי החמישי"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "תלמי אפיפנס|תלמי החמישי אפיפנס"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43332"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פומפיי"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "עיר רומית עתיקה במחוז קמפניה שבאיטליה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "פומפי"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q101583"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "תבאי"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "עיר מצרית עתיקה, במצרים העליונה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "נא אמון"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q44387"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "דריווש הראשון"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מלך האימפריה הפרסית במאות השישית והחמישית לפני הספירה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "דאריוס הראשון|דריוש הראשון"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131397"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "ונוס מווילנדורף"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פסל"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "ונוס מוילנדורף"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48584"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אבן רוזטה"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אסטלת מצרית עתיקה. הוא כתוב בשלושה סוגי כתב שונים: כתב חרטומים, כתב דמוטי וכתב יווני עתיק, ולכן שימש בעת החדשה מפתח לפענוח כתב החרטומים המצרי."
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "אבן הרוזטה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51672"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "הורדוס"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מלך יהודה ומייסד שושלת בית הורדוס"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "הוֹרְדוֹס"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130958"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "הספינקס הגדול של גיזה"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פסל"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "הספינקס|הספינקס בגיזה|הספינקס הגדול בגיזה|הספינקס של גיזה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145780"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מגילות מדבר יהודה"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מגילות קודש עתיקות בעברית, ארמית ויוונית, שנמצאו במאה ה-20 במערות מדבר יהודה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "המגילות הגנוזות|מגילות גנוזות|מגילות ים המלח|מגילות קומראן|מגילות קומרן"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133575"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מערת אלטאמירה"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מערה עם אמנות פרהיסטורית בספרד"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "מערת אלטמירה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134140"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מקדשי אבו סימבל"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אתר מורשת עולמי של אונסק\"ו בדרום מצרים"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "אבו סימבל|מקדש אבו סימבל|מקדש אבו-סימבל|מקדש אבו־סימבל"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12508"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מתחם הפירמידות בגיזה"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אתר ארכאולוגי במצרים"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "הנקרופוליס בגיזה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22647"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "טרויה"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "עיר קדומה בצפון מערב טורקיה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "איליון|איליום|טרוייה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61750"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "טיוואנאקו"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אתר ארכאולוגי חשוב במערב בוליביה, שבדרום אמריקה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "טיאהואנקו|טיוונאקו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181007"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "חתושה"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "בירת הממלכה והאימפריה החתית"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "בועזכוי|חתושש"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181123"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "המונומנטים הבודהיסטיים בסאנצ'י"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "הסטופה הגדולה בסאנצ'י|הסטופה הגדולה של סאנצ'י"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q161904"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "ח'ופו"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "חאופס|כאופס|פרעה חופו|צ'אופס|קחופו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q174367"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "ג'וסר"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פרעה מצרי מהשושלת השלישית"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "ג'וזר|דז'וסר|צ'וסר"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q171291"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אצי, איש הקרח"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "גופתו החנוטה בקרח של אדם שמת באלף הרביעי לפנה\"ס בהרי האלפים; התגלתה ב-18 בספטמבר 1991"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "אוטצי, איש הקרח|אצי איש הקרח"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172125"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מערת לאסקו"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מערכת מערות בדרום מערב צרפת המפורסמת בציורי הסלע מהתקופה הפלאוליתית העליונה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "מערת לסקו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172613"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "טאוטיווקאן"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "עיר עתיקה במקסיקו"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : "טאוטיהואקן"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129072"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פרספוליס"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אנדרטה היסטורית, הארמון האכמנידי, אתר מורשת לאומית של איראן, אתר מורשת עולמית של אונסק\"ו"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129296"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "סנטוריני"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "איים יווניים"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133423"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "עמק המלכים"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מקום קבורת הפרעונים"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q157094"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "דיסק השמיים מנברה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q173527"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קנוסוס"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אתר ארכאולוגי בהרקליון"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181172"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "טיקאל"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "עיר עתיקה של תרבות המאיה בדרום אמריקה (כיום גואטמלה). הפארק הלאומי הוכר כאתר מורשת עולמית של אונסק\"ו."
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1419"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אספסיאנוס"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קיסר רומא"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1523"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "רעמסס השני"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פרעה ומלך מצרים בשנים 1279–1213 לפנה\"ס, השלישי בשושלת ה-19"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1524"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אתונה"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "בירת יוון"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5725"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מואנג'ודארו"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5747"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "תדמור"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "עיר קדומה בסוריה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5788"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פטרה"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "עיר נבטית בירדן"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5859"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "צ'יצ'ן איצה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6373"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "המוזיאון הבריטי"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מוזיאון בממלכה המאוחדת"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7192"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "צ'ין שה-חואנג"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קיסר סיני"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10285"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קולוסיאום"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אמפיתאטרון ברומא"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10288"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פרתנון"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מקדש יווני הניצב על האקרופוליס של אתונה העתיקה. נחשב לבניין המפורסם ביותר מתקופת יוון העתיקה, ולאחד הבניינים המפורסמים ביותר בעולם"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12154"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "תות ענח' אמון"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פרעה מצרי מהשושלת ה-18"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12506"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "איה סופיה"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מבנה בטורקיה ששימש לאורך ההיסטוריה ככנסייה, כמסגד וכמוזיאון"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29238"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פירמידת השמש"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אתר ארכאולוגי במקסיקו"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29317"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "באגאן"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39671"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "סטונהנג'"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מונומנט פרהיסטורי באנגליה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42798"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "בורובודור"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מונומנט מהאיאני"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43473"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אנגקור ואט"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מקדש בודהיסטי עתיק"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55816"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מכתש צ'יקשולוב"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57357"
+      },
+      "labelHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "חומת אדריאנוס"
+      },
+      "descriptionHe" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "חומה רומית בבריטניה"
+      },
+      "aliasesHe" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    } ]
+  }
+}

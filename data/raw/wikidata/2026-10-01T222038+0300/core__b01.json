@@ -1,0 +1,732 @@
+{
+  "head" : {
+    "vars" : [ "item", "label", "description", "aliases", "coords" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q280444"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monks Mound"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "part of Cahokia, the largest Pre-Columbian earthwork in the Americas and the largest pyramid north of Mesoamerica"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Cahokia Mound 38|Monk's Mound"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-90.062 38.6607)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q333661"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cahokia"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site near East St. Louis, Illinois, USA"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Cahokia Mounds State Historic Site|Cahokia Mounds State Park"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-90.064444444 38.653888888)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q339503"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Newgrange"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "neolithic monument in County Meath, Ireland"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Newgrange Passage Tomb"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-6.4755655 53.6947251)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q343053"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ħaġar Qim"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "megalithic temple complex"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Hagar Qim"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(14.442222222 35.827777777)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q456939"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pyramids of Meroe"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pyramids in Sudan"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Meroë Pyramids"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(33.74916667 16.93833333)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q471332"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gebre Mesqel Lalibela"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ethiopean Emperor"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Lalibela"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q835309"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tomb of Tutankhamun"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tomb of Tutankhamun"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "KV62|Tutankhamen’s tomb|Tutankhamun's tomb"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(32.601444444 25.740361111)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q910180"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mausoleum of the First Qin Emperor"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mausoleum"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Mausoleum of Qin Chi Huang|Qinshihuang Ling"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(109.25388889 34.38166667)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128327"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Temple of Kukulcan"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pyramid in Chichén Itzá"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Temple of Kukulcán|La Pirámide|Pyramid of Kukulcan|Structure 5B18"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-88.568611111 20.682888888)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q503256"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sutton Hoo"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site near Woodbridge, Suffolk, England, UK"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Prehistoric settlement and group of barrows (including site of ship burial) at Sutton Hoo"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(1.338888888 52.089722222)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q522862"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnak Temple Complex"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ancient Egyptian temple complex"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Karnak|Temple of Karnak"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(32.658333333 25.718333333)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q637187"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Archaeological Museum of Athens"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "museum in Athens, Greece"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "NAMA|Archaeological Museum of Athens|National Archaeological Museum, Athens"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(23.732222222 37.989166666)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q676203"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Machu Picchu"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "15th-century Inca citadel in the Peruvian Andes and UNESCO World Heritage Site"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Huayna Picchu|Wayna Picchu"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-72.545555555 -13.163333333)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q688704"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Natural History Museum, Vienna"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "natural history museum in Vienna, Austria"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "NMW|Naturhistorisches Museum|Imperial Natural History Museum|Museum of Natural History Vienna|Natural History Museum Vienna|NHMW|Vienna Museum of Natural History"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(16.359930555 48.205130555)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q690035"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kadesh"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Qadesh"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(36.52 34.5576)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q816437"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Skara Brae"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Neolithic archaeological site in Scotland"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Skara Brae, settlement, mounds and other remains"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-3.3417499 59.0487138)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1144693"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Minoan eruption"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "major volcanic eruption around 1600 BCE"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Thera eruption"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(25.4 36.41)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1262524"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Treasury of Atreus"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "\"tholos\" tomb located on the Panagitsa Hill at Mycenae, Greece, that dates ca.1250 BC"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Tomb of Agamemnon"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(22.753602777 37.726805555)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2402267"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tell es-Sultan"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site in the West Bank"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Jericho|Tel Jericho"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(35.44456389 31.87171944)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2979068"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cliff Palace"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "human settlement in Mesa Verde National Park, Colorado, United States of America"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "Cliff Palace, CO"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-108.472777777 37.166666666)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7272782"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Qumran Caves"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cave in West Bank"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "caves of the Judean Desert"
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(35.458611111 31.741944444)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9048095"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mask of Tutankhamun"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "gold mask of the Egyptian pharaoh Tutankhamun"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : "death mask of Tutankhamun|funerary mask of Tutankhamun|gold mask of Tutankhamun|Tutankhamun's mask"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q313298"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Suryavarman II"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cambodian king (1094-1150)"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q421232"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Akrotiri"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bronze Age settlement on the volcanic Greek island of Santorini (Thera)"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(25.40356 36.35136)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q495286"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gochang, Hwasun and Ganghwa Dolmen Sites"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "dolmen"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(126.92917 34.96667)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q642979"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monolithic churches in Lalibela"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Churches made from a single block of stone in Ethiopia"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(39.04042 12.02935)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833850"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carnac stones"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "stone rows in Carnac, France"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-3.079722222 47.593333333)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q846967"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nan Madol"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ruined city of Federated States of Micronesesia"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(158.332222 6.841944)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q884971"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Blombos Cave"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archaeological site in Western Cape, South Africa"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(21.2225 -34.414444444)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1143218"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dolmen of Menga"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "dolmen located in Málaga, Spain"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-4.54845738 37.02401572)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3448354"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ahu Tongariki"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ahu on Easter Island"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(-109.276944444 -27.125833333)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85749368"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Budj Bim heritage areas"
+      },
+      "description" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "areas of historical and cultural significance near Budj Bim volcano in western Victoria, Australia"
+      },
+      "aliases" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "coords" : {
+        "type" : "literal",
+        "value" : "Point(141.9 -38.083333333)"
+      }
+    } ]
+  }
+}

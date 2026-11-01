@@ -1,0 +1,1199 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        23.7261042,
+                        37.9716591
+                    ],
+                    [
+                        23.7262007,
+                        37.9713017
+                    ],
+                    [
+                        23.7270751,
+                        37.9714709
+                    ],
+                    [
+                        23.7269705,
+                        37.9718049
+                    ],
+                    [
+                        23.7261042,
+                        37.9716591
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "parthenon",
+            "properties": {
+                "snippet": "Temple-2; 550 BC - AD 300",
+                "link": "https://pleiades.stoa.org/places/168254096/parthenon",
+                "description": "Polygon representing the boundaries of the Parthenon structure, derived from an OpenStreetMap Way.",
+                "location_precision": "precise",
+                "title": "OSM location of the Parthenon"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "acampbell",
+            "homepage": null,
+            "name": "Anika Campbell",
+            "uri": "https://pleiades.stoa.org/author/acampbell"
+        },
+        {
+            "username": "bkiesling",
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling"
+        },
+        {
+            "username": "cdlisle",
+            "homepage": null,
+            "name": "Chris de Lisle",
+            "uri": "https://pleiades.stoa.org/author/cdlisle"
+        },
+        {
+            "username": "jmuccigr",
+            "homepage": null,
+            "name": "John Muccigrosso",
+            "uri": "https://pleiades.stoa.org/author/jmuccigr"
+        },
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": null,
+            "name": "jfu"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/554932390",
+                    "citationDetail": "Way 554932390",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:way=554932390",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "parthenon",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+            ],
+            "end": 300,
+            "title": "OSM location of the Parthenon",
+            "provenance": "OpenStreetMap (Way 554932390, version 1, osm:changeset=55660192, 2018-01-22T16:48:07Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -550,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "temple-2"
+            ],
+            "description": "Polygon representing the boundaries of the Parthenon structure, derived from an OpenStreetMap Way.",
+            "created": "2018-01-22T16:48:31Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        23.7261042,
+                        37.9716591
+                    ],
+                    [
+                        23.7262007,
+                        37.9713017
+                    ],
+                    [
+                        23.7270751,
+                        37.9714709
+                    ],
+                    [
+                        23.7269705,
+                        37.9718049
+                    ],
+                    [
+                        23.7261042,
+                        37.9716591
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/168254096/parthenon",
+            "creators": [
+                {
+                    "username": "gmckee",
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-22T19:59:38Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "gmckee",
+                    "modified": "2018-01-22T16:51:59Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "gmckee",
+                    "modified": "2018-01-22T16:50:04Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "gmckee",
+                    "modified": "2018-01-22T16:48:32Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "gmckee",
+                    "modified": "2018-01-22T16:48:31Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": 2100,
+            "description": "",
+            "contributors": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                },
+                {
+                    "username": "cdlisle",
+                    "homepage": null,
+                    "name": "Chris de Lisle",
+                    "uri": "https://pleiades.stoa.org/author/cdlisle"
+                }
+            ],
+            "created": "2024-04-21T20:04:32Z",
+            "associationCertainty": "certain",
+            "title": "Acropolis of Athens",
+            "start": -550,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/168254096/acropolis-of-athens",
+            "connectionType": "on",
+            "id": "acropolis-of-athens",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "ottoman-empire-2",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/ottoman-empire-2",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "history": [
+                {
+                    "comment": "Shift to \"located on\" and expand time periods",
+                    "modifiedBy": "thomase",
+                    "modified": "2024-04-22T17:06:36Z"
+                },
+                {
+                    "comment": "ctype",
+                    "modifiedBy": "jbecker",
+                    "modified": "2021-01-26T01:49:25Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-22T19:59:38Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "gmckee",
+                    "modified": "2018-01-22T16:51:59Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "gmckee",
+                    "modified": "2018-01-22T16:50:54Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "gmckee",
+                    "modified": "2018-01-22T16:50:50Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/638356144",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "gmckee",
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on"
+        },
+        {
+            "end": 300,
+            "description": "",
+            "contributors": [],
+            "created": "2018-01-22T16:51:31Z",
+            "associationCertainty": "certain",
+            "title": "Athenae",
+            "start": -550,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/168254096/athenae",
+            "connectionType": "part_of_regional",
+            "id": "athenae",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2018-01-22T19:59:38Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "gmckee",
+                    "modified": "2018-01-22T16:51:59Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "gmckee",
+                    "modified": "2018-01-22T16:51:35Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "gmckee",
+                    "modified": "2018-01-22T16:51:31Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/579885",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "gmckee",
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional"
+        },
+        {
+            "end": -330,
+            "description": "",
+            "contributors": [],
+            "created": "2024-04-27T23:16:25Z",
+            "associationCertainty": "certain",
+            "title": "Older Parthenon",
+            "start": -550,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/168254096/older-parthenon",
+            "connectionType": "succeeds",
+            "id": "older-parthenon",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2024-04-30T20:38:31Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "cdlisle",
+                    "modified": "2024-04-27T23:16:32Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "cdlisle",
+                    "modified": "2024-04-27T23:16:26Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "cdlisle",
+                    "modified": "2024-04-27T23:16:25Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/832255771",
+            "details": "",
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "130-135",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Hurwit 2001",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4V538JUD",
+                    "formattedCitation": "<div class=\"csl-entry\">Hurwit, Jeffrey M. <i>The Athenian Acropolis: History, Mythology, and Archaeology from the Neolithic Era to the Present</i>. Cambridge: Cambridge University Press, 2001.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "cdlisle",
+                    "homepage": null,
+                    "name": "Chris de Lisle",
+                    "uri": "https://pleiades.stoa.org/author/cdlisle"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/succeeds"
+        },
+        {
+            "end": -330,
+            "description": "",
+            "contributors": [],
+            "created": "2024-04-27T23:17:32Z",
+            "associationCertainty": "certain",
+            "title": "Older Parthenon",
+            "start": -550,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/168254096/older-parthenon-1",
+            "connectionType": "material_source",
+            "id": "older-parthenon-1",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2024-04-30T20:39:44Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "cdlisle",
+                    "modified": "2024-04-27T23:17:38Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "cdlisle",
+                    "modified": "2024-04-27T23:17:32Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "cdlisle",
+                    "modified": "2024-04-27T23:17:32Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/832255771",
+            "details": "",
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "132",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Hurwit 2001",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4V538JUD",
+                    "formattedCitation": "<div class=\"csl-entry\">Hurwit, Jeffrey M. <i>The Athenian Acropolis: History, Mythology, and Archaeology from the Neolithic Era to the Present</i>. Cambridge: Cambridge University Press, 2001.</div>",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "cdlisle",
+                    "homepage": null,
+                    "name": "Chris de Lisle",
+                    "uri": "https://pleiades.stoa.org/author/cdlisle"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/material_source"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Hamilakis 2007",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/L8KG8QV6",
+            "formattedCitation": "<div class=\"csl-entry\">Yannis Hamilakis. <i>The Nation and Its Ruins: Antiquity, Archaeology, and National Imagination in Greece</i>. Classical Presences. Oxford &amp; New York: Oxford University Press, 2007.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "EAH: Parthenon",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/I4CDJRPF",
+            "formattedCitation": "<div class=\"csl-entry\">Neils, Jenifer. “Parthenon.” Edited by Roger S. Bagnall, Kai Broderson, Craige B. Champion, Andrew Erskine, and Sabine R. Huebner. <i>Encyclopedia of Ancient History</i>. Chichester: Wiley-Blackwell, 2013.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Parthenon",
+            "citationDetail": "Parthenon",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://whc.unesco.org/en/list/404",
+            "citationDetail": "404: Acropolis, Athens",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q10288",
+            "citationDetail": "Parthenon (Q10288)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.geonames.org/8354432/parthenon.html",
+            "citationDetail": "8354432: Parthenon",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "GeoNames",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.perseus.tufts.edu/hopper/artifact?name=Athens%2C+Parthenon&object=Building",
+            "citationDetail": "Athens, Parthenon (Building)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Perseus AAAB",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HVMQVC96",
+            "formattedCitation": "<div class=\"csl-entry\">“Perseus Art and Archaeology Artifact Browser.” Accessed August 23, 2023. https://www.perseus.tufts.edu/hopper/artifactBrowser.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.perseus.tufts.edu/hopper/artifact?name=Athens%2C+Pre-Parthenon&object=Building",
+            "citationDetail": "Athens, Pre-Parthenon (Building)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Perseus AAAB",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HVMQVC96",
+            "formattedCitation": "<div class=\"csl-entry\">“Perseus Art and Archaeology Artifact Browser.” Accessed August 23, 2023. https://www.perseus.tufts.edu/hopper/artifactBrowser.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/162915",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Travlos 1971",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/F5Q2AW7H",
+            "formattedCitation": "<div class=\"csl-entry\">Travlos, Ioannes N. <i>Pictorial Dictionary of Ancient Athens</i>. New York: Praeger, 1971. http://www.worldcat.org/oclc/162915.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://site.ebrary.com/id/2002855",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Goette 2001",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NC3JK2DA",
+            "formattedCitation": "<div class=\"csl-entry\">Goette, Hans Rupprecht. <i>Athens, Attica, and the Megarid: An Archaeological Guide</i>. London; New York: Routledge, 2001. http://site.ebrary.com/id/2002855.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Leake 1841",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3MWW2RCQ",
+            "formattedCitation": "<div class=\"csl-entry\">Leake, William Martin. <i>The Topography of Athens: With Some Remarks on Its Antiquities</i>. D. London: J. Rodwell, 1841.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/59267507",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Camp 2001",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z53ZGZC2",
+            "formattedCitation": "<div class=\"csl-entry\">Camp II, John McK. <i>The Archaeology of Athens</i>. New Haven: Yale University Press, 2001. http://www.worldcat.org/oclc/59267507.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Beard 2010",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9ASUIKJT",
+            "formattedCitation": "<div class=\"csl-entry\">Beard, Mary. <i>The Parthenon</i>. Cambridge, Mass: Harvard University Press, 2010.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Hurwit 2004",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/B486QITS",
+            "formattedCitation": "<div class=\"csl-entry\">Hurwit, Jeffrey M, and Jeffrey M Hurwit. <i>The Acropolis in the Age of Pericles</i>. Cambridge, UK; New York, NY: Cambridge University Press, 2004.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Neils 2005",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4WWMYLPZ",
+            "formattedCitation": "<div class=\"csl-entry\">Neils, Jenifer. <i>The Parthenon: From Antiquity to the Present</i>. Cambridge, UK; New York, NY, USA: Cambridge University Press, 2005.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Hurwit 2001",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4V538JUD",
+            "formattedCitation": "<div class=\"csl-entry\">Hurwit, Jeffrey M. <i>The Athenian Acropolis: History, Mythology, and Archaeology from the Neolithic Era to the Present</i>. Cambridge: Cambridge University Press, 2001.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Rhodes 1995",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RCBIQCN7",
+            "formattedCitation": "<div class=\"csl-entry\">Rhodes, Robin Francis. <i>Architecture and Meaning on the Athenian Acropolis</i>. Cambridge: Cambridge University Press, 1995.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://doi.org/10.1163/1574-9347_bnp_e15201400",
+            "citationDetail": "Parthenon A. Post-Antiquity Appropriation (Hartmut G. Döhl)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "New Pauly",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. http://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://doi.org/10.1163/1574-9347_bnp_e908900",
+            "citationDetail": "Parthenon (C. Höcker)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "New Pauly",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. http://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.1",
+            "citationDetail": "1.24.5",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "Paus. (Spiro: Perseus)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
+            "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/texts/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://latin.packhum.org/loc/978/1/2480/148-157",
+            "citationDetail": "34.54.3",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "www.jstor.org/stable/10.3764/aja.124.1.0003",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "van Rookhuijzen 2020",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VQDJJZTT",
+            "formattedCitation": "<div class=\"csl-entry\">Rookhuijzen, Jan Z. van. “The Parthenon Treasury on the Acropolis of Athens.” <i>American Journal of Archaeology</i> 124, no. 1 (2020): 3–35. https://doi.org/10.3764/aja.124.1.0003.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://arachne.dainst.org/entity/5584",
+            "citationDetail": "Parthenon Akropolis, (Ἀκρόπολις), Athen",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Arachne",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.sciencedirect.com/science/article/pii/S2352409X2300295X",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "de Lara 2023",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DZZRCP8F",
+            "formattedCitation": "<div class=\"csl-entry\">Lara, Juan de. “3D Physically Based Rendering Applied to the Problem of Translucent Marble Tiles as Means of Illuminating Classical Greek Temples: The Parthenon as Case Study.” <i>Journal of Archaeological Science: Reports</i> 51 (October 1, 2023): 104120. https://doi.org/10.1016/j.jasrep.2023.104120.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://vocab.getty.edu/page/tgn/8713152",
+            "citationDetail": "8713152: Parthenon (ancient site)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "TGN",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZLJQ5AZJ",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Getty Thesaurus of Geographic Names® Online</i>, n.d. https://www.getty.edu/research/tools/vocabularies/tgn/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://romeresearchgroup.org/items/1000944",
+            "citationDetail": "1000944",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "TCW",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZV7SNRDS",
+            "formattedCitation": "<div class=\"csl-entry\">John D. Muccigrosso, and Louis I. Hamilton. <i>Temples of the Classical World</i>. Rome Research Group. Accessed October 15, 2024. https://romeresearchgroup.org/database-of-temples/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://topostext.org/place/380237SAth",
+            "citationDetail": "Parthenon Athena temple (Athens) 64 Acropolis - Παρθενών",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "ToposText",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016-. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://resource.manto.unh.edu/10152722",
+            "citationDetail": "10152722: the Temple of Athena Parthenos at Athens",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "MANTO",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
+            "formattedCitation": "<div class=\"csl-entry\">Hawes, Greta, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://vici.org/vici/11523/",
+            "citationDetail": "11523: Parthenon",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "vici.org",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Parthenon",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.wikidata.org/wiki/Q10288",
+                    "citationDetail": "Q10288",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "Wikidata",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "parthenon-1",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2019-12-18T19:00:46Z",
+            "uri": "https://pleiades.stoa.org/places/168254096/parthenon-1",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Parthenon",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-06-15T19:56:24Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-04-26T02:09:34Z"
+                },
+                {
+                    "comment": "reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-04-26T02:09:26Z"
+                },
+                {
+                    "comment": "name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-12-18T19:00:50Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-12-18T19:00:46Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "neos hekatompedos",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20I%C2%B3%204(B)",
+                    "citationDetail": "I³ 4.B, lines 10–11, 18",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "IG",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/49WFK9SJ",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Inscriptiones Graecae</i>. Berlin: Berlin-Brandenburgische Akademie der Wissenschaften, n.d. https://ig.bbaw.de/de/publikationen.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "id": "hekatompedos-neos",
+            "end": -330,
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -550,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "grc",
+            "created": "2019-12-18T19:01:18Z",
+            "uri": "https://pleiades.stoa.org/places/168254096/hekatompedos-neos",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "νεὼς ἑκατόμπεδος (ὁ)",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2024-05-22T19:44:57Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "thomase",
+                    "modified": "2024-05-22T19:44:52Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-05-02T20:37:04Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-05-02T20:36:59Z"
+                },
+                {
+                    "comment": "name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-12-18T19:01:19Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2019-12-18T19:01:18Z"
+                }
+            ]
+        }
+    ],
+    "id": "168254096",
+    "subject": [
+        "extant remains",
+        "Temple",
+        "Doric",
+        "Athena"
+    ],
+    "title": "Parthenon",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "The temple of Athena Parthenos located on the Acropolis of Athens, which was constructed at the height of Athenian power between 447 and 432 BCE. It is the largest Doric temple in mainland Greece.",
+    "reprPoint": [
+        23.726584338316812,
+        37.97155766815715
+    ],
+    "placeTypes": [
+        "temple-2"
+    ],
+    "bbox": [
+        23.7261042,
+        37.9713017,
+        23.7270751,
+        37.9718049
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/638356144",
+        "https://pleiades.stoa.org/places/579885",
+        "https://pleiades.stoa.org/places/832255771",
+        "https://pleiades.stoa.org/places/832255771",
+        "https://pleiades.stoa.org/places/21797994",
+        "https://pleiades.stoa.org/places/418714189",
+        "https://pleiades.stoa.org/places/116485242"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2026-05-03T23:47:27Z",
+    "uri": "https://pleiades.stoa.org/places/168254096",
+    "creators": [
+        {
+            "username": "gmckee",
+            "homepage": null,
+            "name": "Gabriel Mckee",
+            "uri": "https://pleiades.stoa.org/author/gmckee"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "vici.org 11523: Parthenon",
+            "modifiedBy": "jbecker",
+            "modified": "2026-08-19T02:03:27Z"
+        },
+        {
+            "comment": "Added MANTO reference",
+            "modifiedBy": "thomase",
+            "modified": "2026-05-07T16:43:01Z"
+        },
+        {
+            "comment": "add @jmuccigr",
+            "modifiedBy": "jbecker",
+            "modified": "2026-04-07T03:20:59Z"
+        },
+        {
+            "comment": "@thomase checked and added references provided by @bkiesling",
+            "modifiedBy": "thomase",
+            "modified": "2025-10-29T00:12:09Z"
+        },
+        {
+            "comment": "update references",
+            "modifiedBy": "jbecker",
+            "modified": "2025-06-24T03:50:44Z"
+        },
+        {
+            "comment": "update WHL, add TGN 8713152: Parthenon (ancient site)",
+            "modifiedBy": "jbecker",
+            "modified": "2024-09-18T13:55:10Z"
+        },
+        {
+            "comment": "update references",
+            "modifiedBy": "jbecker",
+            "modified": "2024-05-02T20:37:48Z"
+        },
+        {
+            "comment": "Update summary (the Parthenon was not the poliadic temple - that was the temple of Athena Polias in the Erechtheion)",
+            "modifiedBy": "jbecker",
+            "modified": "2024-05-02T20:30:37Z"
+        },
+        {
+            "comment": "added de Lara 2023",
+            "modifiedBy": "thomase",
+            "modified": "2023-10-03T19:14:07Z"
+        },
+        {
+            "comment": "added Arachne 2100006: Parthenon Ἀκρόπολις, Athen",
+            "modifiedBy": "jbecker",
+            "modified": "2020-12-17T14:52:47Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "jfu",
+            "modified": "2020-06-15T16:24:59Z"
+        },
+        {
+            "comment": "reference clean up",
+            "modifiedBy": "jbecker",
+            "modified": "2019-12-18T19:00:17Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-23T03:10:01Z"
+        },
+        {
+            "comment": "summary",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-23T01:37:17Z"
+        },
+        {
+            "comment": "NP",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-23T01:30:19Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-23T01:22:07Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-23T01:17:41Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-22T19:59:38Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-22T19:58:57Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2018-01-22T19:57:35Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "gmckee",
+            "modified": "2018-01-22T16:51:58Z"
+        },
+        {
+            "comment": "Initial revision",
+            "modifiedBy": "gmckee",
+            "modified": "2018-01-22T16:46:06Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "gmckee",
+            "modified": "2018-01-22T16:45:48Z"
+        }
+    ]
+}

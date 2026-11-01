@@ -1,0 +1,138 @@
+{
+  "head" : {
+    "vars" : [ "item", "hewikiTitle" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q846967"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "נן מדול"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1143218"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "דולמן מנגה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1144693"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "ההתפרצות המינואית"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165562"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "ביצת קוק"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1060888"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פואבלו בוניטו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128327"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "פירמידת אל קסטיליו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q975775"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מונטה ורדה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1741475"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קילווה קיסיוואני"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2308606"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "האובליסק של אקסום"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2402267"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "תל יריחו"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2620036"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "קווי נסקה"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3287362"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "טפוטפואטאה מראי"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9048095"
+      },
+      "hewikiTitle" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מסכת תות ענח' אמון"
+      }
+    } ]
+  }
+}

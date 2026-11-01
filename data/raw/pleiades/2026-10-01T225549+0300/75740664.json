@@ -1,0 +1,550 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        14.4418468,
+                        35.8274669
+                    ],
+                    [
+                        14.4417267,
+                        35.827627
+                    ],
+                    [
+                        14.4417515,
+                        35.8277654
+                    ],
+                    [
+                        14.4418468,
+                        35.8278357
+                    ],
+                    [
+                        14.441931,
+                        35.8278869
+                    ],
+                    [
+                        14.4421152,
+                        35.8279351
+                    ],
+                    [
+                        14.4422553,
+                        35.8279103
+                    ],
+                    [
+                        14.442335,
+                        35.8278182
+                    ],
+                    [
+                        14.4426577,
+                        35.8276498
+                    ],
+                    [
+                        14.4426871,
+                        35.827475
+                    ],
+                    [
+                        14.4426242,
+                        35.827403
+                    ],
+                    [
+                        14.4421679,
+                        35.8273313
+                    ],
+                    [
+                        14.4418468,
+                        35.8274669
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-of-a-aa-ar-qim-temples",
+            "properties": {
+                "snippet": "Sanctuary; 10000 BC - 3300 BC",
+                "link": "https://pleiades.stoa.org/places/75740664/osm-location-of-a-aa-ar-qim-temples",
+                "description": "Representative location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location of Ħaġar Qim temples"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "neolithic-eastern-med",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neolithic-eastern-med",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/24162612",
+                    "citationDetail": "Way 24162612",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:way=24162612",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-of-a-aa-ar-qim-temples",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
+            ],
+            "end": -3300,
+            "title": "OSM location of Ħaġar Qim temples",
+            "provenance": "OpenStreetMap (Way 24162612, version 8, osm:changeset=55008564, 2017-12-29T12:28:33Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -10000,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "sanctuary"
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "created": "2020-07-12T14:34:18Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        14.4418468,
+                        35.8274669
+                    ],
+                    [
+                        14.4417267,
+                        35.827627
+                    ],
+                    [
+                        14.4417515,
+                        35.8277654
+                    ],
+                    [
+                        14.4418468,
+                        35.8278357
+                    ],
+                    [
+                        14.441931,
+                        35.8278869
+                    ],
+                    [
+                        14.4421152,
+                        35.8279351
+                    ],
+                    [
+                        14.4422553,
+                        35.8279103
+                    ],
+                    [
+                        14.442335,
+                        35.8278182
+                    ],
+                    [
+                        14.4426577,
+                        35.8276498
+                    ],
+                    [
+                        14.4426871,
+                        35.827475
+                    ],
+                    [
+                        14.4426242,
+                        35.827403
+                    ],
+                    [
+                        14.4421679,
+                        35.8273313
+                    ],
+                    [
+                        14.4418468,
+                        35.8274669
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/75740664/osm-location-of-a-aa-ar-qim-temples",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2020-07-15T10:34:57Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-07-12T14:35:41Z"
+                },
+                {
+                    "comment": "added this OSM location as previously published OSM data had been deleted.",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-07-12T14:34:54Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-07-12T14:34:18Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-07-12T14:34:18Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": null,
+            "description": "",
+            "contributors": [],
+            "created": "2016-07-13T13:36:11Z",
+            "associationCertainty": "certain",
+            "title": "Melita/Malta (island)",
+            "start": null,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/75740664/462311",
+            "connectionType": "connection",
+            "id": "462311",
+            "attestations": [],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:36:11Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:36:11Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:36:11Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/462311",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "admin",
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "http://whc.unesco.org/en/list/132",
+            "citationDetail": "132: Megalithic Temples of Malta",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/%C4%A6a%C4%A1ar_Qim",
+            "citationDetail": "Ħaġar Qim",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Ħaġar Qim.",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://maltain360.com/default.aspx?reference=110012535",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Ħaġar Qim Temples",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://heritagemalta.org/museums-sites/hagar-qim-temples/",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Heritage Malta: Ħaġar Qim Temples",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Stroud 2010",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QE6SHTS4",
+            "formattedCitation": "<div class=\"csl-entry\">Stroud, Katya, Daniel Cilia, and Heritage Malta (Organization). <i>Haġar Qim &amp; Mnajdra Prehistoric Temples, Qrendi</i>, 2010.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.geonames.org/2563017/hagar-qim.html",
+            "citationDetail": "2563017: Ħaġar Qim",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "GeoNames",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+            "otherIdentifier": " ",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q343053",
+            "citationDetail": "Ħaġar Qim (Q343053)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Ħaġar Qim",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.geonames.org/2563017/hagar-qim.html",
+                    "citationDetail": "2563017: Ħaġar Qim",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "GeoNames",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": " ",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "id": "a-aa-ar-qim",
+            "end": 2100,
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "mt",
+            "created": "2016-05-26T22:25:01Z",
+            "uri": "https://pleiades.stoa.org/places/75740664/a-aa-ar-qim",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Ħaġar Qim",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "reference update",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-07-12T14:33:29Z"
+                },
+                {
+                    "comment": "corrected language code",
+                    "modifiedBy": "thomase",
+                    "modified": "2020-07-12T10:25:20Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2016-05-26T23:19:44Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-05-26T22:25:24Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2016-05-26T22:25:00Z"
+                }
+            ]
+        }
+    ],
+    "id": "75740664",
+    "subject": [
+        "megalithic",
+        "limestone",
+        "UWHS",
+        "extant remains",
+        "Ġgantija phase"
+    ],
+    "title": "Hagar Qin Megalithic Temple Complex (Malta)",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "Ħaġar Qim is a megalithic temple complex (ca. 3600-3200 BC), included in the UNESCO World Heritage List.",
+    "reprPoint": [
+        14.442203554593087,
+        35.82761580042932
+    ],
+    "placeTypes": [
+        "sanctuary"
+    ],
+    "bbox": [
+        14.4417267,
+        35.8273313,
+        14.4426871,
+        35.8279351
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/462311"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2012-11-14T09:42:14Z",
+    "uri": "https://pleiades.stoa.org/places/75740664",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "add wikidata Ħaġar Qim (Q343053)",
+            "modifiedBy": "jbecker",
+            "modified": "2024-10-19T20:40:28Z"
+        },
+        {
+            "comment": "uwhs cleanup, reference cleanup",
+            "modifiedBy": "jbecker",
+            "modified": "2020-07-12T14:32:44Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2016-07-01T01:29:05Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2016-05-26T22:27:38Z"
+        },
+        {
+            "comment": "edited description",
+            "modifiedBy": "jbecker",
+            "modified": "2013-02-27T03:54:29Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "thomase",
+            "modified": "2012-11-14T10:29:25Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2012-11-14T09:48:04Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "thomase",
+            "modified": "2012-11-14T09:47:54Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "thomase",
+            "modified": "2012-11-14T09:42:51Z"
+        },
+        {
+            "comment": "Initial revision",
+            "modifiedBy": "thomase",
+            "modified": "2012-11-14T09:42:17Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "thomase",
+            "modified": "2012-11-14T09:42:14Z"
+        }
+    ]
+}

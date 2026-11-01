@@ -1,0 +1,495 @@
+{
+  "_comment": "Night-run expansion, 2026-10-01 (profile 'full' only; the 57-Item base seed in items.json stays the regression set). Same authoring conventions as items.json. Every date was read in the cited English Wikipedia revision (index: wikipedia_evidence.json); labels keep the source wording. Coordinates, countries, admin areas, Hebrew labels and Wikidata dates come from the Wikidata snapshot. Unknowns are left unknown.",
+  "items": [
+    {"id": "item:obelisk-of-aksum", "name": "Obelisk of Aksum", "ev": ["wp:Obelisk of Aksum"],
+     "description": "4th-century CE phonolite stele at Aksum; taken to Rome in 1937, returned in 2005, re-erected in 2008.",
+     "names": [{"name": "Obelisk of Axum", "lang": "en", "type": "alternative"}],
+     "pov": {"item_type": ["concept:type:monument"], "form": ["concept:form:stele"],
+             "function": [{"id": "concept:function:funerary", "conf": "low", "note": "Source describes the Aksumite practice of erecting burial steles; function of this stele inferred from that practice."}],
+             "culture": ["culture:aksumite"], "polity": ["polity:aksum"], "theme": ["concept:theme:monument-relocation", "concept:theme:repatriation"]},
+     "geo": {"located_in": ["place:region:horn-of-africa"]},
+     "attrs": [{"key": "height_m", "value": 24, "conf": "medium"}, {"key": "weight_t", "value": 160, "conf": "medium"}, {"key": "material_note", "value": "phonolite", "conf": "medium"}],
+     "time": [
+       {"role": "creation", "from": 301, "to": 400, "precision": "century", "label": "probably carved and erected during the 4th century CE", "conf": "medium", "status": "accepted", "rank": "preferred"},
+       {"role": "relocation", "from": 1937, "to": 1937, "precision": "year", "label": "taken to Italy as war spoil (1937)", "conf": "high", "status": "accepted"},
+       {"role": "relocation", "date": "2005-04-19", "date_to": "2005-04-25", "calendar": "gregorian", "precision": "day", "label": "returned to Ethiopia in three pieces, 19–25 April 2005", "conf": "high", "status": "accepted"},
+       {"role": "restoration", "date": "2008-09-04", "calendar": "gregorian", "precision": "day", "label": "re-erected and unveiled 4 September 2008", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:lucy-al-288-1", "name": "Lucy (AL 288-1)", "ev": ["wp:Lucy (hominid)"],
+     "description": "Partial skeleton of an Australopithecus afarensis individual found at Hadar, Ethiopia.",
+     "names": [{"name": "Dinkinesh", "lang": "am-Latn", "type": "native"}],
+     "pov": {"item_type": ["concept:type:fossil-specimen"], "culture": [{"id": "culture:australopithecus-afarensis", "note": "Species, not a culture: POC shortcut (see SPEC_INPUTS.md)."}],
+             "theme": ["concept:theme:human-evolution"]},
+     "geo": {"located_in": ["place:region:horn-of-africa"]},
+     "links": [{"pred": "held_by", "obj": "org:national-museum-of-ethiopia", "conf": "high", "note": "'preserved at the National Museum of Ethiopia in Addis Ababa'."}],
+     "time": [
+       {"role": "life", "from_ka": 3200, "to_ka": 3200, "qualifier": "circa", "precision": "Ma", "label": "lived around 3.2 million years ago", "conf": "medium", "status": "accepted", "rank": "preferred"},
+       {"role": "discovery", "from": 1974, "to": 1974, "precision": "year", "label": "discovered in 1974 at Hadar", "conf": "high", "status": "accepted"},
+       {"role": "relocation", "from": 2007, "to": 2013, "precision": "year", "label": "exhibited on a six-year US tour from 2007; original fossils returned to Ethiopia in 2013", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:nebra-sky-disc", "name": "Nebra sky disc", "ev": ["wp:Nebra sky disc"],
+     "description": "Bronze disc with gold inlays depicting celestial bodies, found near Nebra (Germany); its dating has been challenged.",
+     "pov": {"item_type": ["concept:type:artefact"], "form": ["concept:form:disc"],
+             "function": [{"id": "concept:function:astronomical", "conf": "medium", "note": "Source: presents solstice knowledge 'in the form of a portable object'."}],
+             "culture": ["culture:unetice"], "period": ["period:bronze-age"], "theme": ["concept:theme:archaeoastronomy"]},
+     "geo": {"located_in": ["place:region:central-europe"]},
+     "links": [{"pred": "held_by", "obj": "org:state-museum-of-prehistory-halle", "conf": "high"}],
+     "attrs": [{"key": "dating_challenge", "value": "Gebhard & Krause (2020) proposed an Iron Age date; Pernicka et al. (2020) rejected their arguments.", "conf": "medium", "status": "disputed", "group": "nebra:date",
+                "note": "No numeric alternative range is given in the source, so the challenge is recorded as an attribute claim, not as a time extent."}],
+     "time": [
+       {"role": "creation", "from": -1800, "to": -1600, "qualifier": "circa", "precision": "century", "label": "dated by archaeologists to c. 1800–1600 BC (Early Bronze Age)", "conf": "medium", "status": "accepted", "rank": "preferred", "group": "nebra:date"},
+       {"role": "deposition", "from": -1600, "to": -1560, "precision": "decade", "method": "radiocarbon (birch bark from sword hilts)", "label": "burial: birch bark in the sword hilts radiocarbon-dated to 1600–1560 BCE", "conf": "medium", "status": "accepted"},
+       {"role": "deposition", "from": -1700, "to": -1500, "qualifier": "circa", "precision": "century", "method": "typology of the associated axes and swords", "label": "associated axes and swords dated typologically to c. 1700–1500 BCE", "conf": "medium", "status": "accepted"},
+       {"role": "discovery", "from": 1999, "to": 1999, "precision": "year", "label": "found in 1999 by metal-detecting treasure hunters", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:taputapuatea-marae", "name": "Taputapuātea marae", "ev": ["wp:Taputapuatea marae"],
+     "description": "Large marae complex on Ra'iātea (Society Islands).",
+     "pov": {"item_type": ["concept:type:monument", "concept:type:archaeological-site"], "form": ["concept:form:marae"], "function": ["concept:function:ceremonial"],
+             "culture": ["culture:polynesian-society-islands"]},
+     "geo": {"located_in": ["place:region:polynesia"]},
+     "time": [
+       {"role": "use", "earliest_start": 1000, "earliest_end": 1801, "latest_end": 1850, "qualifier": "after", "precision": "century",
+        "label": "may have been established as early as AD 1000; abandoned shortly after missionaries arrived in the early 19th century", "conf": "low", "status": "accepted", "rank": "preferred",
+        "note": "'As early as AD 1000' is a lower bound only; the end bounds are a POC reading of 'early 19th century … shortly thereafter'."},
+       {"role": "construction", "from": 1301, "to": 1800, "precision": "century", "label": "expanded and rebuilt at least twice between the 14th and 18th centuries", "conf": "medium", "status": "accepted"},
+       {"role": "restoration", "from": 1994, "to": 1994, "precision": "year", "label": "archaeological remains restored in 1994", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:laetoli", "name": "Laetoli footprints", "ev": ["wp:Laetoli"],
+     "description": "Site in Tanzania with hominin footprints preserved in volcanic ash.",
+     "names": [{"name": "Laetoli", "lang": "en", "type": "alternative"}],
+     "pov": {"item_type": ["concept:type:archaeological-site"], "form": ["concept:form:footprint-trackway"],
+             "culture": [{"id": "culture:australopithecus-afarensis", "conf": "low", "note": "'Australopithecus afarensis is the species most commonly proposed'; tracemaker identity 'much debated'."}],
+             "theme": ["concept:theme:human-evolution"]},
+     "geo": {"located_in": ["place:region:east-africa"]},
+     "time": [
+       {"role": "deposition", "from_ka": 3700, "to_ka": 3700, "qualifier": "circa", "precision": "Ma", "label": "footprints dated to 3.7 million years ago", "conf": "medium", "status": "accepted", "rank": "preferred"},
+       {"role": "deposition", "from_ka": 3800, "to_ka": 3600, "precision": "Ma", "label": "upper unit of the Laetolil Beds: 3.6 to 3.8 million years ago", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "upper Laetolil Beds"}},
+       {"role": "discovery", "from": 1976, "to": 1978, "precision": "year", "label": "tracks discovered by Mary Leakey's team in 1976, excavated by 1978", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:murujuga", "name": "Murujuga (Burrup Peninsula) rock-art landscape", "ev": ["wp:Burrup Peninsula"],
+     "description": "Cultural landscape with one of the world's largest concentrations of petroglyphs. NOTE: the Wikidata item is the Burrup Peninsula (a landform), not a separate 'cultural landscape' entity.",
+     "pov": {"item_type": ["concept:type:cultural-landscape"], "form": ["concept:form:petroglyph"], "function": ["concept:function:symbolic-art"],
+             "culture": ["culture:aboriginal-murujuga"], "theme": ["concept:theme:early-symbolic-behaviour"]},
+     "geo": {"located_in": ["place:region:pilbara"]},
+     "time": [
+       {"role": "creation", "latest_start_ka": 45, "qualifier": "before", "precision": "ka", "label": "some carvings dated to more than 45,000 years old", "conf": "medium", "status": "accepted", "rank": "preferred",
+        "note": "Only an upper bound on the start is known ('more than'); creation continued over a very long period (not dated in the source)."},
+       {"role": "creation", "from_ka": 50, "to_ka": 40, "precision": "ka", "label": "some of the collection generally estimated to be 40,000–50,000 years old", "conf": "low", "status": "alternative"}
+     ]},
+
+    {"id": "item:great-mosque-of-djenne", "name": "Great Mosque of Djenné", "ev": ["wp:Great Mosque of Djenné"],
+     "description": "Mud-brick mosque in Djenné (Mali); the present building dates from 1907, on the site of a mosque first built around the 13th century.",
+     "pov": {"item_type": ["concept:type:monument"], "form": ["concept:form:mud-brick-mosque"], "function": ["concept:function:mosque"],
+             "religion": ["religion:islam"], "culture": ["culture:mali-djenne"]},
+     "geo": {"located_in": ["place:region:west-africa"]},
+     "time": [
+       {"role": "construction", "from": 1906, "to": 1907, "precision": "year", "label": "current structure: rebuilding arranged in 1906, completed in 1907", "conf": "high", "status": "accepted", "rank": "preferred", "qualifiers": {"phase": "present building"}},
+       {"role": "construction", "from": 1200, "to": 1330, "qualifier": "between", "precision": "decade", "label": "first mosque on the site: dates as early as 1200 and as late as 1330 have been suggested", "conf": "low", "status": "accepted", "qualifiers": {"phase": "first mosque"},
+        "note": "Same Item across rebuilds is a modelling choice (see SPEC_INPUTS.md)."}
+     ]},
+
+    {"id": "item:cave-of-altamira", "name": "Cave of Altamira", "ev": ["wp:Cave of Altamira"],
+     "description": "Cave in Cantabria with Upper Palaeolithic paintings.",
+     "pov": {"item_type": ["concept:type:cave", "concept:type:archaeological-site"], "form": ["concept:form:decorated-cave"], "function": ["concept:function:symbolic-art"],
+             "culture": ["culture:magdalenian", "culture:solutrean"], "period": ["period:upper-paleolithic"], "theme": ["concept:theme:early-symbolic-behaviour"]},
+     "geo": {"located_in": ["place:region:iberia"]},
+     "time": [
+       {"role": "creation", "from_ka": 36, "to_ka": 36, "qualifier": "circa", "precision": "ka", "label": "earliest paintings applied around 36,000 years ago", "conf": "medium", "status": "accepted", "rank": "preferred"},
+       {"role": "occupation", "from_ka": 18.5, "to_ka": 18.5, "qualifier": "circa", "precision": "ka", "label": "Upper Solutrean deposits (c. 18,500 years ago)", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "Upper Solutrean"}},
+       {"role": "occupation", "from_ka": 16.59, "to_ka": 14, "qualifier": "circa", "precision": "ka", "label": "Lower Magdalenian deposits (c. 16,590–14,000 years ago)", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "Lower Magdalenian"}},
+       {"role": "discovery", "from": 1868, "to": 1868, "precision": "year", "label": "discovered in 1868 by Modesto Cubillas", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:monte-verde", "name": "Monte Verde", "ev": ["wp:Monte Verde"],
+     "description": "Late Pleistocene site in southern Chile, central to the debate on the peopling of the Americas.",
+     "pov": {"item_type": ["concept:type:settlement", "concept:type:archaeological-site"], "function": ["concept:function:dwelling"],
+             "culture": ["culture:monte-verde-hunter-gatherers"], "theme": ["concept:theme:peopling-of-the-americas"]},
+     "geo": {"located_in": ["place:region:southern-cone"]},
+     "attrs": [{"key": "dating_dissent", "value": "other researchers suggested MV-II cannot be older than the middle Holocene", "conf": "low", "status": "disputed", "group": "monte-verde:mv2",
+                "note": "No numeric bounds given in the source for this view."}],
+     "time": [
+       {"role": "occupation", "from_ka": 14.5, "to_ka": 14.5, "qualifier": "circa", "precision": "ka", "label": "Monte Verde II: generally suggested to date to 14,500 years ago", "conf": "medium", "status": "accepted", "rank": "preferred", "group": "monte-verde:mv2",
+        "note": "'Largely accepted (though not without dissent)'.", "qualifiers": {"phase": "MV-II"}},
+       {"role": "occupation", "from_ka": 14.8, "to_ka": 14.8, "qualifier": "circa", "precision": "ka", "basis": "bp_1950", "method": "radiocarbon (1982, bones and charcoal; average)", "label": "average age of 14,800 BP (1982)", "conf": "low", "status": "alternative", "group": "monte-verde:mv2",
+        "note": "Stated as BP; the source does not say whether calibrated."},
+       {"role": "occupation", "from_ka": 18.5, "to_ka": 14.5, "precision": "ka", "basis": "bp_1950", "label": "Monte Verde I re-dated (2015) to around 18,500 to 14,500 BP", "conf": "low", "status": "disputed", "qualifiers": {"phase": "MV-I"},
+        "note": "MV-I 'lacks the general acceptance of Monte Verde II'."}
+     ]},
+
+    {"id": "item:kuk-swamp", "name": "Kuk Swamp", "ev": ["wp:Kuk Swamp"],
+     "description": "Site in the New Guinea Highlands with evidence of independently developed early agriculture.",
+     "pov": {"item_type": ["concept:type:archaeological-site", "concept:type:cultural-landscape"], "function": ["concept:function:food-production"],
+             "culture": ["culture:new-guinea-highlands-farmers"], "theme": ["concept:theme:origins-of-agriculture"]},
+     "geo": {"located_in": ["place:region:melanesia"]},
+     "time": [
+       {"role": "use", "from_ka": 9, "qualifier": "circa", "precision": "ka", "label": "agricultural drainage systems beginning about 9,000 years ago", "conf": "medium", "status": "accepted", "rank": "preferred", "note": "Start only; end of use not dated in the source."},
+       {"role": "use", "from_ka": 6.9, "to_ka": 6.4, "precision": "century", "label": "cultivation of bananas and sugar cane, 6,900–6,400 years ago", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "banana and sugar-cane cultivation"}},
+       {"role": "use", "from_ka": 6.95, "to_ka": 6.55, "precision": "century", "label": "banana phytoliths indicating deliberate planting, 6950–6550 years ago", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "banana planting"}}
+     ]},
+
+    {"id": "item:pueblo-bonito", "name": "Pueblo Bonito", "ev": ["wp:Pueblo Bonito"],
+     "description": "Largest Chacoan great house in Chaco Canyon, New Mexico.",
+     "pov": {"item_type": ["concept:type:settlement", "concept:type:archaeological-site"], "form": ["concept:form:great-house"], "function": ["concept:function:dwelling", "concept:function:ceremonial"],
+             "culture": ["culture:ancestral-puebloan"]},
+     "geo": {"located_in": ["place:region:american-southwest"]},
+     "time": [
+       {"role": "construction", "from": 850, "to": 1150, "precision": "decade", "label": "planned and constructed in stages between AD 850 and AD 1150", "conf": "medium", "status": "accepted", "rank": "preferred"},
+       {"role": "excavation", "from": 1896, "to": 1900, "precision": "year", "label": "excavations by Wetherill and Pepper, 1896–1900", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:serpent-mound", "name": "Serpent Mound", "ev": ["wp:Serpent Mound"],
+     "description": "Prehistoric effigy mound in Ohio; who built it, and when, has long been disputed.",
+     "pov": {"item_type": ["concept:type:monument"], "form": ["concept:form:effigy-mound"],
+             "culture": [{"id": "culture:adena", "status": "disputed", "group": "serpent-mound:builders", "note": "2014 radiocarbon (corroborated 2019): built c. 300 BCE by Adena peoples."},
+                         {"id": "culture:fort-ancient", "status": "disputed", "group": "serpent-mound:builders", "note": "1991 charcoal dates c. 1070 CE; rebuilt or repaired c. 1100 CE in the Fort Ancient period."}]},
+     "geo": {"located_in": ["place:region:eastern-woodlands"]},
+     "time": [
+       {"role": "construction", "from": -300, "to": -300, "qualifier": "circa", "from_unc": 50, "to_unc": 50, "precision": "century", "method": "radiocarbon (2014; corroborated 2019)", "label": "built in 300 BCE by the Adena peoples (2014 radiocarbon, corroborated 2019)", "conf": "medium", "status": "disputed", "rank": "preferred", "group": "serpent-mound:date",
+        "note": "Critique (Lepper): dated material was organic sediment from soil cores, not charcoal from an exposed profile."},
+       {"role": "construction", "from": 1070, "to": 1070, "qualifier": "circa", "from_unc": 50, "to_unc": 50, "precision": "century", "method": "radiocarbon (1991, charcoal)", "label": "two charcoal samples dated ca. 1070 CE (1991)", "conf": "medium", "status": "disputed", "group": "serpent-mound:date"},
+       {"role": "use", "from": 1100, "to": 1100, "qualifier": "circa", "from_unc": 50, "to_unc": 50, "precision": "century", "label": "rebuilt or repaired around 1100 CE during the Fort Ancient period", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "rebuild/repair"}}
+     ]},
+
+    {"id": "item:siloam-inscription", "name": "Siloam inscription", "ev": ["wp:Siloam inscription"],
+     "description": "Hebrew inscription recording the construction of the Siloam tunnel; held in Istanbul.",
+     "names": [{"name": "כתובת השילוח", "lang": "he", "type": "alternative", "ai_translation": true, "note": "Hebrew name supplied by the curator (Claude); not sourced. Wikidata Hebrew label, if any, is imported separately."}],
+     "pov": {"item_type": ["concept:type:text", "concept:type:artefact"], "form": ["concept:form:inscription"],
+             "culture": ["culture:iron-age-judah"], "theme": ["concept:theme:biblical-archaeology", "concept:theme:writing-decipherment", "concept:theme:repatriation"]},
+     "geo": {"located_in": ["place:region:levant"]},
+     "links": [{"pred": "held_by", "obj": "org:istanbul-archaeology-museums", "conf": "high", "note": "Part of the collections of the Istanbul Archaeology Museum; return requests (2007, 2017) were not granted."}],
+     "time": [
+       {"role": "creation", "from": -800, "to": -701, "precision": "century", "method": "palaeography", "label": "tunnel and inscription dated to the 8th century BC on the basis of the writing style", "conf": "medium", "status": "accepted", "rank": "preferred"},
+       {"role": "discovery", "from": 1880, "to": 1880, "precision": "year", "label": "found in 1880", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:mesha-stele", "name": "Mesha Stele", "ev": ["wp:Mesha Stele"],
+     "description": "Moabite royal inscription of King Mesha (Moabite Stone).",
+     "names": [{"name": "Moabite Stone", "lang": "en", "type": "alternative"}],
+     "pov": {"item_type": ["concept:type:text", "concept:type:artefact"], "form": ["concept:form:stele"], "culture": ["culture:moab"],
+             "theme": ["concept:theme:biblical-archaeology", "concept:theme:writing-decipherment"]},
+     "geo": {"located_in": ["place:region:levant"]},
+     "links": [{"pred": "held_by", "obj": "org:louvre", "conf": "high", "note": "In the Louvre's collection since 1873."},
+               {"pred": "commissioned_by", "obj": "person:mesha", "conf": "high"}],
+     "attrs": [
+       {"key": "reading_line_31", "value": "BT[D]WD reconstructed as 'House of David' (Lemaire 1994)", "conf": "medium", "status": "disputed", "group": "mesha:david"},
+       {"key": "reading_monarch", "value": "monarch referred to by three consonants beginning with 'B'; most probably Balak, not David (Finkelstein, Na'aman & Römer 2019)", "conf": "medium", "status": "disputed", "group": "mesha:david"}
+     ],
+     "time": [
+       {"role": "creation", "from": -840, "to": -840, "qualifier": "circa", "from_unc": 10, "to_unc": 10, "precision": "decade", "label": "dated around 840 BCE", "conf": "medium", "status": "accepted", "rank": "preferred", "group": "mesha:date"},
+       {"role": "creation", "earliest_start": -840, "latest_end": -810, "precision": "decade", "label": "may be as late as 810 BCE (Lemaire)", "conf": "low", "status": "alternative", "group": "mesha:date"}
+     ]},
+
+    {"id": "item:tel-dan-stele", "name": "Tel Dan stele", "ev": ["wp:Tel Dan stele"],
+     "description": "Fragmentary Old Aramaic victory inscription found at Tel Dan; mentions the 'House of David'.",
+     "pov": {"item_type": ["concept:type:text", "concept:type:artefact"], "form": ["concept:form:stele"], "culture": ["culture:aram-damascus"],
+             "theme": ["concept:theme:biblical-archaeology", "concept:theme:writing-decipherment"]},
+     "geo": {"located_in": ["place:region:levant"]},
+     "links": [
+       {"pred": "held_by", "obj": "org:israel-museum", "conf": "high", "note": "'Currently, it is on display at the Israel Museum.'"},
+       {"pred": "attributed_to", "obj": "person:hazael", "conf": "medium", "status": "disputed", "group": "tel-dan:author", "note": "Most scholars identify Hazael of Damascus (c. 842–806 BCE) as the author."},
+       {"pred": "attributed_to", "obj": "person:ben-hadad-iii", "conf": "low", "status": "disputed", "group": "tel-dan:author", "note": "George Athas: Ben-Hadad III, dating the inscription to around 796 BCE."},
+       {"pred": "attributed_to", "obj": "person:jehu", "conf": "low", "status": "disputed", "group": "tel-dan:author", "note": "Jan-Wim Wesselius: Jehu of Israel (r. c. 845–818 BCE)."}],
+     "time": [
+       {"role": "creation", "from": -900, "to": -801, "precision": "century", "label": "generally dated to the 9th century BCE", "conf": "medium", "status": "accepted", "rank": "preferred", "group": "tel-dan:date"},
+       {"role": "creation", "earliest_start": -870, "latest_end": -750, "precision": "decade", "label": "earliest possible c. 870 BCE; latest 'hardly much later than 750' (Mykytiuk)", "conf": "medium", "status": "accepted", "group": "tel-dan:date"},
+       {"role": "creation", "from": -796, "to": -796, "qualifier": "circa", "precision": "decade", "label": "around 796 BCE if by Ben-Hadad III (Athas)", "conf": "low", "status": "alternative", "group": "tel-dan:date"},
+       {"role": "discovery", "from": 1993, "to": 1994, "precision": "year", "label": "fragment A found 1993; fragments B1 and B2 in June 1994", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:aleppo-codex", "name": "Aleppo Codex", "ev": ["wp:Aleppo Codex"],
+     "description": "10th-century manuscript of the Hebrew Bible written in Tiberias; damaged in 1947, partly lost.",
+     "names": [{"name": "כתר ארם צובא", "lang": "he", "type": "native", "ev": ["wp:Aleppo Codex"], "note": "Hebrew name as given in the source (Keter Aram-Tsova, 'Crown of Aleppo')."}],
+     "pov": {"item_type": ["concept:type:text", "concept:type:artefact"], "form": ["concept:form:codex"], "function": ["concept:function:scripture"],
+             "religion": ["religion:judaism"], "culture": ["culture:masoretic-tiberias"], "theme": ["concept:theme:writing-decipherment", "concept:theme:repatriation"]},
+     "geo": {"located_in": ["place:region:levant"]},
+     "links": [{"pred": "held_by", "obj": "org:israel-museum", "conf": "high", "note": "Surviving portion housed in the Shrine of the Book at the Israel Museum."}],
+     "attrs": [{"key": "missing_portion", "value": "roughly 40% missing when it resurfaced in 1958, including most of the Torah", "conf": "medium"}],
+     "time": [
+       {"role": "creation", "from": 920, "to": 920, "qualifier": "circa", "from_unc": 10, "to_unc": 10, "precision": "decade", "label": "written in Tiberias in the 10th century CE (circa 920)", "conf": "medium", "status": "accepted", "rank": "preferred"},
+       {"role": "damage", "from": 1947, "to": 1947, "precision": "year", "label": "synagogue of Aleppo torched during anti-Jewish riots in 1947", "conf": "high", "status": "accepted"},
+       {"role": "relocation", "from": 1958, "to": 1958, "precision": "year", "label": "resurfaced in Israel in 1958", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:tel-megiddo", "name": "Tel Megiddo", "ev": ["wp:Tel Megiddo"],
+     "description": "Tell of ancient Megiddo in the Jezreel Valley.",
+     "names": [{"name": "Armageddon", "lang": "en", "type": "historical", "conf": "low", "note": "Name tradition associated with Megiddo."}],
+     "pov": {"item_type": ["concept:type:city", "concept:type:archaeological-site"], "form": ["concept:form:tell"], "culture": ["culture:canaanite-israelite"], "period": ["period:bronze-age"]},
+     "geo": {"located_in": ["place:region:levant"]},
+     "time": [
+       {"role": "occupation", "from": -3000, "to": -332, "qualifier": "circa", "from_unc": 50, "precision": "century", "label": "occupied continuously from the early Bronze Age (c. 3000 BCE) to the Persian period (c. 332 BCE)", "conf": "medium", "status": "accepted", "rank": "preferred", "group": "megiddo:occupation"},
+       {"role": "occupation", "from": -5000, "to": -350, "qualifier": "circa", "precision": "century", "label": "inhabited approximately from 5000 to 350 BCE", "conf": "medium", "status": "alternative", "group": "megiddo:occupation"},
+       {"role": "occupation", "from": -7000, "qualifier": "circa", "precision": "millennium", "label": "or even since around 7000 BCE (Megiddo Expedition suggestion)", "conf": "low", "status": "alternative", "group": "megiddo:occupation", "note": "Start only."},
+       {"role": "construction", "from": -3100, "to": -2901, "precision": "century", "method": "radiocarbon (calibrated)", "label": "Early Bronze IB temple: calibrated dates from the 31st and 30th century BCE", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "EB IB temple"}}
+     ]},
+
+    {"id": "item:chicxulub-crater", "name": "Chicxulub crater", "ev": ["wp:Chicxulub crater"],
+     "description": "Buried impact crater under the Yucatán Peninsula, linked to the Cretaceous–Paleogene boundary.",
+     "pov": {"item_type": ["concept:type:natural-feature"], "form": ["concept:form:impact-crater"], "theme": ["concept:theme:mass-extinction"]},
+     "geo": {"located_in": ["place:region:yucatan"]},
+     "time": [
+       {"role": "event", "latest_start_ka": 66000, "qualifier": "before", "precision": "Ma", "label": "formed slightly over 66 million years ago", "conf": "high", "status": "accepted", "rank": "preferred",
+        "note": "'Slightly over' = an upper bound on the date (it happened at or before 66 Ma)."},
+       {"role": "discovery", "from": 1978, "to": 1991, "precision": "year", "label": "magnetic survey 1978; identification published 1991", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:buddhas-of-bamiyan", "name": "Buddhas of Bamiyan", "ev": ["wp:Buddhas of Bamiyan"],
+     "description": "Two monumental Buddhist reliefs in the Bamiyan Valley, destroyed in March 2001.",
+     "pov": {"item_type": ["concept:type:monument"], "form": ["concept:form:colossal-statue", "concept:form:rock-cut"], "religion": ["religion:buddhism"],
+             "culture": ["culture:gandharan-buddhist"], "theme": ["concept:theme:heritage-destruction"]},
+     "geo": {"located_in": ["place:region:central-asia"]},
+     "time": [
+       {"role": "creation", "from": 570, "to": 570, "qualifier": "circa", "from_unc": 10, "to_unc": 10, "precision": "decade", "method": "radiocarbon (structural components)", "label": "smaller 'Eastern Buddha' built around 570 CE", "conf": "medium", "status": "accepted", "rank": "preferred", "qualifiers": {"phase": "Eastern Buddha"}},
+       {"role": "creation", "from": 618, "to": 618, "qualifier": "circa", "from_unc": 10, "to_unc": 10, "precision": "decade", "method": "radiocarbon (structural components)", "label": "larger 'Western Buddha' built around 618 CE", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "Western Buddha"}},
+       {"role": "creation", "from": 600, "to": 600, "qualifier": "circa", "from_unc": 25, "to_unc": 25, "precision": "century", "label": "carved around 600 CE during Hephthalite rule", "conf": "low", "status": "alternative"},
+       {"role": "destruction", "date": "2001-03", "calendar": "gregorian", "precision": "month", "label": "destroyed in March 2001", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:kilwa-kisiwani", "name": "Kilwa Kisiwani", "ev": ["wp:Kilwa Kisiwani"],
+     "description": "Island ruins of the medieval Swahili city-state of Kilwa.",
+     "pov": {"item_type": ["concept:type:city", "concept:type:archaeological-site"], "culture": ["culture:swahili"], "polity": ["polity:kilwa-sultanate"], "religion": ["religion:islam"]},
+     "geo": {"located_in": ["place:region:swahili-coast"]},
+     "time": [
+       {"role": "occupation", "from": 801, "from_unc": 0, "precision": "century", "method": "radiocarbon", "label": "founding confirmed at the start of the 9th century CE", "conf": "medium", "status": "accepted", "rank": "preferred", "note": "Start only; the island is still inhabited."},
+       {"role": "use", "from": 1201, "to": 1500, "precision": "century", "label": "highest point in wealth and commerce between the 13th and 15th centuries", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "peak"}}
+     ]},
+
+    {"id": "item:sanchi-stupa", "name": "Sanchi Stupa", "ev": ["wp:Sanchi Stupa"],
+     "description": "Buddhist complex in Madhya Pradesh centred on the Great Stupa.",
+     "pov": {"item_type": ["concept:type:monument"], "form": ["concept:form:stupa-temple"], "function": ["concept:function:religious"], "religion": ["religion:buddhism"], "culture": ["culture:maurya-sunga-buddhist"]},
+     "geo": {"located_in": ["place:region:south-asia"]},
+     "links": [{"pred": "commissioned_by", "obj": "person:ashoka", "conf": "medium", "note": "'originally commissioned by the Mauryan emperor Ashoka in the 3rd century BCE'."}],
+     "time": [
+       {"role": "construction", "from": -300, "to": -201, "precision": "century", "label": "originally commissioned in the 3rd century BCE", "conf": "medium", "status": "accepted", "rank": "preferred"},
+       {"role": "construction", "from": -100, "to": -1, "precision": "century", "label": "four carved toranas and a balustrade added in the 1st century BCE", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "toranas"}},
+       {"role": "use", "from": -300, "to": 1100, "precision": "century", "label": "the complex flourished until the 11th century", "conf": "medium", "status": "accepted"}
+     ]},
+
+    {"id": "item:yinxu", "name": "Yinxu", "ev": ["wp:Yinxu"],
+     "description": "Ruins of Yin, last capital of the Shang dynasty, near Anyang; source of oracle-bone inscriptions.",
+     "names": [{"name": "殷墟", "lang": "zh", "type": "native"}],
+     "pov": {"item_type": ["concept:type:city", "concept:type:archaeological-site"], "culture": ["culture:shang"], "polity": ["polity:shang"], "theme": ["concept:theme:writing-decipherment"]},
+     "geo": {"located_in": ["place:region:east-asia"]},
+     "time": [
+       {"role": "use", "from": -1250, "to": -1046, "qualifier": "circa", "precision": "decade", "label": "capital during the Late Shang period (c. 1250 – c. 1046 BCE)", "conf": "medium", "status": "accepted", "rank": "preferred"},
+       {"role": "discovery", "from": 1899, "to": 1899, "precision": "year", "label": "rediscovered in 1899 through oracle bones sold nearby", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:hattusa", "name": "Hattusa", "ev": ["wp:Hattusa"],
+     "description": "Capital of the Hittite Empire in central Anatolia.",
+     "pov": {"item_type": ["concept:type:city", "concept:type:archaeological-site"], "culture": ["culture:hittite"], "polity": ["polity:hittite-empire"], "period": ["period:bronze-age"]},
+     "geo": {"located_in": ["place:region:anatolia"]},
+     "time": [
+       {"role": "occupation", "from": -6000, "to": -5001, "precision": "millennium", "label": "earliest traces of settlement from the 6th millennium BC", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "earliest settlement"}},
+       {"role": "destruction", "from": -1700, "to": -1700, "qualifier": "circa", "from_unc": 25, "to_unc": 25, "precision": "century", "label": "burned and ruined around 1700 BC (attributed to Anitta of Kussara)", "conf": "medium", "status": "accepted"},
+       {"role": "use", "from": -1650, "qualifier": "circa", "precision": "century", "label": "Hittite capital from around 1650 BC (Labarna/Hattusili)", "conf": "medium", "status": "accepted", "rank": "preferred", "note": "End of the capital phase not captured from the source extract."}
+     ]},
+
+    {"id": "item:troy", "name": "Troy (Hisarlık)", "ev": ["wp:Troy"],
+     "description": "Bronze Age city in north-west Anatolia, generally identified with Homer's Troy and Hittite Wilusa.",
+     "names": [{"name": "Hisarlık", "lang": "tr", "type": "native"}],
+     "pov": {"item_type": ["concept:type:city", "concept:type:archaeological-site"], "form": ["concept:form:tell"], "culture": ["culture:troy-layers"], "period": ["period:bronze-age"]},
+     "geo": {"located_in": ["place:region:anatolia"]},
+     "attrs": [{"key": "identification", "value": "Hisarlık is generally identified with Hittite Wilusa/Truwisa and with Homeric Troy", "conf": "medium", "status": "accepted"}],
+     "time": [
+       {"role": "occupation", "from": -3600, "qualifier": "circa", "precision": "century", "label": "first settled around 3600 BC; '4000 years of settlement'", "conf": "medium", "status": "accepted", "rank": "preferred", "note": "End of settlement not captured (open)."},
+       {"role": "construction", "from": -3000, "to": -3000, "qualifier": "circa", "precision": "century", "label": "grew into a small fortified city around 3000 BC (Troy I)", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "Troy I"}}
+     ]},
+
+    {"id": "item:babylon", "name": "Babylon", "ev": ["wp:Babylon"],
+     "description": "Capital of Babylonia on the Euphrates.",
+     "names": [{"name": "בבל", "lang": "he", "type": "alternative", "ai_translation": true, "note": "Hebrew name supplied by the curator (Claude); not sourced."}],
+     "pov": {"item_type": ["concept:type:city", "concept:type:archaeological-site"], "culture": ["culture:babylonian"], "theme": ["concept:theme:early-urbanism"]},
+     "geo": {"located_in": ["place:region:mesopotamia"]},
+     "time": [
+       {"role": "first_record", "from": -2217, "to": -2193, "precision": "year", "label": "earliest known mention on a tablet from the reign of Shar-Kali-Sharri (2217–2193 BC)", "conf": "medium", "status": "accepted"},
+       {"role": "occupation", "earliest_start": -2217, "latest_start": -2193, "earliest_end": 1001, "latest_end": 1100, "precision": "century", "label": "from the earliest mention to the last known habitation (11th century AD)", "conf": "medium", "status": "accepted", "rank": "preferred"},
+       {"role": "use", "from": -626, "to": -539, "precision": "year", "label": "capital of the Neo-Babylonian Empire, 626–539 BC", "conf": "high", "status": "accepted", "qualifiers": {"phase": "Neo-Babylonian capital"}}
+     ]},
+
+    {"id": "item:palmyra", "name": "Palmyra", "ev": ["wp:Palmyra"],
+     "description": "Ancient caravan city in the Syrian Desert; large parts destroyed in 2015.",
+     "names": [{"name": "Tadmur", "lang": "ar-Latn", "type": "native"}],
+     "pov": {"item_type": ["concept:type:city", "concept:type:archaeological-site"], "culture": ["culture:palmyrene"], "theme": ["concept:theme:heritage-destruction"]},
+     "geo": {"located_in": ["place:region:upper-mesopotamia-syria"]},
+     "time": [
+       {"role": "first_record", "from": -2000, "to": -1701, "precision": "century", "label": "documents first mention the city in the early second millennium BCE", "conf": "low", "status": "accepted", "note": "Numeric bounds are a POC reading of 'early second millennium BCE'."},
+       {"role": "use", "from": 201, "to": 300, "precision": "century", "label": "by the third century, a prosperous regional center", "conf": "medium", "status": "accepted"},
+       {"role": "damage", "from": 2015, "to": 2015, "precision": "year", "label": "captured in 2015 by the Islamic State, which destroyed large parts of the ancient city", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:harappa", "name": "Harappa", "ev": ["wp:Harappa"],
+     "description": "Major city of the Indus Valley Civilisation in Punjab.",
+     "pov": {"item_type": ["concept:type:city", "concept:type:archaeological-site"], "culture": ["culture:indus-valley"], "period": ["period:bronze-age"], "theme": ["concept:theme:early-urbanism"]},
+     "geo": {"located_in": ["place:region:indus-valley"]},
+     "time": [
+       {"role": "occupation", "from": -2600, "to": -1900, "precision": "century", "label": "Mature Harappan phase (2600 BC – 1900 BC), the city's greatest extent", "conf": "medium", "status": "accepted", "rank": "preferred", "group": "harappa:mature"},
+       {"role": "occupation", "from": -2600, "to": -2000, "precision": "century", "label": "the civilization's mature phase lasted from 2600 BC to 2000 BC", "conf": "medium", "status": "alternative", "group": "harappa:mature", "note": "Same article gives two end dates for the mature phase."},
+       {"role": "damage", "from": 1857, "to": 1857, "precision": "year", "label": "bricks taken for railway ballast in 1857", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:ajanta-caves", "name": "Ajanta Caves", "ev": ["wp:Ajanta Caves"],
+     "description": "Thirty rock-cut Buddhist cave monuments in Maharashtra.",
+     "pov": {"item_type": ["concept:type:cave", "concept:type:monument"], "form": ["concept:form:rock-cut", "concept:form:decorated-cave"], "function": ["concept:function:religious"],
+             "religion": ["religion:buddhism"]},
+     "geo": {"located_in": ["place:region:south-asia"]},
+     "time": [
+       {"role": "construction", "from": -200, "to": 100, "precision": "century", "label": "first phase: 2nd century BCE to 1st century CE", "conf": "medium", "status": "accepted", "rank": "preferred", "qualifiers": {"phase": "first phase"}, "group": "ajanta:phase1"},
+       {"role": "construction", "from": -100, "to": 100, "precision": "century", "label": "first phase 100 BCE – 100 CE (Walter Spink)", "conf": "medium", "status": "alternative", "qualifiers": {"phase": "first phase"}, "group": "ajanta:phase1"},
+       {"role": "construction", "from": 400, "to": 650, "precision": "decade", "label": "second phase 400–650 CE according to older accounts", "conf": "medium", "status": "disputed", "qualifiers": {"phase": "second phase"}, "group": "ajanta:phase2"},
+       {"role": "construction", "from": 460, "to": 480, "precision": "decade", "label": "second phase in a brief period of 460–480 CE according to later scholarship", "conf": "medium", "status": "disputed", "qualifiers": {"phase": "second phase"}, "group": "ajanta:phase2"},
+       {"role": "discovery", "from": 1819, "to": 1819, "precision": "year", "label": "'discovered' in 1819 by Colonel John Smith", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:bagan", "name": "Bagan", "ev": ["wp:Bagan"],
+     "description": "Capital of the Pagan Kingdom with thousands of Buddhist temples.",
+     "pov": {"item_type": ["concept:type:city", "concept:type:archaeological-site"], "form": ["concept:form:temple-complex"], "religion": ["religion:buddhism"],
+             "culture": ["culture:bagan-burmese"], "polity": ["polity:pagan-kingdom"]},
+     "geo": {"located_in": ["place:region:southeast-asia"]},
+     "time": [
+       {"role": "use", "from": 801, "to": 1300, "precision": "century", "label": "capital of the Pagan Kingdom from the 9th to 13th centuries", "conf": "medium", "status": "accepted", "rank": "preferred"},
+       {"role": "construction", "from": 1001, "to": 1300, "precision": "century", "label": "more than 10,000 religious buildings constructed between the 11th and 13th centuries", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "temple building"}},
+       {"role": "existence", "from": 850, "to": 899, "precision": "decade", "label": "founded in the mid-to-late 9th century (Western scholarship)", "conf": "low", "status": "accepted", "group": "bagan:founding",
+        "note": "The Burmese chronicles give a different (earlier) founding; their date was not captured from the source extract."}
+     ]},
+
+    {"id": "item:chauvet-cave", "name": "Chauvet Cave", "ev": ["wp:Chauvet Cave"],
+     "description": "Cave in the Ardèche with some of the oldest known figurative cave paintings; dating has been disputed.",
+     "pov": {"item_type": ["concept:type:cave", "concept:type:archaeological-site"], "form": ["concept:form:decorated-cave"], "function": ["concept:function:symbolic-art"],
+             "culture": ["culture:aurignacian", "culture:gravettian"], "period": ["period:upper-paleolithic"], "theme": ["concept:theme:early-symbolic-behaviour"]},
+     "time": [
+       {"role": "creation", "from_ka": 32, "to_ka": 30, "precision": "ka", "label": "art placed in the Aurignacian, approximately 32,000–30,000 years ago (2012 study)", "conf": "medium", "status": "disputed", "rank": "preferred", "group": "chauvet:dating"},
+       {"role": "occupation", "from_ka": 37, "to_ka": 33.5, "precision": "ka", "method": "88 additional radiocarbon dates (2016)", "label": "first period of habitation 37,000–33,500 years ago, when most black drawings were made (2016 study)", "conf": "medium", "status": "disputed", "group": "chauvet:dating"},
+       {"role": "occupation", "from_ka": 31, "to_ka": 28, "precision": "ka", "label": "second period of habitation 31,000–28,000 years ago (2016 study)", "conf": "medium", "status": "accepted"},
+       {"role": "occupation", "from_ka": 27, "to_ka": 25, "precision": "ka", "label": "later Gravettian occupation 27,000–25,000 years ago", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "Gravettian"}}
+     ]},
+
+    {"id": "item:otzi", "name": "Ötzi", "ev": ["wp:Ötzi"],
+     "description": "Natural mummy of a man who lived in the 4th millennium BC, found in the Ötztal Alps.",
+     "names": [{"name": "The Iceman", "lang": "en", "type": "alternative"}],
+     "pov": {"item_type": ["concept:type:fossil-specimen"], "form": ["concept:form:mummy"], "culture": ["culture:alpine-copper-age"], "period": ["period:chalcolithic"]},
+     "geo": {"located_in": [{"id": "place:region:alps", "note": "Found at the Austria–Italy border; the source says it was initially unclear on which side."}]},
+     "links": [{"pred": "held_by", "obj": "org:south-tyrol-museum-of-archaeology", "conf": "high"}],
+     "time": [
+       {"role": "life", "from": -3359, "to": -3105, "precision": "decade", "method": "radiocarbon (tissue and accompanying materials)", "label": "lived between 3359 and 3105 BC", "conf": "high", "status": "accepted", "rank": "preferred"},
+       {"role": "event", "from": -3239, "to": -3105, "precision": "decade", "label": "death: 66% probability between 3239 and 3105 BC", "conf": "medium", "status": "alternative", "group": "otzi:death"},
+       {"role": "event", "from": -3359, "to": -3294, "precision": "decade", "label": "death: 33% probability between 3359 and 3294 BC", "conf": "low", "status": "alternative", "group": "otzi:death"},
+       {"role": "discovery", "date": "1991-09-19", "calendar": "gregorian", "precision": "day", "label": "discovered on 19 September 1991", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:hadrians-wall", "name": "Hadrian's Wall", "ev": ["wp:Hadrian's Wall"],
+     "description": "Roman frontier fortification across northern Britain.",
+     "pov": {"item_type": ["concept:type:monument"], "form": ["concept:form:linear-fortification"], "function": ["concept:function:defensive", "concept:function:boundary"],
+             "culture": ["culture:ancient-rome"], "polity": ["polity:roman-empire"]},
+     "geo": {"located_in": ["place:region:british-isles"]},
+     "links": [{"pred": "commissioned_by", "obj": "person:hadrian", "conf": "high"}],
+     "time": [
+       {"role": "construction", "from": 122, "precision": "year", "earliest_end": 122, "label": "begun in AD 122 in the reign of Hadrian", "conf": "high", "status": "accepted", "note": "Completion date not captured from the source extract."},
+       {"role": "use", "from": 122, "to": 410, "precision": "year", "label": "Roman frontier until the end of Roman rule in Britain in 410 AD", "conf": "medium", "status": "accepted", "rank": "preferred"}
+     ]},
+
+    {"id": "item:hagia-sophia", "name": "Hagia Sophia", "ev": ["wp:Hagia Sophia"],
+     "description": "Justinian's basilica in Istanbul: church, mosque, museum and mosque again — function changes over time.",
+     "pov": {"item_type": ["concept:type:monument"], "form": ["concept:form:domed-basilica"],
+             "function": [
+               {"id": "concept:function:church", "conf": "high", "note": "'formerly a church (360–1453)'.", "qualifiers": {"from": 360, "to": 1453}},
+               {"id": "concept:function:mosque", "conf": "high", "note": "Mosque after the fall of Constantinople in 1453 (until 1934/35) and again since 2020 — two periods on one claim; see SPEC_INPUTS.md (time-scoped relations).", "qualifiers": {"periods": [[1453, 1935], [2020, null]]}},
+               {"id": "concept:function:museum", "conf": "high", "note": "Museum 1935–2020.", "qualifiers": {"from": 1935, "to": 2020}}],
+             "religion": ["religion:christianity-byzantine", "religion:islam"], "culture": ["culture:byzantine", "culture:ottoman"]},
+     "geo": {"located_in": ["place:region:anatolia"]},
+     "links": [{"pred": "commissioned_by", "obj": "person:justinian-i", "conf": "high"}],
+     "time": [
+       {"role": "construction", "from": 532, "to": 537, "precision": "year", "label": "current structure built by Justinian I between 532 and 537", "conf": "high", "status": "accepted", "rank": "preferred"},
+       {"role": "construction", "from": 346, "to": 346, "qualifier": "circa", "precision": "decade", "label": "earlier 'Great Church' constructed by Constantius c. 346 (Socrates of Constantinople)", "conf": "low", "status": "alternative", "qualifiers": {"phase": "4th-century church"},
+        "note": "Ancient report; whether that church was already called Hagia Sophia is questioned (Mainstone)."},
+       {"role": "reuse", "from": 1453, "to": 1453, "precision": "year", "label": "became a mosque after the fall of Constantinople (1453)", "conf": "high", "status": "accepted"},
+       {"role": "reuse", "from": 1935, "to": 1935, "precision": "year", "label": "opened as a museum in 1935", "conf": "high", "status": "accepted"},
+       {"role": "reuse", "from": 2020, "to": 2020, "precision": "year", "label": "reclassified as a mosque in 2020", "conf": "high", "status": "accepted"}
+     ]},
+
+    {"id": "item:monte-alban", "name": "Monte Albán", "ev": ["wp:Monte Albán"],
+     "description": "Zapotec capital on a ridge above the Valley of Oaxaca.",
+     "pov": {"item_type": ["concept:type:city", "concept:type:archaeological-site"], "culture": ["culture:zapotec"], "period": ["period:mesoamerican-classic"]},
+     "geo": {"located_in": ["place:region:mesoamerica"]},
+     "time": [
+       {"role": "occupation", "earliest_start": -500, "latest_start": -500, "earliest_end": 750, "qualifier": "circa", "precision": "century",
+        "label": "founded around 500 BC; lost pre-eminence by the end of the Late Classic (c. AD 500–750) and soon thereafter was largely abandoned", "conf": "medium", "status": "accepted", "rank": "preferred",
+        "note": "Latest end left open: 'soon thereafter'."},
+       {"role": "use", "from": -100, "to": 200, "qualifier": "circa", "precision": "century", "label": "capital of a large-scale expansionist polity by the Terminal Formative (c. 100 BC – AD 200)", "conf": "medium", "status": "accepted"}
+     ]},
+
+    {"id": "item:chan-chan", "name": "Chan Chan", "ev": ["wp:Chan Chan"],
+     "description": "Adobe capital of the Chimú state on the north coast of Peru.",
+     "pov": {"item_type": ["concept:type:city", "concept:type:archaeological-site"], "culture": ["culture:chimu"]},
+     "geo": {"located_in": ["place:region:andes"]},
+     "time": [
+       {"role": "occupation", "from": 850, "to": 1470, "qualifier": "circa", "precision": "decade", "label": "constructed around 850 AD; declined after the Inca conquest around 1470 AD", "conf": "medium", "status": "accepted", "rank": "preferred"}
+     ]},
+
+    {"id": "item:nazca-lines", "name": "Nazca lines", "ev": ["wp:Nazca lines"],
+     "description": "Large geoglyphs in the Nazca Desert of southern Peru.",
+     "pov": {"item_type": ["concept:type:monument", "concept:type:cultural-landscape"], "form": ["concept:form:geoglyph"], "culture": ["culture:nazca"]},
+     "geo": {"located_in": ["place:region:andes"]},
+     "time": [
+       {"role": "creation", "from": -500, "to": 500, "precision": "century", "label": "created between 500 BC and 500 AD", "conf": "medium", "status": "accepted", "rank": "preferred"},
+       {"role": "creation", "from": -400, "to": -200, "precision": "century", "label": "Paracas phase, 400 to 200 BC", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "Paracas"}},
+       {"role": "creation", "from": -200, "to": 500, "precision": "century", "label": "Nazca phase, 200 BC to 500 AD", "conf": "medium", "status": "accepted", "qualifiers": {"phase": "Nazca"}}
+     ]},
+
+    {"id": "item:tiwanaku", "name": "Tiwanaku", "ev": ["wp:Tiwanaku"],
+     "description": "Andean city near Lake Titicaca; its founding date has been revised substantially.",
+     "pov": {"item_type": ["concept:type:city", "concept:type:archaeological-site"], "culture": ["culture:tiwanaku"]},
+     "geo": {"located_in": ["place:region:andes"]},
+     "time": [
+       {"role": "occupation", "from": 110, "from_unc": 60, "precision": "decade", "method": "statistical assessment of reliable radiocarbon dates", "label": "founded around AD 110 (50–170, 68% probability)", "conf": "medium", "status": "accepted", "rank": "preferred", "group": "tiwanaku:founding",
+        "note": "Start only."},
+       {"role": "occupation", "earliest_start": -300, "qualifier": "after", "precision": "century", "label": "consensus since the 1980s: no older than 200 or 300 BC", "conf": "medium", "status": "accepted", "group": "tiwanaku:founding"},
+       {"role": "occupation", "from": -1580, "to": -1580, "precision": "century", "label": "first occupied around 1580 BC (Ponce Sanginés, oldest radiocarbon date)", "conf": "low", "status": "rejected", "group": "tiwanaku:founding",
+        "note": "'Since the 1980s, researchers have recognized this date as unreliable'; still seen in some publications and museums. Kept for audit; excluded from normal results."},
+       {"role": "use", "from": 375, "to": 700, "qualifier": "circa", "precision": "century", "label": "grew to significance from approximately AD 375 to 700", "conf": "medium", "status": "accepted"}
+     ]},
+
+    {"id": "item:leptis-magna", "name": "Leptis Magna", "ev": ["wp:Leptis Magna"],
+     "description": "Punic and Roman city on the Libyan coast.",
+     "pov": {"item_type": ["concept:type:city", "concept:type:archaeological-site"], "culture": ["culture:roman-africa", "culture:ancient-rome"], "polity": ["polity:roman-empire"]},
+     "geo": {"located_in": ["place:region:north-africa"]},
+     "time": [
+       {"role": "occupation", "earliest_start": -650, "latest_start": -601, "earliest_end": 647, "latest_end": 647, "qualifier": "circa", "precision": "century", "label": "Punic city founded in the second half of the 7th century BC; fell c. 647 and was subsequently abandoned", "conf": "medium", "status": "accepted", "rank": "preferred"},
+       {"role": "occupation", "latest_start": -500, "qualifier": "before", "precision": "century", "label": "established as a Punic settlement prior to 500 BC", "conf": "medium", "status": "accepted"}
+     ]}
+  ],
+
+  "events": [
+    {"id": "event:youngest-toba-eruption", "name": "Youngest Toba eruption", "ev": ["wp:Youngest Toba eruption"],
+     "description": "Supereruption at present-day Lake Toba, Sumatra, around 74,000 years ago.",
+     "pov": {"theme": ["concept:theme:natural-disaster"]},
+     "geo": {"located_in": ["place:region:sumatra"]},
+     "time": [
+       {"role": "event", "from_ka": 74, "to_ka": 74, "qualifier": "circa", "precision": "ka", "label": "occurred around 74,000 years ago", "conf": "medium", "status": "accepted", "rank": "preferred", "group": "toba:date"},
+       {"role": "event", "from_ka": 73.88, "to_ka": 73.88, "from_unc": 320, "to_unc": 320, "precision": "ka", "method": "argon–argon", "label": "73,880 ± 320 years ago", "conf": "medium", "status": "accepted", "group": "toba:date"},
+       {"role": "event", "from_ka": 73.7, "to_ka": 73.7, "from_unc": 300, "to_unc": 300, "precision": "ka", "method": "argon–argon", "label": "73,700 ± 300 years ago", "conf": "medium", "status": "accepted", "group": "toba:date"}
+     ]},
+    {"id": "event:siege-of-jerusalem-70", "name": "Siege of Jerusalem (70 CE)", "ev": ["wp:Siege of Jerusalem (70 CE)"],
+     "description": "Roman siege that ended with the destruction of the Second Temple.",
+     "names": [{"name": "חורבן בית שני", "lang": "he", "type": "alternative", "ai_translation": true, "note": "Hebrew name for the Temple's destruction supplied by the curator (Claude); not sourced."}],
+     "geo": {"located_in": ["place:city:jerusalem"]},
+     "pov": {"period": ["period:second-temple"]},
+     "links": [{"pred": "participant", "obj": "polity:roman-empire"}, {"pred": "participant", "obj": "polity:judaea"}, {"pred": "participant", "obj": "person:titus"},
+               {"pred": "occurred_at", "obj": "place:city:jerusalem"}],
+     "time": [
+       {"role": "event", "from": 70, "to": 70, "precision": "year", "label": "siege of Jerusalem in 70 CE", "conf": "high", "status": "accepted", "rank": "preferred"},
+       {"role": "destruction", "from": 70, "to": 70, "precision": "month", "calendar": "unspecified", "label": "in the month of Av (July/August) the Romans captured the Temple Mount and destroyed the Second Temple", "conf": "high", "status": "accepted", "group": "jerusalem-70:temple-day",
+        "note": "Month in the Hebrew calendar of the time, which was observational: no conversion to a Julian day is attempted."},
+       {"role": "destruction", "from": 70, "to": 70, "precision": "month", "calendar": "unspecified", "label": "10 Av: a Roman soldier set fire to the Temple (Josephus)", "conf": "medium", "status": "alternative", "group": "jerusalem-70:temple-day",
+        "note": "Historian's date. Day kept in the label only (observational calendar; see SPEC_INPUTS.md)."},
+       {"role": "destruction", "from": 70, "to": 70, "precision": "month", "calendar": "unspecified", "label": "commemorated in Judaism on Tisha B'Av (9 Av)", "conf": "medium", "status": "alternative", "group": "jerusalem-70:temple-day",
+        "note": "Commemorative date in Jewish tradition; stored as a claim of the same kind as the historian's date (no separate 'tradition' claim type)."}
+     ]}
+  ],
+
+  "persons": []
+}

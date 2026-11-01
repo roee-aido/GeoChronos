@@ -1,0 +1,248 @@
+{
+  "snapshot_id": "2026-10-01T222258+0300",
+  "source": "pleiades",
+  "status": "complete",
+  "completed_at": "2026-10-01T22:24:13+03:00",
+  "files": {
+    "117715281.json": {
+      "sha256": "051c8f1eb2c7af5b3ad123c4c8dd14c13c5131f8968b61b8f49c99eeca076c99",
+      "bytes": 33493
+    },
+    "168254096.json": {
+      "sha256": "07a4a753ee272316e0de02d26c8781f1daf8fb353c80c0828a307533af79a674",
+      "bytes": 53377
+    },
+    "190863456.json": {
+      "sha256": "f8ecb52d2cd4cc6a034250b4b8506f60736f130a34ffa66d8d6da10e8222982a",
+      "bytes": 28732
+    },
+    "245438984.json": {
+      "sha256": "158fa6e98f69de6f7aa275b3583beb970f38778cedc66ebe518c7b006a99ef2a",
+      "bytes": 33818
+    },
+    "284453587.json": {
+      "sha256": "7fd69e03242cc06771529fea6be24b4b255c58a0a15f0d348fbe8639c3f1d22f",
+      "bytes": 33734
+    },
+    "285857974.json": {
+      "sha256": "987dc51c90618fbed282665c86692c5a3f24a8be0f3c382ce4f0d3b927446679",
+      "bytes": 108663
+    },
+    "322739224.json": {
+      "sha256": "88a2593d89ea43e485454210d0ddf55392053c2bb12acb1dadbec17c35f028a2",
+      "bytes": 10382
+    },
+    "384697574.json": {
+      "sha256": "05c0d707eab66a7f610a968e10b7d81de4f66d7b86cfa3a3a713065aea78fa2d",
+      "bytes": 24129
+    },
+    "433032.json": {
+      "sha256": "399b79e5cc4b268d5307b8c2ac8101630ece86b5c2c345843f13941403b734b9",
+      "bytes": 96875
+    },
+    "442962448.json": {
+      "sha256": "e6513b3d158730e3be1aec5c94b74659439c8da3a14c8351c6696adf27e9d0cc",
+      "bytes": 132430
+    },
+    "483473194.json": {
+      "sha256": "38106418a328de5470a88cc936aea6900a6551e9a1ac5929bc0744788c9d2420",
+      "bytes": 31000
+    },
+    "509089189.json": {
+      "sha256": "0261052c96ae972a84a687ac0bdc2edd65cacc7bc4c9920ccdb22a9e44d2d3a5",
+      "bytes": 208438
+    },
+    "536839380.json": {
+      "sha256": "f907fd893d8b364b67c664db68bbd6a1e6f2850b46bf23d9b6f566706903eef4",
+      "bytes": 28220
+    },
+    "560299818.json": {
+      "sha256": "f8ecb52d2cd4cc6a034250b4b8506f60736f130a34ffa66d8d6da10e8222982a",
+      "bytes": 28732
+    },
+    "589872.json": {
+      "sha256": "b251ffe3402f0d98fd2cc6ff8769f9315fff7fddb017b3f4ffedf24621fd5f4c",
+      "bytes": 63111
+    },
+    "599287018.json": {
+      "sha256": "8cef7edb464946fa256689586ebe277d0412ef865c86cddbd1a53e2f37804142",
+      "bytes": 12263
+    },
+    "599478.json": {
+      "sha256": "06d8d906a68be0ed701a07daf126c8c9cacb19532cfc2058f4a5750b07343e24",
+      "bytes": 16771
+    },
+    "599973.json": {
+      "sha256": "201a93749664ea8bdaebc68cd3d9a9e1415de8ca3776b297b372fab35561f1f3",
+      "bytes": 30749
+    },
+    "609998416.json": {
+      "sha256": "9f5107084cded91ec6a26b3713341fac1de17fa168ed184edae2fa4775599081",
+      "bytes": 11105
+    },
+    "687917.json": {
+      "sha256": "827618403fa54999c87ecefa433621d50f629ea64f1058bb51bb34ba2847e4c6",
+      "bytes": 170603
+    },
+    "687968.json": {
+      "sha256": "5c3323a68d2a1ab2b9214c4f220dac958cbcd2659fb5300b2f6888b727288aee",
+      "bytes": 59651
+    },
+    "697725.json": {
+      "sha256": "bb3e9592ef9133791dc6d4a4da8d8c3b5f880e68c4c1e328661600de1f56de6e",
+      "bytes": 116577
+    },
+    "704360201.json": {
+      "sha256": "b412e314a4e0552b14ddb87db61d37671545acaebcc027547ef173eda14020f5",
+      "bytes": 22128
+    },
+    "721417202.json": {
+      "sha256": "48c1842eb0cf451ed6ffe74a9dd52e6a3bf4603aa26a03e72b04728bdb8afce4",
+      "bytes": 22130
+    },
+    "75740664.json": {
+      "sha256": "0f5815dbbee1cdb0b3aa287d359d05b8dc810d2177fc018cdba092c729f786ef",
+      "bytes": 20163
+    },
+    "786017.json": {
+      "sha256": "54f43393d0f9dd8f1f3c0d608ec0d28875a5174481cdb594e79f109a13fcced5",
+      "bytes": 202482
+    },
+    "79612.json": {
+      "sha256": "dacad9704f67fa5f649cee2739729a23eb9c464f38525da4fd4c457df92a1497",
+      "bytes": 34307
+    },
+    "802425707.json": {
+      "sha256": "66e7ae78b872588cddd7e899db945c2b5249b5025ee9ffed958406ce00858279",
+      "bytes": 11782
+    },
+    "80606012.json": {
+      "sha256": "bad8362ab8ab0d29e4f7040bfc6951497bf77571bd7315b76d6e0a454e89d54a",
+      "bytes": 21965
+    },
+    "835369289.json": {
+      "sha256": "7484bb0de732096d757c01ee57470d0583c7d880b507243537f391bfcc788ba4",
+      "bytes": 151651
+    },
+    "902113570.json": {
+      "sha256": "2b267383dc90d27fbb8996c13dd754868988bee7d4ef35e4d8a9186e0702ce03",
+      "bytes": 23727
+    },
+    "922537087.json": {
+      "sha256": "fb309969ddcd13ce16467179caa926f80dc57f5cbfe44f63d16d8d89f9ef02ac",
+      "bytes": 48234
+    },
+    "922695.json": {
+      "sha256": "748a7f965ddea20aaae869ebfb119e72d61b6af0ddcaebe0b0a0a1c716b173ba",
+      "bytes": 76743
+    }
+  },
+  "license": "CC BY 3.0",
+  "terms_url": "https://pleiades.stoa.org/downloads ; https://pleiades.stoa.org/credits",
+  "terms_checked_at": "2026-10-01",
+  "terms_status": "verified (downloads + credits pages: 'Creative Commons Attribution 3.0 License (cc-by)'); attribution: Ancient World Mapping Center and Institute for the Study of the Ancient World",
+  "endpoint": "https://pleiades.stoa.org/places/{pid}/json",
+  "started_at": "2026-10-01T22:22:58+03:00",
+  "ids": {
+    "80606012": [
+      "item:skara-brae"
+    ],
+    "609998416": [
+      "item:carnac-stones"
+    ],
+    "599287018": [
+      "item:tomb-of-tutankhamun-kv62"
+    ],
+    "117715281": [
+      "item:mausoleum-of-qin-shi-huang"
+    ],
+    "902113570": [
+      "item:mohenjo-daro"
+    ],
+    "697725": [
+      "item:petra"
+    ],
+    "285857974": [
+      "item:colosseum"
+    ],
+    "168254096": [
+      "item:parthenon"
+    ],
+    "442962448": [
+      "place:locality:giza-necropolis"
+    ],
+    "704360201": [
+      "item:great-pyramid-of-giza"
+    ],
+    "509089189": [
+      "item:stonehenge"
+    ],
+    "433032": [
+      "item:pompeii"
+    ],
+    "835369289": [
+      "item:angkor-wat"
+    ],
+    "786017": [
+      "place:locality:thebes"
+    ],
+    "922695": [
+      "item:persepolis"
+    ],
+    "599973": [
+      "place:region:santorini"
+    ],
+    "536839380": [
+      "item:great-sphinx-of-giza"
+    ],
+    "384697574": [
+      "place:locality:valley-of-the-kings"
+    ],
+    "721417202": [
+      "item:abu-simbel-temples"
+    ],
+    "802425707": [
+      "item:lascaux-cave"
+    ],
+    "589872": [
+      "item:knossos"
+    ],
+    "687968": [
+      "item:masada"
+    ],
+    "922537087": [
+      "item:pyramid-of-djoser"
+    ],
+    "483473194": [
+      "item:catalhoyuk"
+    ],
+    "284453587": [
+      "item:ziggurat-of-ur"
+    ],
+    "322739224": [
+      "item:great-zimbabwe"
+    ],
+    "245438984": [
+      "item:gobekli-tepe"
+    ],
+    "79612": [
+      "item:newgrange"
+    ],
+    "75740664": [
+      "item:hagar-qim"
+    ],
+    "599478": [
+      "item:akrotiri"
+    ],
+    "190863456": [
+      "item:treasury-of-atreus"
+    ],
+    "560299818": [
+      "item:treasury-of-atreus"
+    ],
+    "687917": [
+      "item:tell-es-sultan"
+    ]
+  },
+  "errors": []
+}

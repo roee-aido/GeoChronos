@@ -1,0 +1,1072 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.8604046,
+                        30.6342078
+                    ],
+                    [
+                        72.8610931,
+                        30.6342113
+                    ],
+                    [
+                        72.8610816,
+                        30.6347377
+                    ],
+                    [
+                        72.8631498,
+                        30.6347326
+                    ],
+                    [
+                        72.8631604,
+                        30.6340308
+                    ],
+                    [
+                        72.8635632,
+                        30.6336814
+                    ],
+                    [
+                        72.8652545,
+                        30.6336729
+                    ],
+                    [
+                        72.8652615,
+                        30.6335329
+                    ],
+                    [
+                        72.8668051,
+                        30.6335329
+                    ],
+                    [
+                        72.8669385,
+                        30.6329836
+                    ],
+                    [
+                        72.8662989,
+                        30.6328578
+                    ],
+                    [
+                        72.8662657,
+                        30.6326824
+                    ],
+                    [
+                        72.8656513,
+                        30.6326229
+                    ],
+                    [
+                        72.8656894,
+                        30.6320451
+                    ],
+                    [
+                        72.8659841,
+                        30.6320792
+                    ],
+                    [
+                        72.8659968,
+                        30.6314993
+                    ],
+                    [
+                        72.8661591,
+                        30.6314291
+                    ],
+                    [
+                        72.8661885,
+                        30.6309589
+                    ],
+                    [
+                        72.8666692,
+                        30.6309671
+                    ],
+                    [
+                        72.8667205,
+                        30.6310693
+                    ],
+                    [
+                        72.8672987,
+                        30.6310513
+                    ],
+                    [
+                        72.8672235,
+                        30.6303131
+                    ],
+                    [
+                        72.8673338,
+                        30.6303078
+                    ],
+                    [
+                        72.8673458,
+                        30.630417
+                    ],
+                    [
+                        72.8679054,
+                        30.6303545
+                    ],
+                    [
+                        72.8680462,
+                        30.6302189
+                    ],
+                    [
+                        72.8680509,
+                        30.6300982
+                    ],
+                    [
+                        72.868255,
+                        30.6299845
+                    ],
+                    [
+                        72.8682593,
+                        30.629515
+                    ],
+                    [
+                        72.8686866,
+                        30.6295548
+                    ],
+                    [
+                        72.8687207,
+                        30.6295122
+                    ],
+                    [
+                        72.8687235,
+                        30.6293901
+                    ],
+                    [
+                        72.8687597,
+                        30.6293535
+                    ],
+                    [
+                        72.8689853,
+                        30.6293775
+                    ],
+                    [
+                        72.8690142,
+                        30.6293459
+                    ],
+                    [
+                        72.8690098,
+                        30.6287787
+                    ],
+                    [
+                        72.8691438,
+                        30.6287213
+                    ],
+                    [
+                        72.8693905,
+                        30.6287382
+                    ],
+                    [
+                        72.8694065,
+                        30.6286642
+                    ],
+                    [
+                        72.8695675,
+                        30.628472
+                    ],
+                    [
+                        72.8701342,
+                        30.62847
+                    ],
+                    [
+                        72.8710272,
+                        30.6285306
+                    ],
+                    [
+                        72.8718426,
+                        30.6281798
+                    ],
+                    [
+                        72.8723576,
+                        30.6277921
+                    ],
+                    [
+                        72.8725507,
+                        30.6272935
+                    ],
+                    [
+                        72.8725507,
+                        30.627072
+                    ],
+                    [
+                        72.8721001,
+                        30.6268504
+                    ],
+                    [
+                        72.8705552,
+                        30.6262041
+                    ],
+                    [
+                        72.8673794,
+                        30.6253548
+                    ],
+                    [
+                        72.8669612,
+                        30.6251117
+                    ],
+                    [
+                        72.8667173,
+                        30.6257974
+                    ],
+                    [
+                        72.8639365,
+                        30.6253216
+                    ],
+                    [
+                        72.8639418,
+                        30.6260918
+                    ],
+                    [
+                        72.8611766,
+                        30.6260843
+                    ],
+                    [
+                        72.8611104,
+                        30.6265987
+                    ],
+                    [
+                        72.8610598,
+                        30.626624
+                    ],
+                    [
+                        72.8604486,
+                        30.6266166
+                    ],
+                    [
+                        72.8604546,
+                        30.6284085
+                    ],
+                    [
+                        72.8604925,
+                        30.6294361
+                    ],
+                    [
+                        72.8604927,
+                        30.629798
+                    ],
+                    [
+                        72.861583,
+                        30.6299568
+                    ],
+                    [
+                        72.8615171,
+                        30.6315919
+                    ],
+                    [
+                        72.8613231,
+                        30.6315238
+                    ],
+                    [
+                        72.8609723,
+                        30.6314993
+                    ],
+                    [
+                        72.8608171,
+                        30.6325914
+                    ],
+                    [
+                        72.8604088,
+                        30.6325856
+                    ],
+                    [
+                        72.8604046,
+                        30.6342078
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "harappa",
+            "properties": {
+                "snippet": "Settlement; 4000 BC - 1000 BC",
+                "link": "https://pleiades.stoa.org/places/93441396/harappa",
+                "description": "Polygon representing the boundaries of the archaeological site of Harappa, derived from an OpenStreetMap Way.",
+                "location_precision": "precise",
+                "title": "OSM location of Harappa"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "4th-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/4th-millenium-bce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "3rd-millennium-bc",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/3rd-millennium-bc",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/542132577",
+                    "citationDetail": "Way 542132577",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:way=542132577",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "harappa",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "end": -1000,
+            "title": "OSM location of Harappa",
+            "provenance": "OpenStreetMap (Way 542132577, version 3, osm:changeset=152804691, 2024-06-17T13:52:35Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -4000,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "settlement"
+            ],
+            "description": "Polygon representing the boundaries of the archaeological site of Harappa, derived from an OpenStreetMap Way.",
+            "created": "2017-11-21T18:47:39Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.8604046,
+                        30.6342078
+                    ],
+                    [
+                        72.8610931,
+                        30.6342113
+                    ],
+                    [
+                        72.8610816,
+                        30.6347377
+                    ],
+                    [
+                        72.8631498,
+                        30.6347326
+                    ],
+                    [
+                        72.8631604,
+                        30.6340308
+                    ],
+                    [
+                        72.8635632,
+                        30.6336814
+                    ],
+                    [
+                        72.8652545,
+                        30.6336729
+                    ],
+                    [
+                        72.8652615,
+                        30.6335329
+                    ],
+                    [
+                        72.8668051,
+                        30.6335329
+                    ],
+                    [
+                        72.8669385,
+                        30.6329836
+                    ],
+                    [
+                        72.8662989,
+                        30.6328578
+                    ],
+                    [
+                        72.8662657,
+                        30.6326824
+                    ],
+                    [
+                        72.8656513,
+                        30.6326229
+                    ],
+                    [
+                        72.8656894,
+                        30.6320451
+                    ],
+                    [
+                        72.8659841,
+                        30.6320792
+                    ],
+                    [
+                        72.8659968,
+                        30.6314993
+                    ],
+                    [
+                        72.8661591,
+                        30.6314291
+                    ],
+                    [
+                        72.8661885,
+                        30.6309589
+                    ],
+                    [
+                        72.8666692,
+                        30.6309671
+                    ],
+                    [
+                        72.8667205,
+                        30.6310693
+                    ],
+                    [
+                        72.8672987,
+                        30.6310513
+                    ],
+                    [
+                        72.8672235,
+                        30.6303131
+                    ],
+                    [
+                        72.8673338,
+                        30.6303078
+                    ],
+                    [
+                        72.8673458,
+                        30.630417
+                    ],
+                    [
+                        72.8679054,
+                        30.6303545
+                    ],
+                    [
+                        72.8680462,
+                        30.6302189
+                    ],
+                    [
+                        72.8680509,
+                        30.6300982
+                    ],
+                    [
+                        72.868255,
+                        30.6299845
+                    ],
+                    [
+                        72.8682593,
+                        30.629515
+                    ],
+                    [
+                        72.8686866,
+                        30.6295548
+                    ],
+                    [
+                        72.8687207,
+                        30.6295122
+                    ],
+                    [
+                        72.8687235,
+                        30.6293901
+                    ],
+                    [
+                        72.8687597,
+                        30.6293535
+                    ],
+                    [
+                        72.8689853,
+                        30.6293775
+                    ],
+                    [
+                        72.8690142,
+                        30.6293459
+                    ],
+                    [
+                        72.8690098,
+                        30.6287787
+                    ],
+                    [
+                        72.8691438,
+                        30.6287213
+                    ],
+                    [
+                        72.8693905,
+                        30.6287382
+                    ],
+                    [
+                        72.8694065,
+                        30.6286642
+                    ],
+                    [
+                        72.8695675,
+                        30.628472
+                    ],
+                    [
+                        72.8701342,
+                        30.62847
+                    ],
+                    [
+                        72.8710272,
+                        30.6285306
+                    ],
+                    [
+                        72.8718426,
+                        30.6281798
+                    ],
+                    [
+                        72.8723576,
+                        30.6277921
+                    ],
+                    [
+                        72.8725507,
+                        30.6272935
+                    ],
+                    [
+                        72.8725507,
+                        30.627072
+                    ],
+                    [
+                        72.8721001,
+                        30.6268504
+                    ],
+                    [
+                        72.8705552,
+                        30.6262041
+                    ],
+                    [
+                        72.8673794,
+                        30.6253548
+                    ],
+                    [
+                        72.8669612,
+                        30.6251117
+                    ],
+                    [
+                        72.8667173,
+                        30.6257974
+                    ],
+                    [
+                        72.8639365,
+                        30.6253216
+                    ],
+                    [
+                        72.8639418,
+                        30.6260918
+                    ],
+                    [
+                        72.8611766,
+                        30.6260843
+                    ],
+                    [
+                        72.8611104,
+                        30.6265987
+                    ],
+                    [
+                        72.8610598,
+                        30.626624
+                    ],
+                    [
+                        72.8604486,
+                        30.6266166
+                    ],
+                    [
+                        72.8604546,
+                        30.6284085
+                    ],
+                    [
+                        72.8604925,
+                        30.6294361
+                    ],
+                    [
+                        72.8604927,
+                        30.629798
+                    ],
+                    [
+                        72.861583,
+                        30.6299568
+                    ],
+                    [
+                        72.8615171,
+                        30.6315919
+                    ],
+                    [
+                        72.8613231,
+                        30.6315238
+                    ],
+                    [
+                        72.8609723,
+                        30.6314993
+                    ],
+                    [
+                        72.8608171,
+                        30.6325914
+                    ],
+                    [
+                        72.8604088,
+                        30.6325856
+                    ],
+                    [
+                        72.8604046,
+                        30.6342078
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/93441396/harappa",
+            "creators": [
+                {
+                    "username": "gmckee",
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modifiedBy": "jbecker",
+                    "modified": "2024-10-24T22:53:57Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-11-21T19:32:44Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "gmckee",
+                    "modified": "2017-11-21T18:51:05Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "gmckee",
+                    "modified": "2017-11-21T18:48:56Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "gmckee",
+                    "modified": "2017-11-21T18:47:40Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "gmckee",
+                    "modified": "2017-11-21T18:47:39Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": -1000,
+            "description": "",
+            "contributors": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "created": "2017-11-21T18:52:05Z",
+            "associationCertainty": "certain",
+            "title": "Hydraotes/Arouadis/Porrus (river)",
+            "start": -4000,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/93441396/hydraotes-arouadis-porrus-river",
+            "connectionType": "on",
+            "id": "hydraotes-arouadis-porrus-river",
+            "attestations": [
+                {
+                    "timePeriod": "4th-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/4th-millenium-bce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "3rd-millennium-bc",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/3rd-millennium-bc",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "history": [
+                {
+                    "comment": "ctype: on",
+                    "modifiedBy": "thomase",
+                    "modified": "2019-08-29T16:07:02Z"
+                },
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-11-21T19:32:44Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "gmckee",
+                    "modified": "2017-11-21T19:03:18Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "gmckee",
+                    "modified": "2017-11-21T18:52:35Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "gmckee",
+                    "modified": "2017-11-21T18:52:07Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "gmckee",
+                    "modified": "2017-11-21T18:52:05Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/59838",
+            "details": "",
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://whc.unesco.org/en/tentativelists/1878/",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Unesco World Heritage Centre, Archaeological Site of Harappa",
+                    "bibliographicURI": "",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "gmckee",
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "http://whc.unesco.org/en/tentativelists/1878/",
+            "citationDetail": "1878: Archaeological Site of Harappa",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHTL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QM4PHLAJ",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage Tentative Lists</i>. Accessed October 25, 2023. https://whc.unesco.org/en/tentativelists/.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Harappa",
+            "citationDetail": "Harappa",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q185562",
+            "citationDetail": "Harappa (Q185562)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.geonames.org/1177169/harappa.html",
+            "citationDetail": "1177169: Harappa",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "GeoNames",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Eltsov 2008",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8KMD3XIY",
+            "formattedCitation": "<div class=\"csl-entry\">Eltsov, Piotr Andreevich. <i>From Harappa to Hastinapura: A Study of the Earliest South Asian City and Civilization</i>. Boston: Brill, 2008.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Harappa",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.geonames.org/1177169/harappa.html",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "geonames: Harappa",
+                    "bibliographicURI": "",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "name.2017-11-21.1483630902",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "ur",
+            "created": "2017-11-21T18:50:53Z",
+            "uri": "https://pleiades.stoa.org/places/93441396/name.2017-11-21.1483630902",
+            "creators": [
+                {
+                    "username": "gmckee",
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee"
+                }
+            ],
+            "attested": "ہڑپہ",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-11-21T19:32:44Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "gmckee",
+                    "modified": "2017-11-21T18:51:06Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "gmckee",
+                    "modified": "2017-11-21T18:50:56Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "gmckee",
+                    "modified": "2017-11-21T18:50:53Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Harappa",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.geonames.org/1177169/harappa.html",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "GeoNames 1177169",
+                    "otherIdentifier": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "id": "name.2017-11-21.6860043270",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2017-11-21T19:31:45Z",
+            "uri": "https://pleiades.stoa.org/places/93441396/name.2017-11-21.6860043270",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-11-21T19:32:44Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-11-21T19:31:53Z"
+                },
+                {
+                    "comment": "name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-11-21T19:31:45Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2017-11-21T19:31:45Z"
+                }
+            ]
+        }
+    ],
+    "id": "93441396",
+    "subject": [
+        "UWHS Submitted",
+        "extant remains"
+    ],
+    "title": "Harappa",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
+    "details": "<p>The archaeological site of Harappa was entered on the 'tentative' list by the UNESCO World Heritage Center in 2004.</p>",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "A Bronze Age fortified city located on the Ravi River, inhabited from the fourth through the second millennia BCE, Harappa was one of the most important settlements of the Indus Valley Civilization.",
+    "reprPoint": [
+        72.86525749831578,
+        30.62961765426941
+    ],
+    "placeTypes": [
+        "settlement"
+    ],
+    "bbox": [
+        72.8604046,
+        30.6251117,
+        72.8725507,
+        30.6347377
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/59838"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2017-11-21T18:33:56Z",
+    "uri": "https://pleiades.stoa.org/places/93441396",
+    "creators": [
+        {
+            "username": "gmckee",
+            "homepage": null,
+            "name": "Gabriel Mckee",
+            "uri": "https://pleiades.stoa.org/author/gmckee"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "update references",
+            "modifiedBy": "jbecker",
+            "modified": "2024-10-24T22:55:40Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "jbecker",
+            "modified": "2017-11-21T19:32:43Z"
+        },
+        {
+            "comment": "reference",
+            "modifiedBy": "jbecker",
+            "modified": "2017-11-21T19:31:17Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2017-11-21T19:29:01Z"
+        },
+        {
+            "comment": "edited summary, details re: UWHS tentative status",
+            "modifiedBy": "jbecker",
+            "modified": "2017-11-21T19:22:32Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "gmckee",
+            "modified": "2017-11-21T18:51:05Z"
+        },
+        {
+            "comment": "Initial revision",
+            "modifiedBy": "gmckee",
+            "modified": "2017-11-21T18:34:14Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "gmckee",
+            "modified": "2017-11-21T18:33:56Z"
+        }
+    ]
+}

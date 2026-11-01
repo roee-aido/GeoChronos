@@ -1,0 +1,574 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3416455,
+                    59.0487515
+                ]
+            },
+            "type": "Feature",
+            "id": "location-of-skara-brae",
+            "properties": {
+                "snippet": "Settlement, ; 4000 BC - 2000 BC",
+                "link": "https://pleiades.stoa.org/places/80606012/location-of-skara-brae",
+                "description": "Location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "location of Skara Brae"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.3423921,
+                        59.0487856
+                    ],
+                    [
+                        -3.3423823,
+                        59.0487728
+                    ],
+                    [
+                        -3.3421829,
+                        59.0485111
+                    ],
+                    [
+                        -3.3412173,
+                        59.0486297
+                    ],
+                    [
+                        -3.341158,
+                        59.0488332
+                    ],
+                    [
+                        -3.3411808,
+                        59.0488518
+                    ],
+                    [
+                        -3.3411846,
+                        59.0488788
+                    ],
+                    [
+                        -3.3414372,
+                        59.0488904
+                    ],
+                    [
+                        -3.3423921,
+                        59.0487856
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location-of-skara-brae",
+            "properties": {
+                "snippet": "Settlement; 4000 BC - 2000 BC",
+                "link": "https://pleiades.stoa.org/places/80606012/osm-location-of-skara-brae",
+                "description": "Representative location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location of Skara Brae"
+            }
+        }
+    ],
+    "contributors": [],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "4th-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/4th-millenium-bce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "3rd-millennium-bc",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/3rd-millennium-bc",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/408505094",
+                    "citationDetail": "Node 408505094",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:node=408505094",
+                    "otherIdentifier": " ",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "location-of-skara-brae",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "end": -2000,
+            "title": "location of Skara Brae",
+            "provenance": "OpenStreetMap (Node 408505094, version 11, osm:changeset=15690465, 2013-04-11T14:19:38Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -4000,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "settlement",
+                ""
+            ],
+            "description": "Location based on OpenStreetMap",
+            "created": "2013-08-01T15:19:13Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3416455,
+                    59.0487515
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/80606012/location-of-skara-brae",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2013-08-07T14:42:32Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-08-01T15:19:51Z"
+                },
+                {
+                    "comment": "added location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-08-01T15:19:45Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-08-01T15:19:14Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2013-08-01T15:19:14Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "4th-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/4th-millenium-bce",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "3rd-millennium-bc",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/3rd-millennium-bc",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/249805919",
+                    "citationDetail": "Way 249805919",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "OSM",
+                    "bibliographicURI": "",
+                    "formattedCitation": "osm:way=249805919",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "osm-location-of-skara-brae",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "end": -2000,
+            "title": "OSM location of Skara Brae",
+            "provenance": "OpenStreetMap (Way 249805919, version 9, osm:changeset=81271333, 2020-02-20T12:14:32Z)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -4000,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "archaeologicalRemains": "substantive",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 20.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "featureType": [
+                "settlement"
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "created": "2020-11-21T16:10:44Z",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.3423921,
+                        59.0487856
+                    ],
+                    [
+                        -3.3423823,
+                        59.0487728
+                    ],
+                    [
+                        -3.3421829,
+                        59.0485111
+                    ],
+                    [
+                        -3.3412173,
+                        59.0486297
+                    ],
+                    [
+                        -3.341158,
+                        59.0488332
+                    ],
+                    [
+                        -3.3411808,
+                        59.0488518
+                    ],
+                    [
+                        -3.3411846,
+                        59.0488788
+                    ],
+                    [
+                        -3.3414372,
+                        59.0488904
+                    ],
+                    [
+                        -3.3423921,
+                        59.0487856
+                    ]
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/80606012/osm-location-of-skara-brae",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2020-11-24T02:50:31Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-11-21T16:11:47Z"
+                },
+                {
+                    "comment": "added this OSM location as previous OSM-derived location data has been deleted",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-11-21T16:11:41Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-11-21T16:10:47Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-11-21T16:10:44Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": null,
+            "description": "",
+            "contributors": [],
+            "created": "2016-07-13T13:53:04Z",
+            "associationCertainty": "certain",
+            "title": "Orcades Inss.",
+            "start": null,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/80606012/89261",
+            "connectionType": "connection",
+            "id": "89261",
+            "attestations": [],
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:53:04Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:53:04Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "admin",
+                    "modified": "2016-07-13T13:53:04Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/89261",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "admin",
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Skara_Brae",
+            "citationDetail": "Skara Brae",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Skara Brae.",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://whc.unesco.org/en/list/514",
+            "citationDetail": "514: Heart of Neolithic Orkney",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "WHL",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": " ",
+            "type": "seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q816437",
+            "citationDetail": "Q816437: Skara Brae",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Childe 1931",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TCE6RSEI",
+            "formattedCitation": "<div class=\"csl-entry\">Childe, V. Gordon. <i>Skara Brae: A Pictish Village in Orkney</i>. London: Kegan Paul, Trench, Trubner and Co, 1931.</div>",
+            "otherIdentifier": "",
+            "type": "seeFurther"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Skara Brae",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.geonames.org/2637786/skara-brae.html",
+                    "citationDetail": "2637786: Skara Brae",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "GeoNames",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "id": "skara-brae",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2020-11-21T16:16:19Z",
+            "uri": "https://pleiades.stoa.org/places/80606012/skara-brae",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Skara Brae",
+            "@type": "Name",
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modifiedBy": "thomase",
+                    "modified": "2020-11-24T02:50:32Z"
+                },
+                {
+                    "action": "Submit for review",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-11-21T16:16:30Z"
+                },
+                {
+                    "comment": "added name via Geonames",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-11-21T16:16:22Z"
+                },
+                {
+                    "action": "Create",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-11-21T16:16:19Z"
+                }
+            ]
+        }
+    ],
+    "id": "80606012",
+    "subject": [
+        "UWHS"
+    ],
+    "title": "Skara Brae",
+    "provenance": "Pleiades",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "Skara Brae is a stone-built Neolithic settlement located on the west coast of Mainland, the largest island in the Orkney archipelago. Comprised of eight clustered houses, the village was occupied from roughly 3180 to 2500 BC.",
+    "reprPoint": [
+        -3.3417035250687817,
+        59.04873480463039
+    ],
+    "placeTypes": [
+        "settlement"
+    ],
+    "bbox": [
+        -3.3423921,
+        59.0485111,
+        -3.341158,
+        59.0488904
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/89261"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2013-08-01T15:18:42Z",
+    "uri": "https://pleiades.stoa.org/places/80606012",
+    "creators": [
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "Childe 1931",
+            "modifiedBy": "jbecker",
+            "modified": "2025-01-21T04:00:23Z"
+        },
+        {
+            "comment": "references; added wikidata",
+            "modifiedBy": "jbecker",
+            "modified": "2020-11-21T16:09:54Z"
+        },
+        {
+            "comment": "edited description",
+            "modifiedBy": "jbecker",
+            "modified": "2013-08-08T17:28:53Z"
+        },
+        {
+            "action": "Publish externally",
+            "modifiedBy": "thomase",
+            "modified": "2013-08-07T14:42:29Z"
+        },
+        {
+            "comment": "added connection",
+            "modifiedBy": "jbecker",
+            "modified": "2013-08-01T15:24:04Z"
+        },
+        {
+            "action": "Submit for review",
+            "modifiedBy": "jbecker",
+            "modified": "2013-08-01T15:20:02Z"
+        },
+        {
+            "comment": "created place",
+            "modifiedBy": "jbecker",
+            "modified": "2013-08-01T15:18:47Z"
+        },
+        {
+            "action": "Create",
+            "modifiedBy": "jbecker",
+            "modified": "2013-08-01T15:18:43Z"
+        }
+    ]
+}
