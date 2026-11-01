@@ -15,21 +15,55 @@ GeoChronos explores **PLACE × TIME × INFORMATION**. This folder contains the d
 | [QUERY_EXAMPLES.md](QUERY_EXAMPLES.md) | GEO / TIME / POV / combined queries; every `-- test:` SQL block is executed by the test suite |
 | [db/schema.sql](db/schema.sql) | Physical schema (SQLite POC, PostgreSQL-portable) + views |
 | `data/seed/` | Curated seed. **Base (regression) set:** `items.json`, `vocabulary.json`, `wikidata_targets.json`. **Expansion:** `items_expansion.json`, `vocabulary_expansion.json`, `wikidata_targets_expansion.json`. Plus `sources.json`, `literature.json`, `wikipedia_evidence.json`, `curation_manual.csv` |
-| `data/raw/` | Untouched snapshots with `MANIFEST.json` (Wikidata, Pleiades, OpenAlex, Hebcal fixtures, Wikidata EntityData calibration files); the 2026-09-30 legacy snapshot is kept as-is |
+| `data/raw/` | Untouched snapshots with `MANIFEST.json` (Wikidata, Pleiades, Hebcal fixtures, Wikidata EntityData calibration files); the 2026-09-30 legacy snapshot is kept as-is. The OpenAlex responses are kept locally only (they contain researcher e-mail addresses and abstracts); no script reads them, and `data/seed/literature.json` keeps the citations |
 | `data/staging/` | Normalised JSONL per snapshot (re-generable from raw) |
 | `scripts/` | `ingest.py` (fetch → raw → staging), `build_db.py` (mapping → claims/evidence), `geoquery.py`, `validate.py` (base), `validate_expansion.py` (full), `timefmt.py`, `curation_queue.py`, `run_suite.py`, `sparql/*.rq`; `fetch_wikidata.py` / `.ps1` are the older single-snapshot fetchers |
 | `tests/` | `unittest` suite: claim filters, time semantics, calendars (incl. Hebcal fixtures), provenance, identity, idempotent re-import, SQL-example equivalence |
 | `build/` (generated) | `geochronos_base.sqlite` (57 Items), `geochronos.sqlite` (full, 95 Items), build/validation reports, `runs/` |
 
-## Run it
+## Quickstart
 
-Requires Python 3.10+ (standard library only; no pip packages). On Windows, `py` works too.
+### 1. Requirements
+
+- **Python 3.10+**, standard library only. There is nothing to `pip install` and no virtual environment is needed. Last checked with Python 3.12.10 on Windows 11.
+- **Git**, to clone the repository.
+- **No network** is needed to build and test: the raw source snapshots needed for a rebuild are in `data/raw/` and `data/staging/`.
+- On Windows, if `python` is not on the PATH, use `py` instead in every command below.
+
+### 2. Get the code
 
 ```bash
-python scripts/run_suite.py --out build/runs/manual --steps timefmt,build,build-full,validate,tests
+git clone https://github.com/roee-aido/GeoChronos.git
 ```
 
-That one command runs the steps below and records command, time, time zone, exit code and output. Individually:
+```bash
+cd GeoChronos
+```
+
+Run all commands below from the repository root: the scripts use paths relative to it.
+
+### 3. Build and check everything (one command, offline)
+
+```bash
+python scripts/run_suite.py --out build/runs/manual --steps timefmt,build,build-full,validate,validate-expansion,tests
+```
+
+`--out` is required. Without `--steps`, only `timefmt,build,validate` run. The runner records the command, time, time zone, exit code and output of each step in the `--out` folder (`run_log.json` plus one `.stdout.txt` / `.stderr.txt` per step).
+
+Expected result on a fresh clone (checked 2026-11-01; about one minute in total):
+
+| Step | Command it runs | Expected output |
+|---|---|---|
+| `timefmt` | `python scripts/timefmt.py` | `timefmt self-test: OK` |
+| `build` | `python scripts/build_db.py --profile base` | `items: 57`, `errors: 0` → `build/geochronos_base.sqlite` |
+| `build-full` | `python scripts/build_db.py --profile full` | `items: 95`, `errors: 0` → `build/geochronos.sqlite` |
+| `validate` | `python scripts/validate.py` | `37/37 checks passed` (base database) |
+| `validate-expansion` | `python scripts/validate_expansion.py` | `20/20 expansion checks passed` (full database; also re-runs the 37 base checks on it) |
+| `tests` | `python -m unittest discover -s tests -v` | `Ran 40 tests` … `OK` |
+
+Every step should end with `exit=0`. Everything written under `build/` is generated and ignored by Git, so you can delete `build/` and rebuild at any time.
+
+### 4. Run the steps one at a time
 
 ```bash
 python scripts/build_db.py --profile base
@@ -51,7 +85,17 @@ python scripts/validate_expansion.py
 python -m unittest discover -s tests -v
 ```
 
-Refreshing sources (network; writes a NEW immutable snapshot, never overwrites one):
+`build_db.py` without `--profile` builds the full profile. Run `validate.py` after the base build and `validate_expansion.py` after the full build: they read those databases.
+
+### 5. Optional: inspect or refresh the source snapshots
+
+List the raw snapshots and their status (offline):
+
+```bash
+python scripts/ingest.py status
+```
+
+Refreshing sources needs the network and is **not** needed to build or test. It writes a NEW immutable snapshot and never overwrites an existing one. Start with a dry run:
 
 ```bash
 python scripts/ingest.py wikidata --dry-run
